@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+html { -webkit-tap-highlight-color: transparent; scroll-behavior: smooth; }
+body { @apply bg-cream text-ink font-sans antialiased; }
+::selection { background: #F2E3CC; }
+
+@layer components {
+  .wrap { @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-10; }
+  .h-display { @apply font-display tracking-tight; font-variation-settings: 'opsz' 144; }
+  .eyebrow { @apply text-[11px] font-semibold uppercase tracking-[0.18em] text-ink-muted; }
+  .card { @apply rounded-4xl bg-white shadow-soft; }
+  .glass { @apply bg-white/70 backdrop-blur-xl border border-white/60; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition active:scale-[.97] disabled:opacity-40 disabled:pointer-events-none; }
+  .btn-ink { @apply btn bg-ink text-white hover:bg-ink-2 shadow-soft; }
+  .btn-sand { @apply btn bg-gold-soft text-ink hover:bg-sand-200; }
+  .btn-gold { @apply btn bg-gold text-ink hover:bg-gold-deep hover:text-white; }
+  .btn-ghost { @apply btn bg-white/80 text-ink hover:bg-white border border-ink/10; }
+  .chip { @apply inline-flex items-center gap-1.5 rounded-full border border-ink/10 bg-white px-3.5 py-2 text-[13px] font-medium text-ink transition hover:border-ink/25; }
+  .chip-on { @apply border-ink bg-ink text-white hover:border-ink; }
+  .pill { @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-[11px] font-semibold; }
+  .input { @apply w-full rounded-2xl border border-ink/10 bg-white px-4 py-3 text-[15px] text-ink outline-none transition placeholder:text-ink-muted focus:border-gold focus:shadow-glow; }
+  .label { @apply mb-2 block text-sm font-semibold text-ink; }
+  .skeleton { @apply bg-gradient-to-r from-sand-100 via-sand-50 to-sand-100; background-size: 800px 100%; animation: shimmer 1.6s linear infinite; }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { scrollbar-width: none; }
+  .snap-row { @apply flex gap-4 overflow-x-auto pb-4 no-scrollbar snap-x snap-mandatory scroll-px-4; }
+}
+
+@keyframes shimmer { 0% { background-position: -400px 0 } 100% { background-position: 400px 0 } }
+
+/* Leaflet */
+.leaflet-container { font-family: 'Plus Jakarta Sans', system-ui, sans-serif; background: #E9E4DA; }
+.leaflet-tile-pane { filter: saturate(.88) contrast(.98); }
+.leaflet-control-attribution { font-size: 10px !important; background: rgba(255,255,255,.7) !important; }
+.raahi-marker { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 999px; color: #fff; font: 700 13px 'Plus Jakarta Sans', sans-serif; border: 3px solid #fff; box-shadow: 0 6px 16px rgba(22,35,63,.35); transition: transform .2s; }
+.raahi-marker.active { transform: scale(1.25); }
+.raahi-hub { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 10px; background: #16233F; color: #C9965B; border: 3px solid #fff; box-shadow: 0 6px 16px rgba(22,35,63,.35); font-size: 14px; }
+.route-line { stroke-dasharray: 2000; stroke-dashoffset: 2000; animation: draw 2.4s ease-out forwards; }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  .route-line { animation: none; stroke-dashoffset: 0; }
+  .animate-kenburns, .animate-float { animation: none !important; }
+}
+
+@media print {
+  .no-print { display: none !important; }
+  body { background: #fff; }
+}

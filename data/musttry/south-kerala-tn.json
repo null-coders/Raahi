@@ -1,0 +1,95 @@
+{
+"munnar": [
+["Kerala parotta and beef fry", "Dish", "Local restaurants in Munnar town", 200, "Flaky layered parotta with a pepper-spiced beef roast, the Kerala favourite. Vegetarian versions are easy to find.", "Parotta"],
+["Appam and stew", "Breakfast", "Homestays and cafés", 150, "Lacy rice pancakes with a mild coconut-milk stew, the classic Kerala breakfast.", "Appam stew"],
+["Puttu and kadala", "Breakfast", "Local cafés", 80, "Steamed rice-and-coconut cylinders with spicy black chickpea curry.", "Puttu"],
+["Tea straight from the estate", "Drink", "Tea estates and the Tea Museum", 50, "Sip fresh Munnar tea in a plantation that rolls to the horizon.", "Munnar tea plantation"],
+["Tea estate walk and factory visit", "Experience", "Kolukkumalai and Kanan Devan estates", 150, "Walk the hills among the tea bushes and see how the leaves become tea.", "Munnar tea estate"]
+],
+"alleppey": [
+["Karimeen pollichathu", "Dish", "Backwater restaurants and houseboats", 500, "Pearl-spot fish marinated in spices and roasted in banana leaf, the signature of Kerala's backwaters.", "Karimeen pollichathu"],
+["Kerala fish curry", "Dish", "Toddy shops and local restaurants", 250, "Fish in a red, tangy kodampuli curry, to eat with rice.", "Fish curry"],
+["Appam", "Breakfast", "Homestays", 100, "Lacy rice pancakes served with egg curry or coconut stew.", "Appam"],
+["Toddy-shop meal", "Experience", "Toddy shops on the backwaters", 300, "Kappa (tapioca), meen curry and duck roast with palm toddy, the true local lunch.", "Kappa meen curry"],
+["Overnight houseboat cruise", "Experience", "Alappuzha boat jetty", 8000, "Drift past paddy fields and coconut palms on a kettuvallam, with all meals cooked on board.", "Alleppey houseboat"]
+],
+"kochi": [
+["Karimeen fry", "Dish", "Fort Kochi restaurants", 450, "Pearl-spot fish fried crisp with spices.", "Karimeen"],
+["Appam and stew", "Breakfast", "Fort Kochi homestays", 150, "Lacy appam with a mild coconut-milk stew.", "Appam stew"],
+["Malabar biryani", "Dish", "Restaurants in Mattancherry and Fort Kochi", 300, "A fragrant, mildly spiced biryani, cooked with short-grain rice.", "Malabar biryani"],
+["Fish moilee", "Dish", "Fort Kochi restaurants", 350, "A mild coconut-milk fish curry with Portuguese roots.", "Fish molee"],
+["Pazham pori", "Street food", "Tea stalls", 20, "Ripe banana fritters, the evening snack with a cup of tea.", "Pazham pori"],
+["Chinese fishing nets at sunset", "Experience", "Fort Kochi beach", 0, "Giant cantilevered nets rise and fall against an orange sky. Buy the catch fresh and have it fried nearby.", "Chinese fishing nets Kochi"]
+],
+"varkala": [
+["Seafood on the cliff", "Dish", "Cliff restaurants", 800, "Pick your fish on ice and have it grilled while the sun sets over the Arabian Sea.", "Varkala Cliff"],
+["Kerala sadya", "Dish", "Local restaurants", 300, "A vegetarian feast on a banana leaf with over a dozen dishes, eaten with your hands.", "Sadya"],
+["Banana chips", "Street food", "Shops on the cliff and in the market", 60, "Fresh coconut-oil chips, thin and crisp. Buy them warm.", "Banana chips"],
+["Tender coconut", "Drink", "Cliff-top stalls", 50, "Sweet coconut water, with the soft flesh to scoop out.", "Coconut water"],
+["Sunset on the Varkala cliff", "Experience", "North Cliff", 0, "Walk the cliff path above red laterite rock and the sea as the sun goes down.", "Varkala Cliff"]
+],
+"wayanad": [
+["Bamboo rice payasam", "Sweet", "Tribal homestays", 100, "A sweet pudding made from bamboo-seed rice, a rare treat of the forest.", "Payasam"],
+["Wayanad coffee", "Drink", "Plantations and cafés", 80, "Robusta and arabica grown under shade trees, with chocolate and spice notes.", "Wayanad coffee"],
+["Kappa and meen curry", "Dish", "Local restaurants", 200, "Tapioca mash with a hot fish curry, a Kerala classic.", "Kappa meen curry"],
+["Forest honey and spices", "Local special", "Tribal cooperatives", 250, "Wild honey, pepper, cardamom and cinnamon from the forest and estates.", "Honey"],
+["Edakkal Caves", "Experience", "Edakkal Caves, Ambalavayal", 50, "A climb to a cave with Stone Age carvings thousands of years old.", "Edakkal Caves"]
+],
+"thekkady": [
+["Kerala thali", "Dish", "Restaurants in Kumily", 200, "A meal on a banana leaf with rice, sambar, avial and thoran.", "Thali"],
+["Cardamom tea", "Drink", "Spice shops and plantations", 50, "Tea brewed with fresh cardamom from the hills.", "Cardamom"],
+["Appam and egg curry", "Breakfast", "Homestays", 150, "Lacy appam with a spicy egg curry, a Kerala breakfast.", "Appam"],
+["Boat safari on Periyar Lake", "Experience", "Periyar Tiger Reserve", 400, "Look for elephants, deer and birds along the shore from a quiet boat.", "Periyar Lake"],
+["Spice plantation walk", "Experience", "Plantations near Kumily", 300, "Smell cardamom, pepper, cinnamon and cloves growing on the vine.", "Spice plantation Thekkady"]
+],
+"ooty": [
+["Ooty varkey", "Street food", "Bakeries on Commercial Road", 40, "A crisp, layered, flaky biscuit that has been baked in Ooty for decades.", "Ooty varkey"],
+["Homemade chocolates", "Sweet", "Chocolate shops on Commercial Road", 200, "Dark, milk and flavoured chocolates made in small shops.", "Chocolate"],
+["Nilgiri tea", "Drink", "Tea factories and cafés", 50, "Fragrant, lightly citrusy tea from the Nilgiri hills.", "Nilgiri tea"],
+["Nilgiri Mountain Railway", "Experience", "Mettupalayam to Ooty", 400, "A heritage rack-and-pinion train that climbs through tunnels and tea gardens. A UNESCO World Heritage line.", "Nilgiri Mountain Railway"],
+["Boating on Ooty Lake", "Experience", "Ooty Lake", 250, "Row or pedal across the lake with eucalyptus trees along the banks.", "Ooty Lake"]
+],
+"kodaikanal": [
+["Homemade chocolate", "Sweet", "Shops on Anna Salai", 200, "Bars and truffles made in hill-station kitchens.", "Chocolate"],
+["Plum cake", "Sweet", "Bakeries near the lake", 150, "Dense, fruity Christmas-style cake, sold year-round.", "Fruitcake"],
+["Hill bananas", "Local special", "Market stalls", 50, "Small, sweet bananas grown on the Palani hills.", "Banana"],
+["Mushroom dishes", "Dish", "Local restaurants", 200, "Hill mushrooms fried with pepper or cooked in a curry.", "Mushroom"],
+["Cycling around Kodai Lake", "Experience", "Kodaikanal Lake", 150, "A flat 5-km loop around a star-shaped lake, with pine trees and mist.", "Kodaikanal Lake"]
+],
+"pondicherry": [
+["Croissants and crêpes", "Breakfast", "Cafés in the French Quarter", 300, "French bakeries serve fresh croissants and crêpes just a block from the sea.", "Crêpe"],
+["Creole fish curry", "Dish", "French Quarter restaurants", 450, "A mild, coconut-based curry with French and Tamil influences.", "Fish curry"],
+["Tamil meals on a banana leaf", "Dish", "Local restaurants", 150, "Rice, sambar, rasam, poriyal and appalam, the traditional Tamil meal.", "Banana leaf meal"],
+["Filter coffee", "Drink", "Old Tamil Quarter cafés", 30, "Strong, frothy filter coffee served in a steel tumbler.", "Filter coffee"],
+["Cycling through the French Quarter", "Experience", "White Town", 200, "Yellow villas, bougainvillea and quiet streets by the Promenade at dawn.", "Pondicherry French Quarter"]
+],
+"mahabalipuram": [
+["Fresh seafood", "Dish", "Beach restaurants", 600, "Fish, prawns and squid grilled to order on the beach.", "Seafood"],
+["South Indian meals", "Dish", "Local restaurants", 150, "Rice, sambar, rasam and poriyal on a banana leaf.", "Banana leaf meal"],
+["Filter coffee", "Drink", "Local cafés", 30, "Strong, frothy coffee in a steel tumbler.", "Filter coffee"],
+["Shore Temple at sunrise", "Experience", "Shore Temple", 40, "A 1,300-year-old granite temple by the sea, catching the first light.", "Shore Temple"],
+["Stone-carving lanes", "Experience", "Sculptors' street", 0, "Watch sculptors chisel granite gods in the same way their ancestors did.", "Mahabalipuram stone carving"]
+],
+"madurai": [
+["Jigarthanda", "Drink", "Famous Jigarthanda, near Meenakshi Temple", 60, "A cooling mix of milk, almond gum, sarsaparilla syrup and ice cream. Madurai's summer special.", "Jigarthanda"],
+["Kari dosa", "Dish", "Amma Mess and local restaurants", 150, "A thick dosa topped with spicy minced mutton and an egg.", "Kari dosa"],
+["Parotta and salna", "Dish", "Streets near the temple", 100, "Flaky parotta torn into a spicy gravy.", "Parotta"],
+["Idli at Murugan Idli Shop", "Breakfast", "Murugan Idli Shop", 100, "Soft, fluffy idlis with a spread of chutneys and sambar.", "Idli"],
+["Mutton chukka", "Dish", "Local mess halls", 300, "A dry, peppery mutton fry that goes with parotta.", "Mutton curry"],
+["Night ceremony at Meenakshi Temple", "Experience", "Meenakshi Amman Temple", 50, "At night the deity is carried in a palanquin to the shrine of Shiva to the sound of drums.", "Meenakshi Temple"]
+],
+"rameswaram": [
+["Fresh fish curry", "Dish", "Seafront restaurants", 250, "A tangy Tamil fish curry with rice, fresh off the boats.", "Fish curry"],
+["Tamil meals", "Dish", "Restaurants near the temple", 150, "A simple, vegetarian banana-leaf meal.", "Banana leaf meal"],
+["Kalkandu sweets", "Sweet", "Market shops", 50, "Crystallised rock sugar sweets, a temple offering.", "Rock sugar"],
+["Dhanushkodi at the sand spit's end", "Experience", "Dhanushkodi", 0, "A ghost town on the sand spit where the Bay of Bengal meets the Indian Ocean.", "Dhanushkodi"],
+["Crossing the Pamban Bridge", "Experience", "Pamban Bridge", 0, "India's first sea bridge. Watch the train inch over the water from the road bridge.", "Pamban Bridge"]
+],
+"kanyakumari": [
+["Fresh fish fry", "Dish", "Seaside restaurants", 250, "Fresh catch fried crisp with Nagercoil spices.", "Fish fry"],
+["Banana chips", "Street food", "Roadside stalls", 60, "Fresh banana chips fried in coconut oil.", "Banana chips"],
+["Nendran banana", "Local special", "Market stalls", 50, "Sweet, large plantains eaten raw or fried.", "Nendran"],
+["Sunrise at the tip of India", "Experience", "Kanyakumari beach", 0, "The sun rises over the Bay of Bengal while the moon sets over the Arabian Sea on full-moon days.", "Kanyakumari sunrise"],
+["Ferry to the Vivekananda Rock", "Experience", "Vivekananda Rock Memorial", 50, "A short boat ride to the rock where Swami Vivekananda meditated, with the Thiruvalluvar statue next door.", "Vivekananda Rock Memorial"]
+]
+}

@@ -1,0 +1,158 @@
+{
+"jaipur": [
+["Dal baati churma", "Dish", "Chokhi Dhani and old-city restaurants", 350, "Baked wheat balls dunked in ghee, with spicy dal and a sweet crumble of churma. Rajasthan on one plate.", "Dal baati churma"],
+["Pyaaz kachori", "Street food", "Rawat Mishthan Bhandar", 40, "A crisp, flaky kachori stuffed with spiced onion, a Jaipur breakfast classic.", "Pyaaz kachori"],
+["Ghewar", "Sweet", "LMB and old-city sweet shops", 100, "A honeycomb disc of fried batter soaked in syrup and topped with rabri. Best around Teej and Raksha Bandhan.", "Ghewar"],
+["Laal maas", "Dish", "Handi and Spice Court", 450, "A fiery red mutton curry from Rajasthan's royal kitchens, flavoured with Mathania chillies.", "Laal maas"],
+["Lassi at Lassiwala", "Drink", "Lassiwala, MI Road", 60, "A thick, creamy lassi in a clay cup at a Jaipur institution.", "Lassi"],
+["Sunset at Nahargarh Fort", "Experience", "Nahargarh Fort", 50, "Watch the Pink City turn gold from the ramparts, with a cup of chai at the rooftop café.", "Nahargarh Fort"]
+],
+"udaipur": [
+["Dal baati churma", "Dish", "Old city restaurants", 350, "Baked wheat balls dunked in ghee and eaten with hot dal and sweet churma.", "Dal baati churma"],
+["Gatte ki sabzi", "Dish", "Rajasthani restaurants", 250, "Gram-flour dumplings in a spicy yoghurt gravy, a Marwari staple.", "Gatte ki sabzi"],
+["Mawa kachori", "Sweet", "Old city sweet shops", 50, "A flaky, sweet kachori stuffed with mawa and dry fruits, soaked in syrup.", "Kachori"],
+["Ker sangri", "Dish", "Rajasthani restaurants", 250, "Desert beans and berries cooked with spices, a dish that only the desert makes.", "Ker sangri"],
+["Boat ride on Lake Pichola at sunset", "Experience", "City Palace jetty", 400, "Float past the Lake Palace and ghats as the city lights come on.", "Lake Pichola"]
+],
+"jodhpur": [
+["Mirchi vada", "Street food", "Janta Sweet Home and old-city stalls", 40, "A large, mild green chilli stuffed with spiced potato, dipped in gram-flour batter and fried.", "Mirchi vada"],
+["Mawa kachori", "Sweet", "Janta Sweet Home", 50, "A sweet, flaky kachori filled with mawa and dry fruits, in syrup.", "Kachori"],
+["Makhaniya lassi", "Drink", "Shri Mishrilal Hotel, Clock Tower", 70, "A saffron-flavoured, butter-rich lassi served in a big glass.", "Lassi"],
+["Kabuli pulao", "Dish", "Old city restaurants", 250, "A mild, fragrant rice with chickpeas, raisins and dry fruits, once served at royal courts.", "Kabuli pulao"],
+["Mehrangarh Fort at sunrise", "Experience", "Mehrangarh Fort", 600, "Walk the ramparts of the Blue City's fort as the light turns the houses below blue and gold.", "Mehrangarh"]
+],
+"jaisalmer": [
+["Ker sangri", "Dish", "Restaurants inside the fort", 250, "Desert beans and berries cooked in oil with spices, the desert dish.", "Ker sangri"],
+["Ghotua laddoo", "Sweet", "Sweet shops in the fort", 60, "A local laddoo made with gram flour, ghee and jaggery.", "Ladoo"],
+["Kadhi pakora", "Dish", "Fort restaurants", 150, "Gram-flour fritters in a tangy yoghurt curry.", "Kadhi pakora"],
+["Bajra roti", "Dish", "Desert homes and restaurants", 100, "Pearl-millet flatbread with butter and garlic chutney.", "Bajra roti"],
+["Camel safari to the Sam dunes", "Experience", "Sam Sand Dunes", 1500, "Ride at sunset over the dunes, then have dinner and folk music under the stars.", "Sam Sand Dunes"]
+],
+"pushkar": [
+["Malpua", "Sweet", "Sarafa Bazaar and ghat lanes", 60, "A deep-fried pancake in syrup, topped with thick rabri.", "Malpua"],
+["Kachori", "Street food", "Main Bazaar", 30, "A hot, crisp kachori with spicy potato curry.", "Kachori"],
+["Falafel at a rooftop café", "Dish", "Backpacker cafés near the ghats", 200, "Pushkar is vegetarian and alcohol-free, and its cafés serve hummus and falafel to the world.", "Falafel"],
+["Lassi", "Drink", "Main Bazaar", 60, "A thick lassi in a clay cup.", "Lassi"],
+["Sunrise at Pushkar Lake", "Experience", "Pushkar ghats", 0, "Hundreds of pilgrims bathe at dawn as bells ring from the lake's 52 ghats.", "Pushkar Lake"]
+],
+"mountabu": [
+["Rabri", "Sweet", "Old market shops", 80, "Thick, sweet condensed milk with saffron and nuts.", "Rabri"],
+["Dal baati", "Dish", "Restaurants near Nakki Lake", 250, "Baked wheat balls with dal and ghee.", "Dal baati churma"],
+["Gujarati thali", "Dish", "Restaurants on the Nakki Lake road", 250, "A generous thali of dal, kadhi, farsan and sweets from nearby Gujarat.", "Gujarati thali"],
+["Kesar kulfi", "Sweet", "Market stalls", 60, "A creamy saffron kulfi on a stick.", "Kulfi"],
+["Sunset at Sunset Point", "Experience", "Sunset Point", 0, "The whole town gathers to watch the sun go down over the Aravalli hills.", "Mount Abu"]
+],
+"ranthambore": [
+["Rajasthani thali", "Dish", "Hotels and dhabas near the park", 300, "Dal baati, gatte ki sabzi and a sweet, served on a thali.", "Rajasthani thali"],
+["Bajra roti", "Dish", "Village homes", 80, "Pearl-millet flatbread with ghee and chutney.", "Bajra roti"],
+["Mawa sweets", "Sweet", "Sawai Madhopur sweet shops", 60, "Milk-fudge sweets of Rajasthan.", "Mawa"],
+["Tiger safari in Ranthambore", "Experience", "Zones 1 to 5", 2500, "One of India's best places to see a wild tiger in the open, with a ruined fort as backdrop.", "Ranthambore tiger"],
+["Ranthambore Fort", "Experience", "Ranthambore Fort", 50, "A 1,000-year-old fort inside the park with lakes, temples and langurs.", "Ranthambore Fort"]
+],
+"chittorgarh": [
+["Dal baati", "Dish", "Restaurants near the fort", 250, "Baked wheat balls with dal and ghee.", "Dal baati churma"],
+["Mirchi bada", "Street food", "Fort-road stalls", 30, "A big green chilli in gram-flour batter, deep-fried.", "Mirchi vada"],
+["Kachori", "Street food", "Market", 30, "A spicy kachori for the start of the day.", "Kachori"],
+["Chittorgarh Fort at sunset", "Experience", "Chittorgarh Fort", 50, "A 700-acre fort with the Victory Tower, palaces and temples on a hill.", "Chittorgarh Fort"],
+["Victory Tower at golden hour", "Experience", "Vijay Stambh, inside the fort", 0, "Climb the 9-storey tower built by Rana Kumbha, then watch the fort walls glow in the evening light.", "Vijay Stambh"]
+],
+"kutch": [
+["Dabeli", "Street food", "Bhuj market stalls", 30, "A spicy potato filling in a bun with peanuts and pomegranate. Kutch's own burger.", "Dabeli"],
+["Kutchi kadhi", "Dish", "Bhuj restaurants", 150, "A sweet-and-sour kadhi, usually served with khichdi.", "Kadhi"],
+["Bajra rotla", "Dish", "Village homes", 100, "Pearl-millet flatbread with butter and jaggery.", "Bajra roti"],
+["Gulab pak", "Sweet", "Bhuj sweet shops", 60, "A rose-flavoured milk sweet from Kutch.", "Gulab pak"],
+["Full-moon night on the White Rann", "Experience", "White Rann, Dhordo", 500, "A white salt desert shining under the moon, with folk music and tents. Best from November to February.", "Rann of Kutch"]
+],
+"ahmedabad": [
+["Dhokla and khaman", "Breakfast", "Local farsan shops", 60, "Spongy steamed gram-flour cakes with chutney, the classic Gujarati snack.", "Dhokla"],
+["Fafda-jalebi", "Breakfast", "Sunday mornings at Jalebi shops", 80, "Crisp gram-flour fafda dipped in papaya chutney and eaten with hot jalebi. A Sunday ritual.", "Fafda jalebi"],
+["Gujarati thali", "Dish", "Agashiye and Gordhan Thal", 400, "An unlimited, sweet-and-savoury vegetarian meal served on a thali.", "Gujarati thali"],
+["Pav bhaji at Manek Chowk", "Street food", "Manek Chowk night market", 120, "By night this square turns into a food market with pav bhaji, sandwiches and ice cream.", "Pav bhaji"],
+["Heritage walk of the old city", "Experience", "Swaminarayan Temple to Jama Masjid", 100, "Wooden havelis, bird feeders and 'pols' (lanes) in a UNESCO World Heritage city.", "Ahmedabad pol"]
+],
+"gir": [
+["Kathiyawadi thali", "Dish", "Restaurants near Sasan Gir", 250, "A rustic thali with sev tameta, bajra rotla, garlic chutney and buttermilk.", "Gujarati thali"],
+["Sev tameta", "Dish", "Dhabas", 120, "A tangy tomato curry topped with crispy sev. A Kathiyawadi staple.", "Sev tameta"],
+["Bajra rotla with butter", "Dish", "Village homes", 100, "A thick millet flatbread with white butter and jaggery.", "Bajra roti"],
+["Kesar mango", "Local special", "Orchards around Talala (summer)", 150, "Gir's famous saffron-coloured mango, the sweetest in India.", "Kesar mango"],
+["Lion safari at Sasan Gir", "Experience", "Sasan Gir", 1500, "The only wild home of the Asiatic lion. Book your slot online.", "Asiatic lion"]
+],
+"dwarka": [
+["Gujarati thali", "Dish", "Restaurants near the temple", 250, "A sweet-and-savoury vegetarian meal, served on a thali.", "Gujarati thali"],
+["Khichdi-kadhi", "Dish", "Local restaurants", 120, "A simple, comforting meal of rice-and-lentil khichdi with kadhi.", "Khichdi"],
+["Dwarka peda", "Sweet", "Temple-street shops", 60, "A soft milk peda offered as prasad.", "Peda"],
+["Evening aarti at Dwarkadhish Temple", "Experience", "Dwarkadhish Temple", 0, "A five-storey temple above the Gomti ghats with a flag that changes five times a day.", "Dwarkadhish Temple"],
+["Boat to Bet Dwarka", "Experience", "Okha jetty", 50, "A short boat ride to the island where Krishna is believed to have lived.", "Bet Dwarka"]
+],
+"somnath": [
+["Kathiyawadi thali", "Dish", "Restaurants near Somnath", 250, "A traditional thali with bajra rotla and garlic chutney.", "Gujarati thali"],
+["Diu seafood", "Dish", "Beach restaurants in Diu", 500, "Grilled fish, prawn and crab with a Portuguese touch.", "Seafood"],
+["Bebinca (Diu)", "Sweet", "Diu bakeries", 100, "A layered coconut-and-egg Goan-Portuguese dessert.", "Bebinca"],
+["Evening aarti at Somnath Temple", "Experience", "Somnath Temple", 0, "The first of the 12 Jyotirlingas stands beside the Arabian Sea.", "Somnath Temple"],
+["Diu Fort and beaches", "Experience", "Diu Fort", 0, "A Portuguese fort on a quiet island, with white-sand beaches.", "Diu Fort"]
+],
+"kevadia": [
+["Gujarati thali", "Dish", "Restaurants at the Statue of Unity", 250, "A vegetarian meal with dal, kadhi, farsan and sweets.", "Gujarati thali"],
+["Tribal millet dishes", "Dish", "Tribal food stalls near Ekta Nagar", 100, "Millet rotlas and dishes cooked the way the local Narmada tribes eat.", "Bajra roti"],
+["Dhokla and fafda", "Street food", "Local stalls", 50, "Gujarat's famous snacks, served fresh.", "Dhokla"],
+["Statue of Unity", "Experience", "Statue of Unity", 450, "At 182 m it is the tallest statue in the world, with a viewing gallery above the Narmada.", "Statue of Unity"],
+["Boating on the Narmada", "Experience", "Near the Statue of Unity", 200, "A short river cruise with the statue and the Sardar Sarovar dam in view.", "Sardar Sarovar Dam"]
+],
+"mumbai": [
+["Vada pav", "Street food", "Ashok Vada Pav, Dadar and CST", 20, "A spicy potato fritter in a soft pav with garlic chutney. Mumbai's first love.", "Vada pav"],
+["Pav bhaji", "Street food", "Juhu Beach and Sardar", 150, "Spiced mashed vegetables with butter-toasted pav.", "Pav bhaji"],
+["Bhel puri on the beach", "Street food", "Girgaum Chowpatty", 50, "Puffed rice, sev, chutney and onion, tossed fresh at sunset.", "Bhel puri"],
+["Bombay sandwich", "Street food", "Vile Parle and Churchgate stalls", 70, "A grilled sandwich with beetroot, potato, cucumber and green chutney.", "Bombay sandwich"],
+["Parsi berry pulao", "Dish", "Britannia and Co., Ballard Estate", 500, "Sweet-and-tangy rice with barberries and chicken. A Parsi café classic.", "Berry pulao"],
+["Sunset at Marine Drive", "Experience", "Marine Drive and Chowpatty", 0, "Sit on the sea wall as the 'Queen's Necklace' lights up along the curve of the bay.", "Marine Drive"]
+],
+"lonavala": [
+["Chikki", "Sweet", "Maganlal and local shops", 100, "Crunchy peanut-and-jaggery brittle, the souvenir everyone takes home.", "Chikki"],
+["Vada pav", "Street food", "Old Mumbai–Pune highway stalls", 20, "A hot potato fritter in a bun.", "Vada pav"],
+["Corn bhutta in the rain", "Street food", "Bhushi dam road", 40, "Roasted corn with lemon and spice, to eat while it pours.", "Corn on the cob"],
+["Misal pav", "Street food", "Local eateries", 100, "A fiery sprout curry with farsan, onions and pav.", "Misal pav"],
+["Bhushi Dam in the monsoon", "Experience", "Bhushi Dam", 0, "Water cascades over the steps of the dam in July and August.", "Bhushi Dam"]
+],
+"matheran": [
+["Chikki", "Sweet", "Market Street shops", 80, "Crunchy peanut-and-jaggery brittle, sold in dozens of flavours.", "Chikki"],
+["Kanda bhaji", "Street food", "Market Street stalls", 40, "Crispy onion fritters with tea, perfect in the mist.", "Onion bhaji"],
+["Fudge from old shops", "Sweet", "Market Street", 100, "Thick, rich fudge in chocolate and fruit flavours, from shops that have been there for decades.", "Fudge"],
+["Toy train from Neral", "Experience", "Neral to Matheran", 300, "A narrow-gauge train that climbs 21 km through forest and tunnels in two hours.", "Matheran Hill Railway"],
+["Sunset at Panorama Point", "Experience", "Panorama Point", 50, "Matheran is vehicle-free. Walk or ride a horse to the cliff for sunset.", "Matheran"]
+],
+"mahabaleshwar": [
+["Strawberries with cream", "Sweet", "Strawberry farms and Mapro Garden", 150, "Fresh Mahabaleshwar strawberries picked and eaten with cream. Best from December to March.", "Strawberry"],
+["Corn pattice", "Street food", "Market Road stalls", 60, "A fried corn cutlet with chutney, a hill-station snack.", "Corn"],
+["Mulberry crush", "Drink", "Market stalls", 70, "A cold, sweet-sour drink made from fresh mulberries.", "Mulberry"],
+["Strawberry picking", "Experience", "Farms near Panchgani", 100, "Pick your own strawberries straight from the plants.", "Strawberry"],
+["Sunrise at Wilson Point", "Experience", "Wilson Point", 20, "The highest point in Mahabaleshwar, with sunrise views over the Western Ghats.", "Mahabaleshwar"]
+],
+"aurangabad": [
+["Naan qalia", "Dish", "Old Aurangabad restaurants", 300, "Mutton in a rich gravy, eaten with a large naan. The Mughal-Deccan dish.", "Naan qalia"],
+["Tahri", "Dish", "Local eateries", 200, "A one-pot rice-and-meat dish from the Deccan.", "Biryani"],
+["Misal", "Street food", "Local stalls", 80, "A spicy sprouted bean curry topped with farsan.", "Misal pav"],
+["Ellora Caves at sunrise", "Experience", "Ellora Caves", 40, "34 caves cut from rock, including the Kailasa Temple, carved from top to bottom.", "Ellora Caves"],
+["Ajanta Caves", "Experience", "Ajanta Caves", 40, "Buddhist caves with 2,000-year-old paintings. Closed on Mondays.", "Ajanta Caves"]
+],
+"shirdi": [
+["Prasadalaya thali", "Dish", "Sai Prasadalaya", 60, "A massive free-or-low-cost kitchen serving dal, rice, sabzi and chapati to thousands.", "Thali"],
+["Puran poli", "Sweet", "Local sweet shops", 60, "A sweet flatbread stuffed with jaggery and lentils.", "Puran poli"],
+["Misal", "Street food", "Local eateries", 80, "A hot sprout curry with farsan and pav.", "Misal pav"],
+["Dhoop aarti at Sai Baba Temple", "Experience", "Sai Baba Temple", 0, "A calm, devotional evening ceremony. Arrive early for a place.", "Shirdi Sai Baba Temple"],
+["Shani Shingnapur", "Experience", "Shani Shingnapur", 0, "A village with no doors on its houses, a short drive from Shirdi.", "Shani Shingnapur"]
+],
+"north-goa": [
+["Fish curry rice", "Dish", "Beach shacks and homes in Panjim", 250, "A coconut-and-kokum fish curry with rice, the everyday Goan meal.", "Goan fish curry"],
+["Prawn balchão", "Dish", "Goan restaurants", 400, "Prawns cooked in a tangy, spicy pickle-like masala.", "Prawn balchão"],
+["Pork vindaloo", "Dish", "Goan restaurants", 350, "Pork marinated in vinegar and chilli and cooked slow.", "Vindaloo"],
+["Bebinca", "Sweet", "Bakeries in Panjim and Old Goa", 120, "A layered Goan dessert of coconut milk, egg yolks and ghee.", "Bebinca"],
+["Sunset at Chapora Fort", "Experience", "Chapora Fort", 0, "The fort of the Dil Chahta Hai scene looks over Vagator Beach.", "Chapora Fort"]
+],
+"south-goa": [
+["Xacuti", "Dish", "Goan restaurants", 350, "A chicken or lamb curry with roasted coconut and spices.", "Xacuti"],
+["Kingfish recheado", "Dish", "Seaside shacks", 450, "Fish stuffed with red masala and shallow-fried.", "Recheado"],
+["Sannas", "Dish", "Local restaurants", 100, "Steamed rice-and-coconut cakes to eat with sorpotel or curry.", "Sanna"],
+["Poi bread", "Breakfast", "Village bakeries", 30, "A soft, pocket-bread roll from Goan bakeries.", "Poi bread"],
+["Palolem beach at sunset", "Experience", "Palolem Beach", 0, "A quiet crescent bay with palm trees, kayaks and shack dinners.", "Palolem Beach"]
+]
+}

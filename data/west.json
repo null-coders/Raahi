@@ -1,0 +1,3735 @@
+[
+ {
+  "id": "jaipur",
+  "n": "Jaipur",
+  "st": "Rajasthan",
+  "r": "West",
+  "ty": [
+   "heritage",
+   "city"
+  ],
+  "ll": [
+   26.9124,
+   75.7873
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "city",
+  "food": 900,
+  "stay": 2800,
+  "pop": 10,
+  "alt": 431,
+  "tag": "The Pink City of palaces, forts and bazaars",
+  "ab": "Jaipur was planned in 1727 by Maharaja Jai Singh II, an astronomer-king, and painted pink to welcome a prince in 1876. Hilltop forts guard a walled city of bazaars and havelis.",
+  "ppl": "Jaipur's old city is organised by craft: one bazaar for bangles, another for silver, a lane of block-printers in Sanganer and blue-pottery makers nearby. Rajput families still celebrate Teej and Gangaur with women in leheriya saris carrying idols through the streets, and every home welcomes guests with 'padharo mhare des'.",
+  "eat": [
+   "Dal baati churma",
+   "Pyaaz kachori",
+   "Ghewar",
+   "Laal maas",
+   "Lassi at Lassiwala"
+  ],
+  "fest": [
+   [
+    "Jaipur Literature Festival",
+    1
+   ],
+   [
+    "Teej",
+    8
+   ],
+   [
+    "Gangaur",
+    3
+   ],
+   [
+    "Kite Festival",
+    1
+   ]
+  ],
+  "lang": "Rajasthani, Hindi",
+  "go": "Jaipur International Airport; Jaipur Junction",
+  "w": "Jaipur",
+  "hub": [
+   "Hawa Mahal, Old City",
+   26.9239,
+   75.8267
+  ],
+  "places": [
+   {
+    "n": "Amber Fort",
+    "c": "fort",
+    "ll": [
+     26.9855,
+     75.8513
+    ],
+    "m": 150,
+    "f": 100,
+    "o": "08:00-17:30",
+    "s": 10,
+    "p": 10,
+    "d": "A honey-coloured fort-palace above Maota Lake, with a Hall of Mirrors that glitters in candlelight.",
+    "w": "Amer_Fort"
+   },
+   {
+    "n": "Hawa Mahal",
+    "c": "palace",
+    "ll": [
+     26.9239,
+     75.8267
+    ],
+    "m": 45,
+    "f": 50,
+    "o": "09:00-16:30",
+    "s": 9,
+    "p": 10,
+    "d": "A five-storey honeycomb of 953 windows built so royal women could watch street life unseen.",
+    "t": "The best photo is from the cafés across the road.",
+    "w": "Hawa_Mahal"
+   },
+   {
+    "n": "City Palace",
+    "c": "palace",
+    "ll": [
+     26.9258,
+     75.8237
+    ],
+    "m": 120,
+    "f": 300,
+    "o": "09:30-17:00",
+    "s": 9,
+    "p": 9,
+    "d": "Still home to the royal family, with the Peacock Gate and giant silver urns.",
+    "w": "City_Palace,_Jaipur"
+   },
+   {
+    "n": "Jantar Mantar",
+    "c": "heritage",
+    "ll": [
+     26.9248,
+     75.8246
+    ],
+    "m": 60,
+    "f": 50,
+    "o": "09:00-16:30",
+    "s": 9,
+    "p": 8,
+    "d": "Giant stone astronomical instruments, including a sundial accurate to two seconds.",
+    "w": "Jantar_Mantar,_Jaipur"
+   },
+   {
+    "n": "Nahargarh Fort",
+    "c": "fort",
+    "ll": [
+     26.9373,
+     75.8155
+    ],
+    "m": 90,
+    "f": 50,
+    "o": "10:00-17:30",
+    "s": 9,
+    "p": 8,
+    "d": "The ridge-top fort above the city, with the best view over the pink city; its Padao café stays open for sunset.",
+    "w": "Nahargarh_Fort",
+    "a": "",
+    "id": "nahargarh-fort"
+   },
+   {
+    "n": "Panna Meena ka Kund",
+    "c": "heritage",
+    "ll": [
+     26.987,
+     75.855
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 9,
+    "p": 6,
+    "d": "A criss-cross stepwell near Amber, perfectly symmetrical and quieter than the forts."
+   },
+   {
+    "n": "Jaigarh Fort",
+    "c": "fort",
+    "ll": [
+     26.985,
+     75.8455
+    ],
+    "m": 75,
+    "f": 150,
+    "o": "09:00-17:00",
+    "s": 8,
+    "p": 6,
+    "d": "A military fort holding Jaivana, once the world's largest cannon on wheels.",
+    "w": "Jaigarh_Fort"
+   },
+   {
+    "n": "Albert Hall Museum",
+    "c": "museum",
+    "ll": [
+     26.9116,
+     75.8195
+    ],
+    "m": 75,
+    "f": 40,
+    "o": "09:00-17:00",
+    "s": 8,
+    "p": 7,
+    "d": "An Indo-Saracenic museum with an Egyptian mummy, lit up beautifully at night.",
+    "w": "Albert_Hall_Museum"
+   },
+   {
+    "n": "Johari & Bapu Bazaar",
+    "c": "market",
+    "ll": [
+     26.92,
+     75.825
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "10:30-21:00",
+    "s": 8,
+    "p": 8,
+    "d": "Gemstones, mojari shoes, bandhani and block-printed quilts in the arcades of the pink city."
+   },
+   {
+    "n": "Galta Ji (Monkey Temple)",
+    "c": "temple",
+    "ll": [
+     26.917,
+     75.859
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "05:00-21:00",
+    "s": 8,
+    "p": 5,
+    "d": "Temples and natural spring pools in a rocky gorge, home to troops of monkeys."
+   },
+   {
+    "n": "Chokhi Dhani village evening",
+    "c": "culture",
+    "ll": [
+     26.769,
+     75.837
+    ],
+    "m": 180,
+    "f": 900,
+    "o": "17:00-23:00",
+    "s": 7,
+    "p": 8,
+    "d": "A recreated Rajasthani village with folk dance, puppets and a huge thali.",
+    "a": "n"
+   },
+   {
+    "n": "Jal Mahal",
+    "c": "viewpoint",
+    "ll": [
+     26.953,
+     75.846
+    ],
+    "m": 20,
+    "f": 0,
+    "o": "24h",
+    "s": 7,
+    "p": 8,
+    "d": "A palace that seems to float in the middle of Man Sagar lake.",
+    "w": "Jal_Mahal"
+   }
+  ]
+ },
+ {
+  "id": "udaipur",
+  "n": "Udaipur",
+  "st": "Rajasthan",
+  "r": "West",
+  "ty": [
+   "heritage",
+   "lakes",
+   "city"
+  ],
+  "ll": [
+   24.5854,
+   73.7125
+  ],
+  "bm": [
+   9,
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "city",
+  "food": 900,
+  "stay": 3000,
+  "pop": 10,
+  "alt": 598,
+  "tag": "The City of Lakes, India's most romantic",
+  "ab": "Udaipur, capital of the Mewar kings, rises from the shores of Lake Pichola with white palaces, ghats and island hotels set against the Aravalli hills.",
+  "ppl": "Mewar's Rajputs take pride in never having bowed to the Mughals. In the old city, miniature painters work with squirrel-hair brushes, women in odhnis gather at the ghats each morning, and evenings at Bagore ki Haveli bring Ghoomar and Bhavai dances, a woman balancing a tower of pots on her head.",
+  "eat": [
+   "Dal baati churma",
+   "Gatte ki sabzi",
+   "Kachori",
+   "Mawa kachori",
+   "Ker sangri"
+  ],
+  "fest": [
+   [
+    "Mewar Festival",
+    4
+   ],
+   [
+    "Diwali on the lakes",
+    10
+   ]
+  ],
+  "lang": "Mewari, Hindi",
+  "go": "Maharana Pratap Airport 22 km; Udaipur City station",
+  "w": "Udaipur",
+  "hub": [
+   "Jagdish Chowk, Old City",
+   24.5797,
+   73.6837
+  ],
+  "places": [
+   {
+    "n": "City Palace",
+    "c": "palace",
+    "ll": [
+     24.5764,
+     73.6835
+    ],
+    "m": 150,
+    "f": 300,
+    "o": "09:00-17:30",
+    "s": 10,
+    "p": 10,
+    "d": "A wedding cake of balconies and courtyards above Lake Pichola, with mirror rooms and peacock mosaics.",
+    "w": "City_Palace,_Udaipur"
+   },
+   {
+    "n": "Lake Pichola boat ride",
+    "c": "lake",
+    "ll": [
+     24.576,
+     73.681
+    ],
+    "m": 60,
+    "f": 400,
+    "o": "10:00-18:00",
+    "s": 10,
+    "p": 9,
+    "d": "Cruise past the Lake Palace to Jag Mandir island as the palaces glow at sunset.",
+    "w": "Lake_Pichola"
+   },
+   {
+    "n": "Jagdish Temple",
+    "c": "temple",
+    "ll": [
+     24.5797,
+     73.684
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "05:00-22:00",
+    "s": 8,
+    "p": 8,
+    "d": "A carved 1651 Vishnu temple at the heart of the old city, busy with morning aarti.",
+    "w": "Jagdish_Temple"
+   },
+   {
+    "n": "Dharohar dance at Bagore ki Haveli",
+    "c": "culture",
+    "ll": [
+     24.58,
+     73.682
+    ],
+    "m": 75,
+    "f": 150,
+    "o": "19:00-20:15",
+    "s": 9,
+    "p": 7,
+    "d": "An hour of Rajasthani folk dance and puppets in an 18th-century haveli courtyard.",
+    "a": "n"
+   },
+   {
+    "n": "Monsoon Palace (Sajjangarh)",
+    "c": "palace",
+    "ll": [
+     24.594,
+     73.638
+    ],
+    "m": 75,
+    "f": 100,
+    "o": "09:00-18:00",
+    "s": 8,
+    "p": 7,
+    "d": "A hilltop palace built to watch monsoon clouds; the best sunset over the lakes.",
+    "w": "Monsoon_Palace",
+    "a": "n"
+   },
+   {
+    "n": "Ambrai Ghat",
+    "c": "viewpoint",
+    "ll": [
+     24.577,
+     73.679
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "24h",
+    "s": 9,
+    "p": 6,
+    "d": "The classic view of the City Palace across the water, beautiful at night."
+   },
+   {
+    "n": "Saheliyon ki Bari",
+    "c": "garden",
+    "ll": [
+     24.602,
+     73.686
+    ],
+    "m": 45,
+    "f": 10,
+    "o": "09:00-19:00",
+    "s": 7,
+    "p": 7,
+    "d": "A garden of fountains and marble elephants built for the queen's companions."
+   },
+   {
+    "n": "Fateh Sagar Lake",
+    "c": "lake",
+    "ll": [
+     24.6,
+     73.675
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-22:00",
+    "s": 7,
+    "p": 7,
+    "d": "A wide lake with a promenade where locals gather for chai and corn in the evening.",
+    "a": "n"
+   },
+   {
+    "n": "Kumbhalgarh Fort",
+    "c": "fort",
+    "ll": [
+     25.149,
+     73.587
+    ],
+    "m": 150,
+    "f": 40,
+    "o": "09:00-18:00",
+    "s": 10,
+    "p": 6,
+    "d": "A fort with the second-longest wall in the world, 36 km around, on a ridge 85 km away.",
+    "w": "Kumbhalgarh"
+   },
+   {
+    "n": "Shilpgram",
+    "c": "culture",
+    "ll": [
+     24.614,
+     73.645
+    ],
+    "m": 75,
+    "f": 30,
+    "o": "11:00-19:00",
+    "s": 7,
+    "p": 4,
+    "d": "A crafts village of traditional huts from four states, with potters and musicians."
+   }
+  ]
+ },
+ {
+  "id": "jodhpur",
+  "n": "Jodhpur",
+  "st": "Rajasthan",
+  "r": "West",
+  "ty": [
+   "heritage",
+   "city",
+   "desert"
+  ],
+  "ll": [
+   26.2389,
+   73.0243
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   2
+  ],
+  "terr": "city",
+  "food": 800,
+  "stay": 2600,
+  "pop": 8,
+  "alt": 231,
+  "tag": "The Blue City under a mighty fort",
+  "ab": "Jodhpur's old city is a maze of blue houses below Mehrangarh, one of India's greatest forts, on the edge of the Thar desert.",
+  "ppl": "Brahmin families first painted their homes blue, and the colour spread because it keeps houses cool. Old Jodhpur life spills onto rooftops and stepwells; Marwari traders, Bishnoi villagers who protect every tree and blackbuck, and turbaned musicians all meet at the clock-tower market.",
+  "eat": [
+   "Mirchi vada",
+   "Mawa kachori",
+   "Makhaniya lassi",
+   "Kabuli pulao"
+  ],
+  "fest": [
+   [
+    "Marwar Festival",
+    10
+   ],
+   [
+    "RIFF folk music festival",
+    10
+   ]
+  ],
+  "lang": "Marwari, Hindi",
+  "go": "Jodhpur airport; Jodhpur Junction",
+  "w": "Jodhpur",
+  "hub": [
+   "Clock Tower (Ghanta Ghar)",
+   26.2944,
+   73.0244
+  ],
+  "places": [
+   {
+    "n": "Mehrangarh Fort",
+    "c": "fort",
+    "ll": [
+     26.2981,
+     73.0185
+    ],
+    "m": 150,
+    "f": 200,
+    "o": "09:00-17:00",
+    "s": 10,
+    "p": 10,
+    "d": "A fort that grows out of a 125 m cliff, with palaces of carved sandstone and a superb museum.",
+    "w": "Mehrangarh"
+   },
+   {
+    "n": "Jaswant Thada",
+    "c": "heritage",
+    "ll": [
+     26.304,
+     73.023
+    ],
+    "m": 45,
+    "f": 30,
+    "o": "09:00-17:00",
+    "s": 8,
+    "p": 7,
+    "d": "A translucent white-marble memorial with lake views of the fort.",
+    "w": "Jaswant_Thada"
+   },
+   {
+    "n": "Blue City walk (Navchokiya)",
+    "c": "culture",
+    "ll": [
+     26.297,
+     73.017
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "07:00-19:00",
+    "s": 9,
+    "p": 6,
+    "d": "Wander indigo lanes, tiny temples and doorsteps where families sit out in the afternoon."
+   },
+   {
+    "n": "Toorji ka Jhalra",
+    "c": "heritage",
+    "ll": [
+     26.293,
+     73.021
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "24h",
+    "s": 8,
+    "p": 6,
+    "d": "A restored 18th-century stepwell of rose sandstone in the old city.",
+    "w": "Toorji_Ka_Jhalra"
+   },
+   {
+    "n": "Umaid Bhawan Palace museum",
+    "c": "palace",
+    "ll": [
+     26.281,
+     73.047
+    ],
+    "m": 60,
+    "f": 100,
+    "o": "10:00-16:30",
+    "s": 8,
+    "p": 7,
+    "d": "One of the world's largest private homes, part palace hotel, part museum of Art Deco treasures.",
+    "w": "Umaid_Bhawan_Palace"
+   },
+   {
+    "n": "Sardar Market & Clock Tower",
+    "c": "market",
+    "ll": [
+     26.2944,
+     73.0244
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "10:00-21:00",
+    "s": 8,
+    "p": 8,
+    "d": "Spices, bangles and textiles around the clock tower; try a makhaniya lassi."
+   },
+   {
+    "n": "Rao Jodha Desert Rock Park",
+    "c": "nature",
+    "ll": [
+     26.3,
+     73.013
+    ],
+    "m": 75,
+    "f": 100,
+    "o": "07:00-18:30",
+    "s": 8,
+    "p": 3,
+    "d": "Trails through restored native desert plants on volcanic rock beneath the fort walls."
+   },
+   {
+    "n": "Mandore Gardens",
+    "c": "garden",
+    "ll": [
+     26.352,
+     73.034
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-20:00",
+    "s": 7,
+    "p": 5,
+    "d": "Red sandstone cenotaphs of Marwar's rulers in an old capital's gardens."
+   }
+  ]
+ },
+ {
+  "id": "jaisalmer",
+  "n": "Jaisalmer",
+  "st": "Rajasthan",
+  "r": "West",
+  "ty": [
+   "desert",
+   "heritage"
+  ],
+  "ll": [
+   26.9157,
+   70.9083
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "desert",
+  "food": 800,
+  "stay": 2600,
+  "pop": 9,
+  "alt": 225,
+  "tag": "The Golden City and the dunes of the Thar",
+  "ab": "Jaisalmer's sandstone fort rises like a sandcastle from the Thar desert, a living fort where a quarter of the town still lives. The Sam dunes are 40 km west.",
+  "ppl": "Inside the fort, families have lived for 850 years. Manganiyar and Langa musicians, hereditary singers to their patrons, sing desert ballads with kamaicha and khartal. Out in the dunes, Rabari herders in white with big gold earrings tend camels, and women build round mud huts decorated with mirror-work.",
+  "eat": [
+   "Ker sangri",
+   "Ghotua laddoo",
+   "Kadhi pakora",
+   "Bajra roti"
+  ],
+  "fest": [
+   [
+    "Desert Festival",
+    2
+   ]
+  ],
+  "lang": "Marwari, Hindi",
+  "go": "Jaisalmer railway station; Jaisalmer airport (seasonal)",
+  "w": "Jaisalmer",
+  "hub": [
+   "Fort gate (Gopa Chowk)",
+   26.9124,
+   70.9123
+  ],
+  "places": [
+   {
+    "n": "Jaisalmer Fort (Sonar Qila)",
+    "c": "fort",
+    "ll": [
+     26.9124,
+     70.9123
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "07:00-19:00",
+    "s": 10,
+    "p": 10,
+    "d": "A living fort of golden stone with Jain temples, havelis and homes inside its walls.",
+    "w": "Jaisalmer_Fort"
+   },
+   {
+    "n": "Patwon ki Haveli",
+    "c": "heritage",
+    "ll": [
+     26.915,
+     70.915
+    ],
+    "m": 60,
+    "f": 50,
+    "o": "09:00-18:00",
+    "s": 9,
+    "p": 8,
+    "d": "Five merchant mansions with stone carved as finely as lace.",
+    "w": "Patwon_Ki_Haveli"
+   },
+   {
+    "n": "Gadisar Lake",
+    "c": "lake",
+    "ll": [
+     26.905,
+     70.92
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 8,
+    "p": 8,
+    "d": "The old water tank lined with shrines and chhatris, golden at sunrise."
+   },
+   {
+    "n": "Sam Sand Dunes sunset",
+    "c": "nature",
+    "ll": [
+     26.836,
+     70.5
+    ],
+    "m": 180,
+    "f": 500,
+    "o": "15:00-21:00",
+    "s": 9,
+    "p": 9,
+    "d": "Camel rides over rolling dunes at sunset, then folk music under the stars.",
+    "a": "n"
+   },
+   {
+    "n": "Kuldhara abandoned village",
+    "c": "heritage",
+    "ll": [
+     26.813,
+     70.786
+    ],
+    "m": 60,
+    "f": 50,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 7,
+    "d": "A Paliwal Brahmin village deserted overnight 200 years ago, its roofless houses still standing.",
+    "w": "Kuldhara"
+   },
+   {
+    "n": "Bada Bagh cenotaphs",
+    "c": "heritage",
+    "ll": [
+     26.952,
+     70.889
+    ],
+    "m": 45,
+    "f": 100,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "Royal chhatris on a hill with wind turbines behind; magical at sunset."
+   },
+   {
+    "n": "Khaba Fort",
+    "c": "fort",
+    "ll": [
+     26.803,
+     70.638
+    ],
+    "m": 60,
+    "f": 50,
+    "o": "09:00-18:00",
+    "s": 8,
+    "p": 3,
+    "d": "A ruined fort above another abandoned Paliwal village, with peacocks and desert silence."
+   },
+   {
+    "n": "Salim Singh ki Haveli",
+    "c": "heritage",
+    "ll": [
+     26.915,
+     70.912
+    ],
+    "m": 40,
+    "f": 50,
+    "o": "08:00-18:00",
+    "s": 7,
+    "p": 6,
+    "d": "A haveli with a peacock-shaped roof and 38 balconies."
+   }
+  ]
+ },
+ {
+  "id": "pushkar",
+  "n": "Pushkar",
+  "st": "Rajasthan",
+  "r": "West",
+  "ty": [
+   "spiritual",
+   "desert"
+  ],
+  "ll": [
+   26.4897,
+   74.5511
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "city",
+  "food": 600,
+  "stay": 1800,
+  "pop": 7,
+  "alt": 510,
+  "tag": "A holy lake, a Brahma temple and the great camel fair",
+  "ab": "Pushkar is a small holy town around a sacred lake with 52 ghats, home to one of the world's few Brahma temples. Each November the camel fair brings tens of thousands of herders.",
+  "ppl": "Pushkar is vegetarian and alcohol-free. Pujaris at the ghats offer 'Pushkar passport' blessings, Rebari herders arrive for the fair with camels decorated in tassels and anklets, and in the lanes you'll hear bhajans from the 500 temples all day.",
+  "eat": [
+   "Malpua",
+   "Kachori",
+   "Falafel (backpacker cafés)",
+   "Lassi"
+  ],
+  "fest": [
+   [
+    "Pushkar Camel Fair",
+    11
+   ],
+   [
+    "Holi",
+    3
+   ]
+  ],
+  "lang": "Rajasthani, Hindi",
+  "go": "Ajmer Junction 15 km; Jaipur airport 150 km",
+  "w": "Pushkar",
+  "hub": [
+   "Main Bazaar",
+   26.489,
+   74.553
+  ],
+  "places": [
+   {
+    "n": "Brahma Temple",
+    "c": "temple",
+    "ll": [
+     26.4876,
+     74.5507
+    ],
+    "m": 40,
+    "f": 0,
+    "o": "06:00-21:00",
+    "s": 9,
+    "p": 9,
+    "d": "A rare temple to Lord Brahma, the creator, with a red spire and marble steps.",
+    "w": "Jagatpita_Brahma_Mandir"
+   },
+   {
+    "n": "Pushkar Lake ghats",
+    "c": "spiritual",
+    "ll": [
+     26.488,
+     74.553
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "05:00-21:00",
+    "s": 9,
+    "p": 8,
+    "d": "Pilgrims bathe and float lamps on 52 ghats; the sunset aarti is the best time.",
+    "w": "Pushkar_Lake",
+    "a": "n"
+   },
+   {
+    "n": "Savitri Temple sunrise",
+    "c": "temple",
+    "ll": [
+     26.479,
+     74.541
+    ],
+    "m": 90,
+    "f": 100,
+    "o": "05:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "A hilltop temple to Brahma's wife, reached by steps or ropeway, with a view of the town and desert.",
+    "a": "e"
+   },
+   {
+    "n": "Pushkar Bazaar",
+    "c": "market",
+    "ll": [
+     26.489,
+     74.553
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "09:00-22:00",
+    "s": 7,
+    "p": 7,
+    "d": "Silver jewellery, rose products and cotton clothes along the narrow main street."
+   },
+   {
+    "n": "Camel Fair grounds",
+    "c": "culture",
+    "ll": [
+     26.495,
+     74.545
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "07:00-19:00",
+    "mo": [
+     11
+    ],
+    "s": 10,
+    "p": 9,
+    "d": "Thousands of camels and herders, moustache contests and folk performers for a week in November.",
+    "w": "Pushkar_Fair"
+   }
+  ]
+ },
+ {
+  "id": "mountabu",
+  "n": "Mount Abu",
+  "st": "Rajasthan",
+  "r": "West",
+  "ty": [
+   "hills",
+   "spiritual"
+  ],
+  "ll": [
+   24.5926,
+   72.7156
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   6,
+   10,
+   11,
+   12
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "hills",
+  "food": 700,
+  "stay": 2400,
+  "pop": 6,
+  "alt": 1220,
+  "tag": "Rajasthan's only hill station and the finest marble temples",
+  "ab": "Mount Abu is a cool green plateau in the Aravallis with Nakki Lake at its centre and the Dilwara Jain temples, whose marble carving is among the finest in the world.",
+  "ppl": "Garasia tribal families live in the forests around Abu and come to town for markets and fairs. Jain pilgrims arrive in white, and Gujarati families escape the summer heat here, so the evening lakeside is busy with snacks, boating and couples.",
+  "eat": [
+   "Rabri",
+   "Dal baati",
+   "Gujarati thali",
+   "Kesar kulfi"
+  ],
+  "fest": [
+   [
+    "Summer Festival",
+    5
+   ],
+   [
+    "Winter Festival",
+    12
+   ]
+  ],
+  "lang": "Rajasthani, Gujarati, Hindi",
+  "go": "Abu Road station 28 km",
+  "w": "Mount_Abu",
+  "hub": [
+   "Nakki Lake",
+   24.5935,
+   72.7065
+  ],
+  "places": [
+   {
+    "n": "Dilwara Jain Temples",
+    "c": "temple",
+    "ll": [
+     24.609,
+     72.723
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "12:00-18:00",
+    "s": 10,
+    "p": 8,
+    "d": "11th–13th century temples where marble is carved so thin it looks transparent.",
+    "t": "No phones or cameras inside.",
+    "w": "Dilwara_Temples"
+   },
+   {
+    "n": "Nakki Lake",
+    "c": "lake",
+    "ll": [
+     24.5935,
+     72.7065
+    ],
+    "m": 60,
+    "f": 100,
+    "o": "08:00-20:00",
+    "s": 8,
+    "p": 8,
+    "d": "A lake ringed by hills and odd rocks like Toad Rock, with boating.",
+    "w": "Nakki_Lake"
+   },
+   {
+    "n": "Guru Shikhar",
+    "c": "viewpoint",
+    "ll": [
+     24.651,
+     72.779
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 7,
+    "d": "The highest point of the Aravallis (1,722 m) with a small Dattatreya temple.",
+    "w": "Guru_Shikhar"
+   },
+   {
+    "n": "Sunset Point",
+    "c": "viewpoint",
+    "ll": [
+     24.588,
+     72.699
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "16:00-19:30",
+    "s": 7,
+    "p": 8,
+    "d": "Crowds gather to watch the sun sink into the plains.",
+    "a": "n"
+   },
+   {
+    "n": "Achalgarh Fort & temple",
+    "c": "fort",
+    "ll": [
+     24.619,
+     72.78
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 4,
+    "d": "A ruined fort with an old Shiva temple and a toe print of the god."
+   },
+   {
+    "n": "Trevor's Tank",
+    "c": "wildlife",
+    "ll": [
+     24.628,
+     72.74
+    ],
+    "m": 60,
+    "f": 50,
+    "o": "09:00-17:00",
+    "s": 7,
+    "p": 3,
+    "d": "A forested reservoir for birds, crocodiles and the occasional sloth bear."
+   }
+  ]
+ },
+ {
+  "id": "ranthambore",
+  "n": "Ranthambore",
+  "st": "Rajasthan",
+  "r": "West",
+  "ty": [
+   "wildlife",
+   "heritage"
+  ],
+  "ll": [
+   26.017,
+   76.354
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "days": [
+   2,
+   2
+  ],
+  "terr": "plains",
+  "food": 900,
+  "stay": 3500,
+  "pop": 8,
+  "alt": 300,
+  "tag": "Tigers among the ruins of a thousand-year-old fort",
+  "ab": "Ranthambore is the best-known tiger reserve in India, a dry forest of lakes, banyan trees and ruined pavilions below a hilltop fort.",
+  "ppl": "Meena and Mogya villagers live around the park, and many families once depended on its forests; today their sons drive the safari Gypsies and their mothers run the Dastkar crafts cooperative. Every Wednesday, the Ganesh temple inside the fort receives thousands of wedding invitation cards by post.",
+  "eat": [
+   "Rajasthani thali",
+   "Bajra roti",
+   "Mawa sweets"
+  ],
+  "fest": [
+   [
+    "Ganesh Chaturthi fair at the fort",
+    9
+   ]
+  ],
+  "lang": "Hindi, Rajasthani",
+  "go": "Sawai Madhopur railway station",
+  "w": "Ranthambore_National_Park",
+  "hub": [
+   "Sawai Madhopur, Ranthambore Road",
+   26.017,
+   76.39
+  ],
+  "places": [
+   {
+    "n": "Tiger safari (Zones 1–6)",
+    "c": "wildlife",
+    "ll": [
+     26.015,
+     76.48
+    ],
+    "m": 210,
+    "f": 1800,
+    "o": "06:00-18:00",
+    "mo": [
+     10,
+     11,
+     12,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "s": 10,
+    "p": 9,
+    "d": "Jeep or canter safaris through lakes and ruins where tigers walk in daylight.",
+    "t": "Book Gypsy permits online as soon as dates open."
+   },
+   {
+    "n": "Ranthambore Fort",
+    "c": "fort",
+    "ll": [
+     26.019,
+     76.458
+    ],
+    "m": 120,
+    "f": 25,
+    "o": "06:00-18:00",
+    "s": 9,
+    "p": 7,
+    "d": "A UNESCO hill fort with step wells, temples and views over the jungle.",
+    "w": "Ranthambore_Fort",
+    "a": "e"
+   },
+   {
+    "n": "Trinetra Ganesh Temple",
+    "c": "temple",
+    "ll": [
+     26.02,
+     76.457
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "06:00-18:00",
+    "s": 8,
+    "p": 7,
+    "d": "A three-eyed Ganesh inside the fort, sent letters and wedding cards from across India."
+   },
+   {
+    "n": "Dastkar Craft Centre",
+    "c": "culture",
+    "ll": [
+     26.009,
+     76.41
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "10:00-18:00",
+    "s": 7,
+    "p": 3,
+    "d": "Village women's patchwork, block prints and toys sold at fair prices."
+   },
+   {
+    "n": "Surwal Lake",
+    "c": "lake",
+    "ll": [
+     26.05,
+     76.36
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-18:00",
+    "mo": [
+     10,
+     11,
+     12,
+     1,
+     2,
+     3
+    ],
+    "s": 7,
+    "p": 2,
+    "d": "A seasonal lake full of flamingos, storks and cranes in winter."
+   }
+  ]
+ },
+ {
+  "id": "chittorgarh",
+  "n": "Chittorgarh",
+  "st": "Rajasthan",
+  "r": "West",
+  "ty": [
+   "heritage"
+  ],
+  "ll": [
+   24.8887,
+   74.6269
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   1,
+   1
+  ],
+  "terr": "plains",
+  "food": 600,
+  "stay": 2000,
+  "pop": 6,
+  "alt": 394,
+  "tag": "India's largest fort and its legends of valour",
+  "ab": "Chittorgarh Fort covers 700 acres on a 180 m hill, with towers of victory, palaces and water tanks. Its sieges and the story of Rani Padmini are central to Rajput history.",
+  "ppl": "For Rajputs, Chittor is the symbol of honour; folk singers still sing of Rana Kumbha, Padmini and the saint-poet Meera Bai, who worshipped Krishna here. Local guides are often the grandsons of guides.",
+  "eat": [
+   "Dal baati",
+   "Mirchi bada"
+  ],
+  "fest": [
+   [
+    "Jauhar Mela",
+    3
+   ]
+  ],
+  "lang": "Mewari, Hindi",
+  "go": "Chittorgarh Junction; Udaipur airport 100 km",
+  "w": "Chittorgarh",
+  "hub": [
+   "Chittorgarh town",
+   24.8887,
+   74.6269
+  ],
+  "places": [
+   {
+    "n": "Chittorgarh Fort",
+    "c": "fort",
+    "ll": [
+     24.887,
+     74.646
+    ],
+    "m": 180,
+    "f": 40,
+    "o": "09:45-18:00",
+    "s": 10,
+    "p": 8,
+    "d": "Seven gates, palaces, temples and tanks spread across a vast hilltop.",
+    "w": "Chittor_Fort"
+   },
+   {
+    "n": "Vijay Stambh",
+    "c": "heritage",
+    "ll": [
+     24.8873,
+     74.6449
+    ],
+    "m": 40,
+    "f": 0,
+    "o": "09:45-18:00",
+    "s": 9,
+    "p": 7,
+    "d": "A nine-storey tower of victory covered in carved gods, built in 1448.",
+    "w": "Vijaya_Stambha"
+   },
+   {
+    "n": "Padmini Palace",
+    "c": "palace",
+    "ll": [
+     24.88,
+     74.644
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "09:45-18:00",
+    "s": 7,
+    "p": 6,
+    "d": "A water palace linked to the legend of Rani Padmini."
+   },
+   {
+    "n": "Light & sound show",
+    "c": "culture",
+    "ll": [
+     24.888,
+     74.647
+    ],
+    "m": 60,
+    "f": 100,
+    "o": "19:00-20:30",
+    "s": 7,
+    "p": 5,
+    "d": "The fort's history told in the evening at Rana Kumbha's palace.",
+    "a": "n"
+   }
+  ]
+ },
+ {
+  "id": "kutch",
+  "n": "Rann of Kutch & Bhuj",
+  "st": "Gujarat",
+  "r": "West",
+  "ty": [
+   "desert",
+   "offbeat"
+  ],
+  "ll": [
+   23.242,
+   69.6669
+  ],
+  "bm": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "desert",
+  "food": 700,
+  "stay": 3000,
+  "pop": 7,
+  "alt": 110,
+  "tag": "A white salt desert under the full moon",
+  "ab": "The Great Rann of Kutch is a vast white salt marsh that dries in winter into a glittering plain. Bhuj is the base, with crafts villages scattered across the desert.",
+  "ppl": "Kutch is India's craft heartland: Rabari women embroider mirror-work, Ahir and Meghwal families paint and weave, and in Nirona one Khatri family keeps alive rogan art, painting cloth with castor-oil paint using a metal stick. Round bhunga huts with mud-and-mirror walls stay cool in summer and survive earthquakes.",
+  "eat": [
+   "Dabeli",
+   "Kutchi kadhi",
+   "Bajra rotla",
+   "Gulab pak"
+  ],
+  "fest": [
+   [
+    "Rann Utsav",
+    12
+   ]
+  ],
+  "lang": "Kutchi, Gujarati",
+  "go": "Bhuj airport; Bhuj railway station",
+  "w": "Rann_of_Kutch",
+  "hub": [
+   "Bhuj",
+   23.242,
+   69.6669
+  ],
+  "places": [
+   {
+    "n": "White Rann at Dhordo",
+    "c": "nature",
+    "ll": [
+     23.83,
+     69.74
+    ],
+    "m": 180,
+    "f": 150,
+    "o": "14:00-22:00",
+    "mo": [
+     11,
+     12,
+     1,
+     2,
+     3
+    ],
+    "s": 10,
+    "p": 9,
+    "d": "A white salt desert to the horizon; at full moon it glows silver.",
+    "t": "Get the BSF permit online or at Bhirandiyara.",
+    "w": "Great_Rann_of_Kutch",
+    "a": "n"
+   },
+   {
+    "n": "Kala Dungar",
+    "c": "viewpoint",
+    "ll": [
+     23.87,
+     69.85
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "07:00-19:00",
+    "s": 8,
+    "p": 6,
+    "d": "The highest point in Kutch, looking over the Rann toward Pakistan."
+   },
+   {
+    "n": "Nirona craft village",
+    "c": "culture",
+    "ll": [
+     23.46,
+     69.43
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "09:00-18:00",
+    "s": 9,
+    "p": 4,
+    "d": "Watch rogan painting, bell-making and lacquer work in family homes."
+   },
+   {
+    "n": "Hodka & Bhirandiyara villages",
+    "c": "village",
+    "ll": [
+     23.65,
+     69.7
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "09:00-18:00",
+    "s": 8,
+    "p": 4,
+    "d": "Mud-and-mirror bhunga huts, embroidery and the famous mawa sweet of Bhirandiyara."
+   },
+   {
+    "n": "Aina Mahal & Prag Mahal",
+    "c": "palace",
+    "ll": [
+     23.253,
+     69.669
+    ],
+    "m": 90,
+    "f": 50,
+    "o": "09:00-18:00",
+    "x": [
+     6
+    ],
+    "s": 8,
+    "p": 5,
+    "d": "Bhuj's mirror palace and an Italian-Gothic palace with a clock tower view.",
+    "w": "Aina_Mahal"
+   },
+   {
+    "n": "Mandvi beach & Vijay Vilas Palace",
+    "c": "beach",
+    "ll": [
+     22.83,
+     69.35
+    ],
+    "m": 150,
+    "f": 50,
+    "o": "09:00-19:00",
+    "s": 8,
+    "p": 5,
+    "d": "A quiet beach and a palace where shipbuilders still make wooden dhows by hand.",
+    "w": "Mandvi,_Kutch"
+   },
+   {
+    "n": "Lakhpat Fort",
+    "c": "fort",
+    "ll": [
+     23.827,
+     68.776
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 2,
+    "d": "A ghost port town inside 18th-century walls at India's western edge."
+   }
+  ]
+ },
+ {
+  "id": "ahmedabad",
+  "n": "Ahmedabad",
+  "st": "Gujarat",
+  "r": "West",
+  "ty": [
+   "city",
+   "heritage"
+  ],
+  "ll": [
+   23.0225,
+   72.5714
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "city",
+  "food": 700,
+  "stay": 2600,
+  "pop": 7,
+  "alt": 53,
+  "tag": "India's first World Heritage City and Gandhi's ashram",
+  "ab": "Ahmedabad's walled city of pols, carved wooden homes in gated lanes, made it India's first UNESCO World Heritage City. Gandhi's Sabarmati Ashram and great stepwells are nearby.",
+  "ppl": "Families in the old pols share courtyards, wells and bird feeders called chabutaras, and know every neighbour's business. On Uttarayan in January, the whole city is on its rooftops flying kites from dawn, and during Navratri everyone dances garba until 2 AM.",
+  "eat": [
+   "Dhokla & khaman",
+   "Fafda-jalebi",
+   "Gujarati thali",
+   "Manek Chowk pav bhaji"
+  ],
+  "fest": [
+   [
+    "Uttarayan kite festival",
+    1
+   ],
+   [
+    "Navratri garba",
+    10
+   ]
+  ],
+  "lang": "Gujarati, Hindi",
+  "go": "Sardar Vallabhbhai Patel International Airport; Ahmedabad Junction",
+  "w": "Ahmedabad",
+  "hub": [
+   "Old city, Lal Darwaja",
+   23.025,
+   72.58
+  ],
+  "places": [
+   {
+    "n": "Sabarmati Ashram",
+    "c": "museum",
+    "ll": [
+     23.0607,
+     72.5807
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "08:30-18:30",
+    "s": 9,
+    "p": 9,
+    "d": "Gandhi's riverside home from 1917 to 1930, where the Salt March began.",
+    "w": "Sabarmati_Ashram"
+   },
+   {
+    "n": "Old city heritage walk (pols)",
+    "c": "culture",
+    "ll": [
+     23.026,
+     72.59
+    ],
+    "m": 150,
+    "f": 200,
+    "o": "08:00-10:30",
+    "s": 10,
+    "p": 5,
+    "d": "A morning walk through gated pols of carved havelis, temples and bird feeders."
+   },
+   {
+    "n": "Adalaj Stepwell",
+    "c": "heritage",
+    "ll": [
+     23.1667,
+     72.58
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-18:00",
+    "s": 9,
+    "p": 7,
+    "d": "A five-storey stepwell of 1499 with carved pillars and cool, filtered light.",
+    "w": "Adalaj_Stepwell"
+   },
+   {
+    "n": "Sidi Saiyyed Mosque",
+    "c": "mosque",
+    "ll": [
+     23.027,
+     72.581
+    ],
+    "m": 25,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 9,
+    "p": 7,
+    "d": "Famous for its stone lattice windows carved as a tree of life.",
+    "w": "Sidi_Saiyyed_Mosque"
+   },
+   {
+    "n": "Manek Chowk night food market",
+    "c": "food",
+    "ll": [
+     23.024,
+     72.588
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "20:00-23:59",
+    "s": 9,
+    "p": 7,
+    "d": "A jewellery square by day that becomes a giant street-food court at night.",
+    "a": "n"
+   },
+   {
+    "n": "Rani ki Vav, Patan",
+    "c": "heritage",
+    "ll": [
+     23.859,
+     72.102
+    ],
+    "m": 90,
+    "f": 40,
+    "o": "08:00-18:00",
+    "s": 10,
+    "p": 7,
+    "d": "A UNESCO stepwell with 500 sculptures, the one on the ₹100 note.",
+    "w": "Rani_ki_vav"
+   },
+   {
+    "n": "Modhera Sun Temple",
+    "c": "temple",
+    "ll": [
+     23.583,
+     72.133
+    ],
+    "m": 75,
+    "f": 40,
+    "o": "07:00-18:00",
+    "s": 9,
+    "p": 6,
+    "d": "A 1026 temple aligned so the equinox sun lights up its sanctum, beside a stepped tank.",
+    "w": "Sun_Temple,_Modhera"
+   },
+   {
+    "n": "Kankaria Lake",
+    "c": "lake",
+    "ll": [
+     22.997,
+     72.601
+    ],
+    "m": 75,
+    "f": 25,
+    "o": "09:00-22:00",
+    "s": 6,
+    "p": 7,
+    "d": "A lakefront with a toy train, zoo and evening food stalls.",
+    "a": "n"
+   }
+  ]
+ },
+ {
+  "id": "gir",
+  "n": "Gir National Park",
+  "st": "Gujarat",
+  "r": "West",
+  "ty": [
+   "wildlife"
+  ],
+  "ll": [
+   21.169,
+   70.596
+  ],
+  "bm": [
+   12,
+   1,
+   2,
+   3,
+   4
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "plains",
+  "food": 700,
+  "stay": 3500,
+  "pop": 7,
+  "alt": 150,
+  "tag": "The last home of the Asiatic lion",
+  "ab": "Gir is the only place in the world where Asiatic lions live in the wild, now over 600 of them, in dry teak forest. The park closes for the monsoon from mid-June to mid-October.",
+  "ppl": "The Maldhari herders live inside the forest in nesses of mud huts with their buffaloes, sharing the land with lions for centuries. Siddi families, descended from East Africans who came centuries ago, perform the energetic Dhamal dance in villages like Jambur.",
+  "eat": [
+   "Kathiyawadi thali",
+   "Sev tameta",
+   "Bajra rotla with butter",
+   "Kesar mango (summer)"
+  ],
+  "fest": [],
+  "lang": "Gujarati",
+  "go": "Junagadh 60 km; Rajkot airport 160 km",
+  "w": "Gir_National_Park",
+  "hub": [
+   "Sasan Gir",
+   21.169,
+   70.596
+  ],
+  "places": [
+   {
+    "n": "Gir Jungle Trail safari",
+    "c": "wildlife",
+    "ll": [
+     21.172,
+     70.6
+    ],
+    "m": 180,
+    "f": 1500,
+    "o": "06:00-18:00",
+    "mo": [
+     10,
+     11,
+     12,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "s": 10,
+    "p": 9,
+    "d": "Jeep safaris through teak and grassland for lions, leopards and spotted deer.",
+    "t": "Permits open on the official portal; book early for winter weekends."
+   },
+   {
+    "n": "Devalia Safari Park",
+    "c": "wildlife",
+    "ll": [
+     21.13,
+     70.572
+    ],
+    "m": 90,
+    "f": 300,
+    "o": "07:00-17:00",
+    "x": [
+     3
+    ],
+    "s": 8,
+    "p": 7,
+    "d": "A fenced zone inside Gir where lion sightings are almost certain; good with kids."
+   },
+   {
+    "n": "Kamleshwar Dam",
+    "c": "lake",
+    "ll": [
+     21.135,
+     70.753
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-17:00",
+    "s": 7,
+    "p": 3,
+    "d": "A reservoir in the forest with marsh crocodiles basking on its banks."
+   },
+   {
+    "n": "Siddi village Dhamal dance",
+    "c": "culture",
+    "ll": [
+     21.15,
+     70.62
+    ],
+    "m": 75,
+    "f": 300,
+    "o": "18:00-21:00",
+    "s": 8,
+    "p": 2,
+    "d": "Afro-Gujarati Siddi musicians perform the trance-like Dhamal with drums and shells.",
+    "a": "n"
+   }
+  ]
+ },
+ {
+  "id": "dwarka",
+  "n": "Dwarka",
+  "st": "Gujarat",
+  "r": "West",
+  "ty": [
+   "spiritual",
+   "beach"
+  ],
+  "ll": [
+   22.2394,
+   68.9678
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "coast",
+  "food": 600,
+  "stay": 2200,
+  "pop": 8,
+  "alt": 0,
+  "tag": "Krishna's kingdom by the Arabian Sea",
+  "ab": "Dwarka is one of the Char Dham, believed to be Krishna's capital. The Dwarkadhish temple rises over the Gomti river mouth, and Bet Dwarka island is now reached by India's longest cable-stayed bridge.",
+  "ppl": "The temple's flag is changed five times a day and families book years ahead to sponsor one. Fishing families of the Kharwa community launch boats from Okha, and on Janmashtami the whole town dances raas through the night.",
+  "eat": [
+   "Gujarati thali",
+   "Khichdi-kadhi",
+   "Peda"
+  ],
+  "fest": [
+   [
+    "Janmashtami",
+    8
+   ],
+   [
+    "Holi",
+    3
+   ]
+  ],
+  "lang": "Gujarati",
+  "go": "Dwarka railway station; Jamnagar airport 130 km",
+  "w": "Dwarka",
+  "hub": [
+   "Dwarkadhish Temple",
+   22.2378,
+   68.9674
+  ],
+  "places": [
+   {
+    "n": "Dwarkadhish Temple",
+    "c": "temple",
+    "ll": [
+     22.2378,
+     68.9674
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "06:30-21:30",
+    "s": 10,
+    "p": 10,
+    "d": "A five-storey temple on 72 pillars whose huge flag flies over the sea.",
+    "w": "Dwarkadhish_Temple"
+   },
+   {
+    "n": "Bet Dwarka & Sudarshan Setu",
+    "c": "temple",
+    "ll": [
+     22.47,
+     69.09
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "06:00-21:00",
+    "s": 9,
+    "p": 8,
+    "d": "An island temple where Krishna lived, now reached by a 2.3 km cable-stayed bridge.",
+    "w": "Bet_Dwarka"
+   },
+   {
+    "n": "Nageshwar Jyotirlinga",
+    "c": "temple",
+    "ll": [
+     22.335,
+     69.088
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "06:00-21:00",
+    "s": 8,
+    "p": 8,
+    "d": "One of the twelve Jyotirlingas, with a giant seated Shiva statue outside.",
+    "w": "Nageshvara_Jyotirlinga"
+   },
+   {
+    "n": "Shivrajpur Beach",
+    "c": "beach",
+    "ll": [
+     22.327,
+     68.955
+    ],
+    "m": 120,
+    "f": 30,
+    "o": "08:00-19:00",
+    "s": 8,
+    "p": 5,
+    "d": "A Blue Flag beach with clear water, snorkelling and scuba in season."
+   },
+   {
+    "n": "Rukmini Devi Temple",
+    "c": "temple",
+    "ll": [
+     22.254,
+     68.991
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "06:00-21:00",
+    "s": 7,
+    "p": 6,
+    "d": "A richly carved 12th-century temple to Krishna's wife, standing alone outside town."
+   },
+   {
+    "n": "Gomti Ghat sunset",
+    "c": "spiritual",
+    "ll": [
+     22.238,
+     68.966
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "06:00-21:00",
+    "s": 7,
+    "p": 6,
+    "d": "Steps down to where the Gomti meets the sea, beneath the temple.",
+    "a": "n"
+   }
+  ]
+ },
+ {
+  "id": "somnath",
+  "n": "Somnath & Diu",
+  "st": "Gujarat / Daman & Diu",
+  "r": "West",
+  "ty": [
+   "spiritual",
+   "beach",
+   "heritage"
+  ],
+  "ll": [
+   20.888,
+   70.401
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "coast",
+  "food": 700,
+  "stay": 2400,
+  "pop": 7,
+  "alt": 0,
+  "tag": "The first Jyotirlinga by the sea, and Portuguese Diu",
+  "ab": "Somnath temple stands on the shore where nothing lies between it and Antarctica. Diu, 90 km away, is a former Portuguese island of forts, churches and quiet beaches.",
+  "ppl": "Somnath has been destroyed and rebuilt many times, and pilgrims see it as a symbol of resilience. In Diu, Portuguese-speaking grandparents, fishing families and Gujarati traders share whitewashed lanes, and the evening tide-watch on the fort walls is a daily ritual.",
+  "eat": [
+   "Kathiyawadi thali",
+   "Diu seafood",
+   "Bebinca (Diu)"
+  ],
+  "fest": [
+   [
+    "Kartik Purnima fair",
+    11
+   ],
+   [
+    "Mahashivratri",
+    2
+   ]
+  ],
+  "lang": "Gujarati, Portuguese (Diu)",
+  "go": "Veraval railway station 7 km; Diu airport",
+  "w": "Somnath_temple",
+  "hub": [
+   "Somnath",
+   20.888,
+   70.401
+  ],
+  "places": [
+   {
+    "n": "Somnath Temple",
+    "c": "temple",
+    "ll": [
+     20.888,
+     70.4013
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "06:00-21:30",
+    "s": 10,
+    "p": 9,
+    "d": "The first of the twelve Jyotirlingas, rebuilt in 1951 on the edge of the Arabian Sea.",
+    "w": "Somnath_temple"
+   },
+   {
+    "n": "Somnath light & sound show",
+    "c": "culture",
+    "ll": [
+     20.8885,
+     70.401
+    ],
+    "m": 60,
+    "f": 30,
+    "o": "19:45-21:00",
+    "s": 8,
+    "p": 7,
+    "d": "The temple's story told against its own walls with the sea behind.",
+    "a": "n"
+   },
+   {
+    "n": "Triveni Sangam Ghat",
+    "c": "spiritual",
+    "ll": [
+     20.896,
+     70.41
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 7,
+    "p": 5,
+    "d": "Where three rivers meet the sea; pilgrims bathe before darshan."
+   },
+   {
+    "n": "Diu Fort",
+    "c": "fort",
+    "ll": [
+     20.715,
+     70.997
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 6,
+    "d": "A 1535 Portuguese sea fort with cannons, a lighthouse and a prison island offshore.",
+    "w": "Diu_Fort"
+   },
+   {
+    "n": "Naida Caves",
+    "c": "cave",
+    "ll": [
+     20.716,
+     70.99
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 4,
+    "d": "A web of quarried caves with sunlight falling through holes in the roof.",
+    "w": "Naida_Caves"
+   },
+   {
+    "n": "Nagoa Beach",
+    "c": "beach",
+    "ll": [
+     20.709,
+     70.926
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "07:00-20:00",
+    "s": 7,
+    "p": 6,
+    "d": "A horseshoe beach lined with hoka palms found nowhere else in India."
+   },
+   {
+    "n": "St Paul's Church, Diu",
+    "c": "church",
+    "ll": [
+     20.715,
+     70.989
+    ],
+    "m": 25,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 5,
+    "d": "A Baroque church of 1610 with a carved wooden altar."
+   }
+  ]
+ },
+ {
+  "id": "kevadia",
+  "n": "Statue of Unity (Kevadia)",
+  "st": "Gujarat",
+  "r": "West",
+  "ty": [
+   "heritage"
+  ],
+  "ll": [
+   21.838,
+   73.719
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   7,
+   8,
+   9
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "hills",
+  "food": 700,
+  "stay": 3000,
+  "pop": 7,
+  "alt": 100,
+  "tag": "The world's tallest statue on the Narmada",
+  "ab": "The 182 m Statue of Unity of Sardar Patel stands on an island facing the Sardar Sarovar Dam, with gardens, a jungle safari and river cruises around it.",
+  "ppl": "Tadvi and Bhil Adivasi villages surround Kevadia, and many young people from these villages now work as guides and drivers. Look for their warli-style wall paintings and bamboo crafts at the haat.",
+  "eat": [
+   "Gujarati thali",
+   "Tribal millet dishes"
+  ],
+  "fest": [],
+  "lang": "Gujarati, Hindi",
+  "go": "Ekta Nagar railway station; Vadodara airport 90 km",
+  "w": "Statue_of_Unity",
+  "hub": [
+   "Ekta Nagar",
+   21.838,
+   73.719
+  ],
+  "places": [
+   {
+    "n": "Statue of Unity viewing gallery",
+    "c": "heritage",
+    "ll": [
+     21.838,
+     73.7191
+    ],
+    "m": 120,
+    "f": 380,
+    "o": "08:00-18:00",
+    "x": [
+     1
+    ],
+    "s": 9,
+    "p": 9,
+    "d": "Lifts take you 153 m up inside the statue to look out over the dam and the Satpura hills.",
+    "w": "Statue_of_Unity"
+   },
+   {
+    "n": "Sardar Sarovar Dam viewpoint",
+    "c": "viewpoint",
+    "ll": [
+     21.83,
+     73.747
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-18:00",
+    "x": [
+     1
+    ],
+    "s": 8,
+    "p": 6,
+    "d": "A huge concrete dam on the Narmada, spectacular when its gates open in the monsoon.",
+    "w": "Sardar_Sarovar_Dam"
+   },
+   {
+    "n": "Laser show",
+    "c": "culture",
+    "ll": [
+     21.8385,
+     73.7185
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "19:00-20:00",
+    "x": [
+     1
+    ],
+    "s": 7,
+    "p": 7,
+    "d": "Projection on the statue telling Sardar Patel's story.",
+    "a": "n"
+   },
+   {
+    "n": "Jungle safari park",
+    "c": "wildlife",
+    "ll": [
+     21.842,
+     73.739
+    ],
+    "m": 120,
+    "f": 200,
+    "o": "08:00-18:00",
+    "x": [
+     1
+    ],
+    "s": 7,
+    "p": 6,
+    "d": "A large zoological park of Indian and world animals, good with children."
+   },
+   {
+    "n": "Narmada river cruise",
+    "c": "nature",
+    "ll": [
+     21.835,
+     73.705
+    ],
+    "m": 60,
+    "f": 300,
+    "o": "09:00-17:00",
+    "x": [
+     1
+    ],
+    "s": 7,
+    "p": 5,
+    "d": "A boat ride on the reservoir past the statue and forested hills."
+   }
+  ]
+ },
+ {
+  "id": "mumbai",
+  "n": "Mumbai",
+  "st": "Maharashtra",
+  "r": "West",
+  "ty": [
+   "city",
+   "heritage",
+   "beach"
+  ],
+  "ll": [
+   19.076,
+   72.8777
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "city",
+  "food": 1100,
+  "stay": 4000,
+  "pop": 10,
+  "alt": 14,
+  "tag": "The maximum city of sea faces, film stars and vada pav",
+  "ab": "Mumbai is India's busiest, richest city, built on seven islands: Gothic railway stations and Art Deco seafronts, Bollywood, ancient cave temples and a street food culture that never stops.",
+  "ppl": "Mumbai runs on the local train and the dabbawalas, who deliver 200,000 home-cooked lunches a day with a colour-code system. Koli fisherfolk, the city's first people, still live in Worli and Versova villages. Ganeshotsav turns the whole city into a festival, and everybody, rich or poor, eats vada pav.",
+  "eat": [
+   "Vada pav",
+   "Pav bhaji",
+   "Bhel puri on the beach",
+   "Bombay sandwich",
+   "Parsi berry pulao",
+   "Koli fish thali"
+  ],
+  "fest": [
+   [
+    "Ganesh Chaturthi",
+    9
+   ],
+   [
+    "Kala Ghoda Arts Festival",
+    2
+   ]
+  ],
+  "lang": "Marathi, Hindi, Gujarati, English",
+  "go": "Chhatrapati Shivaji Maharaj International Airport; CSMT and Mumbai Central stations",
+  "w": "Mumbai",
+  "hub": [
+   "Colaba Causeway",
+   18.92,
+   72.832
+  ],
+  "places": [
+   {
+    "n": "Gateway of India",
+    "c": "heritage",
+    "ll": [
+     18.922,
+     72.8347
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "24h",
+    "s": 8,
+    "p": 10,
+    "d": "A basalt arch on the waterfront built for King George V, opposite the Taj Palace hotel.",
+    "w": "Gateway_of_India"
+   },
+   {
+    "n": "Elephanta Caves",
+    "c": "cave",
+    "ll": [
+     18.9633,
+     72.9315
+    ],
+    "m": 240,
+    "f": 300,
+    "o": "09:00-17:30",
+    "x": [
+     1
+    ],
+    "s": 9,
+    "p": 8,
+    "d": "An hour's ferry ride to a rock-cut cave temple with the giant three-headed Shiva.",
+    "w": "Elephanta_Caves",
+    "a": "e"
+   },
+   {
+    "n": "Chhatrapati Shivaji Terminus",
+    "c": "heritage",
+    "ll": [
+     18.94,
+     72.8353
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "24h",
+    "s": 9,
+    "p": 9,
+    "d": "A Victorian Gothic railway station, still India's busiest, lit up at night.",
+    "w": "Chhatrapati_Shivaji_Maharaj_Terminus"
+   },
+   {
+    "n": "Marine Drive sunset",
+    "c": "viewpoint",
+    "ll": [
+     18.944,
+     72.823
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "24h",
+    "s": 9,
+    "p": 10,
+    "d": "The 'Queen's Necklace' seafront where all of Mumbai comes to watch the sun go down.",
+    "w": "Marine_Drive,_Mumbai",
+    "a": "n"
+   },
+   {
+    "n": "CSMVS Museum",
+    "c": "museum",
+    "ll": [
+     18.9269,
+     72.8327
+    ],
+    "m": 120,
+    "f": 150,
+    "o": "10:15-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "Indian sculpture, miniatures and Tibetan art in a domed Indo-Saracenic building.",
+    "w": "Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya"
+   },
+   {
+    "n": "Haji Ali Dargah",
+    "c": "mosque",
+    "ll": [
+     18.9827,
+     72.8089
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "05:30-22:00",
+    "s": 8,
+    "p": 9,
+    "d": "A white shrine on an islet reached by a causeway that floods at high tide.",
+    "w": "Haji_Ali_Dargah"
+   },
+   {
+    "n": "Dhobi Ghat",
+    "c": "culture",
+    "ll": [
+     18.982,
+     72.825
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 7,
+    "d": "The world's biggest open-air laundry, where washermen have beaten clothes clean for 130 years.",
+    "w": "Dhobi_Ghat_(Mumbai)"
+   },
+   {
+    "n": "Banganga Tank",
+    "c": "heritage",
+    "ll": [
+     18.945,
+     72.794
+    ],
+    "m": 40,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 8,
+    "p": 3,
+    "d": "An ancient temple tank hidden among the mansions of Malabar Hill.",
+    "w": "Banganga_Tank"
+   },
+   {
+    "n": "Kala Ghoda art district",
+    "c": "culture",
+    "ll": [
+     18.9285,
+     72.832
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "10:00-20:00",
+    "s": 8,
+    "p": 5,
+    "d": "Galleries, Art Deco cafés and the David Sassoon library in the old fort area."
+   },
+   {
+    "n": "Juhu Beach street food",
+    "c": "food",
+    "ll": [
+     19.099,
+     72.826
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "16:00-23:00",
+    "s": 7,
+    "p": 8,
+    "d": "Pav bhaji, bhel and gola on the sand as the sun sets.",
+    "a": "n"
+   },
+   {
+    "n": "Bandra Fort & Bandstand",
+    "c": "viewpoint",
+    "ll": [
+     19.042,
+     72.819
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "08:00-21:00",
+    "s": 7,
+    "p": 7,
+    "d": "A Portuguese fort ruin and sea walk past film stars' homes, with the Sea Link view."
+   },
+   {
+    "n": "Kanheri Caves, Sanjay Gandhi NP",
+    "c": "cave",
+    "ll": [
+     19.2083,
+     72.9061
+    ],
+    "m": 180,
+    "f": 100,
+    "o": "07:30-17:00",
+    "x": [
+     1
+    ],
+    "s": 9,
+    "p": 4,
+    "d": "109 Buddhist caves inside a forest national park, in the middle of the city.",
+    "w": "Kanheri_Caves"
+   },
+   {
+    "n": "Siddhivinayak Temple",
+    "c": "temple",
+    "ll": [
+     19.0169,
+     72.8301
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "05:30-22:00",
+    "s": 8,
+    "p": 9,
+    "d": "Mumbai's favourite Ganesh temple, busy with film stars and commuters alike.",
+    "w": "Shree_Siddhivinayak_Temple"
+   }
+  ]
+ },
+ {
+  "id": "lonavala",
+  "n": "Lonavala & Khandala",
+  "st": "Maharashtra",
+  "r": "West",
+  "ty": [
+   "hills",
+   "adventure"
+  ],
+  "ll": [
+   18.7546,
+   73.4062
+  ],
+  "bm": [
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   1,
+   2
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "hills",
+  "food": 800,
+  "stay": 3000,
+  "pop": 8,
+  "alt": 624,
+  "tag": "Monsoon waterfalls, forts and chikki in the Sahyadris",
+  "ab": "Lonavala sits on the Sahyadri crest between Mumbai and Pune; in the monsoon its cliffs run with waterfalls, and ancient Buddhist caves and Maratha forts crown the hills.",
+  "ppl": "The Sahyadri forts are a pilgrimage for Maharashtrians, who trek them in groups singing praises of Shivaji Maharaj. Village families around Pawna run lakeside camps, and Lonavala's chikki makers, many of them Gujarati families, have made peanut-jaggery sweets for a century.",
+  "eat": [
+   "Chikki",
+   "Vada pav",
+   "Corn bhutta in the rain",
+   "Misal pav"
+  ],
+  "fest": [],
+  "lang": "Marathi, Hindi",
+  "go": "Lonavala station on the Mumbai–Pune line",
+  "w": "Lonavala",
+  "hub": [
+   "Lonavala market",
+   18.7546,
+   73.4062
+  ],
+  "places": [
+   {
+    "n": "Karla Caves",
+    "c": "cave",
+    "ll": [
+     18.783,
+     73.471
+    ],
+    "m": 90,
+    "f": 25,
+    "o": "09:00-17:00",
+    "s": 9,
+    "p": 6,
+    "d": "A 2,000-year-old Buddhist prayer hall with a wooden ribbed ceiling, the largest of its kind.",
+    "w": "Karla_Caves",
+    "a": "e"
+   },
+   {
+    "n": "Bhaja Caves",
+    "c": "cave",
+    "ll": [
+     18.729,
+     73.483
+    ],
+    "m": 75,
+    "f": 25,
+    "o": "08:00-17:30",
+    "s": 8,
+    "p": 4,
+    "d": "22 rock-cut caves with early stupas and a waterfall beside them in the monsoon.",
+    "w": "Bhaja_Caves"
+   },
+   {
+    "n": "Lohagad Fort",
+    "c": "fort",
+    "ll": [
+     18.709,
+     73.476
+    ],
+    "m": 180,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 9,
+    "p": 7,
+    "d": "An easy trek to a Maratha fort with the scorpion-tail 'Vinchu Kata' ridge.",
+    "w": "Lohagad",
+    "a": "e"
+   },
+   {
+    "n": "Tiger's Leap",
+    "c": "viewpoint",
+    "ll": [
+     18.729,
+     73.378
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 8,
+    "d": "A 650 m cliff edge above the Konkan, full of waterfalls in the rains."
+   },
+   {
+    "n": "Bhushi Dam",
+    "c": "waterfall",
+    "ll": [
+     18.764,
+     73.395
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-17:00",
+    "mo": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "s": 7,
+    "p": 8,
+    "d": "Water pours over the dam steps in the monsoon and families sit right in it.",
+    "a": "k"
+   },
+   {
+    "n": "Pawna Lake camping",
+    "c": "lake",
+    "ll": [
+     18.674,
+     73.495
+    ],
+    "m": 180,
+    "f": 1500,
+    "o": "16:00-23:59",
+    "s": 8,
+    "p": 7,
+    "d": "Lakeside tents, barbecue and stargazing with Tung and Tikona forts behind.",
+    "a": "n"
+   }
+  ]
+ },
+ {
+  "id": "matheran",
+  "n": "Matheran",
+  "st": "Maharashtra",
+  "r": "West",
+  "ty": [
+   "hills",
+   "offbeat"
+  ],
+  "ll": [
+   18.9866,
+   73.2679
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "hills",
+  "food": 800,
+  "stay": 2800,
+  "pop": 6,
+  "alt": 800,
+  "tag": "Asia's only car-free hill station, with red earth paths",
+  "ab": "Matheran bans all vehicles: you arrive by toy train or on foot and explore red-earth forest paths to dozens of cliff-edge viewpoints over the Western Ghats.",
+  "ppl": "Without cars, Matheran moves on horses, hand-pulled rickshaws and porters, many from the Dhangar shepherd and Katkari tribal communities. Families run old Parsi and Bohra bungalows as guesthouses, and the town falls quiet after dark.",
+  "eat": [
+   "Chikki",
+   "Kanda bhaji",
+   "Fudge from old shops"
+  ],
+  "fest": [],
+  "lang": "Marathi, Hindi",
+  "go": "Neral station, then toy train or taxi to Dasturi",
+  "w": "Matheran",
+  "hub": [
+   "Matheran market",
+   18.9866,
+   73.2679
+  ],
+  "places": [
+   {
+    "n": "Neral–Matheran toy train",
+    "c": "heritage",
+    "ll": [
+     19.027,
+     73.318
+    ],
+    "m": 150,
+    "f": 300,
+    "o": "06:40-17:00",
+    "mo": [
+     10,
+     11,
+     12,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "s": 9,
+    "p": 7,
+    "d": "A 1907 narrow-gauge train climbing 21 km of hairpins through forest.",
+    "w": "Matheran_Hill_Railway"
+   },
+   {
+    "n": "Panorama Point",
+    "c": "viewpoint",
+    "ll": [
+     19.005,
+     73.273
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-19:00",
+    "s": 9,
+    "p": 7,
+    "d": "A 360° view of the ghats; sunrise here is the best in town."
+   },
+   {
+    "n": "Louisa Point",
+    "c": "viewpoint",
+    "ll": [
+     18.976,
+     73.256
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "06:00-19:00",
+    "s": 8,
+    "p": 7,
+    "d": "A cliff with waterfalls and the ruins of Prabal fort across the valley."
+   },
+   {
+    "n": "Charlotte Lake",
+    "c": "lake",
+    "ll": [
+     18.981,
+     73.264
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 7,
+    "p": 6,
+    "d": "The town's water source, ringed by forest and a small temple."
+   },
+   {
+    "n": "One Tree Hill",
+    "c": "viewpoint",
+    "ll": [
+     18.972,
+     73.269
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 7,
+    "p": 4,
+    "d": "A lone tree on a jutting hill, reached by a forest trail."
+   },
+   {
+    "n": "Echo Point",
+    "c": "viewpoint",
+    "ll": [
+     18.983,
+     73.258
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "07:00-18:30",
+    "s": 7,
+    "p": 7,
+    "d": "Shout into the valley and hear it answer back."
+   }
+  ]
+ },
+ {
+  "id": "mahabaleshwar",
+  "n": "Mahabaleshwar & Panchgani",
+  "st": "Maharashtra",
+  "r": "West",
+  "ty": [
+   "hills"
+  ],
+  "ll": [
+   17.9237,
+   73.6586
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "days": [
+   2,
+   2
+  ],
+  "terr": "hills",
+  "food": 800,
+  "stay": 2800,
+  "pop": 7,
+  "alt": 1353,
+  "tag": "Strawberry farms, misty points and a Shivaji fort",
+  "ab": "Mahabaleshwar is a plateau of forest and viewpoints where five rivers rise; strawberry farms fill the slopes in winter, and Shivaji's Pratapgad fort is nearby.",
+  "ppl": "Farmers here grow most of India's strawberries, and from December families sell them fresh with cream at roadside stalls. In Old Mahabaleshwar, the Krishna river's source is a temple where water flows from a cow's mouth, and pilgrims come from all over Maharashtra.",
+  "eat": [
+   "Strawberries with cream",
+   "Corn pattice",
+   "Mulberry crush"
+  ],
+  "fest": [
+   [
+    "Strawberry season",
+    2
+   ]
+  ],
+  "lang": "Marathi",
+  "go": "Pune 120 km; Wathar station",
+  "w": "Mahabaleshwar",
+  "hub": [
+   "Mahabaleshwar market",
+   17.9237,
+   73.6586
+  ],
+  "places": [
+   {
+    "n": "Arthur's Seat",
+    "c": "viewpoint",
+    "ll": [
+     17.945,
+     73.634
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 9,
+    "p": 8,
+    "d": "The 'queen of points', a cliff dropping into the Savitri valley."
+   },
+   {
+    "n": "Venna Lake",
+    "c": "lake",
+    "ll": [
+     17.93,
+     73.66
+    ],
+    "m": 60,
+    "f": 100,
+    "o": "07:00-19:00",
+    "s": 7,
+    "p": 8,
+    "d": "Boating and horse rides around a lake lined with snack stalls."
+   },
+   {
+    "n": "Pratapgad Fort",
+    "c": "fort",
+    "ll": [
+     17.936,
+     73.578
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "09:00-18:00",
+    "s": 9,
+    "p": 6,
+    "d": "Where Shivaji defeated Afzal Khan in 1659; walls with views to the Konkan.",
+    "w": "Pratapgad",
+    "a": "e"
+   },
+   {
+    "n": "Strawberry farms",
+    "c": "food",
+    "ll": [
+     17.905,
+     73.725
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "09:00-18:00",
+    "mo": [
+     12,
+     1,
+     2,
+     3,
+     4
+    ],
+    "s": 8,
+    "p": 6,
+    "d": "Pick strawberries in the fields and eat them with fresh cream."
+   },
+   {
+    "n": "Panchgani Table Land",
+    "c": "viewpoint",
+    "ll": [
+     17.925,
+     73.792
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "07:00-18:30",
+    "s": 8,
+    "p": 7,
+    "d": "A flat volcanic plateau, one of Asia's largest, with caves and sunset views."
+   },
+   {
+    "n": "Old Mahabaleshwar Temple",
+    "c": "temple",
+    "ll": [
+     17.952,
+     73.664
+    ],
+    "m": 40,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 8,
+    "p": 5,
+    "d": "The source of the Krishna river, flowing from a carved cow's mouth."
+   },
+   {
+    "n": "Lingmala Falls",
+    "c": "waterfall",
+    "ll": [
+     17.92,
+     73.688
+    ],
+    "m": 60,
+    "f": 20,
+    "o": "08:00-18:00",
+    "s": 7,
+    "p": 6,
+    "d": "A 180 m waterfall into the Venna valley, at its best after the monsoon."
+   }
+  ]
+ },
+ {
+  "id": "aurangabad",
+  "n": "Ajanta, Ellora & Aurangabad",
+  "st": "Maharashtra",
+  "r": "West",
+  "ty": [
+   "heritage"
+  ],
+  "ll": [
+   19.8762,
+   75.3433
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3,
+   7,
+   8,
+   9
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "plains",
+  "food": 700,
+  "stay": 2600,
+  "pop": 8,
+  "alt": 568,
+  "tag": "Two thousand years of art carved into rock",
+  "ab": "Chhatrapati Sambhajinagar (Aurangabad) is the base for Ellora's 34 Buddhist, Hindu and Jain caves, including the Kailasa temple carved from a single rock, and Ajanta's painted Buddhist caves.",
+  "ppl": "Weavers in the old city still make Himroo shawls and Paithani silk on wooden looms, a craft from the Nizams' time. Villagers near Ajanta remember the British officer who stumbled on the caves while hunting a tiger in 1819.",
+  "eat": [
+   "Naan qalia",
+   "Tahri",
+   "Misal",
+   "Himroo-town biryani"
+  ],
+  "fest": [
+   [
+    "Ellora Ajanta Festival",
+    12
+   ]
+  ],
+  "lang": "Marathi, Urdu",
+  "go": "Aurangabad airport; Chhatrapati Sambhajinagar station",
+  "w": "Ellora_Caves",
+  "hub": [
+   "Aurangabad city centre",
+   19.8762,
+   75.3433
+  ],
+  "places": [
+   {
+    "n": "Ellora Caves & Kailasa Temple",
+    "c": "cave",
+    "ll": [
+     20.0268,
+     75.1771
+    ],
+    "m": 240,
+    "f": 40,
+    "o": "06:00-18:00",
+    "x": [
+     2
+    ],
+    "s": 10,
+    "p": 9,
+    "d": "34 caves including Kailasa, a whole temple cut downward from one mountain of basalt.",
+    "t": "Closed on Tuesdays.",
+    "w": "Ellora_Caves"
+   },
+   {
+    "n": "Ajanta Caves",
+    "c": "cave",
+    "ll": [
+     20.5519,
+     75.7033
+    ],
+    "m": 210,
+    "f": 40,
+    "o": "09:00-17:30",
+    "x": [
+     1
+    ],
+    "s": 10,
+    "p": 8,
+    "d": "Buddhist caves in a horseshoe gorge with paintings from the 2nd century BC.",
+    "t": "Closed on Mondays; it's a 2.5-hour drive each way.",
+    "w": "Ajanta_Caves"
+   },
+   {
+    "n": "Bibi ka Maqbara",
+    "c": "heritage",
+    "ll": [
+     19.901,
+     75.32
+    ],
+    "m": 60,
+    "f": 25,
+    "o": "08:00-20:00",
+    "s": 8,
+    "p": 8,
+    "d": "The 'Taj of the Deccan', built by Aurangzeb's son for his mother.",
+    "w": "Bibi_Ka_Maqbara"
+   },
+   {
+    "n": "Daulatabad Fort",
+    "c": "fort",
+    "ll": [
+     19.943,
+     75.213
+    ],
+    "m": 120,
+    "f": 25,
+    "o": "06:00-18:00",
+    "s": 9,
+    "p": 6,
+    "d": "A hill fort with a dark spiral tunnel and a moat that once held crocodiles.",
+    "w": "Daulatabad_Fort",
+    "a": "e"
+   },
+   {
+    "n": "Grishneshwar Jyotirlinga",
+    "c": "temple",
+    "ll": [
+     20.025,
+     75.17
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "05:30-21:30",
+    "s": 8,
+    "p": 8,
+    "d": "The twelfth Jyotirlinga, a red-stone temple right beside Ellora.",
+    "w": "Grishneshwar_Temple"
+   },
+   {
+    "n": "Himroo & Paithani weaving",
+    "c": "culture",
+    "ll": [
+     19.893,
+     75.319
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "10:00-18:00",
+    "s": 7,
+    "p": 3,
+    "d": "Visit a weaving workshop near Panchakki to see Himroo shawls made on old looms."
+   }
+  ]
+ },
+ {
+  "id": "shirdi",
+  "n": "Shirdi",
+  "st": "Maharashtra",
+  "r": "West",
+  "ty": [
+   "spiritual"
+  ],
+  "ll": [
+   19.7645,
+   74.4762
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   1,
+   1
+  ],
+  "terr": "plains",
+  "food": 600,
+  "stay": 1800,
+  "pop": 9,
+  "alt": 504,
+  "tag": "Sai Baba's town, open to every faith",
+  "ab": "Shirdi grew around the samadhi of Sai Baba, a saint revered by Hindus and Muslims alike. Shani Shingnapur, the village with no doors, is 70 km away.",
+  "ppl": "Sai devotees chant 'Sabka Malik Ek' (one God for all) and the Sansthan feeds tens of thousands every day. In Shani Shingnapur, families trust the deity so completely that houses, shops and even the bank have no locks on their doors.",
+  "eat": [
+   "Prasadalaya thali",
+   "Puran poli",
+   "Misal"
+  ],
+  "fest": [
+   [
+    "Ram Navami",
+    4
+   ],
+   [
+    "Guru Purnima",
+    7
+   ],
+   [
+    "Vijayadashami (Baba's samadhi day)",
+    10
+   ]
+  ],
+  "lang": "Marathi, Hindi",
+  "go": "Shirdi airport; Sainagar Shirdi station",
+  "w": "Shirdi",
+  "hub": [
+   "Sai Baba temple gate",
+   19.766,
+   74.477
+  ],
+  "places": [
+   {
+    "n": "Sai Baba Samadhi Mandir",
+    "c": "temple",
+    "ll": [
+     19.766,
+     74.477
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "04:00-23:00",
+    "s": 10,
+    "p": 10,
+    "d": "The marble shrine over Sai Baba's tomb; the kakad aarti at dawn is moving.",
+    "w": "Shirdi_Sai_Baba_Temple"
+   },
+   {
+    "n": "Dwarkamai",
+    "c": "spiritual",
+    "ll": [
+     19.7663,
+     74.4775
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "05:00-22:00",
+    "s": 9,
+    "p": 9,
+    "d": "The mosque where Baba lived, with the sacred fire (dhuni) he lit still burning."
+   },
+   {
+    "n": "Chavadi & Gurusthan",
+    "c": "spiritual",
+    "ll": [
+     19.7658,
+     74.4778
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "05:00-22:00",
+    "s": 7,
+    "p": 8,
+    "d": "The places where Baba slept on alternate nights and first appeared as a young man."
+   },
+   {
+    "n": "Shani Shingnapur",
+    "c": "temple",
+    "ll": [
+     19.398,
+     74.815
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "05:00-22:00",
+    "s": 8,
+    "p": 7,
+    "d": "An open-air Shani shrine and a village where homes have no doors.",
+    "w": "Shani_Shingnapur"
+   },
+   {
+    "n": "Sai Heritage Village",
+    "c": "culture",
+    "ll": [
+     19.77,
+     74.47
+    ],
+    "m": 45,
+    "f": 50,
+    "o": "09:00-21:00",
+    "s": 6,
+    "p": 4,
+    "d": "A recreation of Shirdi as it was in Baba's time."
+   }
+  ]
+ },
+ {
+  "id": "north-goa",
+  "n": "North Goa",
+  "st": "Goa",
+  "r": "West",
+  "ty": [
+   "beach",
+   "heritage"
+  ],
+  "ll": [
+   15.59,
+   73.74
+  ],
+  "bm": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   3,
+   4
+  ],
+  "terr": "coast",
+  "food": 1100,
+  "stay": 3500,
+  "pop": 10,
+  "alt": 10,
+  "tag": "Beaches, forts, flea markets and Goa's party coast",
+  "ab": "North Goa runs from Candolim to Arambol: busy beaches and nightlife, Portuguese forts on red cliffs, the World Heritage churches of Old Goa and Panaji's Latin quarter.",
+  "ppl": "Goan life is susegad: unhurried. Catholic families with Portuguese surnames live in colourful houses with balcões (porch seats), and the bakery boy still cycles round at dawn honking a horn. Feni is distilled from cashew in village stills, and fishermen's wooden canoes line every beach at dawn.",
+  "eat": [
+   "Fish curry rice",
+   "Prawn balchão",
+   "Pork vindaloo",
+   "Bebinca",
+   "Ros omelette"
+  ],
+  "fest": [
+   [
+    "Goa Carnival",
+    2
+   ],
+   [
+    "Christmas & New Year",
+    12
+   ],
+   [
+    "Shigmo",
+    3
+   ],
+   [
+    "Feast of St Francis Xavier",
+    12
+   ]
+  ],
+  "lang": "Konkani, English, Hindi",
+  "go": "Mopa (Manohar) International Airport; Thivim station",
+  "w": "North_Goa_district",
+  "hub": [
+   "Candolim",
+   15.518,
+   73.762
+  ],
+  "places": [
+   {
+    "n": "Fort Aguada",
+    "c": "fort",
+    "ll": [
+     15.492,
+     73.773
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "09:30-18:00",
+    "s": 8,
+    "p": 9,
+    "d": "A 1612 Portuguese fort and lighthouse at the mouth of the Mandovi.",
+    "w": "Fort_Aguada"
+   },
+   {
+    "n": "Chapora Fort sunset",
+    "c": "fort",
+    "ll": [
+     15.606,
+     73.736
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "09:00-18:30",
+    "s": 8,
+    "p": 8,
+    "d": "Red laterite walls above Vagator beach, with a sweeping sunset view.",
+    "w": "Chapora_Fort",
+    "a": "n"
+   },
+   {
+    "n": "Basilica of Bom Jesus, Old Goa",
+    "c": "church",
+    "ll": [
+     15.5009,
+     73.9116
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "09:00-18:30",
+    "s": 9,
+    "p": 9,
+    "d": "The baroque church holding St Francis Xavier's body, with Sé Cathedral across the lawn.",
+    "w": "Basilica_of_Bom_Jesus"
+   },
+   {
+    "n": "Fontainhas, Panaji",
+    "c": "culture",
+    "ll": [
+     15.497,
+     73.831
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "08:00-20:00",
+    "s": 9,
+    "p": 6,
+    "d": "Panaji's Latin quarter of yellow, blue and green Portuguese houses and tiny bakeries.",
+    "w": "Fontainhas"
+   },
+   {
+    "n": "Anjuna Flea Market",
+    "c": "market",
+    "ll": [
+     15.574,
+     73.74
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "09:00-18:00",
+    "x": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     6
+    ],
+    "s": 7,
+    "p": 8,
+    "d": "Every Wednesday since the 1960s: Tibetan, Kashmiri and Goan stalls on a beach headland."
+   },
+   {
+    "n": "Arpora Saturday Night Market",
+    "c": "nightlife",
+    "ll": [
+     15.564,
+     73.759
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "18:00-23:59",
+    "x": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "s": 8,
+    "p": 7,
+    "d": "Saturday nights only: food stalls, live music and crafts under fairy lights.",
+    "a": "n"
+   },
+   {
+    "n": "Baga & Calangute beach",
+    "c": "beach",
+    "ll": [
+     15.556,
+     73.753
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "24h",
+    "s": 7,
+    "p": 10,
+    "d": "Goa's busiest beaches: water sports by day, beach shacks and clubs by night."
+   },
+   {
+    "n": "Arambol beach & sweet water lake",
+    "c": "beach",
+    "ll": [
+     15.686,
+     73.704
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "24h",
+    "s": 8,
+    "p": 6,
+    "d": "A laid-back beach with a freshwater lake behind it and drum circles at sunset.",
+    "a": "n"
+   },
+   {
+    "n": "Divar Island ferry",
+    "c": "village",
+    "ll": [
+     15.525,
+     73.9
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "07:00-20:00",
+    "s": 8,
+    "p": 2,
+    "d": "A free ferry to a quiet island of paddy fields, churches and old Goan homes."
+   },
+   {
+    "n": "Dudhsagar Falls",
+    "c": "waterfall",
+    "ll": [
+     15.3144,
+     74.3143
+    ],
+    "m": 240,
+    "f": 600,
+    "o": "08:00-16:00",
+    "mo": [
+     10,
+     11,
+     12,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "s": 9,
+    "p": 8,
+    "d": "A four-tiered 310 m waterfall like spilled milk, reached by jeep through the forest.",
+    "w": "Dudhsagar_Falls"
+   },
+   {
+    "n": "Tito's Lane, Baga",
+    "c": "nightlife",
+    "ll": [
+     15.553,
+     73.753
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "20:00-23:59",
+    "s": 6,
+    "p": 8,
+    "d": "Goa's most famous street of clubs and bars.",
+    "a": "nk"
+   }
+  ]
+ },
+ {
+  "id": "south-goa",
+  "n": "South Goa",
+  "st": "Goa",
+  "r": "West",
+  "ty": [
+   "beach",
+   "offbeat"
+  ],
+  "ll": [
+   15.15,
+   73.98
+  ],
+  "bm": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   4
+  ],
+  "terr": "coast",
+  "food": 1000,
+  "stay": 3200,
+  "pop": 8,
+  "alt": 10,
+  "tag": "Quiet palm-fringed bays and old Portuguese mansions",
+  "ab": "South Goa is calmer: crescent beaches like Palolem and Agonda, hidden coves, a cliff fort and grand Portuguese-era mansions in villages like Chandor.",
+  "ppl": "In Chandor and Loutolim, old Goan families still live in 300-year-old mansions full of Chinese porcelain and chandeliers, and some open their doors to visitors. Turtle-protecting fishermen at Galgibaga guard Olive Ridley nests on the beach each winter.",
+  "eat": [
+   "Xacuti",
+   "Kingfish recheado",
+   "Sannas",
+   "Feni",
+   "Poi bread"
+  ],
+  "fest": [
+   [
+    "Christmas",
+    12
+   ],
+   [
+    "Goa Carnival",
+    2
+   ]
+  ],
+  "lang": "Konkani, English",
+  "go": "Dabolim airport; Madgaon station",
+  "w": "South_Goa_district",
+  "hub": [
+   "Palolem",
+   15.01,
+   74.023
+  ],
+  "places": [
+   {
+    "n": "Palolem Beach",
+    "c": "beach",
+    "ll": [
+     15.01,
+     74.023
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "24h",
+    "s": 9,
+    "p": 8,
+    "d": "A perfect crescent of sand and palms, with kayaking to Butterfly Beach.",
+    "w": "Palolem"
+   },
+   {
+    "n": "Cabo de Rama Fort",
+    "c": "fort",
+    "ll": [
+     15.088,
+     73.92
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "09:00-18:00",
+    "s": 8,
+    "p": 4,
+    "d": "A clifftop fort with a little church and a path down to a secret beach.",
+    "w": "Cabo_de_Rama"
+   },
+   {
+    "n": "Butterfly Beach",
+    "c": "beach",
+    "ll": [
+     15.02,
+     74.01
+    ],
+    "m": 120,
+    "f": 400,
+    "o": "08:00-17:00",
+    "s": 9,
+    "p": 3,
+    "d": "A hidden cove reached only by boat or forest trail, where dolphins often swim."
+   },
+   {
+    "n": "Agonda Beach",
+    "c": "beach",
+    "ll": [
+     15.045,
+     73.988
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "24h",
+    "s": 8,
+    "p": 5,
+    "d": "A long, peaceful beach where turtles nest and huts stand on stilts."
+   },
+   {
+    "n": "Cola Beach",
+    "c": "beach",
+    "ll": [
+     15.053,
+     73.962
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 3,
+    "d": "A lagoon meets the sea between forested hills, one of Goa's prettiest spots."
+   },
+   {
+    "n": "Braganza House, Chandor",
+    "c": "heritage",
+    "ll": [
+     15.261,
+     74.043
+    ],
+    "m": 60,
+    "f": 200,
+    "o": "10:00-17:00",
+    "s": 9,
+    "p": 4,
+    "d": "A 17th-century mansion with a ballroom, still lived in by the same family.",
+    "w": "Braganza_House"
+   },
+   {
+    "n": "Galgibaga turtle beach",
+    "c": "wildlife",
+    "ll": [
+     14.964,
+     74.046
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 2,
+    "d": "An empty beach of casuarinas where Olive Ridley turtles nest in winter."
+   },
+   {
+    "n": "Spice plantation, Ponda",
+    "c": "nature",
+    "ll": [
+     15.402,
+     74.023
+    ],
+    "m": 120,
+    "f": 450,
+    "o": "09:00-16:00",
+    "s": 7,
+    "p": 6,
+    "d": "A tour of pepper, cardamom and nutmeg gardens ending with a Goan lunch on banana leaves."
+   },
+   {
+    "n": "Colva Beach",
+    "c": "beach",
+    "ll": [
+     15.279,
+     73.922
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "24h",
+    "s": 7,
+    "p": 7,
+    "d": "A long white beach where local families come in the evening.",
+    "a": "n"
+   }
+  ]
+ }
+]

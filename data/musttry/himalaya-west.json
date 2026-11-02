@@ -1,0 +1,107 @@
+{
+"srinagar": [
+["Wazwan (rogan josh and gushtaba)", "Dish", "Old city restaurants and wedding-style feasts", 700, "The multi-course Kashmiri feast: fiery rogan josh, silky meatball gushtaba and more, shared from a large copper platter.", "Wazwan"],
+["Noon chai", "Drink", "Old city bakeries", 20, "The pink, salty Kashmiri tea made with soda and milk, served with fresh bread in the morning.", "Noon chai"],
+["Kahwa", "Drink", "Lal Chowk cafés", 50, "Green tea with saffron, cardamom and almonds. The cup that welcomes you to Kashmir.", "Kahwa"],
+["Girda and lavasa breads", "Breakfast", "Bakeries in Lal Chowk", 40, "Warm, crusty Kashmiri breads eaten with butter and noon chai. Early mornings only, as the baker sells out.", "Kashmiri bread"],
+["Shikara at sunrise on Dal Lake", "Experience", "Dal Lake ghats", 600, "Glide between lotus leaves and floating vegetable gardens while the lake mists lift.", "Dal Lake shikara"]
+],
+"gulmarg": [
+["Kahwa", "Drink", "Cafés near the Gondola station", 60, "Saffron-and-almond tea. After a cold slope it tastes like a hug.", "Kahwa"],
+["Harissa", "Dish", "Local eateries (winter only)", 250, "A winter breakfast of slow-cooked, pounded meat and rice, served with a flourish of hot oil.", "Harissa Kashmir"],
+["Kashmiri pulao", "Dish", "Gulmarg restaurants", 250, "Sweet, mild pulao with dry fruits and saffron, usually eaten with a spicy gravy.", "Kashmiri pulao"],
+["Gulmarg Gondola", "Experience", "Phase 1 and Phase 2", 1500, "One of the highest cable cars in the world carries you above the pine forests to the snow line of Apharwat.", "Gulmarg Gondola"],
+["Skiing or sledding on Apharwat", "Experience", "Apharwat slopes", 1200, "Learn to ski or just sled down the slopes with a guide. Winter and early spring have the best snow.", "Gulmarg skiing"]
+],
+"pahalgam": [
+["Fresh trout", "Dish", "Riverside restaurants on the Lidder", 600, "Local trout pan-fried with Kashmiri spices, served beside the river it came from.", "Trout"],
+["Kahwa", "Drink", "Pahalgam market", 50, "Saffron-almond green tea, hot in a copper samovar.", "Kahwa"],
+["Bakarkhani", "Street food", "Bakeries in the market", 20, "A crisp, flaky, layered bread eaten with tea. The Kashmiri teatime staple.", "Bakarkhani"],
+["Walnuts and apples from roadside stalls", "Local special", "Roadside orchards", 150, "Fresh Kashmiri walnuts and apples sold by the families who grow them. Pick them up in September and October.", "Kashmiri walnuts"],
+["Walk in Aru Valley", "Experience", "Aru Valley", 0, "A pine-fringed meadow with a river and snow peaks. Shepherds and ponies graze among the wildflowers.", "Aru Valley"]
+],
+"sonamarg": [
+["Rajma-chawal at roadside dhabas", "Dish", "Dhabas on the highway", 120, "Red kidney beans in a thick gravy with rice, the warm, simple meal of the high road.", "Rajma chawal"],
+["Kahwa", "Drink", "Sonamarg tea stalls", 50, "Saffron green tea to warm your hands in the thin mountain air.", "Kahwa"],
+["Fresh trout", "Dish", "Restaurants along the Sindh river", 600, "River trout fried crisp with a squeeze of lemon. Eat it near the water.", "Trout"],
+["Thajiwas Glacier pony ride", "Experience", "Thajiwas Glacier", 1500, "Ride through meadows to a glacier that sits right above the tree line, with waterfalls on the way.", "Thajiwas Glacier"],
+["Picnic on the Sindh river", "Experience", "Sindh river banks", 0, "A flask of kahwa, a rock by the water and snow peaks on every side.", "Sindh river Sonamarg"]
+],
+"leh": [
+["Thukpa", "Dish", "Cafés near Leh Main Bazaar", 150, "Noodle soup with vegetables or meat, the best fix for altitude and cold.", "Thukpa"],
+["Skyu", "Dish", "Ladakhi restaurants and homestays", 160, "Hand-rolled pasta stewed with root vegetables, a Ladakhi winter staple.", "Skyu"],
+["Butter tea (gur gur chai)", "Drink", "Homestays and Tibetan cafés", 30, "Salty tea churned with yak butter, an acquired taste that locals drink all day.", "Butter tea"],
+["Khambir bread with apricot jam", "Breakfast", "Bakeries on Main Bazaar", 80, "Thick, chewy Ladakhi bread with sweet apricot jam, the local breakfast.", "Apricot jam"],
+["Sunrise at Shanti Stupa", "Experience", "Shanti Stupa, above Leh", 0, "A short climb to a white Japanese-built stupa where the sun lights up the whole Indus valley.", "Shanti Stupa Leh"]
+],
+"katra": [
+["Rajma-chawal", "Dish", "Eateries near the Katra bus stand", 100, "Jammu's best-known meal. Creamy rajma, steamed rice and pickle.", "Rajma chawal"],
+["Kaladi kulcha", "Street food", "Katra market stalls", 80, "Pan-fried Kaladi cheese in a hot kulcha with chutney, a Jammu specialty.", "Kaladi"],
+["Dogra kadhi", "Dish", "Local restaurants", 150, "Yoghurt-and-gram-flour curry with a sour tang, the Dogra way.", "Kadhi"],
+["Dry fruits from Katra market", "Local special", "Katra bazaar", 300, "Almonds, walnuts, dried apricots and cashews. Pilgrims take them home as prasad.", "Dried fruit"],
+["The walk to the Bhawan", "Experience", "Katra to Vaishno Devi Bhawan", 0, "A 12-km uphill walk with bells, chants and thousands of pilgrims. Ponies and helicopters are an option.", "Vaishno Devi"]
+],
+"shimla": [
+["Siddu", "Street food", "Stalls near the Ridge and Mall Road", 100, "Steamed, stuffed wheat buns served with ghee and green chutney, the traditional Himachali comfort food.", "Siddu"],
+["Chha gosht", "Dish", "Restaurants on The Mall", 350, "Mutton cooked slowly in gram-flour and yoghurt gravy. A classic from the hills.", "Mutton curry"],
+["Babru", "Street food", "Local stalls", 40, "Deep-fried bread stuffed with black gram paste, eaten with chutney.", "Babru"],
+["Himachali dham", "Dish", "Restaurants and local festivals", 300, "A feast served on leaf plates: rajma, madra, sepu vadi and a sweet. Eaten sitting on the floor.", "Himachali dham"],
+["Kalka–Shimla toy train", "Experience", "Kalka–Shimla Railway", 450, "A heritage line with 100+ tunnels and curved stone viaducts, winding up through pine forests.", "Kalka-Shimla Railway"]
+],
+"manali": [
+["Siddu with ghee", "Street food", "Old Manali cafés and local homes", 100, "Hot steamed buns with walnut or poppy-seed filling, dunked in melted ghee.", "Siddu"],
+["Fresh trout", "Dish", "Restaurants on the Beas", 500, "Beas-river trout pan-fried and served with lemon and salad.", "Trout"],
+["Thukpa and momos", "Dish", "Tibetan cafés in the Mall", 120, "Hot noodle soup and steamed dumplings, the staple of Manali's Tibetan quarter.", "Thukpa"],
+["Apple cider", "Drink", "Orchards near Naggar and Manali", 150, "Crisp local apple cider and juice. September and October are the harvest months.", "Apple cider"],
+["Vashisht hot springs", "Experience", "Vashisht village", 0, "A natural hot-water spring below an ancient temple, popular after a cold day of trekking.", "Vashisht hot springs"]
+],
+"spiti": [
+["Thukpa", "Dish", "Homestays in Kaza", 150, "Noodle soup eaten around a wood stove while the wind howls outside.", "Thukpa"],
+["Momos", "Street food", "Kaza market stalls", 100, "Steamed or fried dumplings to eat with a hot chilli chutney.", "Momo"],
+["Butter tea (cha)", "Drink", "Monasteries and homestays", 30, "Salty, creamy tea poured by every Spitian host. Try it once, and finish the cup.", "Butter tea"],
+["Seabuckthorn juice", "Drink", "Kaza market", 100, "A tangy, vitamin-rich orange juice from the berries that grow wild in the cold desert.", "Sea buckthorn"],
+["Stargazing at Langza", "Experience", "Langza and Komic villages", 0, "At 4,400 m with no light pollution, the Milky Way spills across the sky from horizon to horizon.", "Langza Spiti"]
+],
+"kasol": [
+["Shakshuka and hummus", "Dish", "Riverside cafés on the Parvati", 350, "Israeli-style eggs in spicy tomato, the backpacker favourite of the valley.", "Shakshouka"],
+["Fresh trout", "Dish", "Cafés along the river", 500, "Parvati-river trout, grilled or fried and served with lemon.", "Trout"],
+["Siddu", "Street food", "Local stalls and homes", 100, "Steamed stuffed buns dunked in ghee, an old Himachali comfort food.", "Siddu"],
+["Rajma-chawal", "Dish", "Dhabas in Kasol", 120, "Hot kidney beans and rice, the cheap everyday meal of the mountains.", "Rajma chawal"],
+["Kheerganga trek", "Experience", "Barshaini to Kheerganga", 0, "A 12-km trek through pine forests ending at a hot spring in an alpine meadow.", "Kheerganga"]
+],
+"dharamshala": [
+["Momos", "Street food", "McLeod Ganj Temple Road", 90, "Tibetan steamed dumplings with hot chilli sauce, on every corner of McLeod Ganj.", "Momo"],
+["Thenthuk", "Dish", "Tibetan restaurants in McLeod Ganj", 150, "Hand-pulled noodles in a warm broth, the quintessential Tibetan comfort food.", "Thenthuk"],
+["Tibetan butter tea", "Drink", "Cafés near the Dalai Lama temple", 40, "Salty, rich tea that keeps the monks warm through winter.", "Butter tea"],
+["Kangri dham", "Dish", "Local feasts and restaurants", 300, "A traditional Himachali feast of rice, dals and sweet rice with jaggery, served on leaf plates.", "Himachali dham"],
+["Kora around the Dalai Lama temple", "Experience", "Tsuglagkhang Complex", 0, "Join monks and pilgrims walking clockwise past prayer wheels and fluttering flags.", "Tsuglagkhang Complex"]
+],
+"dalhousie": [
+["Chamba chukh", "Local special", "Chamba market", 60, "A fiery chilli-and-lemon chutney that the whole district swears by.", "Chamba chukh"],
+["Chamba madra", "Dish", "Local dhabas and homes", 200, "Chickpeas or rajma cooked in a yoghurt-and-ghee gravy, a dham classic.", "Madra"],
+["Mittha rice", "Sweet", "Dhamas and local homes", 100, "Sweet rice scented with saffron and cooked with dry fruits and jaggery.", "Mittha rice"],
+["Meadow walk at Khajjiar", "Experience", "Khajjiar, the Mini Switzerland of India", 50, "A flat, green bowl ringed by deodar forest with a small lake in the middle. Try zorbing or horse rides.", "Khajjiar"],
+["Chamba rumal embroidery", "Local special", "Handicraft shops in Chamba", 500, "Double-sided silk embroidery on cloth, a craft from the old Chamba kingdom.", "Chamba rumal"]
+],
+"kinnaur": [
+["Kinnauri apples", "Local special", "Orchards in the Sangla and Kalpa valleys", 100, "Crisp, sweet apples picked straight from the tree in September and October.", "Kinnauri apple"],
+["Dried apricots (chulli)", "Local special", "Village homestays", 150, "Sun-dried apricots eaten as snacks, and the oil from their kernels is used for cooking.", "Dried apricot"],
+["Kinnauri rajma", "Dish", "Homestays in Sangla", 120, "Small, dark kidney beans cooked slowly and served with rice.", "Rajma chawal"],
+["Siddu", "Street food", "Homes and cafés", 100, "Steamed stuffed buns dunked in ghee, a Himachali winter favourite.", "Siddu"],
+["Chitkul, the last village before Tibet", "Experience", "Chitkul", 0, "The last inhabited village on the Baspa river, where wooden houses sit below snow peaks.", "Chitkul"]
+],
+"kasauli": [
+["Bun samosa", "Street food", "Mall Road stalls", 30, "A soft bun filled with spicy potato, Kasauli's classic teatime snack.", "Samosa"],
+["Fruit cake from the old bakeries", "Sweet", "Mall Road bakeries", 250, "Dense, boozy-smelling plum cake from bakeries that have been open for generations.", "Fruit cake"],
+["Siddu", "Street food", "Local stalls", 100, "Himachali stuffed buns with ghee.", "Siddu"],
+["Chai at a Mall Road tea stall", "Drink", "Mall Road", 20, "Hot milk tea in a glass with a cloud-draped view of the valley.", "Chai"],
+["Sunset at Monkey Point", "Experience", "Monkey Point", 0, "The highest point of Kasauli, with views over the plains from Chandigarh to the Sutlej.", "Monkey Point Kasauli"]
+],
+"bir": [
+["Momos", "Street food", "Tibetan Colony, Bir", 90, "Dumplings steamed in the shadow of Chokling Monastery.", "Momo"],
+["Kangra tea", "Drink", "Tea gardens near Palampur", 60, "Light, aromatic Kangra black or green tea, grown in the same foothills.", "Kangra tea"],
+["Thukpa", "Dish", "Cafés in Bir", 120, "Noodle soup that tastes especially good after an early-morning flight.", "Thukpa"],
+["Paragliding from Billing", "Experience", "Billing take-off site", 3000, "Fly from 2,400 m with a licensed pilot and land in the meadows of Bir.", "Bir Billing paragliding"],
+["Chokling Monastery", "Experience", "Tibetan Colony, Bir", 0, "A calm, gold-roofed monastery with prayer wheels and a quiet courtyard.", "Chokling Monastery"]
+]
+}

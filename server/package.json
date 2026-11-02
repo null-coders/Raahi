@@ -1,0 +1,40 @@
+{
+  "name": "@raahi/server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "NODE_ENV=production tsx src/index.ts",
+    "db:setup": "prisma migrate deploy && prisma generate && tsx src/seed.ts",
+    "seed": "tsx src/seed.ts",
+    "validate": "tsx src/validate.ts",
+    "photos": "tsx src/prefetchPhotos.ts",
+    "typecheck": "tsc --noEmit",
+    "db:generate": "prisma generate"
+  },
+  "dependencies": {
+    "@prisma/client": "7.10.1",
+    "@raahi/planner": "*",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "node-cron": "^3.0.3",
+    "zod": "^3.23.8",
+    "@raahi/media": "*"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.9.0",
+    "@types/node-cron": "^3.0.11",
+    "prisma": "7.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "@types/better-sqlite3": "^7.6.13"
+  },
+  "optionalDependencies": {
+    "@prisma/adapter-better-sqlite3": "7.10.1",
+    "better-sqlite3": "^12.6.0"
+  }
+}

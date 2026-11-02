@@ -1,0 +1,81 @@
+{
+"coorg": [
+["Pandi curry and kadambuttu","Dish","Coorgi homestays and restaurants",350,"Dark, tangy pork curry made with kachampuli vinegar, eaten with soft rice dumplings.","Pandi curry"],
+["Akki roti","Breakfast","Homestays and local cafés",80,"Thin, soft rice-flour flatbreads served with chutney or curry.","Akki roti"],
+["Coorg coffee","Drink","Plantations and cafés",80,"Strong, aromatic coffee from shade-grown estates, sipped on the veranda where it grows.","Coorg coffee"],
+["Bembale curry","Dish","Coorgi homes",200,"A seasonal curry of bamboo shoots cooked with coconut and spices, a monsoon speciality.","Bamboo shoot curry"],
+["Coffee plantation walk and tasting","Experience","Estates near Madikeri",300,"Walk through coffee and pepper estates and taste the beans at a roasting session.","Coorg coffee plantation"]
+],
+"mysore": [
+["Mysore masala dosa","Breakfast","Vinayaka Mylari and Sri Sathyanarayana",80,"Crisp dosa with a red chutney layer and a potato filling, the original Mysore style.","Masala dosa"],
+["Mysore pak","Sweet","Guru Sweet Mart, near the palace",100,"A buttery gram-flour fudge invented in the palace kitchens. It melts in the mouth.","Mysore pak"],
+["Bisi bele bath","Dish","MTR and local darshinis",100,"A one-pot rice, lentil and vegetable dish with a spicy masala, served with ghee and boondi.","Bisi bele bath"],
+["Filter coffee","Drink","Old udupi cafés",30,"Strong decoction with hot milk, served in a steel tumbler and davara.","Filter coffee"],
+["Mysore Palace lit up","Experience","Mysore Palace, Sundays and festival evenings",100,"On Sundays and during Dasara nearly 100,000 bulbs light the palace. A sight you won't forget.","Mysore Palace"]
+],
+"hampi": [
+["Banana pancakes","Breakfast","Hampi Bazaar cafés",150,"A traveller favourite: fluffy banana pancakes with honey in the rooftop cafés.","Banana pancake"],
+["Jolada rotti","Dish","Local homes and restaurants",100,"North Karnataka's sorghum flatbread, served with spicy brinjal curry and chutney.","Jowar roti"],
+["Ennegayi","Dish","Local restaurants",150,"Small brinjals stuffed with peanut and spices, cooked in oil. A North Karnataka classic.","Ennegayi"],
+["Thali on a banana leaf","Dish","Local restaurants",150,"A South Indian meal on a leaf: rice, sambar, rasam, poriyal and a sweet.","Thali"],
+["Sunset at Matanga Hill","Experience","Matanga Hill",0,"Climb the boulder-strewn hill for the best view of the ruins as the stone turns gold.","Matanga Hill Hampi"],
+["Coracle ride on the Tungabhadra","Experience","Virupapura Gaddi and Sanapur lake",100,"Spin round in a round basket-boat on the river among boulders and rice fields.","Hampi coracle"]
+],
+"gokarna": [
+["Fish thali","Dish","Beachside restaurants",250,"A plate of rice, fish fry, fish curry and solkadhi, the coastal Karnataka lunch.","Fish thali"],
+["Neer dosa","Breakfast","Local cafés",80,"Thin, lacy rice-flour dosas served with coconut chutney or chicken curry.","Neer dosa"],
+["Mangalore buns","Street food","Roadside stalls",40,"Sweet, fluffy, deep-fried banana buns with coconut chutney.","Mangalore buns"],
+["Sunset at Kudle Beach","Experience","Kudle Beach",0,"A crescent of sand with shacks, music and a bonfire after dark.","Kudle Beach"],
+["Beach hop from Om to Paradise","Experience","Om, Half Moon and Paradise beaches",0,"Walk the cliff trail between secluded beaches. Wear sturdy shoes.","Om Beach Gokarna"]
+],
+"chikmagalur": [
+["Filter coffee at an estate","Drink","Coffee estates",80,"Where Indian coffee began, brewed hot and strong in the house that grows it.","Chikmagalur coffee estate"],
+["Akki roti","Breakfast","Homestays",80,"Rice-flour flatbread with coconut chutney, the Malnad breakfast.","Akki roti"],
+["Kadubu","Dish","Local homes and restaurants",100,"Steamed rice dumplings with chutney or sambar, a Malnad favourite.","Kadubu"],
+["Malnad pork curry","Dish","Homestays and local restaurants",300,"A hot, dark pork curry from the hills.","Pork curry"],
+["Sunrise from Mullayanagiri","Experience","Mullayanagiri, Karnataka's highest peak",0,"A 2-hour climb in the dark for sunrise above the clouds at 1,930 m.","Mullayanagiri"]
+],
+"bengaluru": [
+["Masala dosa at Vidyarthi Bhavan","Breakfast","Vidyarthi Bhavan, Gandhi Bazaar",80,"A crisp, buttery dosa in a heritage eatery that has served Bengaluru since 1943.","Masala dosa"],
+["Idli and filter coffee","Breakfast","MTR and CTR",120,"Soft idlis, ghee-laden dosas and a hot tumbler of filter coffee at the iconic old cafés.","Idli"],
+["Donne biryani","Dish","Military hotels",250,"A light, peppery biryani served on a leaf cup. Karnataka's own style.","Donne biryani"],
+["Ragi mudde","Dish","Military hotels and Kannada restaurants",150,"A smooth ball of finger millet, swallowed with a spicy soppu saaru or chicken curry.","Ragi mudde"],
+["Food street at VV Puram","Experience","VV Puram Food Street",200,"A lane that comes alive at night with dosa, obbattu, chaat and gulkand ice cream.","VV Puram food street"]
+],
+"hyderabad": [
+["Hyderabadi dum biryani","Dish","Paradise, Shadab and Bawarchi",350,"Rice and meat sealed in a pot and cooked on the fire with saffron and fried onions.","Hyderabadi biryani"],
+["Haleem","Dish","Pista House and Shah Ghouse (Ramzan)",200,"A slow-cooked mash of wheat and meat, a Ramzan special that is now eaten around the year.","Haleem"],
+["Irani chai and Osmania biscuit","Drink","Nimrah Café near Charminar",40,"Strong, creamy tea with a crumbly salted biscuit, the old-city breakfast.","Irani chai"],
+["Double ka meetha","Sweet","Old city sweet shops",100,"Fried bread soaked in sugar and cream, topped with dry fruits.","Double ka meetha"],
+["Pathar ka gosht","Dish","Old city grills",300,"Meat cooked on a heated granite slab. A smoky Nizami dish.","Pathar ka gosht"],
+["Charminar and Laad Bazaar at night","Experience","Charminar and Laad Bazaar",0,"Shop for bangles, pearls and attar under the glowing monument.","Charminar"]
+],
+"tirupati": [
+["Tirupati laddu","Sweet","Temple laddu counters",50,"The famous sweet from the Tirumala temple, made with ghee, sugar, cashew and cardamom.","Tirupati laddu"],
+["Pongal","Breakfast","Temple annadanam and local cafés",50,"Rice and moong dal cooked soft with pepper, ghee and cashew nuts.","Pongal"],
+["Andhra meals","Dish","Restaurants in Tirupati",200,"A fiery, generous leaf-meal with pappu, gongura pachadi and rasam.","Andhra meals"],
+["Darshan at Tirumala","Experience","Tirumala Venkateswara Temple",300,"One of the most visited temples in the world. Book a special darshan slot online to avoid long queues.","Tirumala Venkateswara Temple"],
+["Alipiri footpath","Experience","Alipiri to Tirumala",0,"A 3,550-step walk up the hill to the temple, with shrines and monkeys on the way.","Alipiri"]
+],
+"araku": [
+["Bamboo chicken","Dish","Tribal food stalls near Borra Caves",300,"Chicken marinated with spices and roasted inside a bamboo tube over a fire.","Bamboo chicken"],
+["Araku coffee","Drink","Araku Coffee House and plantations",80,"Single-origin coffee from tribal-run estates, a local pride.","Araku coffee"],
+["Ragi roti","Breakfast","Tribal homes and stalls",50,"Finger-millet flatbread with a chilli chutney.","Finger millet roti"],
+["Borra Caves","Experience","Borra Caves",60,"Limestone caverns with stalactites and stalagmites in coloured light.","Borra Caves"],
+["Vistadome train from Visakhapatnam","Experience","Visakhapatnam–Araku railway",700,"A glass-roof coach winding through 58 tunnels and over tiny bridges. A scenic highlight.","Araku Valley railway"]
+],
+"port-blair": [
+["Grilled lobster and crab","Dish","Seafood restaurants near Aberdeen Bazaar",1200,"Ultra-fresh lobster and crab, grilled with garlic and butter.","Grilled lobster"],
+["Fish curry rice","Dish","Local restaurants",250,"A coconut-based fish curry with rice, the daily Andaman lunch.","Fish curry"],
+["Coconut seafood curry","Dish","Island restaurants",300,"Prawns, squid or fish simmered in coconut milk and spices.","Prawn curry"],
+["Sound and light show at Cellular Jail","Experience","Cellular Jail",300,"The story of the freedom fighters held here, told in light and sound.","Cellular Jail"],
+["Sunset at Corbyn's Cove","Experience","Corbyn's Cove beach",0,"A calm coconut-fringed beach near town, good for a sunset swim.","Corbyn's Cove"]
+],
+"havelock": [
+["Catch of the day","Dish","Beach shacks on Havelock",500,"Fish, prawns or squid grilled on the spot over coals.","Seafood Andaman"],
+["Bengali fish thali","Dish","Local restaurants near Govind Nagar",300,"The island's large Bengali community serves fish curry with rice and sides.","Fish thali"],
+["Tender coconut","Drink","Roadside stalls",50,"Sweet coconut water straight from the nut.","Coconut water"],
+["Sunset at Radhanagar Beach","Experience","Radhanagar Beach",0,"Often called Asia's best beach: miles of white sand and turquoise water.","Radhanagar Beach"],
+["Snorkelling at Elephant Beach","Experience","Elephant Beach",1500,"Colourful coral and reef fish just offshore.","Elephant Beach Havelock"]
+]
+}

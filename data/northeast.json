@@ -1,0 +1,170 @@
+[
+  {
+    "id": "shillong", "n": "Shillong", "st": "Meghalaya", "r": "Northeast",
+    "ty": ["hills", "lakes", "city"], "ll": [25.5788, 91.8933], "bm": [3, 4, 5, 9, 10, 11], "days": [2, 3],
+    "terr": "hills", "food": 800, "stay": 2600, "pop": 8, "alt": 1525,
+    "tag": "The rock-and-roll hill capital in the clouds",
+    "ab": "Shillong is Meghalaya's pine-covered capital, famous for its music, cafés and waterfalls, with sacred forests and deep canyons a short drive away.",
+    "ppl": "Khasi society is matrilineal: children take their mother's surname and the youngest daughter inherits the family home. Shillong loves music, with church choirs, street guitarists and a Bob Dylan festival. Sacred groves around the city have been protected by clans for centuries; not even a twig may be taken out.",
+    "eat": ["Jadoh (rice with pork)", "Dohneiiong", "Tungrymbai", "Pumaloi", "Momos at Police Bazaar"], "fest": [["Shad Suk Mynsiem", 4], ["Wangala (Garo)", 11], ["Cherry Blossom Festival", 11]],
+    "lang": "Khasi, English", "go": "Shillong airport (Umroi) 30 km; Guwahati airport 120 km", "w": "Shillong",
+    "hub": ["Police Bazaar", 25.5760, 91.8830],
+    "places": [
+      { "n": "Umiam Lake", "c": "lake", "ll": [25.6600, 91.8900], "m": 75, "f": 50, "o": "08:00-17:30", "s": 8, "p": 8, "d": "A huge blue reservoir in pine hills on the way into Shillong, with kayaking and sunset views.", "w": "Umiam_Lake" },
+      { "n": "Laitlum Canyons", "c": "viewpoint", "ll": [25.4580, 91.9150], "m": 90, "f": 20, "o": "07:00-17:00", "s": 10, "p": 5, "d": "Grassy cliffs dropping into a vast green canyon, with a village path to the valley floor." },
+      { "n": "Mawphlang Sacred Grove", "c": "nature", "ll": [25.4460, 91.7520], "m": 90, "f": 100, "o": "09:00-16:30", "s": 9, "p": 4, "d": "An ancient Khasi forest of monoliths and moss, guarded by belief; a local guide is required.", "w": "Mawphlang" },
+      { "n": "Don Bosco Museum", "c": "museum", "ll": [25.5880, 91.9010], "m": 90, "f": 150, "o": "09:00-17:00", "x": [0], "s": 9, "p": 6, "d": "Seven floors on the cultures of all the Northeast's tribes, with a rooftop skywalk.", "w": "Don_Bosco_Centre_for_Indigenous_Cultures" },
+      { "n": "Elephant Falls", "c": "waterfall", "ll": [25.5390, 91.8230], "m": 45, "f": 20, "o": "09:00-17:00", "s": 7, "p": 8, "d": "A three-step waterfall in fern-covered rock, 12 km from town.", "w": "Elephant_Falls" },
+      { "n": "Ward's Lake", "c": "lake", "ll": [25.5750, 91.8870], "m": 40, "f": 20, "o": "08:30-17:00", "s": 6, "p": 6, "d": "A Victorian lake garden with a wooden bridge, in the middle of town." },
+      { "n": "Police Bazaar evening food", "c": "food", "ll": [25.5760, 91.8830], "m": 75, "f": 0, "o": "16:00-21:00", "s": 7, "p": 8, "d": "Momos, jadoh stalls and live music spilling out of cafés.", "a": "n" },
+      { "n": "Cathedral of Mary Help of Christians", "c": "church", "ll": [25.5800, 91.8950], "m": 30, "f": 0, "o": "07:00-18:00", "s": 7, "p": 5, "d": "A tall blue-and-white cathedral, the heart of Shillong's Catholic community." }
+    ]
+  },
+  {
+    "id": "cherrapunji", "n": "Cherrapunji (Sohra)", "st": "Meghalaya", "r": "Northeast",
+    "ty": ["hills", "adventure", "offbeat"], "ll": [25.2702, 91.7323], "bm": [10, 11, 12, 1, 2, 3, 6, 7, 8, 9], "days": [2, 3],
+    "terr": "hills", "food": 800, "stay": 2400, "pop": 8, "alt": 1484,
+    "tag": "Living root bridges and waterfalls in the wettest place on Earth",
+    "ab": "Sohra and nearby Mawsynram get more rain than anywhere else on Earth. Waterfalls plunge off the plateau into the Bangladesh plains, and in the valleys the Khasi have grown bridges from living roots.",
+    "ppl": "Khasi villagers have trained the roots of rubber fig trees across streams for generations, a bridge taking 15 years or more to grow and lasting centuries. Villagers carry everything up and down thousands of steps in cane baskets called khoh, and village councils keep the paths and pools spotless.",
+    "eat": ["Jadoh", "Pork with black sesame", "Doh khlieh", "Rice cakes (putharo)"], "fest": [["Nongkrem Dance", 11]],
+    "lang": "Khasi", "go": "55 km from Shillong", "w": "Cherrapunji",
+    "hub": ["Sohra market", 25.2702, 91.7323],
+    "places": [
+      { "n": "Double-decker living root bridge, Nongriat", "c": "trek", "ll": [25.2550, 91.6800], "m": 300, "f": 50, "o": "06:00-15:00", "s": 10, "p": 8, "d": "A 3,500-step descent through the jungle to a two-level bridge of living roots and blue pools.", "t": "Start by 8 AM; the climb back is hard.", "w": "Living_root_bridge", "a": "ke" },
+      { "n": "Nohkalikai Falls", "c": "waterfall", "ll": [25.2760, 91.6860], "m": 45, "f": 20, "o": "08:00-17:00", "s": 10, "p": 8, "d": "India's tallest plunge waterfall (340 m) into a turquoise pool.", "w": "Nohkalikai_Falls" },
+      { "n": "Seven Sisters Falls", "c": "waterfall", "ll": [25.2580, 91.7300], "m": 30, "f": 0, "o": "08:00-17:00", "mo": [6, 7, 8, 9, 10], "s": 8, "p": 7, "d": "Seven streams pouring side by side off a limestone cliff in the monsoon.", "w": "Nohsngithiang_Falls" },
+      { "n": "Mawsmai Cave", "c": "cave", "ll": [25.2470, 91.7290], "m": 45, "f": 20, "o": "09:30-17:30", "s": 7, "p": 7, "d": "A lit limestone cave of stalactites you squeeze through." },
+      { "n": "Wei Sawdong Falls", "c": "waterfall", "ll": [25.3170, 91.7360], "m": 90, "f": 20, "o": "08:00-16:00", "s": 9, "p": 4, "d": "Three tiers of turquoise pools, reached by bamboo ladders.", "a": "ke" },
+      { "n": "Arwah Cave", "c": "cave", "ll": [25.2900, 91.7300], "m": 60, "f": 30, "o": "09:00-17:00", "s": 8, "p": 4, "d": "A cave with fossils of fish and shells set into its walls." },
+      { "n": "Dainthlen Falls", "c": "waterfall", "ll": [25.3160, 91.7200], "m": 40, "f": 20, "o": "08:00-17:00", "s": 7, "p": 4, "d": "A waterfall over carved rock, tied to the legend of a giant python." }
+    ]
+  },
+  {
+    "id": "dawki", "n": "Mawlynnong & Dawki", "st": "Meghalaya", "r": "Northeast",
+    "ty": ["offbeat", "lakes"], "ll": [25.1880, 92.0230], "bm": [10, 11, 12, 1, 2, 3, 4], "days": [1, 2],
+    "terr": "hills", "food": 700, "stay": 2200, "pop": 7, "alt": 50,
+    "tag": "Asia's cleanest village and a river clear as glass",
+    "ab": "Near the Bangladesh border, the Umngot river at Dawki is so clear that boats seem to float on air in winter. Mawlynnong, called Asia's cleanest village, is nearby.",
+    "ppl": "In Mawlynnong, every family takes turns sweeping the paths and bamboo dustbins stand at every corner; children learn it as a game. War Khasi villagers grow betel nut and broom grass on the slopes and run homestays in houses on stilts.",
+    "eat": ["Jadoh", "Fish from the Umngot", "Local tea"], "fest": [],
+    "lang": "Khasi", "go": "80 km from Shillong", "w": "Dawki",
+    "hub": ["Dawki bridge", 25.1880, 92.0230],
+    "places": [
+      { "n": "Umngot river boat ride", "c": "lake", "ll": [25.1880, 92.0230], "m": 75, "f": 800, "o": "07:00-16:00", "mo": [11, 12, 1, 2, 3, 4], "s": 10, "p": 9, "d": "Glide over water so clear the riverbed shows through, with Bangladesh on the far bank.", "w": "Umngot_River" },
+      { "n": "Mawlynnong village", "c": "village", "ll": [25.2010, 91.9160], "m": 90, "f": 50, "o": "07:00-17:00", "s": 9, "p": 7, "d": "Flower-lined paths and stilt houses in a village famous for cleanliness.", "w": "Mawlynnong" },
+      { "n": "Riwai living root bridge", "c": "nature", "ll": [25.2000, 91.9200], "m": 45, "f": 20, "o": "07:00-17:00", "s": 8, "p": 6, "d": "An easy-to-reach single root bridge in the forest near Mawlynnong." },
+      { "n": "Shnongpdeng", "c": "adventure", "ll": [25.1840, 92.0060], "m": 150, "f": 500, "o": "08:00-16:00", "mo": [11, 12, 1, 2, 3, 4], "s": 9, "p": 5, "d": "Snorkel, cliff-jump or camp on the river beside a village suspension bridge." },
+      { "n": "Krang Suri Falls", "c": "waterfall", "ll": [25.3350, 92.2030], "m": 90, "f": 50, "o": "08:00-16:00", "s": 9, "p": 4, "d": "A blue-green pool beneath a curtain waterfall in the Jaintia hills." }
+    ]
+  },
+  {
+    "id": "kaziranga", "n": "Kaziranga", "st": "Assam", "r": "Northeast",
+    "ty": ["wildlife"], "ll": [26.5840, 93.4170], "bm": [11, 12, 1, 2, 3, 4], "days": [2, 2],
+    "terr": "plains", "food": 800, "stay": 3200, "pop": 8, "alt": 70,
+    "tag": "Two-thirds of the world's one-horned rhinos",
+    "ab": "Kaziranga's tall grasslands and swamps along the Brahmaputra hold most of the world's greater one-horned rhinos, plus wild elephants, buffalo, swamp deer and tigers.",
+    "ppl": "Mising and Karbi villages surround the park; Mising homes stand on bamboo stilts above the floods. Tea estates line the highway, and their workers, descendants of people brought from central India 150 years ago, celebrate with Jhumur dances. Bihu in April fills every village with drums.",
+    "eat": ["Assamese thali", "Masor tenga (sour fish curry)", "Pitha", "Assam tea"], "fest": [["Rongali Bihu", 4], ["Kaziranga Elephant Festival", 2]],
+    "lang": "Assamese, Mising", "go": "Jorhat airport 95 km; Guwahati 200 km", "w": "Kaziranga_National_Park",
+    "hub": ["Kohora", 26.5840, 93.4170],
+    "places": [
+      { "n": "Central range jeep safari (Kohora)", "c": "wildlife", "ll": [26.6200, 93.3800], "m": 150, "f": 2500, "o": "07:00-16:00", "mo": [11, 12, 1, 2, 3, 4], "s": 10, "p": 9, "d": "Open grassland and beels full of rhinos, buffalo and pelicans.", "t": "Book through the forest department or your lodge." },
+      { "n": "Western range (Bagori)", "c": "wildlife", "ll": [26.6500, 93.3000], "m": 150, "f": 2500, "o": "07:00-16:00", "mo": [11, 12, 1, 2, 3, 4], "s": 9, "p": 7, "d": "The densest rhino area in the park." },
+      { "n": "Eastern range (Agaratoli)", "c": "wildlife", "ll": [26.6400, 93.5400], "m": 150, "f": 2500, "o": "07:00-16:00", "mo": [11, 12, 1, 2, 3, 4], "s": 9, "p": 5, "d": "Wetlands for birdwatching: storks, eagles and migratory ducks." },
+      { "n": "Kaziranga Orchid & Biodiversity Park", "c": "garden", "ll": [26.5950, 93.4300], "m": 75, "f": 100, "o": "08:00-17:00", "s": 7, "p": 5, "d": "Over 500 orchid species, plus Assamese cultural shows and local rice varieties." },
+      { "n": "Tea garden walk", "c": "nature", "ll": [26.5700, 93.4000], "m": 60, "f": 0, "o": "07:00-17:00", "s": 7, "p": 4, "d": "Walk between rows of Assam tea with pluckers at work." }
+    ]
+  },
+  {
+    "id": "tawang", "n": "Tawang", "st": "Arunachal Pradesh", "r": "Northeast",
+    "ty": ["mountains", "spiritual", "offbeat"], "ll": [27.5860, 91.8590], "bm": [3, 4, 5, 9, 10, 11], "days": [2, 3],
+    "terr": "mountains", "food": 900, "stay": 2400, "pop": 6, "alt": 3048,
+    "tag": "India's largest monastery, above the clouds",
+    "ab": "Tawang, near the Bhutan and Tibet borders, is home to the 17th-century Tawang Monastery, the largest in India. The drive over Sela Pass and glacial lakes nearby are unforgettable. Indian visitors need an Inner Line Permit.",
+    "ppl": "The Monpa people are Buddhist farmers and yak herders who wear maroon robes and felt caps with tails that drain the rain. The sixth Dalai Lama was born here, and every family keeps prayer wheels by the door. Monpa women weave carpets and make handmade paper from shrubs.",
+    "eat": ["Zan (millet porridge)", "Thukpa", "Momos", "Butter tea", "Khura (buckwheat pancakes)"], "fest": [["Torgya Festival", 1], ["Losar", 2], ["Tawang Festival", 10]],
+    "lang": "Monpa, Hindi", "go": "Tezpur airport 320 km; Inner Line Permit required", "w": "Tawang",
+    "hub": ["Tawang town", 27.5860, 91.8590],
+    "places": [
+      { "n": "Tawang Monastery", "c": "monastery", "ll": [27.5858, 91.8594], "m": 120, "f": 0, "o": "07:00-19:00", "s": 10, "p": 9, "d": "A 1680 monastery for 450 monks with an 8 m golden Buddha and a library of ancient texts.", "w": "Tawang_Monastery" },
+      { "n": "Sela Pass & lake", "c": "viewpoint", "ll": [27.5000, 92.1000], "m": 60, "f": 0, "o": "07:00-16:00", "s": 9, "p": 7, "d": "A 4,170 m pass with a lake that freezes solid in winter; now with a tunnel below.", "w": "Sela_Pass" },
+      { "n": "Madhuri (Sangestar) Lake", "c": "lake", "ll": [27.7900, 91.9000], "m": 120, "f": 0, "o": "07:00-14:00", "mo": [4, 5, 6, 9, 10, 11], "s": 9, "p": 5, "d": "A lake formed by an earthquake, with dead tree trunks rising from still water; Army permit needed." },
+      { "n": "PT Tso Lake", "c": "lake", "ll": [27.7300, 91.9700], "m": 60, "f": 0, "o": "07:00-14:00", "mo": [4, 5, 6, 9, 10, 11], "s": 8, "p": 4, "d": "A high alpine lake ringed by rhododendrons." },
+      { "n": "Nuranang (Jang) Falls", "c": "waterfall", "ll": [27.5400, 92.0300], "m": 45, "f": 0, "o": "08:00-17:00", "s": 8, "p": 6, "d": "A 100 m waterfall in a green gorge on the road to Tawang." },
+      { "n": "Tawang War Memorial", "c": "heritage", "ll": [27.5800, 91.8650], "m": 45, "f": 0, "o": "08:00-18:00", "s": 8, "p": 6, "d": "A stupa-shaped memorial to soldiers of the 1962 war, with an evening light show." }
+    ]
+  },
+  {
+    "id": "ziro", "n": "Ziro Valley", "st": "Arunachal Pradesh", "r": "Northeast",
+    "ty": ["offbeat", "hills"], "ll": [27.5940, 93.8380], "bm": [3, 4, 5, 9, 10, 11], "days": [2, 3],
+    "terr": "hills", "food": 800, "stay": 2000, "pop": 5, "alt": 1688,
+    "tag": "Pine hills, rice fields and the Apatani way of life",
+    "ab": "Ziro is a high valley of rice fields and pine-covered hills, home to the Apatani people and the Ziro Festival of Music each September. Indian visitors need an Inner Line Permit.",
+    "ppl": "Apatani farmers raise fish in their flooded rice fields, a system so efficient it is studied worldwide. Older Apatani women have facial tattoos and nose plugs, a custom that has ended. Villages are close-knit clusters of bamboo houses with tall totem poles called babos.",
+    "eat": ["Pike pila (bamboo shoot pickle)", "Smoked pork", "Apong (rice beer)", "Sticky rice"], "fest": [["Ziro Festival of Music", 9], ["Dree Festival", 7], ["Myoko", 3]],
+    "lang": "Apatani, Hindi", "go": "Naharlagun station 115 km; Inner Line Permit required", "w": "Ziro",
+    "hub": ["Hapoli town", 27.5940, 93.8380],
+    "places": [
+      { "n": "Hong & Hari Apatani villages", "c": "village", "ll": [27.5650, 93.8290], "m": 120, "f": 0, "o": "08:00-17:00", "s": 10, "p": 5, "d": "Walk among bamboo homes, granaries and babo poles in one of Asia's largest villages.", "t": "Go with a local guide and ask before photographing people." },
+      { "n": "Paddy-cum-fish fields", "c": "nature", "ll": [27.5800, 93.8300], "m": 60, "f": 0, "o": "07:00-17:00", "s": 9, "p": 4, "d": "Terraced rice fields where fish grow in the water between the plants." },
+      { "n": "Kile Pakho ridge", "c": "viewpoint", "ll": [27.6080, 93.8250], "m": 90, "f": 0, "o": "07:00-16:00", "s": 8, "p": 3, "d": "A pine ridge with views across the whole valley; the music festival happens nearby." },
+      { "n": "Siddheshwar Nath Temple", "c": "temple", "ll": [27.6200, 93.8000], "m": 40, "f": 0, "o": "07:00-17:00", "s": 7, "p": 4, "d": "A temple around a naturally formed 25 ft lingam found in 2004." },
+      { "n": "Talley Valley Wildlife Sanctuary", "c": "wildlife", "ll": [27.5500, 93.9300], "m": 300, "f": 200, "o": "07:00-15:00", "mo": [3, 4, 5, 10, 11], "s": 8, "p": 2, "d": "A remote sanctuary of fir forest and rare orchids, best with a local guide.", "a": "ke" }
+    ]
+  },
+  {
+    "id": "majuli", "n": "Majuli", "st": "Assam", "r": "Northeast",
+    "ty": ["offbeat", "spiritual", "islands"], "ll": [26.9500, 94.1667], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 2],
+    "terr": "islands", "food": 700, "stay": 1800, "pop": 5, "alt": 85,
+    "tag": "The world's largest river island and its monasteries",
+    "ab": "Majuli is an island in the Brahmaputra reached by ferry, home to the satras: Vaishnavite monasteries of music, dance and mask-making founded by the saint Srimanta Sankardeva.",
+    "ppl": "Monks at the satras perform Sattriya dance and make giant masks of bamboo and clay for theatre. The Mising people live in stilt houses and weave bright fabrics, and every year the island shrinks a little as the river eats its banks, so families move their homes again and again.",
+    "eat": ["Mising fish curry", "Apong rice beer", "Pitha", "Purang apin (rice in leaf)"], "fest": [["Raas Leela", 11], ["Ali Aye Ligang (Mising)", 2]],
+    "lang": "Assamese, Mising", "go": "Ferry from Nimati Ghat, Jorhat (airport 20 km)", "w": "Majuli",
+    "hub": ["Garamur", 26.9500, 94.1700],
+    "places": [
+      { "n": "Samaguri Satra mask-making", "c": "culture", "ll": [26.9300, 94.2500], "m": 75, "f": 0, "o": "08:00-17:00", "s": 10, "p": 5, "d": "Families who have made theatre masks for generations, some taller than a person." },
+      { "n": "Kamalabari & Auniati Satras", "c": "spiritual", "ll": [26.9520, 94.1600], "m": 90, "f": 0, "o": "06:00-18:00", "s": 9, "p": 4, "d": "Monasteries where monks perform devotional Sattriya dance and music at prayer times." },
+      { "n": "Mising village walk", "c": "village", "ll": [26.9700, 94.2000], "m": 75, "f": 0, "o": "08:00-17:00", "s": 8, "p": 3, "d": "Stilt houses, looms under every home and fish traps in the ponds." },
+      { "n": "Brahmaputra sunset", "c": "viewpoint", "ll": [26.9800, 94.1300], "m": 60, "f": 0, "o": "15:00-18:30", "s": 9, "p": 3, "d": "Watch the sun set over the world's largest river island's sandbanks.", "a": "n" },
+      { "n": "Dakhinpat Satra", "c": "spiritual", "ll": [26.9260, 94.2220], "m": 45, "f": 0, "o": "06:00-18:00", "s": 7, "p": 3, "d": "One of the oldest satras, known for its Raas festival performances." }
+    ]
+  },
+  {
+    "id": "kohima", "n": "Kohima & Dzukou", "st": "Nagaland", "r": "Northeast",
+    "ty": ["offbeat", "hills", "adventure"], "ll": [25.6751, 94.1086], "bm": [10, 11, 12, 3, 4, 5, 6], "days": [2, 3],
+    "terr": "hills", "food": 900, "stay": 2600, "pop": 6, "alt": 1444,
+    "tag": "The Hornbill Festival, war history and a valley of lilies",
+    "ab": "Kohima, Nagaland's hill capital, saw one of WWII's fiercest battles. Each December it hosts the Hornbill Festival of all Naga tribes, and the Dzukou Valley trek begins nearby.",
+    "ppl": "Nagaland has 16 major tribes, each with its own language, dress and morung, the traditional youth dormitory. Angami villages like Khonoma were once fierce warrior settlements and now lead India in conservation, banning hunting. Food is smoky and spicy, with bamboo shoot and the fiery raja mirchi.",
+    "eat": ["Smoked pork with bamboo shoot", "Axone", "Galho (rice porridge)", "Raja mirchi chutney"], "fest": [["Hornbill Festival", 12], ["Sekrenyi", 2]],
+    "lang": "Nagamese, English, Angami", "go": "Dimapur airport and station 75 km; Inner Line Permit required", "w": "Kohima",
+    "hub": ["Kohima town", 25.6751, 94.1086],
+    "places": [
+      { "n": "Kohima War Cemetery", "c": "heritage", "ll": [25.6680, 94.1060], "m": 45, "f": 0, "o": "07:00-17:00", "s": 9, "p": 7, "d": "Terraced graves on the old tennis court where the 1944 battle turned.", "w": "Kohima_War_Cemetery" },
+      { "n": "Kisama Heritage Village (Hornbill Festival)", "c": "culture", "ll": [25.6320, 94.1170], "m": 240, "f": 100, "o": "09:00-18:00", "mo": [12], "s": 10, "p": 8, "d": "For ten days every tribe gathers in its own morung for dances, war cries and food.", "w": "Hornbill_Festival" },
+      { "n": "Khonoma green village", "c": "village", "ll": [25.6500, 94.0200], "m": 150, "f": 0, "o": "08:00-17:00", "s": 9, "p": 4, "d": "An Angami village of terraced fields and stone gates that gave up hunting to protect its forests.", "w": "Khonoma" },
+      { "n": "Dzukou Valley trek", "c": "trek", "ll": [25.5600, 94.0700], "m": 480, "f": 100, "o": "06:00-14:00", "s": 10, "p": 5, "d": "A climb to rolling green hills that bloom with Dzukou lilies in summer; most camp overnight.", "w": "Dzükou_Valley", "a": "ke" },
+      { "n": "Kohima local market", "c": "market", "ll": [25.6740, 94.1100], "m": 45, "f": 0, "o": "07:00-16:00", "s": 7, "p": 3, "d": "Bamboo shoots, smoked meats, silkworms and herbs from the hills." }
+    ]
+  },
+  {
+    "id": "guwahati", "n": "Guwahati", "st": "Assam", "r": "Northeast",
+    "ty": ["spiritual", "city"], "ll": [26.1445, 91.7362], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "city", "food": 700, "stay": 2400, "pop": 7, "alt": 55,
+    "tag": "Gateway to the Northeast on the Brahmaputra",
+    "ab": "Guwahati is the Northeast's biggest city and its gateway, home to the Kamakhya temple on Nilachal hill and the mighty Brahmaputra's sunsets.",
+    "ppl": "Assamese homes welcome guests with a gamosa, a white towel with red border, and tea. During Bihu, girls in gold-and-cream mekhela chadors dance in every neighbourhood. Kamakhya draws tantric sadhus from across India for the Ambubachi Mela.",
+    "eat": ["Assamese thali", "Duck curry with ash gourd", "Pitha", "Assam tea"], "fest": [["Ambubachi Mela", 6], ["Rongali Bihu", 4], ["Durga Puja", 10]],
+    "lang": "Assamese", "go": "Lokpriya Gopinath Bordoloi airport; Guwahati station", "w": "Guwahati",
+    "hub": ["Pan Bazaar", 26.1850, 91.7480],
+    "places": [
+      { "n": "Kamakhya Temple", "c": "temple", "ll": [26.1664, 91.7055], "m": 120, "f": 0, "o": "05:30-22:00", "s": 10, "p": 9, "d": "One of the most important Shakti Peeths, a beehive-domed temple on Nilachal hill.", "w": "Kamakhya_Temple" },
+      { "n": "Umananda Island", "c": "temple", "ll": [26.1960, 91.7450], "m": 75, "f": 100, "o": "07:00-17:00", "s": 8, "p": 6, "d": "A ferry to the world's smallest inhabited river island, with a Shiva temple.", "w": "Umananda_Island" },
+      { "n": "Brahmaputra sunset cruise", "c": "viewpoint", "ll": [26.1900, 91.7430], "m": 90, "f": 600, "o": "16:00-19:00", "s": 8, "p": 6, "d": "A slow cruise on the vast river as the sun drops behind the bridge.", "a": "n" },
+      { "n": "Pobitora Wildlife Sanctuary", "c": "wildlife", "ll": [26.2300, 92.0500], "m": 180, "f": 1200, "o": "07:00-15:00", "mo": [11, 12, 1, 2, 3, 4], "s": 8, "p": 4, "d": "The highest density of one-horned rhinos anywhere, an hour from the city.", "w": "Pobitora_Wildlife_Sanctuary" },
+      { "n": "Assam State Museum", "c": "museum", "ll": [26.1850, 91.7480], "m": 75, "f": 20, "o": "10:00-17:00", "x": [1], "s": 7, "p": 3, "d": "Ahom-era sculpture, tribal costumes and a walk-through village." }
+    ]
+  }
+]

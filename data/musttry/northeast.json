@@ -1,0 +1,65 @@
+{
+"shillong": [
+["Jadoh","Dish","Cafés and restaurants near Iewduh",200,"Khasi red rice cooked with pork or chicken and spices, the one-pot soul of Meghalaya.","Jadoh"],
+["Dohneiiong","Dish","Local Khasi restaurants",200,"Pork slow-cooked in a dark gravy of ground black sesame, the Khasi way.","Dohneiiong"],
+["Tungrymbai","Dish","Local Khasi eateries",150,"Fermented soybeans with pork and spices. Pungent, deeply savoury and unlike any other dish.","Tungrymbai"],
+["Momos at Police Bazaar","Street food","Police Bazaar evening stalls",80,"Steamed dumplings with red chilli chutney, in the evening food stalls.","Momo"],
+["Iewduh market walk","Experience","Iewduh (Bara Bazar)",0,"One of the oldest and largest markets in the Northeast, where Khasi women sell herbs, dried fish and pork.","Iewduh market"]
+],
+"cherrapunji": [
+["Jadoh","Dish","Cafés in Sohra town",180,"Red rice cooked with pork, a hearty Khasi lunch.","Jadoh"],
+["Doh khlieh","Dish","Local restaurants",150,"A Khasi pork salad with onions, ginger and chilli. Served cold.","Doh khlieh"],
+["Putharo","Street food","Roadside stalls",30,"Steamed rice cakes, a Meghalaya breakfast sold in markets.","Putharo"],
+["Khasi honey","Local special","Roadside stalls in Sohra",250,"Clear, floral honey collected in the rain-soaked forests.","Honey"],
+["Double Decker Living Root Bridge","Experience","Nongriat village, via 3,500 steps",0,"A bridge grown by Khasi people from the living roots of a rubber fig tree, now over 150 years old.","Double Decker Living Root Bridge"]
+],
+"dawki": [
+["Jadoh","Dish","Cafés in Mawlynnong and Dawki",180,"Red rice and pork, a hot lunch that every Khasi family serves.","Jadoh"],
+["Umngot river fish","Dish","Dawki riverside cafés",250,"Fresh fish from the Umngot, fried or in a light Khasi curry.","Fish curry"],
+["Meghalaya pineapples","Local special","Roadside stalls on the Dawki road",50,"Small, sweet, juicy pineapples sold peeled and with a pinch of salt and chilli.","Pineapple"],
+["Boating on the Umngot","Experience","Dawki river",400,"The water is so clear that boats seem to float in mid-air. Best from November to March.","Umngot River"],
+["Mawlynnong village walk","Experience","Mawlynnong",50,"A spotless village of bamboo dustbins, flower gardens and a living root bridge.","Mawlynnong"]
+],
+"kaziranga": [
+["Assamese thali","Dish","Lodges and restaurants near Kohora",250,"Rice with dal, fish, greens, khar and a sweet pitha, served on a bell-metal plate.","Thali"],
+["Masor tenga","Dish","Local restaurants",200,"A light, sour fish curry with tomato or elephant apple, Assam's signature dish.","Masor tenga"],
+["Pitha","Sweet","Local homes and stalls",50,"Rice-flour sweets and pancakes stuffed with coconut and jaggery.","Pitha"],
+["Assam tea","Drink","Tea estates near Kaziranga",40,"Strong, malty Assam black tea with milk, grown just a few kilometres away.","Assam tea"],
+["Jeep safari for the one-horned rhino","Experience","Central, Western and Eastern ranges",2500,"Home to two-thirds of the world's one-horned rhinos. Dawn drives give the best sightings.","Kaziranga rhino"]
+],
+"tawang": [
+["Zan","Dish","Monpa homes and restaurants",100,"A thick millet porridge eaten with a spicy chutney or meat curry.","Millet porridge"],
+["Thukpa","Dish","Cafés in Tawang town",120,"Hot noodle soup, the best thing after a cold day.","Thukpa"],
+["Momos","Street food","Tawang market",90,"Steamed dumplings with hot chilli sauce.","Momo"],
+["Khura","Breakfast","Local cafés",50,"Thin buckwheat pancakes eaten with butter, jam or chilli.","Buckwheat pancake"],
+["Sunrise at Tawang Monastery","Experience","Tawang Monastery",100,"India's largest monastery, lit gold by the dawn sun.","Tawang Monastery"]
+],
+"ziro": [
+["Pike pila","Local special","Apatani homes and markets",100,"A fermented bamboo-shoot pickle, spicy and sour. A staple of Apatani meals.","Bamboo shoot pickle"],
+["Smoked pork","Dish","Village homestays",250,"Pork smoked over the kitchen fire and cooked with local herbs.","Smoked pork"],
+["Apong","Drink","Village homes",50,"A milky, mildly sweet rice beer made by the Apatani for every festival.","Apong"],
+["Sticky rice in leaves","Dish","Village homes",80,"Rice steamed in banana leaf or bamboo with a smoky aroma.","Sticky rice"],
+["Walk through the Apatani paddy fields","Experience","Hari and Hong villages",0,"Rice and fish grown together in terraces dotted with bamboo and wooden houses. The Ziro Music Festival is held here in September.","Ziro Valley"]
+],
+"majuli": [
+["Mising fish curry","Dish","Mising homestays",150,"Fish steamed in a banana leaf with herbs and chilli.","Fish curry"],
+["Apong","Drink","Mising homes",50,"A mildly sweet rice beer brewed at home, served in bamboo cups.","Apong"],
+["Pitha","Sweet","Village homes",50,"Rice-flour sweets with coconut and jaggery, made for Bihu.","Pitha"],
+["Ferry across the Brahmaputra","Experience","Nimati Ghat to Kamalabari",20,"A leisurely crossing of the world's largest river island, with sunset on the water.","Majuli ferry"],
+["Satra morning prayers","Experience","Auniati and Kamalabari satras",0,"Monks in white chant borgeet and play drums in a neo-Vaishnavite monastery. Mask makers work nearby at Samaguri.","Majuli satra"]
+],
+"kohima": [
+["Smoked pork with bamboo shoot","Dish","Local Naga restaurants",250,"Pork smoked over a hearth and cooked with fermented bamboo shoot. The Naga signature.","Smoked pork"],
+["Axone","Local special","Naga kitchens",100,"Fermented soybeans, strongly flavoured, cooked into curries and chutneys.","Axone"],
+["Galho","Dish","Local restaurants",120,"A thick Naga rice porridge with greens, comfort in a bowl.","Galho"],
+["Raja mirchi chutney","Local special","Naga homes and market",80,"A chutney of the fiery king chilli (bhut jolokia), one of the world's hottest peppers.","Bhut jolokia"],
+["Hornbill Festival at Kisama","Experience","Naga Heritage Village, Kisama",50,"Every December the Naga tribes gather in full costume for ten days of song, dance and food.","Hornbill Festival"]
+],
+"guwahati": [
+["Assamese thali","Dish","Restaurants in Paltan Bazaar",250,"Rice, dal, fish and a sweet pitha, served on a bell-metal plate.","Thali"],
+["Duck curry with ash gourd","Dish","Local restaurants",300,"A mild, rustic curry of duck and ash gourd, cooked with black pepper.","Duck curry"],
+["Pitha","Sweet","Local sweet shops",50,"Rice-flour sweets with coconut or sesame and jaggery.","Pitha"],
+["Assam tea","Drink","Tea shops and stalls",30,"Strong, malty Assam tea with milk.","Assam tea"],
+["Sunset cruise on the Brahmaputra","Experience","Uzan Bazar and Fancy Bazar ghats",500,"Sail on the mighty river with Umananda Island and the city skyline lit gold.","Brahmaputra Guwahati"]
+]
+}

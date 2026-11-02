@@ -1,0 +1,27 @@
+# Netlify settings, used when the site is built from this repository (Git deploys).
+# Dragging the built web/dist folder onto Netlify also works: it carries its own _redirects file.
+
+[build]
+  command = "npm run build -w web"   # Netlify installs the dependencies itself
+  publish = "web/dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Every app address (/plan, /trip?r=…, /d/varanasi) is served by the single-page app,
+# so opening, refreshing or going Back to a link never shows "Page not found".
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# The page itself is always fresh; its hashed files can be cached forever.
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

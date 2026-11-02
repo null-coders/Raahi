@@ -1,0 +1,2542 @@
+{
+ "about": "Hand review of data/media/photos.json (Oct 2026). For each key: drop = file names that show the wrong thing, lead = the best card photo, add = [file, width, height, author, licence] found by a new Commons search. life = 'Life here' slots to clear (they then borrow a destination photo). Applied by apply_review.py.",
+ "place": {
+  "khajuraho--western-group-of-temples": {
+   "drop": [
+    "Architecture_of_the_Khajuraho_temples.jpg"
+   ]
+  },
+  "pachmarhi--bee-falls": {
+   "drop": [
+    "Pachmarhi_valley_Madhya_Pradesh_INDIA.jpg",
+    "Chauragarh,_Pachmarhi.jpg"
+   ],
+   "lead": "Bee_Falls,_Pachmarhi_01.jpg"
+  },
+  "ujjain--kal-bhairav-temple": {
+   "drop": [
+    "Kal_Bhairav_Ujjain_-_vendor.jpg"
+   ]
+  },
+  "ujjain--harsiddhi-temple": {
+   "drop": [
+    "Mahakaleshwar_Temple,_Ujjain.jpg"
+   ]
+  },
+  "ujjain--vedh-shala-jantar-mantar": {
+   "drop": [
+    "Shipra_River,_Ujjain.jpg"
+   ]
+  },
+  "orchha--chhatris-on-the-betwa": {
+   "drop": [
+    "Chaturbhuj_Temple,_Orchha.jpg"
+   ],
+   "add": [
+    [
+     "Chhatris_at_bank_of_Betwa_(Orchha,_India).jpg",
+     2592,
+     1944,
+     "Navneel neeraj",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Chhatris_on_the_bank_of_the_Betwa_River,_Orchha,_Madhya_Pradesh.jpg",
+     2048,
+     1536,
+     "Jonathan Freundlich",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "bhopal--bhimbetka-rock-shelters": {
+   "drop": [
+    "Information_Palette_Bhimbetka_(3).jpg"
+   ]
+  },
+  "bhopal--bhojpur-shiva-temple": {
+   "drop": [
+    "Bhojeshwar_temple_carved_rock_fragments.jpg",
+    "Bhojpur_9-22.jpg"
+   ]
+  },
+  "darjeeling--chowrasta-mall-road": {
+   "drop": [
+    "Darjeeling_MET_DP71242.jpg",
+    "Darjeeling_QE2_52.jpg"
+   ],
+   "lead": "Chowrasta_in_Darjeeling,_India.jpg"
+  },
+  "kolkata--kumartuli-idol-makers": {
+   "drop": [
+    "Relaxing_at_Kumartuli_(29522879984).jpg",
+    "Devipokkho,_Kolkata,_West_Bengal,_IMG_20190911_160340-01-01.jpg"
+   ]
+  },
+  "kolkata--dakshineswar-kali-temple": {
+   "drop": [
+    "Inside_the_Dakshineswar_temple_complex,_North_24_Parganas_district,_India.jpg"
+   ]
+  },
+  "kolkata--park-street-food-music": {
+   "drop": [
+    "New_Market,_Kolkata,_2011.jpg"
+   ],
+   "add": [
+    [
+     "Park_Street,_Kolkata,_India.jpg",
+     1080,
+     1295,
+     "Tonyystarcreations",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Park_Street_-_Chowringhee_Crossing_-_Kolkata_2015-02-18_2861.JPG",
+     4288,
+     2848,
+     "Biswarup Ganguly",
+     "CC BY 3.0"
+    ]
+   ]
+  },
+  "puri--chandrabhaga-beach": {
+   "drop": [
+    "PXL_20250609_122747260.LONG_EXPOSURE-02.COVER_Chandrabhaga_Beach,_Puri.jpg"
+   ],
+   "lead": "Chandrabhaga_Beach_Orrisa.jpg"
+  },
+  "puri--lingaraj-temple-bhubaneswar": {
+   "drop": [
+    "11th_century_Lingaraja_temple,_Bhubaneswar_Odisha_India.jpg"
+   ],
+   "lead": "Lingaraj_Temple_,_Bhubaneswar.jpg"
+  },
+  "puri--udayagiri-khandagiri-caves": {
+   "drop": [
+    "Udayagiri_and_Khandagiri_Caves_in_Bhubaneswar,_Odisha,_India.jpg"
+   ]
+  },
+  "bodhgaya--great-buddha-statue": {
+   "drop": [
+    "A_pillar_at_the_Great_Buddha_statue_at_Bodh_Gaya,_India.jpg"
+   ],
+   "lead": "Bodh_Gaya_-_Buddha_Statue_-_Front_View_(9224970905).jpg"
+  },
+  "bodhgaya--rajgir-vishwa-shanti-stupa": {
+   "drop": [
+    "Rajgir_13_top_of_Shanti_Stupa_(31512469735).jpg"
+   ]
+  },
+  "bodhgaya--dungeshwari-caves": {
+   "drop": [
+    "Gray_Langur_Dungeshwari_Cave_Bodh_Gaya_India_-_panoramio.jpg"
+   ]
+  },
+  "gangtok--tsomgo-changu-lake": {
+   "drop": [
+    "Tsomgo_Lake_-_Elevation.jpg"
+   ]
+  },
+  "gangtok--nathu-la-pass": {
+   "drop": [
+    "Officers_at_Nathu_La.JPG"
+   ]
+  },
+  "gangtok--banjhakri-falls": {
+   "drop": [
+    "Statues_of_Banjhakri_and_a_Boy.jpg"
+   ]
+  },
+  "north-sikkim--yumthang-valley": {
+   "drop": [
+    "Yumthang_Valley.jpg"
+   ]
+  },
+  "north-sikkim--bhim-nala-falls": {
+   "drop": [
+    "Lachung_River_North_Sikkim.jpg"
+   ]
+  },
+  "pelling--rabdentse-ruins": {
+   "lead": "Rabdentse_Palace,_Sikkim,_India.jpg"
+  },
+  "srinagar--dal-shikara": {
+   "drop": [
+    "India_-_Srinagar_-_023_-_Nishat_Bagh_Mughal_Gardens.jpg"
+   ]
+  },
+  "srinagar--nishat-bagh": {
+   "drop": [
+    "Nishat_Bagh-_Jhau_Tree,_Captured_by_Arghyaraj_Basu.jpg"
+   ]
+  },
+  "srinagar--shalimar-bagh": {
+   "drop": [
+    "Shalimar_Garden_Shrinagar_Pavilion.jpg"
+   ]
+  },
+  "srinagar--shankaracharya-temple": {
+   "drop": [
+    "Kashmir._Temple_of_Jyeshteswara_-Shankaracharya-,_on_the_Takht-i-Suliman_Hill,_near_Srinagar._Probable_date_220_B.C._1.jpg",
+    "Shankaracharya_Temple_and_the_view.jpg"
+   ],
+   "lead": "Shankaracharya_Temple_summer_view.jpg"
+  },
+  "srinagar--hazratbal-shrine": {
+   "drop": [
+    "Holy_Quran_at_the_Hazratbal_shrine.jpg",
+    "Srinagar_pano.jpg"
+   ]
+  },
+  "srinagar--old-city-jamia-masjid-khanqah-e-moula": {
+   "drop": [
+    "Plaque_of_Jamia_Masjid.jpg"
+   ]
+  },
+  "srinagar--floating-vegetable-market": {
+   "lead": "Shikar_At_Dallake_Srinagar.jpg"
+  },
+  "srinagar--chashme-shahi": {
+   "drop": [
+    "Cheshma_Shahi_,_Srinagar,_Jammu_and_Kashmir_India_image_3.jpg"
+   ]
+  },
+  "gulmarg--apharwat-peak-gondola-phase-2": {
+   "drop": [
+    "Ancient_Temple,_Gulmarg.jpg"
+   ],
+   "lead": "Apharwat_Peak_Gulmarg_Kashmir.jpg"
+  },
+  "gulmarg--st-mary-s-church": {
+   "drop": [
+    "Gulmarg-Gondala.JPG",
+    "Ancient_Temple,_Gulmarg.jpg",
+    "Gulmarg_gondola.JPG",
+    "Gulmarg_-_Kashmir_2.jpg"
+   ],
+   "add": [
+    [
+     "St._Mary's_Church,_Gulmarg.jpg",
+     4240,
+     2832,
+     "Deepank Ranka",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "St_Mary's_Church_in_the_valley_of_Shepherds_in_Gulmarg_01.jpg",
+     4032,
+     3024,
+     "Harvinder Chandigarh",
+     "CC BY 4.0"
+    ]
+   ]
+  },
+  "gulmarg--maharani-temple": {
+   "drop": [
+    "The_Ancient_Maharani_Temple_(Gulmarg,Kashmir).jpg"
+   ]
+  },
+  "leh--shanti-stupa": {
+   "drop": [
+    "Leh_Palace_-_Leh_-_Ladakh_-_View_from_Shanti_Stupa.jpg"
+   ]
+  },
+  "leh--leh-palace": {
+   "drop": [
+    "Leh_Palace_-_Leh_-_Ladakh_-_View_from_Shanti_Stupa.jpg"
+   ]
+  },
+  "leh--leh-market": {
+   "lead": "Leh_-_Main_Bazaar_Road.jpg"
+  },
+  "leh--hemis": {
+   "drop": [
+    "White_Stupas_and_Mani_wall,_Hemis,_Ladakh,_India_(2017).jpg"
+   ]
+  },
+  "leh--shey-palace": {
+   "drop": [
+    "Shey_Palace_sign,_Ladakh.jpg"
+   ]
+  },
+  "leh--hall-of-fame": {
+   "drop": [
+    "Leh_-_Hall_of_Fame_Museum_(10).jpg"
+   ]
+  },
+  "leh--magnetic-hill": {
+   "drop": [
+    "Nimoo,_Ladakh.jpg"
+   ],
+   "lead": "Srinagar-Leh_Highway_at_Magnetic_Hill,_Ladakh.jpg"
+  },
+  "leh--stok-palace": {
+   "drop": [
+    "Stok_Palace_04.jpg"
+   ],
+   "lead": "Leh_Palace_2011.jpg"
+  },
+  "leh--khardung-la": {
+   "lead": "Khardung_La_(pass),_Checkpoint,_Ladakh,_North_India.jpg"
+  },
+  "leh--diskit": {
+   "lead": "Diskit_Monastery_Buddha_statue_facing_Nubra_valley1.jpg"
+  },
+  "leh--hunder": {
+   "lead": "Hunder-Ladakh_Region,_India.jpg"
+  },
+  "katra--bhairon-temple": {
+   "drop": [
+    "Katra_town1.JPG"
+   ]
+  },
+  "katra--banganga": {
+   "lead": "View_of_Banganga_River_on_Vaishno_Devi_Yatra_route.jpg"
+  },
+  "shimla--christ-church": {
+   "drop": [
+    "Shimla_night.jpg"
+   ]
+  },
+  "shimla--jakhoo-temple": {
+   "drop": [
+    "A_visit_to_Jakhu_Temple_,Shimla_HP.jpg"
+   ]
+  },
+  "shimla--tara-devi-temple": {
+   "drop": [
+    "Rules_board_of_Tara_Devi_temple,_Shimla.jpg"
+   ]
+  },
+  "shimla--himachal-state-museum": {
+   "drop": [
+    "Landscape_of_Shimla_,_Himachal_Pradesh.jpg"
+   ],
+   "add": [
+    [
+     "Gaurishankar,_Sarahan_(Shimla)_18th_Century_CE,_Himachal_State_Museum,_Shimla_Acc._No._-_79.73.jpg",
+     735,
+     1022,
+     "SpeakingArch",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "manali--hadimba-temple": {
+   "drop": [
+    "Yak_near_Hadimba_temple.jpg"
+   ],
+   "lead": "Hidimba_Devi_Temple,_Dhungri_Manali_2.jpg"
+  },
+  "manali--old-manali": {
+   "drop": [
+    "Old_Manali,_Manali,_India_(Unsplash_MSK-2kuYJDE).jpg"
+   ]
+  },
+  "manali--solang-valley": {
+   "drop": [
+    "Solang_Valley_Welcome_sign._2010.jpg"
+   ]
+  },
+  "manali--atal-tunnel-sissu": {
+   "drop": [
+    "Top_View_of_Sissu_,_Lahaul.jpg"
+   ],
+   "lead": "Atal_Tunnel_vrtmrgmpksk_(2).jpg"
+  },
+  "manali--jogini-waterfall": {
+   "drop": [
+    "Prateekjain7792,_Jogini_Waterfall_near_Manali.jpg"
+   ]
+  },
+  "manali--naggar-castle": {
+   "drop": [
+    "Public_Entrance_alleyway_Naggar_Castle_Manali.jpg"
+   ]
+  },
+  "manali--manu-temple": {
+   "drop": [
+    "Manali_City.jpg"
+   ]
+  },
+  "spiti--key": {
+   "drop": [
+    "Key_monastery_kitchen,_Spiti,_India._2004.jpg"
+   ],
+   "lead": "Kee_monastery_Spiti_Valley_(edited).jpg"
+  },
+  "spiti--chicham": {
+   "lead": "Chicham_bridge_(51874557845).jpg"
+  },
+  "spiti--hikkim": {
+   "drop": [
+    "Road_Trip_To_Spiti.jpg"
+   ]
+  },
+  "spiti--komic": {
+   "drop": [
+    "Road_Trip_To_Spiti.jpg"
+   ]
+  },
+  "spiti--dhankar": {
+   "drop": [
+    "Soaring_Over_Dhankar_Monastery_(248020239).jpeg"
+   ],
+   "lead": "Dhankar_Gompa,_Spiti.jpg"
+  },
+  "spiti--tabo": {
+   "drop": [
+    "Tabo_Monjastery_Entrance.jpg"
+   ],
+   "lead": "Tabo_Village_in_Spiti.jpg"
+  },
+  "spiti--pin-valley": {
+   "drop": [
+    "Yellow-billed_chough_Pin_Valley_Spiti_Himachal_Jun18_D72_7201.jpg"
+   ]
+  },
+  "kasol--chalal-village-walk": {
+   "drop": [
+    "Chalal_4.jpg"
+   ],
+   "add": [
+    [
+     "Kasol_Bridge_at_Kasol_05.jpg",
+     4128,
+     2322,
+     "Pinakpani",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Kasol_Bridge_at_Kasol_01.jpg",
+     4128,
+     2322,
+     "Pinakpani",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "dharamshala--tsuglagkhang-dalai-lama-temple": {
+   "drop": [
+    "Prayers_on_stones_outside_the_Tsuglagkhang_Complex,_McLeod_Ganj.jpg",
+    "Signage_in_Tibet_Museum_-_Tsuglagkhang_Complex_-_McLeod_Ganj_-_Himachal_Pradesh_-_India_(26775646085).jpg",
+    "Memorial_to_Tibetan_Martyrs_-_Tsuglagkhang_Complex_-_McLeod_Ganj_-_Himachal_Pradesh_-_India_(26750029746).jpg",
+    "Monk_in_Tsuglagkhang_Complex_-_McLeod_Ganj_-_Himachal_Pradesh_-_India_(26775023045).jpg"
+   ],
+   "add": [
+    [
+     "Interior_of_Main_Monks'_Hall_-_Tsuglagkhang_Complex_-_McLeod_Ganj_-_Himachal_Pradesh_-_India_(26171197073).jpg",
+     3648,
+     2736,
+     "Adam Jones from Kelowna, BC, Canada",
+     "CC BY-SA 2.0"
+    ]
+   ]
+  },
+  "dharamshala--bhagsu-waterfall": {
+   "drop": [
+    "Bhagsu_view.jpg",
+    "McLeod_Ganj_Dharamkot_Dharmsala_Himachal_Pradesh_India_April_2014.jpg"
+   ],
+   "add": [
+    [
+     "Bhagsu_Waterfall,_Mcleodganj,_Himachal_Pradesh.jpg",
+     2448,
+     3264,
+     "Bana1989",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Bhagsu_waterfall.jpg",
+     3480,
+     4640,
+     "Harnoor.singh.11",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "dharamshala--dharamkot": {
+   "drop": [
+    "Night_View_of_Dharamkot.jpg"
+   ]
+  },
+  "dharamshala--st-john-in-the-wilderness": {
+   "drop": [
+    "Dharamsala-St_John_in_the_Wilderness-26-Zeder_vor_Bergen-2016-gje.jpg",
+    "St._John_in_the_Wilderness_Church_01.jpg"
+   ],
+   "add": [
+    [
+     "St._John_in_the_Wilderness_Church_01.jpg",
+     4608,
+     3456,
+     "Harvinder Chandigarh",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "dharamshala--kangra-fort": {
+   "drop": [
+    "Model_of_Kangra_Fort.jpg",
+    "Akbari_Dam,_Narnol_Mint,_circulation_years,_1563-1570_CE,_the_ASI_Kangra_Fort_Museum,_Himachal_Pradesh.jpg",
+    "View_of_Kangra_fort_From_Entrance_gate_to_fort_wall.jpg"
+   ]
+  },
+  "dalhousie--khajjiar-meadow": {
+   "drop": [
+    "Khajjiar_Dalhousie.jpg"
+   ]
+  },
+  "dalhousie--kalatop-wildlife-sanctuary": {
+   "drop": [
+    "Nature_of_Khajjiar.jpg"
+   ]
+  },
+  "dalhousie--st-john-s-church": {
+   "drop": [
+    "Dalhousie_Land_plaque,_Edinburgh_(32859968867).jpg"
+   ]
+  },
+  "dalhousie--chamba-town-bhuri-singh-museum": {
+   "drop": [
+    "Chamba_city_and_river_Ravi,_Himachal_Pradesh_India.jpg"
+   ],
+   "add": [
+    [
+     "Illustrated_manuscript_in_Gurmukhi,_provenance_unknown,_Bhuri_Singh_Museum,_Chamba,_Himachal_Pradesh.jpg",
+     1199,
+     723,
+     "SpeakingArch",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "kinnaur--bering-nag-temple": {
+   "lead": "Shree_Bering_Nag_Ji_Temple,_Sangla,_Himachal_Pradesh.jpg"
+  },
+  "kasauli--christ-church": {
+   "drop": [
+    "Kasauli_hills.jpg"
+   ],
+   "add": [
+    [
+     "CHRIST_CHURCH,_KASAULI.JPG",
+     4320,
+     3240,
+     "Suman Wadhwa",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Christ_Church,_Kasauli_,Solan_,Himachal_Pardesh.jpg",
+     4608,
+     3456,
+     "Harvinder Chandigarh",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Christ_church,_Kasauli.jpg",
+     800,
+     1200,
+     "Dinudey baidya",
+     "CC BY 2.0"
+    ]
+   ]
+  },
+  "bir--chokling-monastery-tibetan-colony": {
+   "drop": [
+    "An_aerial_view_of_Bir,_Kangra_valley_sights_nature_culture_Himachal_Pradesh_India_2015.jpg"
+   ],
+   "add": [
+    [
+     "Chokling_Monastery,_Bir.jpg",
+     1600,
+     747,
+     "Brahmavadini",
+     "CC BY 4.0"
+    ],
+    [
+     "Chokling_Monastery,_External_View.jpg",
+     1496,
+     1496,
+     "Brahmavadini",
+     "CC BY 4.0"
+    ],
+    [
+     "Chokling_Monastery,_Bir,_Himachal_Pradesh.jpg",
+     16320,
+     12240,
+     "Gannu03",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "bir--sherab-ling-monastery": {
+   "drop": [
+    "An_aerial_view_of_Bir,_Kangra_valley_sights_nature_culture_Himachal_Pradesh_India_2015.jpg"
+   ],
+   "add": [
+    [
+     "Buddhist_Monastery_in_HIMACHAL_PRADESH_(INDIA).jpg",
+     3121,
+     1963,
+     "Kartik mj",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Sherab-ling.png",
+     3000,
+     707,
+     "Dave Kleinschmidt",
+     "CC BY-SA 2.0"
+    ]
+   ]
+  },
+  "rishikesh--beatles-ashram-chaurasi-kutia": {
+   "lead": "I_am_the_Eggman,_Beatles_Ashram,_Rishikesh,_India.jpg"
+  },
+  "rishikesh--rajaji-national-park-chilla": {
+   "drop": [
+    "Rajaji_National_Park,_Rishikesh,_Uttaranchal.jpg"
+   ]
+  },
+  "haridwar--chandi-devi-temple": {
+   "drop": [
+    "Cable_car_to_Mansa_Devi_Temple,_Haridwar,_Uttarakhand,_India.jpg"
+   ],
+   "lead": "Mansa_Devi_Temple,_Haridwar.JPG"
+  },
+  "haridwar--daksha-mahadev-kankhal": {
+   "drop": [
+    "Ganga_aarti_haridwar_01.jpg",
+    "Haridwar_Ganga_6.JPG"
+   ]
+  },
+  "haridwar--bharat-mata-mandir": {
+   "drop": [
+    "Ganga_aarti_haridwar_01.jpg",
+    "Mansa_Devi_Temple,_Haridwar.JPG"
+   ]
+  },
+  "mussoorie--landour-char-dukan": {
+   "drop": [
+    "Mussoorie_and_Landour,_1860s.jpg"
+   ],
+   "lead": "Saint_Paul_Church,_Landour.jpg"
+  },
+  "mussoorie--camel-s-back-road": {
+   "drop": [
+    "Gezicht_op_de_Camel's_Back_Road_nabij_Mussoorie_The_camel's_back,_Mussoorie_(titel_op_object),_RP-F-2001-7-422-10.jpg",
+    "Chewing_on_Camels_Back_Road,_Mussoorie_(5281199779).jpg"
+   ]
+  },
+  "mussoorie--george-everest-s-house": {
+   "drop": [
+    "George_everest_house.jpg",
+    "Sir_George_Everest.jpg"
+   ],
+   "lead": "Sir_George_Everest_Bungalow.jpg"
+  },
+  "mussoorie--mall-road": {
+   "drop": [
+    "Statue_at_Mall_Road,_Mussoorie_02.JPG"
+   ],
+   "lead": "Mall_Road,_Mussoorie_03.JPG"
+  },
+  "nainital--boating-on-naini-lake": {
+   "drop": [
+    "Hill_trouts_in_Nainital_Lake.jpg"
+   ]
+  },
+  "nainital--tiffin-top": {
+   "drop": [
+    "Durga_Lal_Shah_Municipal_Public_Library,_Nainital,_Uttarakhand,_India.jpg",
+    "Mango_Lake,_Nainital,Uttarakhand.jpg"
+   ]
+  },
+  "nainital--mukteshwar": {
+   "drop": [
+    "IBL_Mukteshwar_people.jpg"
+   ]
+  },
+  "corbett--garjiya-devi-temple": {
+   "drop": [
+    "Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg"
+   ]
+  },
+  "auli--auli-artificial-lake-chairlift": {
+   "drop": [
+    "U.S._and_Indian_Soldiers_practice_high-altitude_HADR,_humanitarian_assistance_and_disaster_relief,_on_the_artificial_rock_face_in_Auli,_India.jpg",
+    "Soldiers_from_1st_Suqdron,_40th_Cavalry_Regiment_and_9th_Assam_Regiment_rappell_down_an_artificial_rockface_in_Auli,_India.jpg"
+   ],
+   "add": [
+    [
+     "Auli_Ski_Resort_in_summer_2012.jpg",
+     4000,
+     2248,
+     "Dinesh Valke from Thane, India",
+     "CC BY-SA 2.0"
+    ],
+    [
+     "Auli_ropeway_in_summer.JPG",
+     3240,
+     4320,
+     "Shreyans B C",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "kedarnath--bhairavnath-temple": {
+   "drop": [
+    "Kedarnath_Temple_in_Rainy_season.jpg"
+   ]
+  },
+  "kedarnath--chorabari-tal-gandhi-sarovar": {
+   "drop": [
+    "Kedarnath_Temple_in_Rainy_season.jpg"
+   ]
+  },
+  "badrinath--mana-village": {
+   "drop": [
+    "India_lsat_village.jpg"
+   ],
+   "lead": "First_tea_shop_of_India.jpg"
+  },
+  "badrinath--vasudhara-falls": {
+   "drop": [
+    "Badrinath_Temple-_Uttarakhand.jpg"
+   ]
+  },
+  "badrinath--tapt-kund": {
+   "lead": "Badrinath_Temple_Tapt_Kund_hot_springs.jpg"
+  },
+  "chopta--deoria-tal": {
+   "lead": "Deoria_Tal_Chandrashila_Chaukamba_reflection.jpg"
+  },
+  "lansdowne--tip-in-top": {
+   "drop": [
+    "Lansdowne_church.jpg"
+   ]
+  },
+  "lansdowne--garhwal-rifles-museum-darwan-singh": {
+   "drop": [
+    "Lansdowne_Landscape.jpg",
+    "Lansdowne_20140802_112741_(19934568950).jpg"
+   ],
+   "add": [
+    [
+     "Lansdowne_20140802_112758_(19501578543).jpg",
+     1920,
+     2560,
+     "Ashish Gupta from Noida, India",
+     "CC BY 2.0"
+    ]
+   ]
+  },
+  "delhi--chandni-chowk-food-walk": {
+   "drop": [
+    "Delhi_Town_Hall.jpg",
+    "Digambar_Jain_Lal_Mandir,_Chandni_Chowk,_Delhi.jpg"
+   ]
+  },
+  "delhi--humayun-s-tomb": {
+   "drop": [
+    "The_capture_of_the_king_of_delhi_by_Captain_Hodson.jpg"
+   ],
+   "lead": "Tomb_of_Humayun,_Delhi.jpg"
+  },
+  "delhi--qutub-minar": {
+   "lead": "Qutb_Minar_2022.jpg"
+  },
+  "delhi--mehrauli-archaeological-park": {
+   "drop": [
+    "Spilopelia_senegalensis_at_Mehrauli_Archaeological_Park,_Delhi.jpg"
+   ]
+  },
+  "delhi--gurudwara-bangla-sahib": {
+   "drop": [
+    "Group_of_Nihang_Singhs_with_Gurudwara_Bangla_Sahib_in_background.jpg"
+   ]
+  },
+  "delhi--akshardham": {
+   "drop": [
+    "Swaminarayan_Akshardham_Temple-Delhi-97.jpg"
+   ],
+   "lead": "New_Delhi_Temple.jpg"
+  },
+  "delhi--lotus-temple": {
+   "drop": [
+    "104-Lotus-Temple-Information-Centre.JPG"
+   ],
+   "lead": "Bahá’í_Lotus_Temple.jpg"
+  },
+  "agra--mehtab-bagh-sunset": {
+   "drop": [
+    "Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg"
+   ]
+  },
+  "varanasi--dashashwamedh-ganga-aarti": {
+   "lead": "Ganga_Aarti_in_evening_at_Dashashwamedh_ghat,_Varanasi.jpg"
+  },
+  "varanasi--kashi-vishwanath-temple": {
+   "drop": [
+    "Shri_Kashi_Vishwanath_Temple_7.jpg",
+    "Annapurna_Entrance_of_kashi_vishwanath_temple.jpg"
+   ],
+   "add": [
+    [
+     "Shri_Kashi_Vishwanath_Temple_7.jpg",
+     4000,
+     3000,
+     "Gannu03",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Shri_Kashi_Vishwanath_Temple_2.jpg",
+     3000,
+     4000,
+     "Gannu03",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Shri_Kashi_Vishwanath_Temple_3.jpg",
+     4000,
+     3000,
+     "Gannu03",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "varanasi--sarnath": {
+   "drop": [
+    "Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site,_Sarnath.jpg",
+    "Buddhist_monk_in_Sarnath.jpg",
+    "Sarnath_Jain_Temple_(1).jpg",
+    "Sarnath_Buddha_statue_inside_a_votive_stupa.jpg"
+   ],
+   "add": [
+    [
+     "Dhamek_Stupa,_2025.jpg",
+     3072,
+     4096,
+     "Hardy Explorer",
+     "CC0"
+    ],
+    [
+     "Mulagandha_Kuti_Vihara,_Sarnath_(42810).jpg",
+     4096,
+     3072,
+     "Aliva Sahoo",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Mulagandha_Kuti_Vihara,_Sarnath_(13458).jpg",
+     3072,
+     4096,
+     "Aliva Sahoo",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Site_of_Dhamek_stupa_and_Monastery_Sarnath,_Varanasi_Uttar_Pradesh.jpg",
+     1139,
+     640,
+     "SpeakingArch",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "varanasi--assi-ghat-subah-e-banaras": {
+   "drop": [
+    "An_evening_at_Assi_Ghat.JPG"
+   ]
+  },
+  "varanasi--ramnagar-fort": {
+   "drop": [
+    "Laldaruaza_(Ramnagar)_-Benares-..jpg"
+   ]
+  },
+  "ayodhya--shri-ram-janmabhoomi-mandir": {
+   "drop": [
+    "Ram_Temple_miniature_not_to_scale_replica_Diwali_New_Delhi_3.jpg"
+   ]
+  },
+  "ayodhya--kanak-bhawan": {
+   "drop": [
+    "Shri_Ram_Janambhoomi_Mandir,_Ayodhya_Dham.jpg"
+   ]
+  },
+  "ayodhya--guptar-ghat": {
+   "drop": [
+    "Shri_Ram_Janambhoomi_Mandir,_Ayodhya_Dham.jpg"
+   ]
+  },
+  "vrindavan--prem-mandir": {
+   "drop": [
+    "Prem_Mandir_Vrindavan_Mathura_UP.jpg"
+   ]
+  },
+  "vrindavan--krishna-janmabhoomi-mathura": {
+   "drop": [
+    "Ogee_Arches_and_Balconies_Containing_Human_Figures_-_Rear_View_-_Circa_2nd_Century_BCE_-_Katra_Keshav_Dev_-_ACCN_00-M1_-_Government_Museum_-_Mathura_2013-02-24_6100.JPG"
+   ]
+  },
+  "lucknow--chowk-aminabad-food-walk": {
+   "drop": [
+    "Harzratganj_Market,_Lucknow.jpg"
+   ],
+   "add": [
+    [
+     "Tunday_Kebabi,_Lucknow.jpg",
+     1232,
+     816,
+     "Matt Stabile",
+     "CC BY 2.0"
+    ],
+    [
+     "Tunday_Kababi,_Lucknow.jpg",
+     2354,
+     1914,
+     "Mohit",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Galouti_Kabab_from_Tunday_Kababi_Lucknow_2009-01-06.jpg",
+     800,
+     763,
+     "Mcbridejc",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "lucknow--chikankari-workshops": {
+   "drop": [
+    "Harzratganj_Market,_Lucknow.jpg"
+   ],
+   "add": [
+    [
+     "Chikan_embroidery,_Lucknow.jpg",
+     1600,
+     1200,
+     "Joey Berzowska",
+     "CC BY 2.0"
+    ],
+    [
+     "Chikan_embroidery_from_the_back,_Lucknow.jpg",
+     1200,
+     1600,
+     "Joey Berzowska",
+     "CC BY 2.0"
+    ]
+   ]
+  },
+  "prayagraj--all-saints-cathedral": {
+   "lead": "All_Saints'_Cathedral.jpg"
+  },
+  "amritsar--gobindgarh-fort": {
+   "lead": "Inner_entrance_of_Gobindgarh_fort,_Amritsar,_Punjab,_India.jpg"
+  },
+  "chandigarh--rock-garden": {
+   "lead": "Men_at_rock_garden_chandigarh.jpg"
+  },
+  "chandigarh--zakir-hussain-rose-garden": {
+   "drop": [
+    "Signage_for_Chandigarh's_Zakir_Hussain_Rose_Garden_(30404689928).jpg"
+   ]
+  },
+  "shillong--laitlum-canyons": {
+   "drop": [
+    "Elephant_Falls_II,_Shillong.jpg"
+   ],
+   "lead": "Laitlum_Canyon_(3).jpg"
+  },
+  "shillong--don-bosco-museum": {
+   "lead": "Don_Bosco_Centre_for_Indigenous_Culture.jpg"
+  },
+  "shillong--elephant-falls": {
+   "drop": [
+    "Elephant_Falls_–_Dos_and_Don'ts_for_Visitors.jpg"
+   ]
+  },
+  "shillong--ward-s-lake": {
+   "drop": [
+    "Elephant_Falls_II,_Shillong.jpg"
+   ]
+  },
+  "shillong--cathedral-of-mary-help-of-christians": {
+   "drop": [
+    "Elephant_Falls_II,_Shillong.jpg",
+    "Staircase_of_Mary_Help_of_Christians_Cathedral,_Shillong_(2).jpg"
+   ]
+  },
+  "cherrapunji--double-decker-living-root-bridge-nongriat": {
+   "drop": [
+    "LIVING_ROOT_BRIDGE_H_YULE.jpg"
+   ]
+  },
+  "cherrapunji--nohkalikai-falls": {
+   "drop": [
+    "Nohkalikai_Falls_India.jpg"
+   ]
+  },
+  "cherrapunji--seven-sisters-falls": {
+   "drop": [
+    "Seven_Sister_Falls_View_Bangladesh_Plains.jpg"
+   ]
+  },
+  "cherrapunji--mawsmai-cave": {
+   "drop": [
+    "Mawsmai_Cave_Signboard.jpg"
+   ]
+  },
+  "cherrapunji--arwah-cave": {
+   "drop": [
+    "Arwah_Cave,_Sohra,_Meghalaya,_India.jpg"
+   ]
+  },
+  "cherrapunji--dainthlen-falls": {
+   "drop": [
+    "Dainthlen_Falls_Starting_Point.jpg"
+   ],
+   "lead": "Rocks_near_Dainthlen_Falls_(3).jpg"
+  },
+  "dawki--riwai-living-root-bridge": {
+   "drop": [
+    "Dawki_River,_Meghalaya,_India.jpg",
+    "Living_Root_Bridge.jpg"
+   ],
+   "add": [
+    [
+     "Single_Decker_Living_Root_Bridge_at_Riwai.jpg",
+     4080,
+     2296,
+     "Arindambasu2",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Single_Decker_Living_Root_Bridge_(2).jpg",
+     3000,
+     4000,
+     "ANKAN",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "dawki--krang-suri-falls": {
+   "drop": [
+    "Dawki_River,_Meghalaya,_India.jpg"
+   ],
+   "add": [
+    [
+     "Near_Krang_Suri_Waterfall.jpg",
+     4000,
+     3000,
+     "ANKAN",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Krang_Suri_Waterfall.jpg",
+     4000,
+     3000,
+     "ANKAN",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Krang_Suri_Waterfall_(6).jpg",
+     4000,
+     3000,
+     "ANKAN",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "kaziranga--kaziranga-orchid-biodiversity-park": {
+   "drop": [
+    "Kaziranga_Orchid_and_Biodiversity_Park_Museum23.jpg",
+    "Beauty_of_Kaziranga_National_Park.jpg"
+   ],
+   "add": [
+    [
+     "Phalaenopsis_orchid,_Kaziranga_Orchid_Park,_Assam.jpg",
+     5568,
+     3712,
+     "JyotiPN",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Dendrobium_Goldschmidtianum,_Kaziranga_Orchid_Park,_Assam.jpg",
+     2884,
+     3844,
+     "JyotiPN",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "tawang--tawang-monastery": {
+   "lead": "Exterior_view_of_the_Tawang_Monastery.jpg"
+  },
+  "tawang--madhuri-sangestar-lake": {
+   "drop": [
+    "Sungester_lake,_Tawang,_Arunachal_Pradesh.jpeg"
+   ]
+  },
+  "tawang--nuranang-jang-falls": {
+   "drop": [
+    "The_Tawang_Monastery.jpg"
+   ]
+  },
+  "tawang--tawang-war-memorial": {
+   "drop": [
+    "The_Tawang_Monastery.jpg",
+    "Tawang_War_Memorial_(Immortals).jpg"
+   ]
+  },
+  "majuli--samaguri-satra-mask-making": {
+   "drop": [
+    "Mask_making_at_Majuli_Samaguri_satra.jpg"
+   ]
+  },
+  "majuli--brahmaputra-sunset": {
+   "drop": [
+    "Ganges-Brahmaputra-Meghna_basins.jpg"
+   ]
+  },
+  "majuli--dakhinpat-satra": {
+   "lead": "Dakhinpat_Temple.jpg"
+  },
+  "kohima--kohima-war-cemetery": {
+   "drop": [
+    "Entrance_to_Cemetery.jpeg"
+   ]
+  },
+  "kohima--kohima-local-market": {
+   "drop": [
+    "IND_003698_Garrison_Hill_Kohima.jpg"
+   ],
+   "add": [
+    [
+     "Kohima_lady_market.jpeg",
+     2048,
+     1536,
+     "PP Yoonus",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Naga_Market.jpg",
+     3024,
+     4032,
+     "Ishani Nath",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Silk_Worms_Naga_Delicacy.jpg",
+     3024,
+     4032,
+     "Ishani Nath",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "guwahati--kamakhya-temple": {
+   "drop": [
+    "Singers_performing_Bhajan_in_front_of_Umanand_temple,_Guwahati,_Assam,_India.JPG"
+   ]
+  },
+  "guwahati--pobitora-wildlife-sanctuary": {
+   "drop": [
+    "Pobitora_Wildlife_Sanctuary,_Assam.jpg"
+   ]
+  },
+  "guwahati--assam-state-museum": {
+   "drop": [
+    "Guwahati_citysky.jpg"
+   ]
+  },
+  "coorg--raja-s-seat-sunset": {
+   "lead": "From_Raja_seat.jpg"
+  },
+  "coorg--coffee-estate-walk": {
+   "drop": [
+    "Singnally_Road_Monsoon_Mist_Coorg_Jun24_A7CR_01409.jpg"
+   ],
+   "add": [
+    [
+     "Coffee_Coconuts_Pepper_Estate_Coorg_Feb24_A7C_09365.jpg",
+     3696,
+     5544,
+     "This Photo was taken by Timothy A. Gonsa",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Ripe_Seeds_Coffee_Robusta_Coorg_Karnataka_India_Feb24_D72_25688.jpg",
+     3572,
+     3572,
+     "This Photo was taken by Timothy A. Gonsa",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "mysore--chamundi-hill": {
+   "lead": "Chamundeshwari_Temple,_Chamundi_hills_-_Mysuru,_Karnataka.jpg"
+  },
+  "mysore--brindavan-gardens-fountain-show": {
+   "lead": "Brindavan.jpg"
+  },
+  "mysore--somnathpur-keshava-temple": {
+   "drop": [
+    "Chennakesava_temple,_Somanathapura.jpg"
+   ]
+  },
+  "hampi--virupaksha-temple": {
+   "lead": "Galigopuram_of_Virupaksha_Temple,_Hampi_(03).jpg"
+  },
+  "hampi--hemakuta-hill-sunset": {
+   "lead": "A_temple_near_the_sunset_point_of_Hemakuta_hill.jpg"
+  },
+  "hampi--coracle-ride-on-the-tungabhadra": {
+   "drop": [
+    "Hampi_virupaksha_temple.jpg"
+   ],
+   "add": [
+    [
+     "Tungabhadra_River_and_Coracle_Boats.JPG",
+     3857,
+     2313,
+     "Dey.sandip",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Two_Coracles_and_Tungabhadra_River.jpg",
+     4200,
+     2639,
+     "Dey.sandip",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Hampi.in_Tungabhadra_Coracles_-_panoramio.jpg",
+     1134,
+     850,
+     "SINHA",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "gokarna--kudle-beach": {
+   "lead": "Kudle_beach_gokarna.jpg"
+  },
+  "gokarna--mahabaleshwar-temple": {
+   "drop": [
+    "Entrance_to_Gokarna_Mahabaleshwar_Temple_-_panoramio.jpg",
+    "KW23-0751-Gokarna-AdiGokarna-Front1_3D.jpg"
+   ],
+   "lead": "KW23-0754-Gokarna-AdiGokarna-FrontFull4_3D.jpg"
+  },
+  "gokarna--mirjan-fort": {
+   "drop": [
+    "Mirjan_Fort,_Uttara_Kannada,_Karnataka.JPG"
+   ]
+  },
+  "chikmagalur--belur-chennakeshava-temple": {
+   "drop": [
+    "Belur_inscription.jpg"
+   ]
+  },
+  "bengaluru--lalbagh-botanical-garden": {
+   "drop": [
+    "Lal_bagh_gardens1794.jpg"
+   ]
+  },
+  "bengaluru--tipu-sultan-s-summer-palace": {
+   "drop": [
+    "James_Hunter_-_Tipu_Sultan's_Summer_Palace_-_B1974.12.1168_-_Yale_Center_for_British_Art.jpg",
+    "Kote_Venkataramana_Temple_from_Tipu_Sultan's_Summer_Palace_(16414501489).jpg"
+   ]
+  },
+  "bengaluru--bannerghatta-biological-park": {
+   "drop": [
+    "Snap_from_Bannerghatta_National_Park_Bangalore_8528.JPG",
+    "Tiger_safari_at_Bannerghatta_Biological_Park,_Bengaluru,_Karnataka-_photo_by_Arun.jpg"
+   ],
+   "lead": "Bengal_Tiger_In_Bannerghatta_Bengaluru.jpg"
+  },
+  "hyderabad--chowmahalla-palace": {
+   "drop": [
+    "Nizam's_Chowmahela_Palace,_Hyderabad,_India.JPG"
+   ]
+  },
+  "hyderabad--hussain-sagar-buddha-statue": {
+   "drop": [
+    "Aerial_view_of_Hussain_Sagar_from_Bansalipet.jpg",
+    "Hussain_sagar_boarding_point.jpg",
+    "Lumbini_Park,_Hyderabad.jpg",
+    "Birla_Mandir_in_Hyderabad,_2015.JPG"
+   ],
+   "add": [
+    [
+     "Monolithic_Buddha_statue_in_Hussain_Sagar,_Hyderabad.jpg",
+     4000,
+     6000,
+     "iMahesh",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Hussain_Sagar_Buddha_Statue.JPG",
+     4500,
+     3000,
+     "Nikhilb239",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "hyderabad--old-city-biryani-chai-trail": {
+   "add": [
+    [
+     "Chicken_Hyderabadi_Biryani.JPG",
+     4288,
+     2848,
+     "Dheerajk88",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Irani_chai_and_osmania_biscuits.jpg",
+     3264,
+     2448,
+     "manojkumar chidambaram",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "tirupati--alipiri-footpath": {
+   "drop": [
+    "Tirumala_090615.jpg"
+   ],
+   "add": [
+    [
+     "Alipiri_footsteps_passage_along_with_Tirumala_ghat_road_(May_2019)_4.jpg",
+     6000,
+     4000,
+     "IM3847",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Galigopuram_along_the_Alipiri_steps_route_on_Tirumala_Hills_(May_2019).jpg",
+     6000,
+     4000,
+     "IM3847",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "tirupati--sri-padmavathi-temple": {
+   "drop": [
+    "Padmavathi_Ammavari_Temple.JPG"
+   ],
+   "add": [
+    [
+     "Padmavathi_Ammavari_Temple.JPG",
+     2448,
+     3264,
+     "Vedamurthy.j",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Tiruchanur_19.JPG",
+     5184,
+     3456,
+     "Malyadri",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "tirupati--kapila-theertham": {
+   "drop": [
+    "Tirumala_090615.jpg"
+   ]
+  },
+  "araku--araku-coffee-museum": {
+   "add": [
+    [
+     "Coffee_Museum,_Araku_Valley.jpg",
+     4624,
+     3468,
+     "Dissoxciate",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "araku--tribal-museum": {
+   "drop": [
+    "Araku_Tribal_Museum_in_Araku_valley_10.jpg"
+   ],
+   "add": [
+    [
+     "Araku_Tribal_Museum_at_Araku_in_Andhra_Pradesh_07.jpg",
+     6000,
+     4000,
+     "Pinakpani",
+     "CC BY 4.0"
+    ],
+    [
+     "Araku_Tribal_Museum_in_Araku.jpg_24.jpg",
+     3664,
+     2748,
+     "Pinakpani",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "port-blair--ross-island-netaji-subhas-chandra-bose-dweep": {
+   "lead": "Ross_Island_jetty,_Port_Blair_in_Andaman_Island.jpg"
+  },
+  "port-blair--corbyn-s-cove-beach": {
+   "drop": [
+    "Corbyns_cove_beach-12-port_blair-andaman-India.jpg"
+   ]
+  },
+  "port-blair--samudrika-naval-marine-museum": {
+   "drop": [
+    "Formation_of_andaman-1-samudrika_museum-andaman-India.jpg"
+   ]
+  },
+  "havelock--radhanagar-beach": {
+   "drop": [
+    "Radha_Nagar_beach_,_Havelock_Island,_Andamn,India-_Sun_set_view.JPG"
+   ]
+  },
+  "havelock--elephant-beach-snorkelling": {
+   "drop": [
+    "Snorkeling_on_Elephant_Beach_on_Havelock_Island.JPG"
+   ]
+  },
+  "havelock--scuba-diving-try-dive": {
+   "drop": [
+    "Havelock,_Andaman_&_Nicobar_Islands.JPG"
+   ]
+  },
+  "havelock--kalapathar-beach": {
+   "drop": [
+    "Havelock,_Andaman_&_Nicobar_Islands.JPG"
+   ]
+  },
+  "munnar--tea-museum-kdhp": {
+   "lead": "Munnar_Tea_Museum_-_Model_Tea_Factory_-_3.jpg"
+  },
+  "munnar--top-station": {
+   "drop": [
+    "Munnar_-_Top_Station_Highway-WUS07297.jpg"
+   ]
+  },
+  "alleppey--houseboat-day-cruise": {
+   "add": [
+    [
+     "Houseboat_on_Alleppey_backwaters_(Kerala,_India_2023)_(52704577484).jpg",
+     4032,
+     3024,
+     "Paul Arps from The Netherlands",
+     "CC BY 2.0"
+    ],
+    [
+     "Houseboat_in_the_town_of_Alleppey_Kerala,_Dec_2011.jpg",
+     1600,
+     1200,
+     "Henkelz",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "alleppey--alleppey-beach-lighthouse": {
+   "drop": [
+    "Alappuzha_Boat_Beauty_W.jpg"
+   ]
+  },
+  "alleppey--champakulam-church-snake-boats": {
+   "drop": [
+    "Alappuzha_Boat_Beauty_W.jpg"
+   ]
+  },
+  "kochi--mattancherry-spice-market": {
+   "drop": [
+    "Kochi_Skyline.jpg"
+   ]
+  },
+  "varkala--jatayu-earth-s-center": {
+   "drop": [
+    "Jatayu_Earth’s_Center_IMG20250413152620.jpg"
+   ],
+   "lead": "Jatayu_Earth's_Center_Nature_Park.jpg"
+  },
+  "wayanad--pookode-lake": {
+   "drop": [
+    "Calotes_nemoricola_(Pookode_Lake,_Wayanad,_India).jpg"
+   ]
+  },
+  "wayanad--thirunelli-temple": {
+   "lead": "Thirunelli_Maha_Vishnu_temple_in_Wayanad_region_Kerala_India.jpg"
+  },
+  "ooty--nilgiri-mountain-railway": {
+   "drop": [
+    "50Nilgiri_Railway.jpg"
+   ],
+   "lead": "Rest_Stop_Along_the_Nilgiri_Mountain_Railway_(15075010526).jpg"
+  },
+  "ooty--ooty-lake": {
+   "drop": [
+    "White_horses_for_ride_at_Ooty_lake_boat_house-Nilgiris.jpg"
+   ]
+  },
+  "ooty--toda-village-muthanadu-mund": {
+   "drop": [
+    "Ooty_lake.jpg"
+   ],
+   "add": [
+    [
+     "Toda_Hut.JPG",
+     1280,
+     960,
+     "Pratheepps",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Toda_Men_near_Toda_Hut_in_Ooty.jpg",
+     4282,
+     2836,
+     "Rangan Datta Wiki",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "kodaikanal--coaker-s-walk": {
+   "drop": [
+    "Boating_in_Kodaikanal_Lake_with_Mist.jpg"
+   ]
+  },
+  "kodaikanal--pillar-rocks": {
+   "drop": [
+    "Boating_in_Kodaikanal_Lake_with_Mist.jpg"
+   ],
+   "lead": "Pillar_Rocks_Kodaikanal.jpg"
+  },
+  "kodaikanal--poombarai-village": {
+   "drop": [
+    "Village_covered_by_mist_in_Poomparai_village_in_Kodaikanal.jpg"
+   ]
+  },
+  "kodaikanal--bryant-park": {
+   "drop": [
+    "Boating_in_Kodaikanal_Lake_with_Mist.jpg"
+   ]
+  },
+  "kodaikanal--berijam-lake": {
+   "drop": [
+    "Boating_in_Kodaikanal_Lake_with_Mist.jpg"
+   ]
+  },
+  "pondicherry--promenade-rock-beach": {
+   "drop": [
+    "Night_views_of_the_Promenade_Beach_in_Pondicherry_03.jpg"
+   ]
+  },
+  "pondicherry--french-quarter-walk": {
+   "drop": [
+    "French_Quarter,_Pondicherry_(8)_(23662063428).jpg"
+   ],
+   "add": [
+    [
+     "Pondicherry-French_Quarter-WUS02277.jpg",
+     5448,
+     3632,
+     "Rainer Halama",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "mahabalipuram--arjuna-s-penance": {
+   "drop": [
+    "Nowicki_Kazimierz_-_zdjecia,_Indie,_Tamil_Nadu,_Mahabapiluram,_Arjuna_s_Penance_Relief,_1961.01.24.jpg",
+    "Mahabalipuram_god_charpam.jpg"
+   ]
+  },
+  "mahabalipuram--dakshinachitra": {
+   "drop": [
+    "DakshinaChitra-WUS-01650.jpg"
+   ],
+   "add": [
+    [
+     "Ikkat_House,_DakshinaChitra.jpg",
+     4000,
+     3000,
+     "Mohan Babu V",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Snack_Bar,_DakshinaChitra.jpg",
+     4000,
+     3000,
+     "Mohan Babu V",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "mahabalipuram--madras-crocodile-bank": {
+   "drop": [
+    "Madras_Crocodile_Bank_Trust-WUS01703.jpg"
+   ],
+   "add": [
+    [
+     "Madras_Crocodile_Bank_Trust-WUS01689.jpg",
+     2879,
+     1919,
+     "Rainer Halama",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Madras_Crocodile_Bank_Trust-WUS01699.jpg",
+     3972,
+     2648,
+     "Rainer Halama",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "madurai--meenakshi-amman-temple": {
+   "drop": [
+    "Figures_with_Pigeons_-_Ivory_Sculpture_-_Sri_Meenakshi-Sundareshwarar_Temple_-_Madurai_-_India.JPG",
+    "Sri_Meenakshi_Devasthanam_Temple_(east-exposure).jpg"
+   ],
+   "lead": "India_Meenakshi_Temple.jpg",
+   "add": [
+    [
+     "Madurai_Meenakshi_Amman_Temple_Gopuram.jpg",
+     1200,
+     1600,
+     "user:deadrat",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "madurai--thirumalai-nayakkar-palace": {
+   "drop": [
+    "Ruins_of_Thirumalai_Nayak_palace_in_Madurai_(1).jpg"
+   ],
+   "lead": "S-TN-23_Thirumalai_Naicker_Palace_Madurai_1.jpg"
+  },
+  "madurai--madurai-food-walk": {
+   "drop": [
+    "10th_century_Samanar_Malai_Jain_monuments,_Madurai_district,_Tamil_Nadu_India_-_01.jpg"
+   ],
+   "add": [
+    [
+     "Jigarthanda.JPG",
+     1728,
+     2592,
+     "KARTY JazZ",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Kari_dosai.JPG",
+     4320,
+     3240,
+     "Kalaiselvi Murugesan",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "rameswaram--ramanathaswamy-temple": {
+   "drop": [
+    "Rameswaram_coral_beach.jpg",
+    "Villonditheertham_rameswaram.jpg",
+    "Ramanathaswamy_Temple_Rameswaram_(3).jpg"
+   ]
+  },
+  "rameswaram--dr-apj-abdul-kalam-memorial": {
+   "drop": [
+    "A._P._J._Abdul_Kalam.jpg"
+   ]
+  },
+  "kanyakumari--sunset-point": {
+   "drop": [
+    "Mahindra_Mojo_UT_300_-_Blue_at_Kanyakumari_Sunset_point.jpg"
+   ]
+  },
+  "kanyakumari--kumari-amman-temple": {
+   "drop": [
+    "The_Kanyakumari_temple.jpg",
+    "Kanyakumari_Temple.JPG",
+    "Triveni-Sangamam-Kanyakumari-TamilNadu-India.jpg"
+   ],
+   "add": [
+    [
+     "Kanyakumari_Bhagavathy_Amman.jpg",
+     1844,
+     4096,
+     "Sujithshivam511",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "jaipur--galta-ji-monkey-temple": {
+   "drop": [
+    "Inside_view_of_Amer_Fort,_Jaipur.JPG",
+    "Galta_Ji_Mandir_(14-07-2022)_img_04.jpg"
+   ]
+  },
+  "jaipur--jal-mahal": {
+   "drop": [
+    "Gaitor_ki_Chhatri_Cenotaphs,_Jaipur,_India_(DSCN4779).jpg"
+   ]
+  },
+  "udaipur--jagdish-temple": {
+   "drop": [
+    "Jagdish_Temple_05.jpg"
+   ],
+   "lead": "Jagdish_Temple_Udaipur.jpg"
+  },
+  "udaipur--saheliyon-ki-bari": {
+   "drop": [
+    "Evening_view,_City_Palace,_Udaipur.jpg"
+   ]
+  },
+  "udaipur--shilpgram": {
+   "drop": [
+    "Evening_view,_City_Palace,_Udaipur.jpg"
+   ]
+  },
+  "jodhpur--blue-city-walk-navchokiya": {
+   "lead": "Jodhpur_the_blue_city_view_over_the_maze_of_houses_India_25Aug2006.jpg"
+  },
+  "jodhpur--rao-jodha-desert-rock-park": {
+   "drop": [
+    "Rao_Jodha_Desert_Rock_Park,_Jodhpur,_20191210_1124_7894.jpg"
+   ]
+  },
+  "jaisalmer--kuldhara-abandoned-village": {
+   "drop": [
+    "KULDHARA_HERITAGE_VILLAGE,_JAISALMER.JPG"
+   ]
+  },
+  "jaisalmer--khaba-fort": {
+   "lead": "Khaba_Fort.jpg"
+  },
+  "pushkar--brahma-temple": {
+   "lead": "Brahma_Temple,_Pushkar,_RJ.jpg"
+  },
+  "mountabu--dilwara-jain-temples": {
+   "drop": [
+    "The_Jain_temples_on_mount_Abu,_Rajasthan.jpg"
+   ]
+  },
+  "mountabu--nakki-lake": {
+   "drop": [
+    "Nakki_Lake_Mount_Abu_(66247).jpg"
+   ]
+  },
+  "mountabu--sunset-point": {
+   "drop": [
+    "Mount_Abu.jpg",
+    "Cactus_on_a_rock_-_Sunset_Point_-_Mount_Abu.jpg"
+   ]
+  },
+  "mountabu--achalgarh-fort-temple": {
+   "drop": [
+    "Mount_Abu.jpg"
+   ]
+  },
+  "kutch--white-rann-at-dhordo": {
+   "drop": [
+    "Rann_of_Kutch_-_Highest_Point.jpg",
+    "Rann_of_Kutch_-_White_Desert.jpg",
+    "Tropic_of_Cancer_-_a_few_miles_from_Rann_of_Kutch.jpg"
+   ],
+   "add": [
+    [
+     "Rann_of_Kutch_-_White_Desert.jpg",
+     2592,
+     1944,
+     "Superfast1111",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Rann_of_Kutch_-_White_Desert_2.jpg",
+     2592,
+     1944,
+     "Superfast1111",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "kutch--kala-dungar": {
+   "drop": [
+    "Prag_Mahal_Back_side_view,_Bhuj,_Gujarat,_India.jpg",
+    "Rann_of_Kutch_-_Highest_Point.jpg"
+   ]
+  },
+  "kutch--nirona-craft-village": {
+   "drop": [
+    "Prag_Mahal_Back_side_view,_Bhuj,_Gujarat,_India.jpg"
+   ],
+   "add": [
+    [
+     "Rogan_painting.jpg",
+     3264,
+     2448,
+     "Rick Bradley",
+     "CC BY 2.0"
+    ],
+    [
+     "Rogan-art-Tree-of-Life-Abdul-Gafur-Khatri-29-12-2013.jpg",
+     2240,
+     3103,
+     "Wiki-uk",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "kutch--mandvi-beach-vijay-vilas-palace": {
+   "lead": "Magnificent_Vijay_Vilas_Palace-Mandvi,_Gujarat.jpg"
+  },
+  "kutch--lakhpat-fort": {
+   "drop": [
+    "Prag_Mahal_Back_side_view,_Bhuj,_Gujarat,_India.jpg"
+   ]
+  },
+  "ahmedabad--sabarmati-ashram": {
+   "drop": [
+    "Sabarmati_Ashram_(88074).jpg"
+   ]
+  },
+  "ahmedabad--rani-ki-vav-patan": {
+   "drop": [
+    "Rani_ki_Vav_-_The_Queen's_Step_Well_(3303500031).jpg"
+   ]
+  },
+  "ahmedabad--modhera-sun-temple": {
+   "drop": [
+    "Modhera,_Sun_Temple_and_Reservoir,_Gujarat_(1967).jpg"
+   ]
+  },
+  "dwarka--dwarkadhish-temple": {
+   "lead": "Dwarkadhish_Temple_20.jpg"
+  },
+  "dwarka--rukmini-devi-temple": {
+   "lead": "Rukmini_Devi_Temple,_Dwarka_during_Dwaraka_DWARASPDB_2015_(70).jpg"
+  },
+  "somnath--somnath-temple": {
+   "drop": [
+    "K_M_Munshi_at_Somnath_in_July_1950.jpg",
+    "Ancient_Somnath_temple,_Veraval_Gujarat.jpg"
+   ],
+   "add": [
+    [
+     "Shree_Somnath_Temple.jpg",
+     2200,
+     1378,
+     "Prime Minister's Office",
+     "GODL-India"
+    ],
+    [
+     "Somnath_Temple_Gujarat.jpg",
+     3264,
+     1836,
+     "Aditya Mahar",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "\"_Somnath_Temple,_Gujarat_\".jpg",
+     5184,
+     3456,
+     "Bibhas87",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "somnath--diu-fort": {
+   "drop": [
+    "Diu_map1729.jpg"
+   ],
+   "add": [
+    [
+     "Diu_fort_Diu_india.jpg",
+     2592,
+     1944,
+     "Sumit sharma",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Diu_fort,_India.JPG",
+     4896,
+     3672,
+     "Aditya Mahar",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "kevadia--narmada-river-cruise": {
+   "drop": [
+    "Sardar_Patel_Head_Sculpture_at_Statue_of_Unity_Museum.jpg"
+   ],
+   "lead": "Narmada_River_Near_Statue_Of_Unity.jpg"
+  },
+  "mumbai--elephanta-caves": {
+   "drop": [
+    "Elephanta_1.jpg"
+   ],
+   "lead": "Elephanta_Caves_Panorama.jpg"
+  },
+  "mumbai--csmvs-museum": {
+   "drop": [
+    "Portrait_of_Chhatrapati_Shivaji.JPG"
+   ]
+  },
+  "mumbai--banganga-tank": {
+   "drop": [
+    "Banganga's_Inscription_Board,_Walkeshwar.jpg"
+   ],
+   "lead": "A_view_of_Banganga_Tank_located_in_South_Mumbai.jpg"
+  },
+  "mumbai--kala-ghoda-art-district": {
+   "drop": [
+    "Kala_Ghoda_Art_District.jpg"
+   ]
+  },
+  "mumbai--juhu-beach-street-food": {
+   "drop": [
+    "Juhu_beach_(Arial).jpg",
+    "Pizza_and_Coffee_-_Love_and_Latte,_Mumbai_-_Maharashtra_-_IMG_20181119_154954-01.jpg"
+   ],
+   "add": [
+    [
+     "Bhaji_pav_2.jpg",
+     3069,
+     4096,
+     "BHAAGIi",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Crunchy_Crispy_Vada_pav.jpg",
+     3600,
+     2400,
+     "Sharvarism",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "BHEL_PURI_PUNE_050.jpg",
+     4640,
+     2610,
+     "Manoj2095",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "lonavala--karla-caves": {
+   "lead": "Karla_caves.jpg"
+  },
+  "lonavala--bhaja-caves": {
+   "drop": [
+    "Tri-lingual_information_boards_at_Bhaja_Caves.jpg"
+   ]
+  },
+  "lonavala--bhushi-dam": {
+   "lead": "Lonavala-_bhushi_dam.jpg"
+  },
+  "matheran--neral-matheran-toy-train": {
+   "drop": [
+    "Juma_Patti_(also_spelled_Jumma_Patti_or_Jummapatti)_is_a_scenic_spot_along_the_Neral-Matheran_route_in_Maharashtra's_Raigad_district,_known_for_its_tranquil_railway_station_and_nearby_waterfalls..jpg"
+   ]
+  },
+  "matheran--panorama-point": {
+   "drop": [
+    "Train_to_Matheran.JPG"
+   ]
+  },
+  "matheran--louisa-point": {
+   "drop": [
+    "Louisa_Point,_Matheran_(12671731144).jpg"
+   ],
+   "lead": "Matheran_Louisa_Point,_(Hi-Res)_-_panoramio_(2).jpg"
+  },
+  "matheran--charlotte-lake": {
+   "lead": "Charlotte_Lake_at_Matheran_-_panoramio.jpg"
+  },
+  "matheran--one-tree-hill": {
+   "drop": [
+    "One_Tree_Hill,_Matheran.jpg"
+   ]
+  },
+  "mahabaleshwar--pratapgad-fort": {
+   "drop": [
+    "Pratapgad_fort_front_view.jpg"
+   ]
+  },
+  "mahabaleshwar--panchgani-table-land": {
+   "drop": [
+    "Food_stall,_Table_Land,_Panchgani.jpg",
+    "Toy_train_(joy_ride),_Table_Land,_Panchgani.jpg",
+    "Table_Land_2.jpg"
+   ],
+   "add": [
+    [
+     "Horse_ride_rate_chart,_Table_Land,_Panchgani.jpg",
+     4121,
+     2730,
+     "Rangan Datta Wiki",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "mahabaleshwar--old-mahabaleshwar-temple": {
+   "drop": [
+    "Entrance_to_Gokarna_Mahabaleshwar_Temple_-_panoramio.jpg",
+    "Old_Mahabaleshwar_Temple_(4662694620).jpg",
+    "Arthur's_seat,_Mahabaleshwar.jpg"
+   ],
+   "add": [
+    [
+     "Old_Mahabaleshwar_Temple_(4662076173).jpg",
+     3088,
+     2056,
+     "Vikas Rana from Bangalore",
+     "CC BY 2.0"
+    ]
+   ]
+  },
+  "aurangabad--bibi-ka-maqbara": {
+   "drop": [
+    "Pillars_at_Aurangabad_Caves.jpg",
+    "Meditating_Buddha_Statue_at_Aurangabad_Caves.jpg"
+   ]
+  },
+  "aurangabad--daulatabad-fort": {
+   "drop": [
+    "Region_of_the_Yadavas,_with_the_city_of_Diogil_(Deogil._Dwaigir._Daulatabad)_in_the_Catalan_Atlas_(1375).jpg"
+   ]
+  },
+  "aurangabad--himroo-paithani-weaving": {
+   "drop": [
+    "Ajanta_(63).jpg"
+   ],
+   "add": [
+    [
+     "Sarvaangi.jpg",
+     1024,
+     576,
+     "Sarvaangi",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Paithani_Bridal_Sari_LACMA_M.75.4.23_(1_of_2).jpg",
+     914,
+     2100,
+     "",
+     "Public domain"
+    ]
+   ]
+  },
+  "north-goa--fontainhas-panaji": {
+   "drop": [
+    "Fontainhas.jpg"
+   ],
+   "add": [
+    [
+     "Streets_of_Fontainhas,_Panaji_(02).jpg",
+     6000,
+     4000,
+     "iMahesh",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Streets_of_Fontainhas,_Panaji_(03).jpg",
+     6000,
+     4000,
+     "iMahesh",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Streets_of_Fontainhas,_Panaji_(07).jpg",
+     6000,
+     4000,
+     "iMahesh",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "south-goa--cabo-de-rama-fort": {
+   "lead": "Cabo_da_Rama_839.jpg"
+  },
+  "south-goa--agonda-beach": {
+   "lead": "Agonda_beach_huts.JPG"
+  },
+  "shillong--mawphlang-sacred-grove": {
+   "drop": [
+    "Mawphlang_village.jpg"
+   ],
+   "add": [
+    [
+     "Mawphlang_Sacred_Forest_India.jpg",
+     1920,
+     1080,
+     "Daniel Romanson",
+     "CC0"
+    ],
+    [
+     "Monolith_in_Mawphlang_Sacred_Forest.jpg",
+     1920,
+     1080,
+     "Daniel Romanson",
+     "CC0"
+    ],
+    [
+     "Mawphlang_Sacred_Forest,_Mawphlang,_Meghalaya.jpg",
+     3264,
+     1840,
+     "Anushtup",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "mysore--palace-lights": {
+   "drop": [
+    "Mysore_Palace_Morning.jpg"
+   ],
+   "add": [
+    [
+     "Illuminated_Mysore_palace_at_night.JPG",
+     1200,
+     645,
+     "Subhashish Panigrahi",
+     "CC BY-SA 3.0"
+    ],
+    [
+     "Mysore_palace_images.jpg",
+     1152,
+     532,
+     "Swethasakthivel",
+     "CC BY 4.0"
+    ],
+    [
+     "Mysore_palace_in_lights.jpg",
+     3264,
+     1439,
+     "Komalvermarjn",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  },
+  "jodhpur--mandore-gardens": {
+   "drop": [
+    "Mandore_Garden_in_Mandore,_Jodhpur_city,_Rajasthan_02.jpg"
+   ],
+   "add": [
+    [
+     "Mandore_Garden_in_Mandore,_Jodhpur_city,_Rajasthan_04.jpg",
+     3264,
+     1468,
+     "Pinakpani",
+     "CC BY 4.0"
+    ]
+   ]
+  },
+  "mahabaleshwar--lingmala-falls": {
+   "drop": [
+    "View_from_Lingmala_Falls_(15215466417).jpg",
+    "..._near_Lingmala_Falls_(17070128297).jpg",
+    "Venna_valley_viewed_from_Lingmala_Falls_(17101186698).jpg"
+   ],
+   "add": [
+    [
+     "Lingamala_Waterfall.jpg",
+     5184,
+     3456,
+     "Udaym 1985",
+     "CC BY-SA 4.0"
+    ],
+    [
+     "Lingmala_waterfall_1.jpg",
+     5655,
+     2122,
+     "Karthik Easvur",
+     "CC BY-SA 4.0"
+    ]
+   ]
+  }
+ },
+ "dest": {
+  "pachmarhi": {
+   "drop": [
+    "Pachmarhi_rock_layers.jpg"
+   ]
+  },
+  "bhopal": {
+   "drop": [
+    "Raja_Bhoj_International_Airport_(BHO)_Bhopal_India.jpg",
+    "Kushabhau_Thakre_ISBT_Bhopal_(2).jpg",
+    "Road_in_Bhopal.jpg",
+    "Portulaca_grandiflora,_in_Bhopal_October_2025_01.jpg"
+   ]
+  },
+  "darjeeling": {
+   "drop": [
+    "Hill_village_on_Darjeeling_Railway_XL.jpg",
+    "Gorkha_family_shopping_in_Darjeeling.jpg",
+    "Diamond_roundel_signage_in_Darjeeling_railway_station.jpg",
+    "Small_tortoiseshell_butterfly_pollinating_a_flower_on_the_grounds_of_Darjeeling_Tourist_Lodge_(4_of_4_image_series).jpg"
+   ]
+  },
+  "north-sikkim": {
+   "drop": [
+    "View_of_lachung_river_from_lachung.jpg"
+   ]
+  },
+  "srinagar": {
+   "drop": [
+    "Palace-of-srinagar_0.jpg"
+   ]
+  },
+  "spiti": {
+   "drop": [
+    "Sakya_sports_and_cultural_club_Kaza.jpg"
+   ]
+  },
+  "kasol": {
+   "drop": [
+    "Kasol_town_in_Kullu_District_in_Himachal_02.jpg",
+    "Milestone_of_Kasol,_Himachal_Pradesh.jpg"
+   ]
+  },
+  "dharamshala": {
+   "drop": [
+    "Dharamshala,_Himachal_Pradesh_DSC07214.jpg"
+   ]
+  },
+  "dalhousie": {
+   "drop": [
+    "Dalhousie_in_Winter.JPG"
+   ]
+  },
+  "bir": {
+   "drop": [
+    "Bir_Billing_wooden_Machaan_Cottage.jpg",
+    "Best_cottage_in_Bir_Billing_in_Himachal_pradesh.jpg"
+   ]
+  },
+  "rishikesh": {
+   "drop": [
+    "Native_Garhwali_Woman_In_Rishikesh.jpg",
+    "Masked_wagtail_near_Rishikesh_03.jpg"
+   ]
+  },
+  "haridwar": {
+   "drop": [
+    "Haridwar_Railway_Station.JPG"
+   ]
+  },
+  "nainital": {
+   "drop": [
+    "Whiskered_Yuhina_(Nainital,_2017).jpg"
+   ]
+  },
+  "auli": {
+   "drop": [
+    "Auli_Lake_in_Feburary_2015.jpg"
+   ]
+  },
+  "kedarnath": {
+   "drop": [
+    "Panda_visit_Kedarnath.jpg"
+   ]
+  },
+  "lansdowne": {
+   "drop": [
+    "Sumitra_Devi,_a_Garhwali_shepherd_near_Lansdowne,_Uttarakhand_02.jpg",
+    "Lansdowne_Milestone.jpg"
+   ]
+  },
+  "delhi": {
+   "drop": [
+    "Delhi_aerial_photo_04-2016_img11.jpg",
+    "Poulluted_killer_fog_in_Delhi.jpg"
+   ]
+  },
+  "agra": {
+   "drop": [
+    "Town_and_port_at_agra.jpg",
+    "Tajview_Agra_2019_002.jpg"
+   ]
+  },
+  "varanasi": {
+   "drop": [
+    "India_-_Varanasi_tourist_baubles_-_0496.jpg",
+    "Varanasi_cow_on_ghat_stairs.JPG"
+   ]
+  },
+  "vrindavan": {
+   "drop": [
+    "Temple_in_Mathura,_Uttar_Pradesh.JPG"
+   ]
+  },
+  "lucknow": {
+   "drop": [
+    "Tiger_in_Lucknow_Zoological_Garden.jpg"
+   ]
+  },
+  "amritsar": {
+   "drop": [
+    "ISBT_Amritsar.jpg"
+   ]
+  },
+  "chandigarh": {
+   "drop": [
+    "Junglefowl,_Sukhna_wildlife_sanctuary,_Chandigarh,_India.JPG",
+    "Two_parrots_at_parrot_bird_sanctuary,_Chandigarh,_India.jpg"
+   ]
+  },
+  "cherrapunji": {
+   "drop": [
+    "Cherrapunji,_Shillong.jpg"
+   ]
+  },
+  "dawki": {
+   "drop": [
+    "Mawlynnong_Village,_Meghalaya_(2).jpg",
+    "Mawlynnong_Solar_Street_Lighting_Cornerstone.jpg"
+   ]
+  },
+  "tawang": {
+   "drop": [
+    "Tawang_winter_view.jpg"
+   ]
+  },
+  "majuli": {
+   "drop": [
+    "Majuli_Island_,_Assam_(19).jpg"
+   ]
+  },
+  "kohima": {
+   "drop": [
+    "Kohima_War_Cemetery,_Kohima,_Nagaland_(89).jpeg"
+   ]
+  },
+  "guwahati": {
+   "drop": [
+    "NE_Guwahati_Rani_Road_Kamrup_Assam_Oct24_A7CR_04386.jpg"
+   ]
+  },
+  "coorg": {
+   "drop": [
+    "Mosque_Thannirahalla_Coorg_Karnataka_Apr24_A7C_10555.jpg",
+    "Well_Singnally_Coorg_Karnataka_Jun24_A7CR_01417.jpg"
+   ]
+  },
+  "chikmagalur": {
+   "drop": [
+    "Chikmagalur,_India._(7793316622).jpg",
+    "Water_snow_flat_Chikmagalur.jpg",
+    "Mesmerizing_Belur_Temple_Chikmagalur_Wall.jpg"
+   ]
+  },
+  "bengaluru": {
+   "drop": [
+    "Red_Dahlia_flowers,_216th_flower_show_2024,_Lalbagh,_Bangalore_186.jpg",
+    "Indian_Independence_day_celebration_216th_flower_show_2024,_Lalbagh,_Bangalore_35.jpg",
+    "Venkatappa_Art_Gallery,_Bengaluru_(2026)_59.jpg",
+    "Wonderla_entrance_bangalore_26122014.jpg"
+   ]
+  },
+  "hyderabad": {
+   "drop": [
+    "Hyderabad_01.jpg",
+    "Sukhii_Ubuntu_(Hyderabad)_-_Closeup_of_Balconies.jpg"
+   ]
+  },
+  "tirupati": {
+   "drop": [
+    "Dusk_tirupati_andhra_pradesh_-_panoramio.jpg"
+   ]
+  },
+  "araku": {
+   "drop": [
+    "A_local_church_entrance_at_Araku_Valley_in_Andhra_Pradesh.jpg"
+   ]
+  },
+  "port-blair": {
+   "drop": [
+    "Ross_Island,_Port_Blair_in_Andaman_Island.jpg"
+   ]
+  },
+  "kochi": {
+   "drop": [
+    "Fort_Kochi_-_Wall_Painters_on_ropes.jpg"
+   ]
+  },
+  "varkala": {
+   "drop": [
+    "Varkala_2016-01-27.jpg",
+    "Varkala_Center_-_panoramio.jpg"
+   ]
+  },
+  "wayanad": {
+   "drop": [
+    "Wayanad_-_Thirunelli_Temple_Relief.jpg",
+    "Flora_of_Wayanad_0112.jpg"
+   ]
+  },
+  "thekkady": {
+   "drop": [
+    "Papilio_polytes-Thekkady-2016-12-03-001.jpg"
+   ]
+  },
+  "kodaikanal": {
+   "drop": [
+    "AMS-Kodaikanal.jpg",
+    "Kodaikanal_Monkey_(87525).jpg",
+    "Kodaikanal_Road_railway_station_(1).jpg"
+   ]
+  },
+  "pondicherry": {
+   "drop": [
+    "View_of_Rock_Beach_(Puducherry_Beach)_3.jpg"
+   ]
+  },
+  "mahabalipuram": {
+   "drop": [
+    "Kaldan_Samudhra_Mahabalipuram_Sep22_A7C_02463.jpg"
+   ]
+  },
+  "madurai": {
+   "drop": [
+    "Indigo_ATR72_600_VT-IYB_Madurai_Sep22_R16_06288.jpg"
+   ]
+  },
+  "rameswaram": {
+   "drop": [
+    "Rameswaram,_Tamil_Nadu_623526,_India_-_panoramio.jpg"
+   ]
+  },
+  "kanyakumari": {
+   "drop": [
+    "Cemetery_Judes_Church_Chinnathurai_Tamil_Nadu_Mar24_A7C_09997.jpg"
+   ]
+  },
+  "jodhpur": {
+   "drop": [
+    "Fresco,_Mehrangarh_Fort,_Jodhpur,_Rajasthan.jpg",
+    "Fresco_2,_Mehrangarh_Fort,_Jodhpur,_Rajasthan.jpg"
+   ]
+  },
+  "jaisalmer": {
+   "drop": [
+    "Bada_bhagh,_jaialmer.jpg"
+   ]
+  },
+  "mountabu": {
+   "drop": [
+    "Monkeys_near_Mount_Abu,_Rajasthan,_India.jpg"
+   ]
+  },
+  "ranthambore": {
+   "drop": [
+    "Small_minivet_at_Ranthambore_National_Park_(May,24).jpg"
+   ]
+  },
+  "kutch": {
+   "drop": [
+    "Rann_of_Kutch_-_Highest_Point.jpg"
+   ]
+  },
+  "gir": {
+   "drop": [
+    "Leopard_in_Gir_10_Feb_2015_AJT_Johnsingh_IMG_4861.jpg"
+   ]
+  },
+  "kevadia": {
+   "drop": [
+    "Full_Length_shot_of_The_Statue_of_Unity.jpg"
+   ]
+  },
+  "lonavala": {
+   "drop": [
+    "Narayani_Dham_lonavala.jpg",
+    "Lonavala,_and_its_environs,_Maharashtra,_India._2012._60.jpg"
+   ]
+  },
+  "matheran": {
+   "drop": [
+    "Hanuman_langur_at_matheran.jpg",
+    "Malabar_Giant_Squirrel_at_Matheran.jpg"
+   ]
+  },
+  "mahabaleshwar": {
+   "drop": [
+    "Rufous_Babbler_in_Mahabaleshwar_August_2025_by_Tisha_Mukherjee_05.jpg",
+    "Vigors's_Sunbird_in_Mahabaleshwar_August_2025_by_Tisha_Mukherjee_03.jpg",
+    "Broad-tailed_Grassbird_in_Mahabaleshwar_August_2025_by_Tisha_Mukherjee_03.jpg",
+    "Indian_Blackbird_in_Mahabaleshwar_August_2025_by_Tisha_Mukherjee_02.jpg",
+    "Painted_Bush-Quail_in_Mahabaleshwar_August_2025_by_Tisha_Mukherjee_13.jpg"
+   ],
+   "add": [
+    [
+     "Venna_Lake,_Mahabaleshwar.jpg",
+     4752,
+     3168,
+     "Rdglobetrekker",
+     "CC BY-SA 3.0"
+    ]
+   ]
+  },
+  "aurangabad": {
+   "drop": [
+    "Ellora_Cave_16_si0300.jpg"
+   ]
+  },
+  "shirdi": {
+   "drop": [
+    "Shirdi_LilyPond_SL70_27R28L_small.jpg"
+   ],
+   "add": [
+    [
+     "Samadhi_Mandir_of_Shirdi_Sai_Baba.jpg",
+     1266,
+     1622,
+     "Prime Minister's Office",
+     "GODL-India"
+    ]
+   ]
+  },
+  "north-goa": {
+   "drop": [
+    "Goa_--_Moira_village._12.jpg"
+   ]
+  },
+  "south-goa": {
+   "drop": [
+    "Goa-Vasco_03-2016_07_view_to_Mormugao_Harbour.jpg"
+   ]
+  }
+ },
+ "life": {
+  "mussoorie": [
+   0
+  ],
+  "lucknow": [
+   1
+  ],
+  "varanasi": [
+   0
+  ],
+  "port-blair": [
+   0
+  ],
+  "pondicherry": [
+   1
+  ],
+  "kanyakumari": [
+   0
+  ],
+  "ranthambore": [
+   0
+  ],
+  "gir": [
+   1
+  ],
+  "somnath": [
+   0
+  ]
+ }
+}

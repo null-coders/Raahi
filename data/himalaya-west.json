@@ -1,0 +1,3050 @@
+[
+ {
+  "id": "srinagar",
+  "n": "Srinagar",
+  "st": "Jammu & Kashmir",
+  "r": "Himalaya",
+  "ty": [
+   "lakes",
+   "heritage",
+   "hills"
+  ],
+  "ll": [
+   34.0837,
+   74.7973
+  ],
+  "bm": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "days": [
+   2,
+   4
+  ],
+  "terr": "city",
+  "food": 900,
+  "stay": 2800,
+  "pop": 9,
+  "alt": 1585,
+  "tag": "Houseboats, Mughal gardens and a lake that holds the mountains",
+  "ab": "Srinagar wraps around Dal and Nigeen lakes, with Mughal terraced gardens on one shore and a 600-year-old old city on the other. Mornings belong to shikaras gliding through the mist.",
+  "ppl": "Kashmiris live much of life on the water: families run carved walnut-wood houseboats, and vegetable sellers paddle to a floating market before dawn. Homes keep a kangri, a wicker fire-pot carried under the woollen pheran in winter. Every celebration ends in wazwan, a many-course feast cooked through the night by master chefs called wazas, washed down with pink salt noon chai.",
+  "eat": [
+   "Wazwan (rogan josh, gushtaba)",
+   "Noon chai",
+   "Kahwa",
+   "Girda bread",
+   "Nadru monje (lotus-stem fritters)"
+  ],
+  "fest": [
+   [
+    "Tulip Festival",
+    4
+   ],
+   [
+    "Eid celebrations",
+    3
+   ]
+  ],
+  "lang": "Kashmiri, Urdu, Hindi",
+  "go": "Srinagar airport (12 km); nearest railhead Srinagar on the Banihal–Baramulla line",
+  "w": "Srinagar",
+  "hub": [
+   "Dal Gate / Boulevard Road",
+   34.0846,
+   74.8356
+  ],
+  "places": [
+   {
+    "id": "dal-shikara",
+    "n": "Shikara ride on Dal Lake",
+    "c": "lake",
+    "ll": [
+     34.1003,
+     74.8496
+    ],
+    "m": 90,
+    "f": 500,
+    "o": "07:00-19:30",
+    "s": 10,
+    "p": 10,
+    "d": "Glide past floating gardens, lotus beds and houseboats in a cushioned shikara as the Zabarwan hills turn gold.",
+    "t": "Agree the hourly rate at the ghat first; sunset hours are the most beautiful.",
+    "w": "Dal_Lake"
+   },
+   {
+    "n": "Nishat Bagh",
+    "c": "garden",
+    "ll": [
+     34.1236,
+     74.879
+    ],
+    "m": 60,
+    "f": 24,
+    "o": "09:00-19:00",
+    "s": 9,
+    "p": 8,
+    "d": "The largest Mughal garden in Kashmir, twelve terraces falling toward the lake under chinar trees planted in 1633.",
+    "t": "Come in October when the chinars turn copper.",
+    "w": "Nishat_Bagh"
+   },
+   {
+    "n": "Shalimar Bagh",
+    "c": "garden",
+    "ll": [
+     34.1433,
+     74.8732
+    ],
+    "m": 60,
+    "f": 24,
+    "o": "09:00-19:00",
+    "s": 9,
+    "p": 8,
+    "d": "Jahangir's garden for Nur Jahan, with black-marble pavilions and fountains fed by a mountain stream.",
+    "w": "Shalimar_Bagh,_Srinagar"
+   },
+   {
+    "n": "Pari Mahal",
+    "c": "heritage",
+    "ll": [
+     34.0786,
+     74.8723
+    ],
+    "m": 45,
+    "f": 24,
+    "o": "10:00-19:00",
+    "s": 9,
+    "p": 5,
+    "d": "A ruined seven-terrace Sufi school on the hillside, with the finest sunset view over Dal Lake.",
+    "t": "Go for the last hour of light.",
+    "w": "Pari_Mahal"
+   },
+   {
+    "n": "Shankaracharya Temple",
+    "c": "temple",
+    "ll": [
+     34.0727,
+     74.835
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:30-17:00",
+    "s": 8,
+    "p": 7,
+    "d": "An ancient Shiva temple on Takht-e-Sulaiman hill, reached by 243 steps, looking down on the whole valley.",
+    "t": "Phones are deposited at the gate.",
+    "w": "Shankaracharya_Temple",
+    "a": "e"
+   },
+   {
+    "n": "Hazratbal Shrine",
+    "c": "mosque",
+    "ll": [
+     34.1279,
+     74.841
+    ],
+    "m": 40,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 8,
+    "p": 7,
+    "d": "A white-marble mosque on the lake's north shore that holds a relic of the Prophet, busiest after Friday prayers.",
+    "w": "Hazratbal_Shrine"
+   },
+   {
+    "n": "Old City: Jamia Masjid & Khanqah-e-Moula",
+    "c": "culture",
+    "ll": [
+     34.0958,
+     74.8106
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 4,
+    "d": "Walk deodar-pillared mosques, papier-mâché workshops and spice lanes where Srinagar's crafts are still made by hand.",
+    "t": "Dress modestly; women should carry a scarf.",
+    "w": "Jama_Masjid,_Srinagar"
+   },
+   {
+    "n": "Floating vegetable market",
+    "c": "market",
+    "ll": [
+     34.105,
+     74.835
+    ],
+    "m": 60,
+    "f": 400,
+    "o": "05:00-07:30",
+    "s": 9,
+    "p": 4,
+    "d": "Before sunrise, farmers trade lotus stems, gourds and greens boat-to-boat in the middle of the lake.",
+    "t": "Book a shikara the night before for a 5 AM start."
+   },
+   {
+    "n": "Tulip Garden",
+    "c": "garden",
+    "ll": [
+     34.0928,
+     74.882
+    ],
+    "m": 60,
+    "f": 75,
+    "o": "09:00-19:00",
+    "mo": [
+     3,
+     4
+    ],
+    "s": 9,
+    "p": 8,
+    "d": "Asia's largest tulip garden: over a million blooms in rows below the Zabarwan range, for a few weeks each spring.",
+    "w": "Indira_Gandhi_Memorial_Tulip_Garden"
+   },
+   {
+    "n": "Chashme Shahi",
+    "c": "garden",
+    "ll": [
+     34.089,
+     74.884
+    ],
+    "m": 40,
+    "f": 24,
+    "o": "09:00-19:00",
+    "s": 7,
+    "p": 6,
+    "d": "The smallest Mughal garden, built around a cold spring whose water locals still fill bottles from.",
+    "w": "Chashme_Shahi"
+   }
+  ]
+ },
+ {
+  "id": "gulmarg",
+  "n": "Gulmarg",
+  "st": "Jammu & Kashmir",
+  "r": "Himalaya",
+  "ty": [
+   "snow",
+   "mountains",
+   "adventure"
+  ],
+  "ll": [
+   34.0484,
+   74.3805
+  ],
+  "bm": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "days": [
+   1,
+   3
+  ],
+  "terr": "hills",
+  "food": 1000,
+  "stay": 4000,
+  "pop": 8,
+  "alt": 2650,
+  "tag": "A meadow of flowers in summer, India's ski slope in winter",
+  "ab": "Gulmarg, the 'meadow of flowers', is a bowl of grassland ringed by pine forest below Mount Apharwat. One of the world's highest gondolas lifts you to snow almost all year.",
+  "ppl": "Gujjar and Bakarwal shepherds bring their flocks up to these meadows each summer and live in log huts called kothas. Pony-wallahs from Tangmarg have guided visitors for generations, and winter turns the village into a small ski town of instructors and sledge pullers.",
+  "eat": [
+   "Kahwa",
+   "Harissa (winter)",
+   "Kashmiri pulao"
+  ],
+  "fest": [
+   [
+    "Winter Games / skiing season",
+    1
+   ]
+  ],
+  "lang": "Kashmiri, Gojri, Urdu",
+  "go": "56 km from Srinagar; shared cabs from Tangmarg",
+  "w": "Gulmarg",
+  "hub": [
+   "Gulmarg market",
+   34.0497,
+   74.383
+  ],
+  "places": [
+   {
+    "n": "Gondola Phase 1 (Kongdori)",
+    "c": "adventure",
+    "ll": [
+     34.0442,
+     74.3647
+    ],
+    "m": 90,
+    "f": 800,
+    "o": "10:00-17:00",
+    "s": 9,
+    "p": 10,
+    "d": "A cable car ride over pine forest to the Kongdori bowl, snowfields and sledges at 3,050 m.",
+    "t": "Book online the day before; queues are long by 11 AM.",
+    "w": "Gulmarg_Gondola"
+   },
+   {
+    "n": "Apharwat Peak (Gondola Phase 2)",
+    "c": "viewpoint",
+    "ll": [
+     34.0306,
+     74.3405
+    ],
+    "m": 120,
+    "f": 950,
+    "o": "10:00-16:00",
+    "s": 10,
+    "p": 8,
+    "d": "The second stage reaches 3,980 m, with snow underfoot and a view to Nanga Parbat on clear days.",
+    "t": "Carry warm layers even in June.",
+    "a": "e"
+   },
+   {
+    "n": "St Mary's Church",
+    "c": "church",
+    "ll": [
+     34.0503,
+     74.3833
+    ],
+    "m": 20,
+    "f": 0,
+    "o": "09:00-17:00",
+    "s": 7,
+    "p": 6,
+    "d": "A grey-stone Victorian church from 1902, standing alone in the meadow.",
+    "w": "St._Mary's_Church,_Gulmarg"
+   },
+   {
+    "n": "Maharani Temple",
+    "c": "temple",
+    "ll": [
+     34.0517,
+     74.3866
+    ],
+    "m": 25,
+    "f": 0,
+    "o": "07:00-19:00",
+    "s": 7,
+    "p": 6,
+    "d": "A red-roofed Shiva temple built by the Dogra queen in 1915, on a knoll above the golf course."
+   },
+   {
+    "n": "Khilanmarg meadow walk",
+    "c": "trek",
+    "ll": [
+     34.057,
+     74.354
+    ],
+    "m": 180,
+    "f": 0,
+    "o": "08:00-16:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 9,
+    "p": 4,
+    "d": "A forest climb to a high meadow carpeted with wildflowers, looking straight at the Kashmir valley.",
+    "a": "ke"
+   },
+   {
+    "n": "Drung Waterfall",
+    "c": "waterfall",
+    "ll": [
+     34.087,
+     74.431
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 4,
+    "d": "A roadside waterfall near Tangmarg that freezes into ice columns in deep winter."
+   },
+   {
+    "n": "Alpather Lake trek",
+    "c": "trek",
+    "ll": [
+     34.0094,
+     74.32
+    ],
+    "m": 360,
+    "f": 0,
+    "o": "07:00-15:00",
+    "mo": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "s": 9,
+    "p": 2,
+    "d": "A day hike past shepherd huts to a glacial lake that stays frozen until June.",
+    "a": "ke"
+   }
+  ]
+ },
+ {
+  "id": "pahalgam",
+  "n": "Pahalgam",
+  "st": "Jammu & Kashmir",
+  "r": "Himalaya",
+  "ty": [
+   "mountains",
+   "hills",
+   "adventure"
+  ],
+  "ll": [
+   34.0161,
+   75.315
+  ],
+  "bm": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "hills",
+  "food": 900,
+  "stay": 3000,
+  "pop": 8,
+  "alt": 2200,
+  "tag": "The valley of shepherds on the Lidder river",
+  "ab": "Pahalgam sits where two streams of the Lidder meet, surrounded by pine forest and side valleys like Aru and Betaab. It is also the base for the Amarnath Yatra.",
+  "ppl": "Pahalgam means 'village of shepherds'. In summer, Bakarwal families walk their flocks up from Jammu and pitch tents in the high meadows, and their dogs, horses and colourful embroidered caps are part of the landscape. Local pony-men and walnut-wood carvers make their living from the valley.",
+  "eat": [
+   "Trout from the Lidder",
+   "Kashmiri kahwa",
+   "Bakarkhani bread"
+  ],
+  "fest": [
+   [
+    "Amarnath Yatra begins",
+    7
+   ]
+  ],
+  "lang": "Kashmiri, Gojri, Urdu",
+  "go": "95 km from Srinagar via Anantnag",
+  "w": "Pahalgam",
+  "hub": [
+   "Pahalgam main market",
+   34.0156,
+   75.3189
+  ],
+  "places": [
+   {
+    "n": "Betaab Valley",
+    "c": "nature",
+    "ll": [
+     34.0436,
+     75.3556
+    ],
+    "m": 75,
+    "f": 100,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 8,
+    "d": "A green valley with a clear stream, named after the Bollywood film shot here.",
+    "w": "Betaab_Valley"
+   },
+   {
+    "n": "Aru Valley",
+    "c": "village",
+    "ll": [
+     34.088,
+     75.263
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 9,
+    "p": 6,
+    "d": "A meadow village of log homes at the start of the Kolahoi glacier and Tarsar Lake treks.",
+    "w": "Aru,_Jammu_and_Kashmir"
+   },
+   {
+    "n": "Chandanwari",
+    "c": "nature",
+    "ll": [
+     34.0705,
+     75.405
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "08:00-17:00",
+    "mo": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 8,
+    "p": 7,
+    "d": "Where the Amarnath trek begins: a snow bridge over the river that lasts into summer."
+   },
+   {
+    "n": "Lidder river walk",
+    "c": "nature",
+    "ll": [
+     34.013,
+     75.317
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-19:00",
+    "s": 8,
+    "p": 5,
+    "d": "Walk the pine-lined banks of the Lidder; anglers fish for trout here."
+   },
+   {
+    "n": "Mamleshwar Temple",
+    "c": "temple",
+    "ll": [
+     34.0094,
+     75.3274
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "06:00-19:00",
+    "s": 7,
+    "p": 3,
+    "d": "A small stone Shiva temple, among the oldest in Kashmir, with a spring tank in front."
+   },
+   {
+    "n": "Lidderwat meadow hike",
+    "c": "trek",
+    "ll": [
+     34.134,
+     75.243
+    ],
+    "m": 420,
+    "f": 0,
+    "o": "07:00-15:00",
+    "mo": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "s": 9,
+    "p": 2,
+    "d": "A full-day hike from Aru through shepherd camps to a wide meadow at the foot of the Kolahoi range.",
+    "a": "ke"
+   }
+  ]
+ },
+ {
+  "id": "sonamarg",
+  "n": "Sonamarg",
+  "st": "Jammu & Kashmir",
+  "r": "Himalaya",
+  "ty": [
+   "mountains",
+   "snow",
+   "adventure"
+  ],
+  "ll": [
+   34.303,
+   75.293
+  ],
+  "bm": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "mountains",
+  "food": 900,
+  "stay": 2800,
+  "pop": 7,
+  "alt": 2800,
+  "tag": "The meadow of gold, where glaciers come down to the road",
+  "ab": "Sonamarg is a high meadow on the Sindh river, the last stop before Zojila Pass and Ladakh. Glaciers and the Great Lakes trek start right above it.",
+  "ppl": "Sonamarg empties in winter. In summer, Gujjar herders return to stone-and-timber huts, and pony-men from nearby villages lead visitors up to Thajiwas glacier. It is a working pasture first and a tourist stop second.",
+  "eat": [
+   "Kahwa",
+   "Rajma-chawal at dhabas",
+   "Trout"
+  ],
+  "fest": [],
+  "lang": "Kashmiri, Gojri",
+  "go": "80 km from Srinagar on the Srinagar–Leh highway",
+  "w": "Sonamarg",
+  "hub": [
+   "Sonamarg market",
+   34.303,
+   75.293
+  ],
+  "places": [
+   {
+    "n": "Thajiwas Glacier",
+    "c": "trek",
+    "ll": [
+     34.284,
+     75.286
+    ],
+    "m": 180,
+    "f": 0,
+    "o": "08:00-17:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 9,
+    "p": 8,
+    "d": "A walk or pony ride up to a snowfield and glacier tongue ringed by peaks.",
+    "t": "Fix pony rates with the union board.",
+    "w": "Thajiwas_Glacier",
+    "a": "e"
+   },
+   {
+    "n": "Zojila Zero Point",
+    "c": "viewpoint",
+    "ll": [
+     34.281,
+     75.471
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "08:00-16:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 8,
+    "p": 7,
+    "d": "Snow walls even in June, just beyond the 3,528 m Zojila Pass on the way to Ladakh.",
+    "a": "e"
+   },
+   {
+    "n": "Sindh river rafting",
+    "c": "adventure",
+    "ll": [
+     34.298,
+     75.26
+    ],
+    "m": 90,
+    "f": 800,
+    "o": "09:00-17:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "s": 8,
+    "p": 5,
+    "d": "Short grade II–III runs on the icy Sindh with mountain walls on both sides.",
+    "a": "k"
+   },
+   {
+    "n": "Baltal valley",
+    "c": "nature",
+    "ll": [
+     34.256,
+     75.419
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-17:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 7,
+    "p": 5,
+    "d": "A broad valley at the base of the Amarnath route, quiet outside the yatra season."
+   },
+   {
+    "n": "Nilagrad river",
+    "c": "nature",
+    "ll": [
+     34.312,
+     75.27
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-17:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "s": 7,
+    "p": 2,
+    "d": "A small stream with a reddish tint that locals believe heals the skin."
+   }
+  ]
+ },
+ {
+  "id": "leh",
+  "n": "Leh & Ladakh",
+  "st": "Ladakh",
+  "r": "Himalaya",
+  "ty": [
+   "mountains",
+   "adventure",
+   "lakes"
+  ],
+  "ll": [
+   34.1526,
+   77.5771
+  ],
+  "bm": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "days": [
+   5,
+   8
+  ],
+  "terr": "mountains",
+  "food": 1000,
+  "stay": 2800,
+  "pop": 10,
+  "alt": 3500,
+  "tag": "Monasteries on cliffs, blue lakes in a cold desert",
+  "ab": "Leh is the capital of Ladakh, a high cold desert of bare mountains, whitewashed gompas and apricot orchards. Pangong Lake and Nubra Valley sit over high passes and are best done with an overnight stay.",
+  "ppl": "Ladakhis are mostly Buddhist and greet you with 'Jullay'. Village homes are thick mud-brick with flat roofs stacked with fodder for winter, and every house has a prayer room. Families still grow barley, drink butter tea from wooden churns, and celebrate monastery festivals where monks dance in painted masks.",
+  "eat": [
+   "Thukpa",
+   "Skyu (hand-rolled pasta stew)",
+   "Butter tea",
+   "Apricot jam",
+   "Khambir bread"
+  ],
+  "fest": [
+   [
+    "Hemis Festival",
+    6
+   ],
+   [
+    "Ladakh Festival",
+    9
+   ],
+   [
+    "Losar",
+    12
+   ]
+  ],
+  "lang": "Ladakhi, Hindi",
+  "go": "Leh airport; by road over passes from Manali or Srinagar (summer only)",
+  "w": "Leh",
+  "hub": [
+   "Leh Main Bazaar",
+   34.1644,
+   77.5848
+  ],
+  "roads": [
+   [
+    "hub",
+    "shanti-stupa",
+    4,
+    12
+   ],
+   [
+    "hub",
+    "leh-palace",
+    2,
+    10
+   ],
+   [
+    "hub",
+    "leh-market",
+    0.5,
+    5
+   ],
+   [
+    "hub",
+    "hall-of-fame",
+    5,
+    12
+   ],
+   [
+    "hub",
+    "thiksey",
+    19,
+    35
+   ],
+   [
+    "thiksey",
+    "shey-palace",
+    4,
+    8
+   ],
+   [
+    "hub",
+    "shey-palace",
+    15,
+    25
+   ],
+   [
+    "thiksey",
+    "hemis",
+    26,
+    45
+   ],
+   [
+    "hub",
+    "pathar-sahib",
+    25,
+    40
+   ],
+   [
+    "pathar-sahib",
+    "magnetic-hill",
+    4,
+    8
+   ],
+   [
+    "magnetic-hill",
+    "sangam",
+    8,
+    15
+   ],
+   [
+    "hub",
+    "stok-palace",
+    15,
+    30
+   ],
+   [
+    "hub",
+    "khardung-la",
+    39,
+    100,
+    [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   ],
+   [
+    "khardung-la",
+    "diskit",
+    81,
+    160,
+    [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   ],
+   [
+    "diskit",
+    "hunder",
+    8,
+    15
+   ],
+   [
+    "hub",
+    "pangong",
+    155,
+    300,
+    [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   ]
+  ],
+  "places": [
+   {
+    "n": "Shanti Stupa",
+    "c": "viewpoint",
+    "ll": [
+     34.1729,
+     77.5763
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "05:00-21:00",
+    "s": 9,
+    "p": 9,
+    "d": "A white Buddhist stupa on a hill above town; at sunset the whole Indus valley glows.",
+    "w": "Shanti_Stupa,_Leh",
+    "a": "n",
+    "id": "shanti-stupa"
+   },
+   {
+    "n": "Leh Palace",
+    "c": "palace",
+    "ll": [
+     34.1657,
+     77.5849
+    ],
+    "m": 60,
+    "f": 25,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 8,
+    "d": "A nine-storey 17th-century palace of mud and timber, modelled on Lhasa's Potala.",
+    "w": "Leh_Palace",
+    "id": "leh-palace"
+   },
+   {
+    "id": "leh-market",
+    "n": "Leh Main Bazaar & old town",
+    "c": "market",
+    "ll": [
+     34.1638,
+     77.5854
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "09:00-21:00",
+    "s": 8,
+    "p": 8,
+    "d": "Pashmina, turquoise jewellery and apricots sold by Ladakhi women from pavement baskets."
+   },
+   {
+    "n": "Thiksey",
+    "c": "monastery",
+    "ll": [
+     34.0563,
+     77.667
+    ],
+    "m": 75,
+    "f": 50,
+    "o": "07:00-18:00",
+    "s": 10,
+    "p": 9,
+    "d": "A twelve-storey monastery climbing a hill like a fortress, with a two-storey Maitreya Buddha.",
+    "t": "Arrive by 6:30 AM for the morning prayers.",
+    "w": "Thiksey_Monastery",
+    "a": "e",
+    "id": "thiksey"
+   },
+   {
+    "n": "Hemis",
+    "c": "monastery",
+    "ll": [
+     33.912,
+     77.704
+    ],
+    "m": 75,
+    "f": 100,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 8,
+    "d": "Ladakh's richest monastery, hidden in a side valley, famous for its masked summer festival.",
+    "w": "Hemis_Monastery",
+    "id": "hemis"
+   },
+   {
+    "n": "Shey Palace",
+    "c": "palace",
+    "ll": [
+     34.0702,
+     77.638
+    ],
+    "m": 40,
+    "f": 30,
+    "o": "08:00-18:00",
+    "s": 7,
+    "p": 5,
+    "d": "The old summer capital with a giant seated copper Buddha.",
+    "w": "Shey_Palace",
+    "id": "shey-palace"
+   },
+   {
+    "n": "Hall of Fame Museum",
+    "c": "museum",
+    "ll": [
+     34.1418,
+     77.5513
+    ],
+    "m": 60,
+    "f": 100,
+    "o": "09:00-19:00",
+    "s": 8,
+    "p": 7,
+    "d": "The Army's museum to Ladakh's soldiers and the Kargil war, with a fine view of Stok Kangri.",
+    "id": "hall-of-fame"
+   },
+   {
+    "n": "Gurudwara Pathar Sahib",
+    "c": "spiritual",
+    "ll": [
+     34.1656,
+     77.4006
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "05:00-20:00",
+    "s": 7,
+    "p": 7,
+    "d": "A Sikh shrine kept by the Army around a boulder linked to Guru Nanak; free tea and langar.",
+    "id": "pathar-sahib"
+   },
+   {
+    "n": "Magnetic Hill",
+    "c": "viewpoint",
+    "ll": [
+     34.165,
+     77.37
+    ],
+    "m": 20,
+    "f": 0,
+    "o": "24h",
+    "s": 6,
+    "p": 8,
+    "d": "A stretch of road where an optical illusion makes cars seem to roll uphill.",
+    "id": "magnetic-hill"
+   },
+   {
+    "n": "Indus–Zanskar Sangam",
+    "c": "viewpoint",
+    "ll": [
+     34.207,
+     77.341
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "Two rivers of different colours meet at Nimmu; rafting starts here in summer.",
+    "id": "sangam"
+   },
+   {
+    "n": "Stok Palace",
+    "c": "palace",
+    "ll": [
+     34.064,
+     77.539
+    ],
+    "m": 50,
+    "f": 80,
+    "o": "08:00-18:00",
+    "s": 7,
+    "p": 4,
+    "d": "Where Ladakh's royal family still lives; a small museum shows crowns and thangkas.",
+    "id": "stok-palace"
+   },
+   {
+    "n": "Khardung La",
+    "c": "viewpoint",
+    "ll": [
+     34.2786,
+     77.6047
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "08:00-16:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 8,
+    "p": 8,
+    "d": "A 5,359 m road pass with prayer flags and snow; a short stop only, the air is thin.",
+    "a": "ke",
+    "id": "khardung-la"
+   },
+   {
+    "n": "Diskit Monastery, Nubra",
+    "c": "monastery",
+    "ll": [
+     34.542,
+     77.56
+    ],
+    "m": 60,
+    "f": 30,
+    "o": "07:00-18:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 9,
+    "p": 7,
+    "d": "A huge Maitreya statue looks down Nubra Valley; best done as part of a two-day trip.",
+    "id": "diskit"
+   },
+   {
+    "n": "Hunder sand dunes",
+    "c": "nature",
+    "ll": [
+     34.58,
+     77.474
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "08:00-18:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 8,
+    "p": 7,
+    "d": "Sand dunes at 3,000 m where double-humped Bactrian camels graze.",
+    "id": "hunder"
+   },
+   {
+    "n": "Pangong Lake",
+    "c": "lake",
+    "ll": [
+     33.9203,
+     78.5592
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "06:00-19:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 10,
+    "p": 10,
+    "d": "A 134 km lake that changes from turquoise to deep blue through the day; stay overnight at Spangmik if you can.",
+    "w": "Pangong_Tso",
+    "id": "pangong"
+   }
+  ]
+ },
+ {
+  "id": "katra",
+  "n": "Vaishno Devi (Katra)",
+  "st": "Jammu & Kashmir",
+  "r": "Himalaya",
+  "ty": [
+   "spiritual",
+   "hills"
+  ],
+  "ll": [
+   32.9916,
+   74.9318
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   9,
+   10,
+   11
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "hills",
+  "food": 600,
+  "stay": 1800,
+  "pop": 9,
+  "alt": 875,
+  "tag": "A night-and-day pilgrimage to the Mother Goddess",
+  "ab": "Katra is the base for the 12 km climb to the Vaishno Devi cave shrine in the Trikuta hills, one of India's most visited pilgrimages. Pilgrims walk round the clock.",
+  "ppl": "Families come in groups from across north India, chanting 'Jai Mata Di' up the path. The trail is lined with langars and tea stalls, Dogra pony-men and palki bearers carry elders, and many pilgrims climb barefoot through the night to reach the darshan by dawn.",
+  "eat": [
+   "Rajma-chawal",
+   "Kaladi cheese",
+   "Dogra kadhi"
+  ],
+  "fest": [
+   [
+    "Navratri",
+    10
+   ],
+   [
+    "Chaitra Navratri",
+    4
+   ]
+  ],
+  "lang": "Dogri, Hindi, Punjabi",
+  "go": "Shri Mata Vaishno Devi Katra railway station; Jammu airport 50 km",
+  "w": "Vaishno_Devi_Temple",
+  "hub": [
+   "Katra bus stand",
+   32.9916,
+   74.9318
+  ],
+  "places": [
+   {
+    "n": "Vaishno Devi Bhawan trek",
+    "c": "spiritual",
+    "ll": [
+     33.03,
+     74.949
+    ],
+    "m": 540,
+    "f": 0,
+    "o": "24h",
+    "s": 10,
+    "p": 10,
+    "d": "The 12 km climb to the holy cave, via Ardhkuwari; most pilgrims take 4–6 hours each way.",
+    "t": "Register your yatra slip online; ponies, palkis and a helicopter to Sanjichhat are options.",
+    "w": "Vaishno_Devi_Temple"
+   },
+   {
+    "n": "Bhairon Temple",
+    "c": "temple",
+    "ll": [
+     33.033,
+     74.955
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "24h",
+    "s": 8,
+    "p": 8,
+    "d": "Tradition says the pilgrimage is complete only after this temple above the Bhawan, now reached by ropeway.",
+    "a": "e"
+   },
+   {
+    "n": "Banganga",
+    "c": "spiritual",
+    "ll": [
+     32.999,
+     74.938
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "24h",
+    "s": 7,
+    "p": 7,
+    "d": "The river where the goddess is said to have struck an arrow; pilgrims bathe before the climb."
+   },
+   {
+    "n": "Baba Dhansar",
+    "c": "waterfall",
+    "ll": [
+     33.064,
+     75.026
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 3,
+    "d": "A cave shrine beside a waterfall and spring-fed pools in the forest, 15 km from Katra."
+   },
+   {
+    "n": "Katra market",
+    "c": "market",
+    "ll": [
+     32.993,
+     74.931
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-22:00",
+    "s": 6,
+    "p": 7,
+    "d": "Dry fruits, chunris, Kashmiri walnuts and Dogri sweets for the trip home."
+   }
+  ]
+ },
+ {
+  "id": "shimla",
+  "n": "Shimla",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "hills",
+   "heritage",
+   "snow"
+  ],
+  "ll": [
+   31.1048,
+   77.1734
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   6,
+   10,
+   11,
+   12,
+   1
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "hills",
+  "food": 900,
+  "stay": 2600,
+  "pop": 9,
+  "alt": 2276,
+  "tag": "The old summer capital on a ridge of deodar forest",
+  "ab": "The British ran India from Shimla every summer; its Mall Road, neo-Gothic church and timbered buildings still sit along a ridge with views to snow peaks. The toy train climbs up from Kalka.",
+  "ppl": "Shimla is Pahari country. Villages cling to slopes in stone-and-slate houses, and apple orchards are the family wealth. Locals walk everywhere on steep paths, and on the Ridge in the evening you'll hear Pahari folk songs at fairs, with women in bright woollen thepangs.",
+  "eat": [
+   "Siddu",
+   "Chha gosht",
+   "Babru",
+   "Himachali dham"
+  ],
+  "fest": [
+   [
+    "Shimla Summer Festival",
+    6
+   ],
+   [
+    "Winter Carnival",
+    12
+   ]
+  ],
+  "lang": "Pahari, Hindi",
+  "go": "Kalka–Shimla toy train (UNESCO); Chandigarh airport 115 km",
+  "w": "Shimla",
+  "hub": [
+   "The Ridge",
+   31.1048,
+   77.1734
+  ],
+  "places": [
+   {
+    "n": "The Ridge & Mall Road",
+    "c": "market",
+    "ll": [
+     31.104,
+     77.173
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "08:00-22:00",
+    "s": 8,
+    "p": 10,
+    "d": "The open promenade at the heart of Shimla: colonial facades, cafés and views across the hills.",
+    "w": "The_Ridge,_Shimla",
+    "a": "n"
+   },
+   {
+    "n": "Christ Church",
+    "c": "church",
+    "ll": [
+     31.1046,
+     77.1748
+    ],
+    "m": 25,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 9,
+    "d": "The second-oldest church in north India, a cream neo-Gothic landmark from 1857.",
+    "w": "Christ_Church,_Shimla"
+   },
+   {
+    "n": "Jakhoo Temple",
+    "c": "temple",
+    "ll": [
+     31.101,
+     77.184
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "05:00-20:00",
+    "s": 8,
+    "p": 8,
+    "d": "A Hanuman temple on Shimla's highest point with a 33 m orange statue above the trees.",
+    "t": "Hold on to glasses and snacks: the monkeys are bold.",
+    "w": "Jakhoo_Temple",
+    "a": "e"
+   },
+   {
+    "n": "Viceregal Lodge",
+    "c": "heritage",
+    "ll": [
+     31.104,
+     77.142
+    ],
+    "m": 75,
+    "f": 100,
+    "o": "09:30-17:00",
+    "x": [
+     1
+    ],
+    "s": 9,
+    "p": 7,
+    "d": "The Scottish-baronial residence of the Viceroys, where the Partition was debated; now a research institute.",
+    "w": "Rashtrapati_Niwas,_Shimla"
+   },
+   {
+    "n": "Kufri",
+    "c": "viewpoint",
+    "ll": [
+     31.098,
+     77.267
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "09:00-17:00",
+    "s": 7,
+    "p": 8,
+    "d": "A hilltop with yak and pony rides and snow in winter, 16 km from town.",
+    "w": "Kufri"
+   },
+   {
+    "n": "Mashobra & Naldehra",
+    "c": "nature",
+    "ll": [
+     31.127,
+     77.228
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 4,
+    "d": "Quiet orchards and cedar forests; Naldehra's meadow golf course was Lord Curzon's favourite."
+   },
+   {
+    "n": "Tara Devi Temple",
+    "c": "temple",
+    "ll": [
+     31.078,
+     77.135
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 7,
+    "p": 4,
+    "d": "A hilltop goddess temple with views back over Shimla's ridges."
+   },
+   {
+    "n": "Himachal State Museum",
+    "c": "museum",
+    "ll": [
+     31.1,
+     77.155
+    ],
+    "m": 60,
+    "f": 20,
+    "o": "10:00-17:00",
+    "x": [
+     1
+    ],
+    "s": 7,
+    "p": 3,
+    "d": "Pahari miniature paintings, temple woodcarvings and local costume in a colonial mansion."
+   }
+  ]
+ },
+ {
+  "id": "manali",
+  "n": "Manali",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "mountains",
+   "adventure",
+   "snow"
+  ],
+  "ll": [
+   32.2396,
+   77.1887
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   6,
+   9,
+   10,
+   12,
+   1
+  ],
+  "days": [
+   3,
+   5
+  ],
+  "terr": "mountains",
+  "food": 900,
+  "stay": 2500,
+  "pop": 10,
+  "alt": 2050,
+  "tag": "Apple orchards, snow passes and the gateway to the high Himalaya",
+  "ab": "Manali sits at the head of the Kullu valley on the Beas river, with old wooden villages above a busy town. The Atal Tunnel now takes you to snow in Lahaul in under two hours.",
+  "ppl": "In old Manali and Vashisht, homes are built in kath-kuni style: layers of deodar and stone with no cement, which survive earthquakes and snow. Women in pattu shawls spin wool on the porches, and every village has a devta, a local god carried in a palanquin to festivals like Kullu Dussehra.",
+  "eat": [
+   "Siddu with ghee",
+   "Trout",
+   "Thukpa",
+   "Himachali dham",
+   "Apple cider"
+  ],
+  "fest": [
+   [
+    "Kullu Dussehra",
+    10
+   ],
+   [
+    "Winter Carnival",
+    1
+   ],
+   [
+    "Hadimba Devi fair",
+    5
+   ]
+  ],
+  "lang": "Kullvi, Hindi",
+  "go": "Bhuntar airport 50 km; overnight Volvo buses from Delhi",
+  "w": "Manali,_Himachal_Pradesh",
+  "hub": [
+   "Mall Road, Manali",
+   32.2432,
+   77.1892
+  ],
+  "places": [
+   {
+    "n": "Hadimba Temple",
+    "c": "temple",
+    "ll": [
+     32.248,
+     77.181
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 9,
+    "d": "A 1553 pagoda temple of carved wood in a cedar forest, built around a sacred rock.",
+    "w": "Hidimba_Devi_Temple"
+   },
+   {
+    "n": "Old Manali",
+    "c": "village",
+    "ll": [
+     32.256,
+     77.182
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "09:00-23:00",
+    "s": 8,
+    "p": 8,
+    "d": "Wooden houses, apple orchards and riverside cafés along the Manalsu stream.",
+    "a": "n"
+   },
+   {
+    "n": "Vashisht hot springs",
+    "c": "spiritual",
+    "ll": [
+     32.262,
+     77.19
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 8,
+    "p": 7,
+    "d": "Sulphur springs in a stone temple courtyard where villagers have bathed for centuries.",
+    "w": "Vashisht,_Himachal_Pradesh"
+   },
+   {
+    "n": "Solang Valley",
+    "c": "adventure",
+    "ll": [
+     32.316,
+     77.158
+    ],
+    "m": 180,
+    "f": 0,
+    "o": "09:00-17:00",
+    "s": 8,
+    "p": 9,
+    "d": "Paragliding, zorbing and a ropeway in summer; skiing slopes in winter.",
+    "w": "Solang_Valley"
+   },
+   {
+    "n": "Atal Tunnel & Sissu",
+    "c": "viewpoint",
+    "ll": [
+     32.46,
+     77.126
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 9,
+    "p": 9,
+    "d": "Drive the 9 km tunnel under the Pir Panjal to Lahaul's waterfalls and snow at Sissu.",
+    "w": "Atal_Tunnel"
+   },
+   {
+    "n": "Rohtang Pass",
+    "c": "viewpoint",
+    "ll": [
+     32.372,
+     77.247
+    ],
+    "m": 120,
+    "f": 550,
+    "o": "08:00-15:00",
+    "x": [
+     2
+    ],
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 8,
+    "p": 9,
+    "d": "A 3,978 m pass of snowfields and glaciers; needs an online permit per vehicle.",
+    "t": "Permits sell out; apply the evening before.",
+    "w": "Rohtang_Pass",
+    "a": "ke"
+   },
+   {
+    "n": "Jogini Waterfall",
+    "c": "waterfall",
+    "ll": [
+     32.273,
+     77.192
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "07:00-17:00",
+    "s": 8,
+    "p": 6,
+    "d": "An easy forest hike from Vashisht to a tall waterfall above the valley.",
+    "a": "e"
+   },
+   {
+    "n": "Naggar Castle",
+    "c": "fort",
+    "ll": [
+     32.117,
+     77.17
+    ],
+    "m": 75,
+    "f": 30,
+    "o": "09:00-18:00",
+    "s": 8,
+    "p": 5,
+    "d": "A 15th-century castle of stone and timber with a view down the Kullu valley; Roerich's art gallery is nearby.",
+    "w": "Naggar_Castle"
+   },
+   {
+    "n": "Hampta Pass trail: Jobra & Chika day hike",
+    "c": "trek",
+    "ll": [
+     32.283,
+     77.255
+    ],
+    "m": 330,
+    "f": 0,
+    "o": "07:00-15:00",
+    "mo": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 9,
+    "p": 3,
+    "d": "Walk the first day of the famous Hampta Pass trek through maple forest to the Chika meadow; the full crossing takes 4–5 days with a guide.",
+    "a": "ke",
+    "pq": "Hampta Pass trek"
+   },
+   {
+    "n": "Manu Temple",
+    "c": "temple",
+    "ll": [
+     32.2575,
+     77.1798
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "07:00-19:00",
+    "s": 7,
+    "p": 5,
+    "d": "Said to be the only temple to the sage Manu, in old Manali village."
+   }
+  ]
+ },
+ {
+  "id": "spiti",
+  "n": "Spiti Valley",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "mountains",
+   "adventure",
+   "offbeat"
+  ],
+  "ll": [
+   32.2276,
+   78.071
+  ],
+  "bm": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "days": [
+   4,
+   7
+  ],
+  "terr": "mountains",
+  "food": 900,
+  "stay": 2200,
+  "pop": 7,
+  "alt": 3800,
+  "tag": "A cold desert of monasteries, fossils and the world's highest villages",
+  "ab": "Spiti, 'the middle land' between Tibet and India, is a high desert valley around Kaza. Thousand-year-old monasteries cling to cliffs, and villages like Langza and Komic sit above 4,300 m. Kunzum Pass and Chandratal close for winter.",
+  "ppl": "Spitians are Buddhist farmers who grow peas and barley in the short summer. Houses are whitewashed mud-brick with flat roofs stacked high with firewood and dung for winter, and the kitchen stove is the centre of family life. Every family once sent a younger son to the monastery, and homestays welcome you with butter tea and tsampa.",
+  "eat": [
+   "Thukpa",
+   "Momos",
+   "Tsampa",
+   "Butter tea",
+   "Seabuckthorn juice"
+  ],
+  "fest": [
+   [
+    "Ladarcha Fair, Kaza",
+    8
+   ],
+   [
+    "Losar",
+    2
+   ]
+  ],
+  "lang": "Bhoti, Hindi",
+  "go": "Via Shimla–Kinnaur (open most of the year) or via Manali–Kunzum Pass (summer only); nearest airport Bhuntar",
+  "w": "Spiti_Valley",
+  "hub": [
+   "Kaza market",
+   32.2276,
+   78.071
+  ],
+  "roads": [
+   [
+    "hub",
+    "sakya-tangyud",
+    1,
+    5
+   ],
+   [
+    "hub",
+    "key",
+    14,
+    35
+   ],
+   [
+    "key",
+    "kibber",
+    9,
+    20
+   ],
+   [
+    "kibber",
+    "chicham",
+    4,
+    10
+   ],
+   [
+    "hub",
+    "langza",
+    16,
+    40
+   ],
+   [
+    "langza",
+    "hikkim",
+    9,
+    25
+   ],
+   [
+    "hikkim",
+    "komic",
+    5,
+    15
+   ],
+   [
+    "komic",
+    "langza",
+    7,
+    20
+   ],
+   [
+    "hikkim",
+    "hub",
+    16,
+    40
+   ],
+   [
+    "hub",
+    "dhankar",
+    32,
+    75
+   ],
+   [
+    "dhankar",
+    "dhankar-lake",
+    1,
+    10
+   ],
+   [
+    "dhankar",
+    "lalung",
+    18,
+    50
+   ],
+   [
+    "dhankar",
+    "tabo",
+    32,
+    70
+   ],
+   [
+    "hub",
+    "pin-valley",
+    50,
+    110
+   ],
+   [
+    "hub",
+    "chandratal",
+    95,
+    240,
+    [
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   ]
+  ],
+  "places": [
+   {
+    "id": "key",
+    "n": "Key Monastery",
+    "c": "monastery",
+    "ll": [
+     32.2978,
+     78.0118
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 10,
+    "p": 9,
+    "d": "A thousand-year-old monastery stacked up a conical hill like a fortress; monks serve butter tea in the kitchen.",
+    "t": "Join the 7 AM prayers if you can.",
+    "w": "Key_Monastery"
+   },
+   {
+    "id": "kibber",
+    "n": "Kibber village",
+    "c": "village",
+    "ll": [
+     32.333,
+     78.009
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-19:00",
+    "s": 8,
+    "p": 6,
+    "d": "One of the highest motorable villages in the world, and base for snow-leopard tracking in winter.",
+    "w": "Kibber"
+   },
+   {
+    "id": "chicham",
+    "n": "Chicham Bridge",
+    "c": "viewpoint",
+    "ll": [
+     32.3519,
+     78.004
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "Asia's highest suspension bridge, strung over a 300 m gorge.",
+    "a": "k"
+   },
+   {
+    "id": "langza",
+    "n": "Langza Buddha & fossil village",
+    "c": "village",
+    "ll": [
+     32.2667,
+     78.0833
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "07:00-19:00",
+    "s": 9,
+    "p": 7,
+    "d": "A golden Buddha watches over a village where marine fossils from the old Tethys sea lie in the fields.",
+    "t": "Look, but leave fossils where they are.",
+    "w": "Langza"
+   },
+   {
+    "id": "hikkim",
+    "n": "Hikkim post office",
+    "c": "village",
+    "ll": [
+     32.242,
+     78.095
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "09:00-17:00",
+    "x": [
+     0
+    ],
+    "s": 8,
+    "p": 8,
+    "d": "Post a card home from the world's highest post office at 4,400 m.",
+    "w": "Hikkim"
+   },
+   {
+    "id": "komic",
+    "n": "Komic village & monastery",
+    "c": "monastery",
+    "ll": [
+     32.241,
+     78.119
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 5,
+    "d": "Among the highest villages in Asia with a road, around a quiet monastery at 4,587 m.",
+    "a": "e"
+   },
+   {
+    "id": "dhankar",
+    "n": "Dhankar Monastery",
+    "c": "monastery",
+    "ll": [
+     32.088,
+     78.217
+    ],
+    "m": 60,
+    "f": 50,
+    "o": "08:00-18:00",
+    "s": 10,
+    "p": 7,
+    "d": "An old fort-monastery perched on crumbling spires above the meeting of the Spiti and Pin rivers.",
+    "w": "Dhankar_Gompa",
+    "a": "e"
+   },
+   {
+    "id": "dhankar-lake",
+    "n": "Dhankar Lake hike",
+    "c": "trek",
+    "ll": [
+     32.095,
+     78.223
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "08:00-16:00",
+    "mo": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 9,
+    "p": 3,
+    "d": "A steep one-hour climb to a small lake facing the snow peaks of Manirang.",
+    "a": "ke"
+   },
+   {
+    "id": "tabo",
+    "n": "Tabo Monastery",
+    "c": "monastery",
+    "ll": [
+     32.0936,
+     78.3842
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 10,
+    "p": 7,
+    "d": "Founded in 996 AD, its mud halls hold some of the finest Buddhist murals in the Himalaya.",
+    "t": "Bring a torch; photography is not allowed inside.",
+    "w": "Tabo_Monastery"
+   },
+   {
+    "id": "lalung",
+    "n": "Lalung Monastery",
+    "c": "monastery",
+    "ll": [
+     32.139,
+     78.205
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 8,
+    "p": 2,
+    "d": "A tiny monastery in the side valley of Lingti, with an ancient tree said to have grown from a god's hair."
+   },
+   {
+    "id": "pin-valley",
+    "n": "Pin Valley & Mudh village",
+    "c": "nature",
+    "ll": [
+     31.959,
+     78.028
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 4,
+    "d": "A green side valley of pastures and red cliffs, home to ibex and the Buchen lamas of Mudh.",
+    "w": "Pin_Valley_National_Park"
+   },
+   {
+    "id": "sakya-tangyud",
+    "n": "Sakya Tangyud Monastery, Kaza",
+    "c": "monastery",
+    "ll": [
+     32.23,
+     78.072
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 7,
+    "p": 5,
+    "d": "Kaza's own monastery, its painted gate standing at the edge of town."
+   },
+   {
+    "id": "chandratal",
+    "n": "Chandratal Lake",
+    "c": "lake",
+    "ll": [
+     32.4754,
+     77.617
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "07:00-18:00",
+    "mo": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 10,
+    "p": 8,
+    "d": "A crescent 'moon lake' at 4,300 m whose colour shifts from turquoise to emerald.",
+    "t": "Campsites close around mid-October.",
+    "w": "Chandra_Taal"
+   }
+  ]
+ },
+ {
+  "id": "kasol",
+  "n": "Kasol & Parvati Valley",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "mountains",
+   "adventure",
+   "offbeat"
+  ],
+  "ll": [
+   32.0098,
+   77.315
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   6,
+   9,
+   10,
+   11
+  ],
+  "days": [
+   2,
+   4
+  ],
+  "terr": "mountains",
+  "food": 700,
+  "stay": 1500,
+  "pop": 8,
+  "alt": 1580,
+  "tag": "Pine forests, riverside cafés and trails to hot springs",
+  "ab": "Kasol is a small village on the Parvati river, the starting point for treks to Tosh, Pulga and Kheerganga. Manikaran's hot-spring gurudwara is a few kilometres upstream.",
+  "ppl": "Parvati valley villages keep old ways: shrines to local devtas, slate-roofed houses and terraced fields. Malana, up a side valley, has its own ancient council and asks visitors not to touch homes, temples or people. Cafés here are run by locals who learned Hebrew from years of Israeli backpackers.",
+  "eat": [
+   "Shakshuka & hummus (café scene)",
+   "Trout",
+   "Siddu",
+   "Rajma-chawal"
+  ],
+  "fest": [
+   [
+    "Manikaran Dussehra",
+    10
+   ]
+  ],
+  "lang": "Kullvi, Hindi",
+  "go": "Bhuntar airport 31 km; buses from Bhuntar",
+  "w": "Kasol",
+  "hub": [
+   "Kasol market",
+   32.0098,
+   77.315
+  ],
+  "places": [
+   {
+    "n": "Manikaran Sahib",
+    "c": "spiritual",
+    "ll": [
+     32.027,
+     77.348
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "24h",
+    "s": 9,
+    "p": 8,
+    "d": "A gurudwara and temples built around boiling hot springs; rice for the langar is cooked in the springs themselves.",
+    "w": "Manikaran"
+   },
+   {
+    "n": "Chalal village walk",
+    "c": "village",
+    "ll": [
+     32.002,
+     77.311
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "A 30-minute riverside path through pine forest to a village of guesthouses and gardens."
+   },
+   {
+    "n": "Tosh village",
+    "c": "village",
+    "ll": [
+     32.0167,
+     77.45
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "A hillside village at the end of the road facing a snowy amphitheatre of peaks.",
+    "w": "Tosh,_Himachal_Pradesh"
+   },
+   {
+    "n": "Pulga & the Fairy Forest",
+    "c": "nature",
+    "ll": [
+     32.008,
+     77.437
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 9,
+    "p": 4,
+    "d": "A quiet village and an old-growth cedar forest that feels like a storybook."
+   },
+   {
+    "n": "Kheerganga trek",
+    "c": "trek",
+    "ll": [
+     31.99,
+     77.511
+    ],
+    "m": 540,
+    "f": 0,
+    "o": "07:00-14:00",
+    "mo": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "s": 9,
+    "p": 7,
+    "d": "A 12 km climb from Barshaini to a hot-spring pool on a high meadow; most people camp overnight.",
+    "a": "ke",
+    "w": "Kheerganga"
+   },
+   {
+    "n": "Parvati riverside & Kasol cafés",
+    "c": "food",
+    "ll": [
+     32.01,
+     77.314
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "09:00-23:00",
+    "s": 7,
+    "p": 8,
+    "d": "Sit by the roaring Parvati with fresh bread, local trout and the sound of the river.",
+    "a": "n"
+   }
+  ]
+ },
+ {
+  "id": "dharamshala",
+  "n": "Dharamshala & McLeod Ganj",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "hills",
+   "spiritual",
+   "adventure"
+  ],
+  "ll": [
+   32.2426,
+   76.3213
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   6,
+   9,
+   10,
+   11
+  ],
+  "days": [
+   2,
+   4
+  ],
+  "terr": "hills",
+  "food": 800,
+  "stay": 2200,
+  "pop": 8,
+  "alt": 2080,
+  "tag": "Little Lhasa under the Dhauladhar snow",
+  "ab": "McLeod Ganj above Dharamshala is home to the Dalai Lama and the Tibetan government in exile. Monasteries, momo shops and treks to Triund sit under the snowy Dhauladhar wall.",
+  "ppl": "Tibetan refugees rebuilt their culture here after 1959: you'll see monks debating with sharp hand claps, elders turning prayer wheels on the kora path at dawn, and women weaving carpets at Norbulingka. Around them, Gaddi shepherds still walk their flocks over the Dhauladhar passes each season.",
+  "eat": [
+   "Momos",
+   "Thenthuk",
+   "Tingmo",
+   "Kangri dham",
+   "Butter tea"
+  ],
+  "fest": [
+   [
+    "Losar (Tibetan New Year)",
+    2
+   ],
+   [
+    "Dalai Lama's birthday",
+    7
+   ]
+  ],
+  "lang": "Tibetan, Hindi, Kangri",
+  "go": "Gaggal (Kangra) airport 15 km",
+  "w": "McLeod_Ganj",
+  "hub": [
+   "McLeod Ganj main square",
+   32.2426,
+   76.3213
+  ],
+  "places": [
+   {
+    "n": "Tsuglagkhang (Dalai Lama Temple)",
+    "c": "monastery",
+    "ll": [
+     32.2328,
+     76.3243
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "05:00-20:00",
+    "s": 10,
+    "p": 9,
+    "d": "The main temple of the exile community, where monks debate in the courtyard each afternoon.",
+    "w": "Tsuglagkhang_complex"
+   },
+   {
+    "n": "Bhagsu waterfall",
+    "c": "waterfall",
+    "ll": [
+     32.2453,
+     76.334
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 7,
+    "p": 8,
+    "d": "A short walk past an old Shiva temple and pool to a waterfall above the village."
+   },
+   {
+    "n": "Triund trek",
+    "c": "trek",
+    "ll": [
+     32.2582,
+     76.3561
+    ],
+    "m": 420,
+    "f": 0,
+    "o": "06:00-14:00",
+    "s": 10,
+    "p": 8,
+    "d": "A 9 km climb to a grassy ridge directly facing the Dhauladhar snow wall; many camp overnight.",
+    "a": "ke",
+    "w": "Triund"
+   },
+   {
+    "n": "Dharamkot",
+    "c": "village",
+    "ll": [
+     32.249,
+     76.333
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "08:00-22:00",
+    "s": 8,
+    "p": 5,
+    "d": "A hill village of meditation centres, slow cafés and forest views above McLeod."
+   },
+   {
+    "n": "St John in the Wilderness",
+    "c": "church",
+    "ll": [
+     32.245,
+     76.315
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "10:00-17:00",
+    "s": 8,
+    "p": 6,
+    "d": "A Gothic stone church from 1852 among deodars, with Belgian stained-glass windows.",
+    "w": "St._John_in_the_Wilderness"
+   },
+   {
+    "n": "Norbulingka Institute",
+    "c": "culture",
+    "ll": [
+     32.205,
+     76.33
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "09:00-17:30",
+    "s": 9,
+    "p": 4,
+    "d": "Watch Tibetan thangka painters, woodcarvers and tailors at work in Japanese-style gardens.",
+    "w": "Norbulingka_Institute"
+   },
+   {
+    "n": "Naddi viewpoint",
+    "c": "viewpoint",
+    "ll": [
+     32.255,
+     76.307
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "06:00-19:00",
+    "s": 8,
+    "p": 4,
+    "d": "A quiet village with the best sunset over the Kangra valley."
+   },
+   {
+    "n": "Kangra Fort",
+    "c": "fort",
+    "ll": [
+     32.087,
+     76.27
+    ],
+    "m": 90,
+    "f": 150,
+    "o": "09:00-18:00",
+    "s": 8,
+    "p": 5,
+    "d": "One of the oldest forts in India, on a ridge between two rivers, held by Katoch kings for centuries.",
+    "w": "Kangra_Fort"
+   },
+   {
+    "n": "HPCA Cricket Stadium",
+    "c": "viewpoint",
+    "ll": [
+     32.1977,
+     76.3256
+    ],
+    "m": 40,
+    "f": 50,
+    "o": "10:00-17:00",
+    "s": 7,
+    "p": 7,
+    "d": "Probably the world's most scenic cricket ground, with the Dhauladhar behind the pavilion."
+   }
+  ]
+ },
+ {
+  "id": "dalhousie",
+  "n": "Dalhousie & Khajjiar",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "hills",
+   "heritage"
+  ],
+  "ll": [
+   32.5387,
+   75.971
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   6,
+   9,
+   10,
+   11
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "hills",
+  "food": 800,
+  "stay": 2200,
+  "pop": 6,
+  "alt": 1970,
+  "tag": "Colonial hill town and India's 'mini Switzerland'",
+  "ab": "Dalhousie spreads over five hills with Raj-era churches and pine walks; Khajjiar's saucer-shaped meadow and lake lie 22 km away in cedar forest.",
+  "ppl": "This is Chamba country, where Gaddi shepherds in white wool chola and black sash drive flocks between seasons. Women embroider the famous Chamba rumal, and every village temple holds a fair in summer with nati dances.",
+  "eat": [
+   "Chamba chukh (chilli sauce)",
+   "Madra",
+   "Mittha rice"
+  ],
+  "fest": [
+   [
+    "Minjar Mela, Chamba",
+    8
+   ]
+  ],
+  "lang": "Chambyali, Hindi",
+  "go": "Pathankot railway station 80 km",
+  "w": "Dalhousie,_India",
+  "hub": [
+   "Gandhi Chowk",
+   32.5387,
+   75.971
+  ],
+  "places": [
+   {
+    "n": "Khajjiar meadow",
+    "c": "nature",
+    "ll": [
+     32.546,
+     76.06
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 8,
+    "d": "A wide green bowl with a small lake, ringed by tall deodars and a gold-domed temple.",
+    "w": "Khajjiar"
+   },
+   {
+    "n": "Kalatop Wildlife Sanctuary",
+    "c": "wildlife",
+    "ll": [
+     32.552,
+     76.017
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 8,
+    "p": 4,
+    "d": "A forest walk among oak and pine with Himalayan black bears and barking deer about."
+   },
+   {
+    "n": "Dainkund Peak",
+    "c": "viewpoint",
+    "ll": [
+     32.533,
+     76.003
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 8,
+    "p": 5,
+    "d": "Dalhousie's highest point, where the wind 'sings' through the trees, with a Pholani Devi shrine.",
+    "a": "e"
+   },
+   {
+    "n": "St John's Church",
+    "c": "church",
+    "ll": [
+     32.539,
+     75.974
+    ],
+    "m": 25,
+    "f": 0,
+    "o": "09:00-17:00",
+    "s": 7,
+    "p": 6,
+    "d": "Dalhousie's oldest church (1863) at Gandhi Chowk."
+   },
+   {
+    "n": "Panchpula",
+    "c": "waterfall",
+    "ll": [
+     32.545,
+     75.962
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 7,
+    "p": 6,
+    "d": "Five little bridges over streams and a memorial to the freedom fighter Ajit Singh."
+   },
+   {
+    "n": "Chamba town & Bhuri Singh Museum",
+    "c": "museum",
+    "ll": [
+     32.556,
+     76.127
+    ],
+    "m": 120,
+    "f": 20,
+    "o": "10:00-17:00",
+    "x": [
+     1
+    ],
+    "s": 8,
+    "p": 3,
+    "d": "An old princely capital with stone temples, Chamba rumal embroidery and Pahari miniatures."
+   }
+  ]
+ },
+ {
+  "id": "kinnaur",
+  "n": "Kinnaur (Sangla & Chitkul)",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "mountains",
+   "offbeat"
+  ],
+  "ll": [
+   31.424,
+   78.262
+  ],
+  "bm": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "days": [
+   2,
+   4
+  ],
+  "terr": "mountains",
+  "food": 800,
+  "stay": 2000,
+  "pop": 5,
+  "alt": 2700,
+  "tag": "Apple orchards, wooden temples and India's last village",
+  "ab": "The Baspa valley in Kinnaur runs from Sangla to Chitkul near the Tibet border, with slate-roofed villages, apple orchards and the Kinner Kailash peaks above. Kalpa is a short drive away.",
+  "ppl": "Kinnauris wear the grey woollen thepang cap with a green velvet band. Villages are built of wood and stone in tight clusters around pagoda temples. Families follow a blend of Hindu and Buddhist belief, and the apple harvest in September brings everyone into the orchards.",
+  "eat": [
+   "Kinnauri apples",
+   "Chulli (apricot) oil dishes",
+   "Rajma",
+   "Phulu"
+  ],
+  "fest": [
+   [
+    "Phulaich flower festival",
+    9
+   ]
+  ],
+  "lang": "Kinnauri, Hindi",
+  "go": "Via Shimla on NH5; nearest railhead Shimla",
+  "w": "Sangla",
+  "hub": [
+   "Sangla village",
+   31.424,
+   78.262
+  ],
+  "places": [
+   {
+    "n": "Chitkul",
+    "c": "village",
+    "ll": [
+     31.351,
+     78.437
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "08:00-18:00",
+    "mo": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "s": 10,
+    "p": 7,
+    "d": "The last inhabited village on the old Hindustan–Tibet road, wooden houses beside the Baspa.",
+    "w": "Chitkul"
+   },
+   {
+    "n": "Kamru Fort",
+    "c": "fort",
+    "ll": [
+     31.427,
+     78.256
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "09:00-17:00",
+    "s": 8,
+    "p": 4,
+    "d": "A five-storey wooden tower-temple, once the seat of Bushahr's rulers.",
+    "t": "A cap and waist band are required inside; borrow one at the gate."
+   },
+   {
+    "n": "Rakchham village",
+    "c": "village",
+    "ll": [
+     31.392,
+     78.356
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 8,
+    "p": 3,
+    "d": "A riverside village of boulders, pine and meadows on the way to Chitkul."
+   },
+   {
+    "n": "Kalpa & Kinner Kailash view",
+    "c": "viewpoint",
+    "ll": [
+     31.537,
+     78.256
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 9,
+    "p": 6,
+    "d": "Wake to sunrise on the Kinner Kailash range from Kalpa's orchards.",
+    "w": "Kalpa,_Himachal_Pradesh"
+   },
+   {
+    "n": "Roghi suicide point & village",
+    "c": "viewpoint",
+    "ll": [
+     31.555,
+     78.24
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 8,
+    "p": 4,
+    "d": "A road carved into a sheer cliff with a drop to the Sutlej far below.",
+    "a": "k"
+   },
+   {
+    "n": "Bering Nag Temple",
+    "c": "temple",
+    "ll": [
+     31.423,
+     78.265
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "07:00-19:00",
+    "s": 7,
+    "p": 3,
+    "d": "Sangla's carved wooden temple, centre of the September flower festival."
+   }
+  ]
+ },
+ {
+  "id": "kasauli",
+  "n": "Kasauli",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "hills",
+   "heritage"
+  ],
+  "ll": [
+   30.901,
+   76.965
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   6,
+   9,
+   10,
+   11,
+   12
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "hills",
+  "food": 800,
+  "stay": 2600,
+  "pop": 6,
+  "alt": 1800,
+  "tag": "A quiet cantonment of pine walks and old cottages",
+  "ab": "Kasauli is a small colonial cantonment on a ridge above the plains, a weekend escape from Chandigarh with pine-shaded lanes and sunsets over the plains.",
+  "ppl": "Kasauli is still mostly an Army town, which keeps it tidy and slow. Old families run bakeries and stores from the 1900s, and Pahari villagers walk up with fresh produce from terraced farms below the ridge.",
+  "eat": [
+   "Fruit cake from old bakeries",
+   "Siddu",
+   "Bun samosa"
+  ],
+  "fest": [],
+  "lang": "Pahari, Hindi",
+  "go": "Kalka railway station 35 km; Chandigarh 60 km",
+  "w": "Kasauli",
+  "hub": [
+   "Kasauli Mall Road",
+   30.9,
+   76.964
+  ],
+  "places": [
+   {
+    "n": "Monkey Point",
+    "c": "viewpoint",
+    "ll": [
+     30.893,
+     76.98
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "09:00-17:00",
+    "s": 7,
+    "p": 6,
+    "d": "A Hanuman shrine inside an Air Force area at the town's highest point; carry ID.",
+    "a": "e"
+   },
+   {
+    "n": "Christ Church",
+    "c": "church",
+    "ll": [
+     30.8996,
+     76.9646
+    ],
+    "m": 20,
+    "f": 0,
+    "o": "09:00-17:00",
+    "s": 7,
+    "p": 6,
+    "d": "A small 1853 church with stained glass and a clock tower."
+   },
+   {
+    "n": "Gilbert Trail",
+    "c": "nature",
+    "ll": [
+     30.896,
+     76.97
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 3,
+    "d": "A gentle cliffside trail through pines, good for birdwatching."
+   },
+   {
+    "n": "Sunset Point",
+    "c": "viewpoint",
+    "ll": [
+     30.899,
+     76.956
+    ],
+    "m": 40,
+    "f": 0,
+    "o": "16:00-19:00",
+    "s": 8,
+    "p": 6,
+    "d": "Watch the sun set over the plains with the lights of Chandigarh coming on.",
+    "a": "n"
+   },
+   {
+    "n": "Mall Road bakeries",
+    "c": "food",
+    "ll": [
+     30.9,
+     76.964
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "09:00-20:00",
+    "s": 7,
+    "p": 6,
+    "d": "Century-old shops selling fruit cakes, pickles and jams."
+   }
+  ]
+ },
+ {
+  "id": "bir",
+  "n": "Bir Billing",
+  "st": "Himachal Pradesh",
+  "r": "Himalaya",
+  "ty": [
+   "adventure",
+   "hills",
+   "offbeat"
+  ],
+  "ll": [
+   32.042,
+   76.719
+  ],
+  "bm": [
+   3,
+   4,
+   5,
+   10,
+   11
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "hills",
+  "food": 700,
+  "stay": 1800,
+  "pop": 7,
+  "alt": 1500,
+  "tag": "Fly with the eagles over tea gardens and monasteries",
+  "ab": "Bir is a Tibetan settlement and tea-garden village; Billing, 14 km up the hill, is one of the world's best paragliding take-off sites.",
+  "ppl": "Tibetan monasteries share the village with Kangri farmers who grow tea and rice. In the colony you'll see families making butter lamps and thangkas, and in autumn the sky fills with paragliders from around the world.",
+  "eat": [
+   "Momos",
+   "Kangra tea",
+   "Thukpa"
+  ],
+  "fest": [
+   [
+    "Paragliding pre-world cup",
+    10
+   ]
+  ],
+  "lang": "Kangri, Tibetan, Hindi",
+  "go": "Gaggal airport 70 km; Baijnath narrow-gauge station nearby",
+  "w": "Bir,_Himachal_Pradesh",
+  "hub": [
+   "Bir landing site",
+   32.039,
+   76.71
+  ],
+  "places": [
+   {
+    "n": "Tandem paragliding from Billing",
+    "c": "adventure",
+    "ll": [
+     32.082,
+     76.72
+    ],
+    "m": 120,
+    "f": 3000,
+    "o": "09:00-16:00",
+    "mo": [
+     3,
+     4,
+     5,
+     6,
+     9,
+     10,
+     11
+    ],
+    "s": 10,
+    "p": 9,
+    "d": "A 20–30 minute flight from 2,400 m over forests and tea gardens to the Bir landing field.",
+    "t": "Fly only with registered operators.",
+    "a": "k"
+   },
+   {
+    "n": "Chokling Monastery & Tibetan Colony",
+    "c": "monastery",
+    "ll": [
+     32.043,
+     76.718
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "A bright stupa and monastery at the heart of the colony."
+   },
+   {
+    "n": "Sherab Ling Monastery",
+    "c": "monastery",
+    "ll": [
+     31.984,
+     76.699
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 8,
+    "p": 4,
+    "d": "A large Kagyu monastery hidden in pine forest below Bir."
+   },
+   {
+    "n": "Baijnath Temple",
+    "c": "temple",
+    "ll": [
+     32.052,
+     76.649
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 8,
+    "p": 6,
+    "d": "A 13th-century stone Shiva temple in the Nagara style with fine carvings.",
+    "w": "Baijnath_Temple"
+   },
+   {
+    "n": "Bir tea gardens",
+    "c": "nature",
+    "ll": [
+     32.038,
+     76.725
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 7,
+    "p": 4,
+    "d": "Walk between neat rows of Kangra tea with views of the Dhauladhar."
+   },
+   {
+    "n": "Billing meadow",
+    "c": "viewpoint",
+    "ll": [
+     32.083,
+     76.721
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 8,
+    "p": 5,
+    "d": "Even without flying, the take-off ridge has huge views and pine forest walks."
+   }
+  ]
+ }
+]

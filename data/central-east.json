@@ -1,0 +1,275 @@
+[
+  {
+    "id": "khajuraho", "n": "Khajuraho", "st": "Madhya Pradesh", "r": "Central",
+    "ty": ["heritage", "wildlife"], "ll": [24.8318, 79.9199], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "plains", "food": 700, "stay": 2400, "pop": 7, "alt": 283,
+    "tag": "Thousand-year-old temples carved with all of life",
+    "ab": "The Chandela kings built 85 temples here between 950 and 1050 AD; 22 survive, covered in sculptures of gods, dancers, warriors and lovers. Panna tiger reserve is half an hour away.",
+    "ppl": "Khajuraho is still a village at heart: Bundeli farmers bring their goats past the temples, and the Matangeshwar temple is in daily worship, crowded during Shivratri when a fair fills the lanes. Bundeli folk dances like Rai are performed at the February dance festival.",
+    "eat": ["Bundeli thali", "Dal bafla", "Mahua sweets"], "fest": [["Khajuraho Dance Festival", 2], ["Mahashivratri", 2]],
+    "lang": "Bundeli, Hindi", "go": "Khajuraho airport and railway station", "w": "Khajuraho_Group_of_Monuments",
+    "hub": ["Khajuraho village", 24.8500, 79.9310],
+    "places": [
+      { "n": "Western Group of Temples", "c": "temple", "ll": [24.8520, 79.9210], "m": 150, "f": 40, "o": "06:00-18:00", "s": 10, "p": 9, "d": "Kandariya Mahadeva and Lakshmana temples, their walls alive with 900 sculptures.", "t": "Hire an ASI-approved guide at the gate.", "w": "Kandariya_Mahadeva_Temple" },
+      { "n": "Light & sound show", "c": "culture", "ll": [24.8525, 79.9205], "m": 60, "f": 250, "o": "18:30-20:00", "s": 7, "p": 6, "d": "Amitabh Bachchan narrates the Chandela story as the temples are lit up.", "a": "n" },
+      { "n": "Eastern Group (Jain temples)", "c": "temple", "ll": [24.8460, 79.9330], "m": 60, "f": 0, "o": "06:00-18:00", "s": 8, "p": 5, "d": "Parsvanath and Adinath temples with some of the finest carving at Khajuraho." },
+      { "n": "Matangeshwar Temple", "c": "temple", "ll": [24.8530, 79.9200], "m": 30, "f": 0, "o": "05:00-21:00", "s": 8, "p": 6, "d": "The one temple still in worship, with a 2.5 m lingam." },
+      { "n": "Raneh Falls & Ken gorge", "c": "waterfall", "ll": [24.8813, 79.9763], "m": 90, "f": 200, "o": "08:00-17:00", "s": 8, "p": 4, "d": "A canyon of pink, red and grey granite cut by the Ken river, with gharials below." },
+      { "n": "Panna Tiger Reserve safari", "c": "wildlife", "ll": [24.7240, 80.0260], "m": 240, "f": 1800, "o": "06:00-17:30", "mo": [10, 11, 12, 1, 2, 3, 4, 5, 6], "s": 9, "p": 5, "d": "A tiger reserve brought back from zero tigers, with a boat ride on the Ken for gharials.", "w": "Panna_National_Park" }
+    ]
+  },
+  {
+    "id": "pachmarhi", "n": "Pachmarhi", "st": "Madhya Pradesh", "r": "Central",
+    "ty": ["hills", "offbeat"], "ll": [22.4675, 78.4346], "bm": [10, 11, 12, 1, 2, 3, 7, 8, 9], "days": [2, 3],
+    "terr": "hills", "food": 700, "stay": 2600, "pop": 5, "alt": 1067,
+    "tag": "Central India's only hill station, of waterfalls and caves",
+    "ab": "Pachmarhi is a sandstone plateau in the Satpura range with waterfalls, gorges and caves where the Pandavas are said to have stayed. Tigers and gaur roam the Satpura reserve around it.",
+    "ppl": "Gond and Korku Adivasi villages surround Pachmarhi; their homes have walls painted with white rice-paste patterns, and they gather mahua flowers each spring. At Mahashivratri, thousands of pilgrims climb to Chauragarh carrying heavy iron tridents as offerings.",
+    "eat": ["Poha-jalebi", "Bhutte ka kees", "Dal bafla"], "fest": [["Nagdwari Yatra", 8], ["Mahashivratri at Chauragarh", 2]],
+    "lang": "Hindi, Gondi", "go": "Pipariya station 50 km; Bhopal airport 200 km", "w": "Pachmarhi",
+    "hub": ["Pachmarhi bazaar", 22.4675, 78.4346],
+    "places": [
+      { "n": "Bee Falls", "c": "waterfall", "ll": [22.4610, 78.4440], "m": 75, "f": 0, "o": "08:00-17:00", "s": 8, "p": 7, "d": "A waterfall that hums like a swarm of bees, with pools to bathe in." },
+      { "n": "Jata Shankar caves", "c": "cave", "ll": [22.4560, 78.4370], "m": 45, "f": 0, "o": "07:00-18:00", "s": 8, "p": 7, "d": "A gorge cave where stalactites look like Shiva's matted hair." },
+      { "n": "Pandav Caves", "c": "cave", "ll": [22.4720, 78.4400], "m": 30, "f": 0, "o": "08:00-18:00", "s": 7, "p": 7, "d": "Five Buddhist rock-cut caves from the 1st century, linked by legend to the Pandavas.", "w": "Pandav_Caves,_Pachmarhi" },
+      { "n": "Dhoopgarh sunset", "c": "viewpoint", "ll": [22.4560, 78.3760], "m": 75, "f": 0, "o": "14:00-19:00", "s": 9, "p": 7, "d": "The highest point of the Satpuras, where the sun sets over endless forest.", "a": "n" },
+      { "n": "Handi Khoh", "c": "viewpoint", "ll": [22.4800, 78.4260], "m": 30, "f": 0, "o": "08:00-18:00", "s": 7, "p": 5, "d": "A 100 m deep gorge with sheer cliffs and thick forest below." },
+      { "n": "Chauragarh Temple trek", "c": "trek", "ll": [22.4300, 78.4600], "m": 240, "f": 0, "o": "06:00-15:00", "s": 8, "p": 4, "d": "1,300 steps to a hilltop Shiva temple filled with tridents left by pilgrims.", "a": "ke" },
+      { "n": "Satpura Tiger Reserve jeep safari", "c": "wildlife", "ll": [22.4900, 78.4100], "m": 240, "f": 1800, "o": "06:00-17:30", "mo": [10, 11, 12, 1, 2, 3, 4, 5, 6], "s": 8, "p": 3, "d": "Gaur, leopards, giant squirrels and the rare chance of a tiger in sal forest.", "w": "Satpura_National_Park" }
+    ]
+  },
+  {
+    "id": "ujjain", "n": "Ujjain & Omkareshwar", "st": "Madhya Pradesh", "r": "Central",
+    "ty": ["spiritual"], "ll": [23.1765, 75.7885], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "plains", "food": 600, "stay": 2000, "pop": 8, "alt": 494,
+    "tag": "Mahakal's city and the island Jyotirlinga on the Narmada",
+    "ab": "Ujjain is one of India's seven holy cities, home to the Mahakaleshwar Jyotirlinga and host of the Simhastha Kumbh. Omkareshwar, another Jyotirlinga, sits on an Om-shaped island 140 km south.",
+    "ppl": "Ujjain wakes before dawn for the Bhasma Aarti, when the Shiva lingam is covered in sacred ash while drums and conches sound. Pandas guide pilgrims along the Kshipra ghats, and Ujjain's old astronomers measured time here; the city once marked India's prime meridian.",
+    "eat": ["Poha-jalebi", "Dal bafla", "Bhutte ka kees", "Kachori"], "fest": [["Mahashivratri", 2], ["Simhastha Kumbh (2028)", 4]],
+    "lang": "Malwi, Hindi", "go": "Ujjain Junction; Indore airport 55 km", "w": "Ujjain",
+    "hub": ["Mahakal Lok", 23.1830, 75.7700],
+    "places": [
+      { "n": "Mahakaleshwar Jyotirlinga", "c": "temple", "ll": [23.1828, 75.7682], "m": 120, "f": 0, "o": "04:00-23:00", "s": 10, "p": 10, "d": "A south-facing Jyotirlinga, famous for the 4 AM Bhasma Aarti with sacred ash.", "t": "Bhasma Aarti needs advance online booking.", "w": "Mahakaleshwar_Jyotirlinga" },
+      { "n": "Mahakal Lok corridor", "c": "culture", "ll": [23.1830, 75.7700], "m": 60, "f": 0, "o": "06:00-23:00", "s": 8, "p": 8, "d": "A 900 m walkway of Shiva murals and statues, lit up at night.", "a": "n" },
+      { "n": "Ram Ghat aarti", "c": "spiritual", "ll": [23.1880, 75.7680], "m": 60, "f": 0, "o": "18:30-20:00", "s": 8, "p": 7, "d": "Evening lamps on the Kshipra river where the Kumbh bathing happens.", "a": "n" },
+      { "n": "Kal Bhairav Temple", "c": "temple", "ll": [23.2010, 75.7660], "m": 45, "f": 0, "o": "05:00-21:00", "s": 8, "p": 7, "d": "Where the deity is offered liquor as prasad, an ancient tantric tradition." },
+      { "n": "Harsiddhi Temple", "c": "temple", "ll": [23.1820, 75.7660], "m": 45, "f": 0, "o": "05:00-22:00", "s": 8, "p": 6, "d": "A Shakti Peeth with two towering lamp pillars lit with a thousand lamps at dusk.", "a": "n" },
+      { "n": "Vedh Shala (Jantar Mantar)", "c": "heritage", "ll": [23.1700, 75.7700], "m": 40, "f": 20, "o": "07:00-19:00", "s": 7, "p": 3, "d": "Jai Singh II's observatory on the Tropic of Cancer." },
+      { "n": "Omkareshwar Jyotirlinga", "c": "temple", "ll": [22.2460, 76.1510], "m": 150, "f": 0, "o": "05:00-21:30", "s": 9, "p": 8, "d": "A temple on an island shaped like Om in the Narmada, with a new 108 ft Adi Shankaracharya statue.", "w": "Omkareshwar_Temple" }
+    ]
+  },
+  {
+    "id": "kanha", "n": "Kanha National Park", "st": "Madhya Pradesh", "r": "Central",
+    "ty": ["wildlife"], "ll": [22.3350, 80.6110], "bm": [10, 11, 12, 1, 2, 3, 4, 5, 6], "days": [2, 3],
+    "terr": "plains", "food": 900, "stay": 4000, "pop": 7, "alt": 600,
+    "tag": "The Jungle Book forest of tigers and barasingha",
+    "ab": "Kanha's sal forests and meadows inspired Kipling's The Jungle Book. It saved the hard-ground barasingha from extinction and has some of India's best tiger sightings.",
+    "ppl": "Baiga and Gond tribes have lived in these forests for centuries; Baiga women wear intricate tattoos that tell their life story, and Gond artists paint the forest's animals in dotted patterns. Many forest guides come from these villages.",
+    "eat": ["Kodo-kutki millet dishes", "Mahua laddoo", "Chana bhaji"], "fest": [],
+    "lang": "Hindi, Gondi, Baigani", "go": "Jabalpur airport and station 160 km; Gondia 145 km", "w": "Kanha_Tiger_Reserve",
+    "hub": ["Khatia gate (Kisli)", 22.3330, 80.5730],
+    "places": [
+      { "n": "Kanha zone safari", "c": "wildlife", "ll": [22.2780, 80.6110], "m": 240, "f": 2000, "o": "06:00-17:30", "mo": [10, 11, 12, 1, 2, 3, 4, 5, 6], "s": 10, "p": 8, "d": "The core meadows where barasingha herds graze and tigers patrol at dawn.", "t": "Book safaris on the MP online portal months ahead." },
+      { "n": "Mukki zone safari", "c": "wildlife", "ll": [22.1500, 80.8200], "m": 240, "f": 2000, "o": "06:00-17:30", "mo": [10, 11, 12, 1, 2, 3, 4, 5, 6], "s": 9, "p": 6, "d": "A quieter southern zone with dense bamboo and good leopard sightings." },
+      { "n": "Bamni Dadar sunset point", "c": "viewpoint", "ll": [22.2600, 80.6400], "m": 45, "f": 0, "o": "15:00-18:00", "mo": [10, 11, 12, 1, 2, 3, 4, 5, 6], "s": 8, "p": 5, "d": "A plateau edge inside the park with sunsets over the forest.", "a": "n" },
+      { "n": "Kanha interpretation centre", "c": "museum", "ll": [22.2770, 80.6100], "m": 45, "f": 0, "o": "07:00-17:00", "s": 7, "p": 5, "d": "Displays on the park's tigers, barasingha recovery and tribal life." },
+      { "n": "Baiga & Gond village walk", "c": "village", "ll": [22.3500, 80.5500], "m": 90, "f": 300, "o": "09:00-17:00", "s": 8, "p": 2, "d": "Visit mud homes with painted walls and meet Gond artists working on canvases." }
+    ]
+  },
+  {
+    "id": "orchha", "n": "Orchha", "st": "Madhya Pradesh", "r": "Central",
+    "ty": ["heritage", "offbeat"], "ll": [25.3510, 78.6400], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "plains", "food": 600, "stay": 2000, "pop": 5, "alt": 230,
+    "tag": "A forgotten Bundela capital on the Betwa river",
+    "ab": "Orchha was the capital of the Bundela kings: palaces, soaring temples and royal cenotaphs stand almost untouched by time along the Betwa river.",
+    "ppl": "In Orchha, Ram is worshipped as a king, not a god: police give him a guard of honour with rifles at every aarti. Bundeli women draw colourful rangoli at doorsteps, and boatmen on the Betwa still fish with nets in the old way.",
+    "eat": ["Bundeli thali", "Bafauri", "Kachori"], "fest": [["Ram Vivah", 12], ["Namaste Orchha Festival", 3]],
+    "lang": "Bundeli, Hindi", "go": "Jhansi station 18 km; Gwalior airport 120 km", "w": "Orchha",
+    "hub": ["Orchha main square", 25.3510, 78.6400],
+    "places": [
+      { "n": "Orchha Fort (Raja Mahal & Jahangir Mahal)", "c": "fort", "ll": [25.3500, 78.6420], "m": 120, "f": 25, "o": "09:00-17:00", "s": 9, "p": 7, "d": "Palaces of domes and painted ceilings built to host the Mughal emperor Jahangir.", "w": "Orchha_Fort_complex" },
+      { "n": "Chaturbhuj Temple", "c": "temple", "ll": [25.3530, 78.6420], "m": 45, "f": 0, "o": "08:00-18:00", "s": 9, "p": 6, "d": "A temple with one of the tallest spires in India, climbable to the roof.", "w": "Chaturbhuj_Temple,_Orchha" },
+      { "n": "Ram Raja Temple", "c": "temple", "ll": [25.3520, 78.6410], "m": 45, "f": 0, "o": "08:00-22:30", "s": 9, "p": 7, "d": "A palace-turned-temple where Ram is the reigning king, saluted by armed guards.", "w": "Ram_Raja_Temple" },
+      { "n": "Chhatris on the Betwa", "c": "heritage", "ll": [25.3460, 78.6470], "m": 60, "f": 0, "o": "08:00-18:30", "s": 9, "p": 5, "d": "Royal cenotaphs reflected in the river, with vultures nesting on the domes.", "a": "n" },
+      { "n": "Laxminarayan Temple murals", "c": "temple", "ll": [25.3540, 78.6330], "m": 45, "f": 25, "o": "09:00-17:00", "s": 8, "p": 3, "d": "A fort-temple with vivid painted murals of the Ramayana and the 1857 uprising." },
+      { "n": "Betwa rafting & riverside", "c": "adventure", "ll": [25.3420, 78.6400], "m": 90, "f": 800, "o": "08:00-17:00", "mo": [10, 11, 12, 1, 2, 3], "s": 7, "p": 3, "d": "Gentle rafting through rocky channels with the chhatris behind you." }
+    ]
+  },
+  {
+    "id": "bhopal", "n": "Bhopal & Sanchi", "st": "Madhya Pradesh", "r": "Central",
+    "ty": ["heritage", "city", "lakes"], "ll": [23.2599, 77.4126], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 2],
+    "terr": "city", "food": 700, "stay": 2400, "pop": 6, "alt": 527,
+    "tag": "The city of lakes, Ashoka's stupas and prehistoric rock art",
+    "ab": "Bhopal is built around two lakes, with grand mosques from its Begum rulers. Sanchi's Great Stupa and the 30,000-year-old rock paintings at Bhimbetka are day trips.",
+    "ppl": "Four Begums ruled Bhopal for over a century, and the city still has a strong Muslim culture of zari embroidery, purses beaded by hand and late-night tea at the old city's chowks. The Tribal Museum here shows how Gond, Bhil and Baiga communities see the world.",
+    "eat": ["Bhopali gosht korma", "Poha-jalebi", "Sulemani chai", "Seekh kababs at Chatori Gali"], "fest": [["Ijtema", 12]],
+    "lang": "Hindi, Urdu", "go": "Raja Bhoj airport; Bhopal Junction and Rani Kamlapati stations", "w": "Bhopal",
+    "hub": ["New Market", 23.2330, 77.4010],
+    "places": [
+      { "n": "Sanchi Stupa", "c": "heritage", "ll": [23.4793, 77.7397], "m": 120, "f": 40, "o": "07:00-18:00", "s": 10, "p": 7, "d": "Emperor Ashoka's Great Stupa with four stone gateways carved with stories of the Buddha.", "w": "Sanchi" },
+      { "n": "Bhimbetka rock shelters", "c": "cave", "ll": [22.9380, 77.6120], "m": 90, "f": 25, "o": "07:00-18:00", "s": 10, "p": 5, "d": "Rock paintings up to 30,000 years old of hunters, dancers and animals.", "w": "Bhimbetka_rock_shelters" },
+      { "n": "Tribal Museum", "c": "museum", "ll": [23.2350, 77.3910], "m": 120, "f": 10, "o": "12:00-20:00", "x": [1], "s": 10, "p": 4, "d": "One of India's best museums: walk-through tribal homes, rituals and art built by the communities themselves." },
+      { "n": "Upper Lake (Bada Talab) sunset", "c": "lake", "ll": [23.2500, 77.3700], "m": 60, "f": 0, "o": "07:00-21:00", "s": 8, "p": 7, "d": "An 11th-century lake with boating and a lakeside drive at sunset.", "a": "n" },
+      { "n": "Taj-ul-Masajid", "c": "mosque", "ll": [23.2620, 77.3920], "m": 40, "f": 0, "o": "06:00-20:00", "s": 8, "p": 6, "d": "One of Asia's largest mosques, with pink domes and a vast courtyard.", "w": "Taj-ul-Masajid" },
+      { "n": "Bhojpur Shiva Temple", "c": "temple", "ll": [23.1000, 77.5800], "m": 60, "f": 0, "o": "07:00-19:00", "s": 8, "p": 4, "d": "An unfinished 11th-century temple with a single-stone lingam 7.5 m tall.", "w": "Bhojeshwar_Temple" }
+    ]
+  },
+  {
+    "id": "darjeeling", "n": "Darjeeling", "st": "West Bengal", "r": "East",
+    "ty": ["hills", "heritage"], "ll": [27.0410, 88.2663], "bm": [3, 4, 5, 10, 11, 12], "days": [2, 3],
+    "terr": "hills", "food": 800, "stay": 2600, "pop": 9, "alt": 2042,
+    "tag": "Tea gardens, a toy train and Kanchenjunga at sunrise",
+    "ab": "Darjeeling spreads along a ridge facing Kanchenjunga, the world's third-highest peak. Tea estates fall away on every side, and the UNESCO toy train still puffs through town.",
+    "ppl": "Darjeeling is a mix of Gorkha, Lepcha, Tibetan, Bhutia and Bengali families. Tea pluckers, mostly women, pick 'two leaves and a bud' with baskets strapped to their foreheads. Mornings at Chowrasta mean pony rides and hot momos, and Losar and Dashain are both celebrated in the same lanes.",
+    "eat": ["Momos", "Thukpa", "Darjeeling first-flush tea", "Sel roti", "Churpi (yak cheese)"], "fest": [["Losar", 2], ["Dashain & Tihar", 10], ["Darjeeling Carnival", 11]],
+    "lang": "Nepali, Bengali, Hindi", "go": "Bagdogra airport 70 km; New Jalpaiguri station", "w": "Darjeeling",
+    "hub": ["Chowrasta (the Mall)", 27.0450, 88.2660],
+    "places": [
+      { "n": "Tiger Hill sunrise", "c": "viewpoint", "ll": [26.9960, 88.2810], "m": 90, "f": 50, "o": "04:00-07:30", "s": 10, "p": 9, "d": "First light turns Kanchenjunga pink, with Everest a speck on clear days.", "t": "Jeeps leave at 4 AM; book the night before.", "w": "Tiger_Hill,_Darjeeling" },
+      { "n": "Darjeeling Himalayan Railway joy ride", "c": "heritage", "ll": [27.0400, 88.2660], "m": 120, "f": 1500, "o": "08:00-16:00", "s": 9, "p": 8, "d": "A two-hour steam ride to Ghum and back on the UNESCO toy train, round the Batasia Loop.", "w": "Darjeeling_Himalayan_Railway" },
+      { "n": "Batasia Loop", "c": "viewpoint", "ll": [27.0130, 88.2490], "m": 30, "f": 20, "o": "05:00-20:00", "s": 8, "p": 8, "d": "A spiral railway loop with a Gorkha war memorial and mountain views." },
+      { "n": "Himalayan Mountaineering Institute & Zoo", "c": "museum", "ll": [27.0570, 88.2550], "m": 120, "f": 100, "o": "08:30-16:30", "x": [4], "s": 9, "p": 7, "d": "Tenzing Norgay's institute with Everest gear, beside a zoo of red pandas and snow leopards.", "w": "Himalayan_Mountaineering_Institute" },
+      { "n": "Happy Valley Tea Estate", "c": "nature", "ll": [27.0560, 88.2620], "m": 75, "f": 100, "o": "08:00-16:00", "x": [0], "s": 9, "p": 6, "d": "Walk the slopes, see the factory and taste first-flush tea where it is made.", "w": "Happy_Valley_Tea_Estate" },
+      { "n": "Ghoom Monastery", "c": "monastery", "ll": [27.0040, 88.2460], "m": 40, "f": 0, "o": "06:00-18:00", "s": 8, "p": 6, "d": "A 1850 monastery with a 15-foot clay Maitreya Buddha." },
+      { "n": "Peace Pagoda", "c": "spiritual", "ll": [27.0330, 88.2610], "m": 40, "f": 0, "o": "04:30-19:00", "s": 7, "p": 5, "d": "A white Japanese stupa with drums beating at prayer times and views of the range." },
+      { "n": "Chowrasta & Mall Road", "c": "market", "ll": [27.0450, 88.2660], "m": 75, "f": 0, "o": "07:00-21:00", "s": 8, "p": 9, "d": "The town square for tea, pony rides and Glenary's bakery.", "a": "n" }
+    ]
+  },
+  {
+    "id": "kolkata", "n": "Kolkata", "st": "West Bengal", "r": "East",
+    "ty": ["city", "heritage"], "ll": [22.5726, 88.3639], "bm": [10, 11, 12, 1, 2], "days": [2, 3],
+    "terr": "city", "food": 800, "stay": 2600, "pop": 9, "alt": 9,
+    "tag": "The City of Joy: colonial grandeur, books and sweets",
+    "ab": "Kolkata was the capital of British India: marble memorials, crumbling mansions, the Hooghly's ghats and bridges, and an intellectual life of poets, film-makers and endless adda over tea.",
+    "ppl": "Bengalis live for adda, long arguments over cha about football, politics and Tagore. In Kumartuli, families of potters sculpt clay Durga idols for months before the Pujo, when the whole city becomes an art gallery of pandals. Yellow Ambassador taxis, trams and hand-pulled rickshaws still share the roads.",
+    "eat": ["Kathi roll", "Kosha mangsho", "Rosogolla & mishti doi", "Phuchka", "Fish fry", "Biryani with potato"], "fest": [["Durga Puja", 10], ["Kolkata Book Fair", 1], ["Christmas on Park Street", 12]],
+    "lang": "Bengali, Hindi, English", "go": "Netaji Subhas Chandra Bose International Airport; Howrah and Sealdah stations", "w": "Kolkata",
+    "hub": ["Park Street", 22.5530, 88.3520],
+    "places": [
+      { "n": "Victoria Memorial", "c": "museum", "ll": [22.5448, 88.3426], "m": 120, "f": 50, "o": "10:00-17:00", "x": [1], "s": 9, "p": 10, "d": "A white marble memorial in gardens, with a gallery of Kolkata's history.", "w": "Victoria_Memorial,_Kolkata" },
+      { "n": "Howrah Bridge & Mallick Ghat flower market", "c": "market", "ll": [22.5850, 88.3470], "m": 75, "f": 0, "o": "05:00-11:00", "s": 9, "p": 7, "d": "Mountains of marigolds under the great cantilever bridge at dawn.", "w": "Howrah_Bridge" },
+      { "n": "Kumartuli idol makers", "c": "culture", "ll": [22.6000, 88.3610], "m": 75, "f": 0, "o": "09:00-18:00", "s": 9, "p": 5, "d": "Lanes of workshops where clay and straw become towering goddesses.", "w": "Kumortuli" },
+      { "n": "Dakshineswar Kali Temple", "c": "temple", "ll": [22.6550, 88.3570], "m": 75, "f": 0, "o": "06:00-20:30", "s": 9, "p": 8, "d": "The riverside temple where Ramakrishna worshipped, linked by boat to Belur Math.", "w": "Dakshineswar_Kali_Temple" },
+      { "n": "Belur Math", "c": "spiritual", "ll": [22.6320, 88.3560], "m": 60, "f": 0, "o": "06:00-20:30", "s": 8, "p": 7, "d": "The Ramakrishna Mission's headquarters, a temple blending a church, mosque and temple.", "w": "Belur_Math" },
+      { "n": "College Street & Indian Coffee House", "c": "culture", "ll": [22.5750, 88.3630], "m": 90, "f": 0, "o": "10:00-20:00", "x": [0], "s": 8, "p": 6, "d": "A mile of bookstalls and the coffee house where poets and revolutionaries argued.", "w": "College_Street" },
+      { "n": "Indian Museum", "c": "museum", "ll": [22.5580, 88.3510], "m": 120, "f": 50, "o": "10:00-17:00", "x": [1], "s": 8, "p": 5, "d": "India's oldest museum (1814), with Bharhut sculptures and an Egyptian mummy.", "w": "Indian_Museum" },
+      { "n": "Princep Ghat boat ride", "c": "viewpoint", "ll": [22.5550, 88.3330], "m": 60, "f": 200, "o": "06:00-20:00", "s": 8, "p": 7, "d": "A country boat on the Hooghly as the sun sets behind the Vidyasagar Setu.", "a": "n" },
+      { "n": "Jorasanko Thakur Bari", "c": "museum", "ll": [22.5850, 88.3590], "m": 75, "f": 50, "o": "10:30-16:30", "x": [1], "s": 8, "p": 4, "d": "Rabindranath Tagore's family mansion, where he was born and died." },
+      { "n": "Park Street food & music", "c": "food", "ll": [22.5530, 88.3520], "m": 120, "f": 0, "o": "11:00-23:30", "s": 8, "p": 8, "d": "Flurys, Peter Cat's chelo kabab and old jazz bars on the city's famous food street.", "a": "n" }
+    ]
+  },
+  {
+    "id": "puri", "n": "Puri & Konark", "st": "Odisha", "r": "East",
+    "ty": ["spiritual", "beach", "heritage"], "ll": [19.8135, 85.8312], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 3],
+    "terr": "coast", "food": 600, "stay": 2200, "pop": 8, "alt": 0,
+    "tag": "Lord Jagannath, a sun temple chariot and the Bay of Bengal",
+    "ab": "Puri is one of the Char Dham, home to the Jagannath temple and its world-famous Rath Yatra. The 13th-century Sun Temple at Konark, carved as a giant chariot, is 35 km up the coast.",
+    "ppl": "The temple kitchen is the world's largest, cooking for 50,000 people a day in clay pots stacked seven high. In Raghurajpur, every family is an artist painting pattachitra on cloth and palm leaf, and its boys train as Gotipua dancers. At Rath Yatra, a million people pull the gods through town on wooden chariots.",
+    "eat": ["Mahaprasad", "Dalma", "Chhena poda", "Khaja", "Fish curry"], "fest": [["Rath Yatra", 7], ["Konark Dance Festival", 12]],
+    "lang": "Odia", "go": "Puri station; Bhubaneswar airport 60 km", "w": "Puri",
+    "hub": ["Grand Road, Puri", 19.8060, 85.8240],
+    "places": [
+      { "n": "Jagannath Temple", "c": "temple", "ll": [19.8048, 85.8181], "m": 90, "f": 0, "o": "05:00-22:00", "s": 10, "p": 10, "d": "The 12th-century temple of Jagannath; only Hindus may enter, others view it from rooftops nearby.", "t": "Phones and leather are not allowed inside.", "w": "Jagannath_Temple,_Puri" },
+      { "n": "Konark Sun Temple", "c": "heritage", "ll": [19.8876, 86.0945], "m": 120, "f": 40, "o": "06:00-20:00", "s": 10, "p": 9, "d": "A stone chariot of the sun god with 24 carved wheels that work as sundials.", "w": "Konark_Sun_Temple" },
+      { "n": "Raghurajpur artists' village", "c": "village", "ll": [19.8800, 85.8780], "m": 90, "f": 0, "o": "09:00-18:00", "s": 10, "p": 4, "d": "Every house is a studio: pattachitra paintings, palm-leaf engravings and masks.", "w": "Raghurajpur" },
+      { "n": "Puri beach at dawn", "c": "beach", "ll": [19.7980, 85.8250], "m": 60, "f": 0, "o": "05:00-20:00", "s": 7, "p": 8, "d": "Fishing boats come in at sunrise and pilgrims bathe in the waves.", "w": "Puri_Beach" },
+      { "n": "Chilika Lake dolphins, Satapada", "c": "wildlife", "ll": [19.6650, 85.4520], "m": 180, "f": 700, "o": "07:00-16:00", "s": 9, "p": 5, "d": "Asia's largest brackish lagoon, where Irrawaddy dolphins surface beside the boats.", "w": "Chilika_Lake" },
+      { "n": "Chandrabhaga beach", "c": "beach", "ll": [19.8720, 86.1020], "m": 60, "f": 0, "o": "05:00-19:00", "s": 7, "p": 4, "d": "A quiet beach near Konark, known for its sunrise." },
+      { "n": "Lingaraj Temple, Bhubaneswar", "c": "temple", "ll": [20.2382, 85.8338], "m": 75, "f": 0, "o": "06:00-21:00", "s": 9, "p": 7, "d": "An 11th-century Kalinga-style temple soaring 55 m; non-Hindus can view from a platform.", "w": "Lingaraja_Temple" },
+      { "n": "Udayagiri & Khandagiri caves", "c": "cave", "ll": [20.2630, 85.7850], "m": 75, "f": 25, "o": "08:00-17:00", "s": 8, "p": 5, "d": "2nd-century BC Jain monks' caves carved into two hills.", "w": "Udayagiri_and_Khandagiri_Caves" }
+    ]
+  },
+  {
+    "id": "sundarbans", "n": "Sundarbans", "st": "West Bengal", "r": "East",
+    "ty": ["wildlife", "offbeat", "backwaters"], "ll": [22.1610, 88.8100], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 3],
+    "terr": "islands", "food": 800, "stay": 3000, "pop": 6, "alt": 0,
+    "tag": "Tiger land in the world's largest mangrove forest",
+    "ab": "The Sundarbans is a maze of tidal rivers and mangrove islands where the Ganga meets the sea, home to swimming Bengal tigers, crocodiles and over 200 bird species. You explore by boat.",
+    "ppl": "Islanders fish, collect honey and catch crabs in tiger country. Before entering the forest, Hindus and Muslims alike pray to Bonbibi, the forest goddess, and you may see a Bonbibi pala, a folk play about her, performed in a village at night.",
+    "eat": ["Fresh crab curry", "Bhetki fish", "Rice & dal on the boat"], "fest": [["Bonbibi Puja", 1]],
+    "lang": "Bengali", "go": "Canning station, then road and boat to Gosaba; Kolkata airport 100 km", "w": "Sundarbans_National_Park",
+    "hub": ["Pakhiralaya / Gosaba jetty", 22.1610, 88.8100],
+    "places": [
+      { "n": "Mangrove creek boat cruise", "c": "wildlife", "ll": [22.1300, 88.8500], "m": 300, "f": 1500, "o": "07:00-17:00", "mo": [9, 10, 11, 12, 1, 2, 3, 4, 5], "s": 10, "p": 7, "d": "A day on narrow creeks watching for tigers on the mudbanks, crocodiles and kingfishers.", "t": "Permits are arranged by your boat operator." },
+      { "n": "Sajnekhali watchtower & museum", "c": "wildlife", "ll": [22.1220, 88.8290], "m": 60, "f": 100, "o": "08:00-17:00", "s": 8, "p": 6, "d": "A watchtower over a pond where deer and birds come to drink, with a mangrove interpretation centre." },
+      { "n": "Dobanki canopy walk", "c": "wildlife", "ll": [22.0230, 88.8090], "m": 60, "f": 100, "o": "08:00-16:00", "s": 8, "p": 4, "d": "A raised walkway through the mangroves for spotting tiger pugmarks and deer." },
+      { "n": "Village walk & Bonbibi pala", "c": "village", "ll": [22.1500, 88.8000], "m": 120, "f": 300, "o": "16:00-21:00", "s": 8, "p": 2, "d": "Walk mud embankments through fishing villages and watch a folk play at night.", "a": "n" }
+    ]
+  },
+  {
+    "id": "bodhgaya", "n": "Bodh Gaya, Rajgir & Nalanda", "st": "Bihar", "r": "East",
+    "ty": ["spiritual", "heritage"], "ll": [24.6951, 84.9913], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 3],
+    "terr": "plains", "food": 600, "stay": 2200, "pop": 7, "alt": 111,
+    "tag": "Where the Buddha found enlightenment",
+    "ab": "Bodh Gaya is the holiest site in Buddhism: the Mahabodhi temple and the descendant of the Bodhi tree. Rajgir's hills and the ruins of Nalanda, the world's first great university, are nearby.",
+    "ppl": "Monks from Thailand, Tibet, Japan, Bhutan and Myanmar live side by side in their own national monasteries, and winter brings thousands of pilgrims for teachings under the tree. Local Magahi families run tea stalls and rickshaws, and village women sell lotus flowers for offerings.",
+    "eat": ["Litti chokha", "Khaja of Silao", "Tilkut (winter)", "Thukpa from monastery cafés"], "fest": [["Buddha Purnima", 5], ["Kagyu Monlam", 12]],
+    "lang": "Magahi, Hindi", "go": "Gaya airport 12 km; Gaya Junction", "w": "Bodh_Gaya",
+    "hub": ["Mahabodhi Temple road", 24.6959, 84.9911],
+    "places": [
+      { "n": "Mahabodhi Temple & Bodhi Tree", "c": "spiritual", "ll": [24.6959, 84.9911], "m": 120, "f": 0, "o": "05:00-21:00", "s": 10, "p": 9, "d": "The 5th-century temple and the sacred fig tree where Siddhartha became the Buddha.", "w": "Mahabodhi_Temple" },
+      { "n": "Great Buddha Statue", "c": "spiritual", "ll": [24.6920, 84.9840], "m": 30, "f": 0, "o": "07:00-18:00", "s": 8, "p": 7, "d": "An 80 ft seated Buddha unveiled by the Dalai Lama in 1989.", "w": "Great_Buddha_Statue_(Bodh_Gaya)" },
+      { "n": "International monasteries", "c": "monastery", "ll": [24.6930, 84.9850], "m": 90, "f": 0, "o": "06:00-18:00", "s": 8, "p": 5, "d": "Walk between Thai, Bhutanese, Japanese and Tibetan temples, each in its own style." },
+      { "n": "Nalanda University ruins", "c": "heritage", "ll": [25.1357, 85.4434], "m": 120, "f": 40, "o": "09:00-17:00", "s": 10, "p": 7, "d": "Red-brick monasteries and lecture halls of a university that taught 10,000 students 1,500 years ago.", "w": "Nalanda_mahavihara" },
+      { "n": "Rajgir Vishwa Shanti Stupa", "c": "spiritual", "ll": [25.0000, 85.4200], "m": 90, "f": 100, "o": "08:00-17:00", "s": 8, "p": 6, "d": "A ropeway up Ratnagiri hill to a white peace stupa near Vulture's Peak.", "w": "Vishwa_Shanti_Stupa" },
+      { "n": "Dungeshwari caves", "c": "cave", "ll": [24.7330, 85.0570], "m": 75, "f": 0, "o": "07:00-17:00", "s": 7, "p": 3, "d": "The caves where the Buddha practised extreme fasting before going to Bodh Gaya." }
+    ]
+  },
+  {
+    "id": "gangtok", "n": "Gangtok", "st": "Sikkim", "r": "Northeast",
+    "ty": ["mountains", "lakes", "spiritual"], "ll": [27.3389, 88.6065], "bm": [3, 4, 5, 10, 11, 12], "days": [2, 4],
+    "terr": "mountains", "food": 900, "stay": 2800, "pop": 9, "alt": 1650,
+    "tag": "A clean hill capital of monasteries and high lakes",
+    "ab": "Gangtok, Sikkim's capital, rides a ridge facing Kanchenjunga. Day trips go to the glacial Tsomgo Lake and the Nathu La border pass, and Rumtek monastery is across the valley.",
+    "ppl": "Sikkim blends Lepcha, Bhutia and Nepali cultures. Prayer flags flutter from every ridge, homes keep a small altar with butter lamps, and the state's strict no-plastic, no-spitting rules make Gangtok spotless. Drukpa Tseshi and Losoong bring masked chaam dances to the monasteries.",
+    "eat": ["Momos", "Phagshapa", "Gundruk soup", "Sel roti", "Chhurpi"], "fest": [["Losoong", 12], ["Saga Dawa", 6], ["Pang Lhabsol", 9]],
+    "lang": "Nepali, Bhutia, Lepcha, Hindi", "go": "Pakyong airport 30 km; Bagdogra 125 km; NJP station", "w": "Gangtok",
+    "hub": ["MG Marg", 27.3290, 88.6140],
+    "places": [
+      { "n": "MG Marg", "c": "market", "ll": [27.3290, 88.6140], "m": 75, "f": 0, "o": "09:00-21:00", "s": 8, "p": 9, "d": "A car-free, litter-free boulevard of cafés and shops, the town's living room.", "a": "n" },
+      { "n": "Tsomgo (Changu) Lake", "c": "lake", "ll": [27.3740, 88.7640], "m": 180, "f": 200, "o": "07:00-15:00", "s": 9, "p": 9, "d": "A glacial lake at 3,753 m that freezes in winter, with yaks on its shore.", "t": "Needs a permit arranged by a registered tour operator.", "w": "Tsomgo_Lake" },
+      { "n": "Nathu La Pass", "c": "viewpoint", "ll": [27.3860, 88.8310], "m": 240, "f": 300, "o": "07:00-14:00", "x": [1, 2], "s": 9, "p": 7, "d": "The India–China border pass at 4,310 m on the old Silk Route; Indian citizens only.", "w": "Nathu_La", "a": "ke" },
+      { "n": "Rumtek Monastery", "c": "monastery", "ll": [27.2880, 88.5600], "m": 90, "f": 10, "o": "08:00-17:00", "s": 9, "p": 7, "d": "The seat of the Karmapa, a large Tibetan monastery with a golden stupa.", "w": "Rumtek_Monastery" },
+      { "n": "Enchey Monastery", "c": "monastery", "ll": [27.3360, 88.6200], "m": 40, "f": 0, "o": "06:00-16:00", "s": 8, "p": 5, "d": "A 200-year-old monastery above town, known for its masked dances in winter.", "w": "Enchey_Monastery" },
+      { "n": "Namgyal Institute of Tibetology", "c": "museum", "ll": [27.3160, 88.6050], "m": 60, "f": 20, "o": "10:00-16:00", "x": [0], "s": 8, "p": 4, "d": "Rare Buddhist manuscripts, thangkas and ritual objects in a traditional building.", "w": "Namgyal_Institute_of_Tibetology" },
+      { "n": "Banjhakri Falls", "c": "waterfall", "ll": [27.3530, 88.5960], "m": 60, "f": 50, "o": "08:00-17:00", "s": 7, "p": 6, "d": "A waterfall park dedicated to the shamans (jhakris) of Sikkimese folklore." },
+      { "n": "Ganesh Tok & Tashi viewpoint", "c": "viewpoint", "ll": [27.3420, 88.6170], "m": 45, "f": 0, "o": "06:00-18:00", "s": 7, "p": 6, "d": "Small hilltop temples with sunrise views of Kanchenjunga." }
+    ]
+  },
+  {
+    "id": "north-sikkim", "n": "Lachung & Yumthang", "st": "Sikkim", "r": "Northeast",
+    "ty": ["mountains", "snow", "offbeat"], "ll": [27.6890, 88.7440], "bm": [3, 4, 5, 10, 11], "days": [2, 3],
+    "terr": "mountains", "food": 900, "stay": 2600, "pop": 6, "alt": 2700,
+    "tag": "Valley of flowers, yaks and snow at the edge of Tibet",
+    "ab": "Lachung is a mountain village of wooden houses in North Sikkim, the base for Yumthang Valley's rhododendrons and the snowfields of Zero Point. Trips are permit-based through local operators.",
+    "ppl": "Lachung has its own traditional council, the Dzumsa, which still decides village matters by consensus. Lachungpa Bhutia families herd yaks, weave carpets, and in spring the whole valley turns pink and red with rhododendrons.",
+    "eat": ["Yak cheese", "Thukpa", "Tongba (millet beer)", "Momos"], "fest": [["Losar", 2]],
+    "lang": "Lachungpa Bhutia, Nepali", "go": "5–6 hours by road from Gangtok, permit required", "w": "Lachung",
+    "hub": ["Lachung village", 27.6890, 88.7440],
+    "places": [
+      { "n": "Yumthang Valley", "c": "nature", "ll": [27.8250, 88.6960], "m": 150, "f": 0, "o": "06:00-16:00", "s": 10, "p": 7, "d": "A wide valley of hot springs, yaks and, in April–May, 24 kinds of rhododendron.", "w": "Yumthang_Valley" },
+      { "n": "Zero Point (Yumesamdong)", "c": "viewpoint", "ll": [27.9000, 88.7200], "m": 120, "f": 300, "o": "06:00-14:00", "s": 9, "p": 6, "d": "The end of the road at 4,700 m, with snow almost all year.", "a": "ke" },
+      { "n": "Lachung Monastery", "c": "monastery", "ll": [27.6880, 88.7460], "m": 40, "f": 0, "o": "07:00-17:00", "s": 7, "p": 4, "d": "A Nyingma monastery above the village with masked dances in winter." },
+      { "n": "Bhim Nala Falls", "c": "waterfall", "ll": [27.6200, 88.7000], "m": 30, "f": 0, "o": "07:00-17:00", "s": 7, "p": 5, "d": "A powerful waterfall right by the road to Lachung." }
+    ]
+  },
+  {
+    "id": "pelling", "n": "Pelling", "st": "Sikkim", "r": "Northeast",
+    "ty": ["mountains", "spiritual"], "ll": [27.3010, 88.2370], "bm": [3, 4, 5, 10, 11, 12], "days": [2, 3],
+    "terr": "mountains", "food": 800, "stay": 2400, "pop": 6, "alt": 2150,
+    "tag": "Kanchenjunga face to face, and a wish-fulfilling lake",
+    "ab": "Pelling in West Sikkim has the closest view of Kanchenjunga, old monasteries, the ruins of Sikkim's second capital and a sacred lake hidden in forest.",
+    "ppl": "Lepchas, Sikkim's first people, believe Kanchenjunga is their guardian deity. At Khecheopalri, birds are said to pick every leaf off the sacred lake, and villagers light butter lamps there for wishes. Homestays here serve home-grown cardamom and buckwheat.",
+    "eat": ["Buckwheat pancakes", "Chhurpi soup", "Kinema"], "fest": [["Bumchu at Tashiding", 3]],
+    "lang": "Nepali, Bhutia, Lepcha", "go": "Pakyong airport 130 km; NJP 140 km", "w": "Pelling",
+    "hub": ["Upper Pelling", 27.3010, 88.2370],
+    "places": [
+      { "n": "Pemayangtse Monastery", "c": "monastery", "ll": [27.3050, 88.2520], "m": 60, "f": 20, "o": "07:00-17:00", "s": 9, "p": 7, "d": "A 1705 monastery with a carved seven-tier wooden model of the heavenly palace.", "w": "Pemayangtse_Monastery" },
+      { "n": "Rabdentse Ruins", "c": "heritage", "ll": [27.2990, 88.2580], "m": 60, "f": 25, "o": "09:00-17:00", "s": 8, "p": 5, "d": "Stone ruins of Sikkim's royal capital on a forested ridge facing the mountains.", "w": "Rabdentse" },
+      { "n": "Khecheopalri Lake", "c": "lake", "ll": [27.3480, 88.1880], "m": 75, "f": 20, "o": "06:00-17:00", "s": 9, "p": 6, "d": "A sacred lake in forest, believed to grant wishes; no boats, no swimming.", "w": "Khecheopalri_Lake" },
+      { "n": "Kanchenjunga Falls", "c": "waterfall", "ll": [27.3510, 88.2000], "m": 40, "f": 20, "o": "07:00-17:00", "s": 7, "p": 6, "d": "A tall waterfall that roars all year from the glaciers above." },
+      { "n": "Pelling Skywalk & Chenrezig statue", "c": "viewpoint", "ll": [27.2990, 88.2480], "m": 60, "f": 100, "o": "08:00-17:00", "s": 8, "p": 7, "d": "A glass-floored walkway leading to a giant statue of the Buddha of compassion." },
+      { "n": "Sangachoeling Monastery", "c": "monastery", "ll": [27.3070, 88.2300], "m": 90, "f": 0, "o": "07:00-17:00", "s": 8, "p": 3, "d": "One of Sikkim's oldest monasteries, reached by a steep forest climb.", "a": "e" }
+    ]
+  }
+]

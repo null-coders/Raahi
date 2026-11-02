@@ -1,0 +1,379 @@
+[
+  {
+    "id": "rishikesh", "n": "Rishikesh", "st": "Uttarakhand", "r": "North",
+    "ty": ["spiritual", "adventure", "hills"], "ll": [30.1087, 78.2920], "bm": [2, 3, 4, 5, 9, 10, 11], "days": [2, 3],
+    "terr": "hills", "food": 700, "stay": 2000, "pop": 9, "alt": 372,
+    "tag": "Yoga, white-water and evening aarti on the Ganga",
+    "ab": "Rishikesh is where the Ganga leaves the Himalaya: ashrams and yoga schools line both banks, suspension bridges hum with pilgrims, and rafting camps sit upstream at Shivpuri.",
+    "ppl": "Sadhus in saffron, ashram students in white and Garhwali shopkeepers share the ghats. Mornings begin with chanting and bells, cows wander the bridges, and every evening families float diyas in leaf boats during the aarti. The town is strictly vegetarian and alcohol-free.",
+    "eat": ["Aloo puri at Chotiwala", "Kachori-jalebi", "Ayurvedic thali", "Sattvic cafés"], "fest": [["International Yoga Festival", 3], ["Ganga Dussehra", 6]],
+    "lang": "Garhwali, Hindi", "go": "Jolly Grant (Dehradun) airport 20 km; Yog Nagari Rishikesh railway station", "w": "Rishikesh",
+    "hub": ["Ram Jhula", 30.1236, 78.3155],
+    "places": [
+      { "n": "Parmarth Niketan Ganga Aarti", "c": "spiritual", "ll": [30.1229, 78.3127], "m": 75, "f": 0, "o": "17:30-19:30", "s": 10, "p": 9, "d": "Hundreds sing as lamps swing over the river at dusk on the ashram's riverfront steps.", "w": "Parmarth_Niketan", "a": "n" },
+      { "n": "Laxman Jhula & Tapovan", "c": "culture", "ll": [30.1260, 78.3300], "m": 60, "f": 0, "o": "06:00-22:00", "s": 8, "p": 9, "d": "The iconic suspension-bridge area with thirteen-storey Trayambakeshwar temple and riverside cafés.", "w": "Lakshman_Jhula" },
+      { "n": "Beatles Ashram (Chaurasi Kutia)", "c": "heritage", "ll": [30.1176, 78.3140], "m": 75, "f": 150, "o": "09:00-17:00", "s": 9, "p": 7, "d": "The ruined jungle ashram where the Beatles wrote much of the White Album, now covered in murals.", "w": "Chaurasi_Kutia" },
+      { "n": "White-water rafting from Shivpuri", "c": "adventure", "ll": [30.1400, 78.3900], "m": 180, "f": 1000, "o": "08:00-16:00", "mo": [2, 3, 4, 5, 6, 9, 10, 11, 12], "s": 9, "p": 9, "d": "A 16 km run through grade III rapids like 'Golf Course' and 'Roller Coaster' back into town.", "a": "ke" },
+      { "n": "Triveni Ghat", "c": "spiritual", "ll": [30.1036, 78.2989], "m": 45, "f": 0, "o": "05:00-21:00", "s": 8, "p": 7, "d": "The town's main bathing ghat, said to be where three rivers meet." },
+      { "n": "Neer Garh waterfall", "c": "waterfall", "ll": [30.1450, 78.3480], "m": 90, "f": 30, "o": "08:00-17:00", "s": 8, "p": 5, "d": "A tiered forest waterfall with cool pools, a short walk from the road." },
+      { "n": "Kunjapuri Devi sunrise", "c": "temple", "ll": [30.1950, 78.3550], "m": 90, "f": 0, "o": "05:00-19:00", "s": 9, "p": 5, "d": "A hilltop shrine where the sun rises over the Garhwal snow peaks.", "t": "Leave at 4:30 AM for sunrise." },
+      { "n": "Rajaji National Park (Chilla)", "c": "wildlife", "ll": [30.0420, 78.2480], "m": 180, "f": 1000, "o": "06:00-17:30", "mo": [11, 12, 1, 2, 3, 4, 5, 6], "s": 8, "p": 4, "d": "Jeep safaris for elephants, deer and leopards in the Shivalik forests.", "w": "Rajaji_National_Park" }
+    ]
+  },
+  {
+    "id": "haridwar", "n": "Haridwar", "st": "Uttarakhand", "r": "North",
+    "ty": ["spiritual"], "ll": [29.9457, 78.1642], "bm": [2, 3, 4, 10, 11], "days": [1, 2],
+    "terr": "city", "food": 600, "stay": 1800, "pop": 8, "alt": 314,
+    "tag": "The gateway of the gods, where the Ganga meets the plains",
+    "ab": "Haridwar is one of Hinduism's seven holiest cities and a host of the Kumbh Mela. The evening aarti at Har Ki Pauri is unforgettable.",
+    "ppl": "Families come to Haridwar for life's big moments: a child's first haircut, immersing a loved one's ashes, or a dip on a festival day. Pandas, the family priests, still keep handwritten genealogy registers that go back generations; tell them your village and they may find your ancestors.",
+    "eat": ["Kachori-aloo at Hoshiyar Puri", "Lassi", "Malpua"], "fest": [["Kanwar Yatra", 7], ["Kumbh / Ardh Kumbh", 4]],
+    "lang": "Hindi, Garhwali", "go": "Haridwar Junction railway station; Dehradun airport 35 km", "w": "Haridwar",
+    "hub": ["Har Ki Pauri", 29.9560, 78.1710],
+    "places": [
+      { "n": "Har Ki Pauri Ganga Aarti", "c": "spiritual", "ll": [29.9560, 78.1710], "m": 75, "f": 0, "o": "17:30-19:30", "s": 10, "p": 10, "d": "Thousands of lamps and floating diyas turn the Ganga gold as bells ring at sunset.", "t": "Get a place on the steps by 5 PM.", "w": "Har_Ki_Pauri", "a": "n" },
+      { "n": "Mansa Devi Temple", "c": "temple", "ll": [29.9580, 78.1660], "m": 75, "f": 150, "o": "08:00-20:00", "s": 8, "p": 8, "d": "A wish-fulfilling goddess temple on Bilwa hill, reached by ropeway.", "w": "Mansa_Devi_Temple,_Haridwar" },
+      { "n": "Chandi Devi Temple", "c": "temple", "ll": [29.9340, 78.1870], "m": 75, "f": 200, "o": "07:00-19:00", "s": 7, "p": 7, "d": "A hilltop temple across the river with a ropeway and views of the whole city." },
+      { "n": "Daksha Mahadev, Kankhal", "c": "temple", "ll": [29.9280, 78.1440], "m": 45, "f": 0, "o": "06:00-20:00", "s": 7, "p": 5, "d": "The temple where Sati gave up her life, in the old town of Kankhal." },
+      { "n": "Bharat Mata Mandir", "c": "temple", "ll": [29.9860, 78.1950], "m": 45, "f": 0, "o": "08:00-19:00", "s": 7, "p": 5, "d": "An eight-storey temple to 'Mother India', with a floor for each freedom fighter and saint." },
+      { "n": "Bara Bazaar & old lanes", "c": "market", "ll": [29.9540, 78.1690], "m": 60, "f": 0, "o": "09:00-21:00", "s": 7, "p": 6, "d": "Rudraksha beads, brass lamps and kachoris fried since dawn." }
+    ]
+  },
+  {
+    "id": "mussoorie", "n": "Mussoorie & Landour", "st": "Uttarakhand", "r": "North",
+    "ty": ["hills", "heritage"], "ll": [30.4598, 78.0644], "bm": [3, 4, 5, 6, 9, 10, 11, 12], "days": [2, 3],
+    "terr": "hills", "food": 900, "stay": 2800, "pop": 9, "alt": 2005,
+    "tag": "The Queen of the Hills and its quiet cantonment above",
+    "ab": "Mussoorie's Mall Road buzzes with holidaymakers, while Landour, a few kilometres up, is a calm cantonment of old bakeries, churches and oak forest where Ruskin Bond lives.",
+    "ppl": "Landour's old families have run the same bakeries and stores since the 1900s, and its Char Dukan corner is everyone's breakfast stop. Below, Jaunsari and Garhwali villagers grow potatoes and rajma on terraces and come up to sell them in the bazaar.",
+    "eat": ["Pancakes at Char Dukan", "Bun omelette", "Garhwali kafuli", "Momos on Mall Road"], "fest": [["Mussoorie Winter Line Carnival", 12]],
+    "lang": "Garhwali, Hindi", "go": "Dehradun railway station 35 km; Jolly Grant airport 60 km", "w": "Mussoorie",
+    "hub": ["Mall Road (Kulri)", 30.4570, 78.0720],
+    "places": [
+      { "n": "Landour & Char Dukan", "c": "village", "ll": [30.4590, 78.0980], "m": 120, "f": 0, "o": "08:00-20:00", "s": 9, "p": 6, "d": "Walk the 'chakkar' loop past St Paul's Church, oak forest and the famous four little shops.", "w": "Landour" },
+      { "n": "Lal Tibba", "c": "viewpoint", "ll": [30.4590, 78.0970], "m": 40, "f": 50, "o": "08:00-18:00", "s": 8, "p": 7, "d": "The highest point of Landour, with telescopes trained on Kedarnath and Bandarpunch peaks." },
+      { "n": "Camel's Back Road", "c": "nature", "ll": [30.4630, 78.0700], "m": 60, "f": 0, "o": "06:00-20:00", "s": 8, "p": 6, "d": "A 3 km car-free promenade with a rock shaped like a camel's hump and sunset views." },
+      { "n": "Kempty Falls", "c": "waterfall", "ll": [30.4840, 78.0310], "m": 75, "f": 0, "o": "08:00-18:00", "s": 6, "p": 9, "d": "A busy waterfall with pools for wading, 15 km from town.", "w": "Kempty_Falls" },
+      { "n": "Gun Hill", "c": "viewpoint", "ll": [30.4600, 78.0780], "m": 45, "f": 150, "o": "10:00-19:00", "s": 7, "p": 7, "d": "A ropeway ride to Mussoorie's second-highest peak for a view of the Doon valley." },
+      { "n": "George Everest's House", "c": "heritage", "ll": [30.4480, 78.0130], "m": 75, "f": 200, "o": "08:00-18:00", "s": 8, "p": 5, "d": "The restored home and lab of the surveyor who mapped the Himalaya, on a windy ridge.", "w": "George_Everest's_House_and_Laboratory" },
+      { "n": "Dhanaulti", "c": "nature", "ll": [30.4260, 78.2400], "m": 150, "f": 50, "o": "08:00-18:00", "s": 8, "p": 5, "d": "Deodar eco-parks and potato fields on a quiet ridge 25 km away.", "w": "Dhanaulti" },
+      { "n": "Mall Road", "c": "market", "ll": [30.4570, 78.0720], "m": 75, "f": 0, "o": "09:00-22:00", "s": 7, "p": 9, "d": "The lively promenade of cafés, woollens and evening crowds.", "a": "n" }
+    ]
+  },
+  {
+    "id": "nainital", "n": "Nainital", "st": "Uttarakhand", "r": "North",
+    "ty": ["lakes", "hills"], "ll": [29.3803, 79.4636], "bm": [3, 4, 5, 6, 9, 10, 11], "days": [2, 3],
+    "terr": "hills", "food": 900, "stay": 2600, "pop": 9, "alt": 2084,
+    "tag": "A town around an emerald lake, and quieter lakes beyond",
+    "ab": "Nainital wraps around a pear-shaped lake under forested peaks. Bhimtal, Sattal and Kainchi Dham, the ashram of Neem Karoli Baba, are close by.",
+    "ppl": "This is Kumaon. Villagers in nearby hills wear the rangwali pichhaura shawl at weddings, women gather pine needles and fodder in long processions, and Kumaoni holi is sung for weeks in homes. Nainital's boatmen and rickshaw pullers are second- and third-generation.",
+    "eat": ["Bal mithai", "Bhatt ki churkani", "Aloo ke gutke", "Singori"], "fest": [["Nanda Devi Mela", 9], ["Kumaoni Holi", 3]],
+    "lang": "Kumaoni, Hindi", "go": "Kathgodam railway station 35 km; Pantnagar airport 70 km", "w": "Nainital",
+    "hub": ["Mall Road, Nainital", 29.3910, 79.4560],
+    "places": [
+      { "n": "Boating on Naini Lake", "c": "lake", "ll": [29.3880, 79.4560], "m": 60, "f": 250, "o": "06:00-18:00", "s": 9, "p": 10, "d": "Row or sail across the lake past the Naina Devi temple and wooded hills.", "w": "Naini_Lake" },
+      { "n": "Naina Devi Temple", "c": "temple", "ll": [29.3950, 79.4520], "m": 30, "f": 0, "o": "06:00-22:00", "s": 8, "p": 8, "d": "The goddess temple on the lake's north shore that gave the town its name.", "w": "Naina_Devi_Temple,_Nainital" },
+      { "n": "Snow View Point ropeway", "c": "viewpoint", "ll": [29.3990, 79.4600], "m": 60, "f": 300, "o": "10:00-17:00", "s": 8, "p": 8, "d": "A cable car to a ridge facing Nanda Devi and Trishul on clear mornings." },
+      { "n": "Tiffin Top", "c": "trek", "ll": [29.3760, 79.4420], "m": 120, "f": 0, "o": "07:00-17:00", "s": 8, "p": 6, "d": "A 4 km forest walk or pony ride to a rocky lookout over the lake.", "a": "e" },
+      { "n": "Kainchi Dham", "c": "spiritual", "ll": [29.4190, 79.5150], "m": 75, "f": 0, "o": "07:00-19:00", "s": 9, "p": 9, "d": "Neem Karoli Baba's riverside ashram, a pilgrimage for seekers from around the world.", "w": "Kainchi_Dham" },
+      { "n": "Bhimtal & Sattal lakes", "c": "lake", "ll": [29.3530, 79.5300], "m": 150, "f": 0, "o": "08:00-18:00", "s": 8, "p": 6, "d": "Quieter lakes in oak forest, with birdwatching and kayaking at Sattal." },
+      { "n": "Mukteshwar", "c": "viewpoint", "ll": [29.4720, 79.6480], "m": 180, "f": 0, "o": "07:00-18:00", "s": 9, "p": 4, "d": "An orchard village with a 350-year-old Shiva temple and cliff views to the snow peaks.", "w": "Mukteshwar" },
+      { "n": "Mall Road & Tibetan market", "c": "market", "ll": [29.3920, 79.4565], "m": 75, "f": 0, "o": "09:00-21:00", "s": 7, "p": 9, "d": "The lakeside promenade of bal mithai shops, candle stalls and woollens.", "a": "n" }
+    ]
+  },
+  {
+    "id": "corbett", "n": "Jim Corbett National Park", "st": "Uttarakhand", "r": "North",
+    "ty": ["wildlife"], "ll": [29.3940, 79.1270], "bm": [11, 12, 1, 2, 3, 4, 5, 6], "days": [2, 3],
+    "terr": "plains", "food": 900, "stay": 3500, "pop": 8, "alt": 385,
+    "tag": "India's first national park, tiger country in sal forest",
+    "ab": "Corbett was India's first national park and still one of the best places to see a wild tiger, along with elephants, gharials and over 600 bird species. Ramnagar is the base for all zones.",
+    "ppl": "Van Gujjar buffalo herders once lived inside these forests and still graze at the edges. Naturalists and Gypsy drivers in Ramnagar learned to read tracks from their fathers, and Jim Corbett's own house at Kaladhungi shows how close villagers lived to the big cats.",
+    "eat": ["Kumaoni thali", "Bhatt dal", "Mandua roti"], "fest": [],
+    "lang": "Kumaoni, Hindi", "go": "Ramnagar railway station; Pantnagar airport 80 km", "w": "Jim_Corbett_National_Park",
+    "hub": ["Ramnagar", 29.3940, 79.1270],
+    "places": [
+      { "n": "Bijrani safari zone", "c": "wildlife", "ll": [29.4580, 79.0400], "m": 210, "f": 1800, "o": "06:00-17:30", "mo": [10, 11, 12, 1, 2, 3, 4, 5, 6], "s": 9, "p": 8, "d": "Grassland and sal forest with good tiger sightings; Gypsy safaris run morning and afternoon.", "t": "Book permits online weeks ahead." },
+      { "n": "Dhikala zone", "c": "wildlife", "ll": [29.5470, 78.8380], "m": 300, "f": 2500, "o": "06:00-17:30", "mo": [11, 12, 1, 2, 3, 4, 5, 6], "s": 10, "p": 7, "d": "The park's heart on the Ramganga reservoir: elephant herds, tigers and vast chaurs (grasslands).", "w": "Dhikala" },
+      { "n": "Jhirna zone", "c": "wildlife", "ll": [29.4170, 79.0120], "m": 210, "f": 1800, "o": "06:00-17:30", "s": 8, "p": 6, "d": "The zone open all year, good for sloth bears and elephants." },
+      { "n": "Garjiya Devi Temple", "c": "temple", "ll": [29.4710, 79.1430], "m": 45, "f": 0, "o": "06:00-19:00", "s": 8, "p": 7, "d": "A goddess shrine perched on a rock in the middle of the Kosi river." },
+      { "n": "Corbett Waterfall", "c": "waterfall", "ll": [29.2850, 79.3330], "m": 60, "f": 30, "o": "08:00-17:00", "s": 7, "p": 5, "d": "A 20 m waterfall in teak forest near Kaladhungi." },
+      { "n": "Corbett Museum, Kaladhungi", "c": "museum", "ll": [29.2770, 79.3510], "m": 45, "f": 20, "o": "08:00-17:00", "s": 7, "p": 4, "d": "Jim Corbett's winter home, with his letters, guns and the village he cared for.", "w": "Jim_Corbett_Museum" }
+    ]
+  },
+  {
+    "id": "auli", "n": "Auli & Joshimath", "st": "Uttarakhand", "r": "North",
+    "ty": ["snow", "mountains", "adventure"], "ll": [30.5280, 79.5720], "bm": [1, 2, 3, 4, 5, 6, 10, 11, 12], "days": [2, 3],
+    "terr": "mountains", "food": 900, "stay": 2600, "pop": 6, "alt": 2800,
+    "tag": "Ski slopes facing Nanda Devi",
+    "ab": "Auli is a slope of oak and meadow above Joshimath with one of India's best ski runs and a direct view of Nanda Devi. In summer it is a flower meadow.",
+    "ppl": "Garhwali villages around Joshimath keep stone houses with carved wooden doors. Bhotiya traders once carried salt and wool over the passes to Tibet, and families still weave woollen thulmas. Joshimath is the winter seat of Lord Badrinath, carried down each November.",
+    "eat": ["Kafuli", "Phaanu", "Jhangora kheer"], "fest": [["Auli Winter Games", 2]],
+    "lang": "Garhwali, Hindi", "go": "Rishikesh 255 km; nearest airport Jolly Grant", "w": "Auli,_India",
+    "hub": ["Auli resort area", 30.5280, 79.5720],
+    "places": [
+      { "n": "Auli ski slopes", "c": "adventure", "ll": [30.5250, 79.5680], "m": 180, "f": 1500, "o": "09:00-16:00", "mo": [1, 2, 3], "s": 9, "p": 7, "d": "Beginner-friendly ski slopes with instructors, facing Nanda Devi.", "a": "k" },
+      { "n": "Gorson Bugyal", "c": "trek", "ll": [30.5100, 79.5900], "m": 240, "f": 0, "o": "07:00-15:00", "s": 9, "p": 4, "d": "A meadow walk through oak forest with views of Trishul and Dronagiri.", "a": "ke" },
+      { "n": "Auli artificial lake & chairlift", "c": "viewpoint", "ll": [30.5300, 79.5660], "m": 60, "f": 500, "o": "09:00-17:00", "s": 8, "p": 6, "d": "A ridge-top lake and chairlift over the slopes with peaks on every side." },
+      { "n": "Narsingh Temple, Joshimath", "c": "temple", "ll": [30.5530, 79.5650], "m": 40, "f": 0, "o": "06:00-20:00", "s": 7, "p": 5, "d": "The winter home of Lord Badrinath's idol, with an old wooden temple." },
+      { "n": "Chenab lake trek", "c": "trek", "ll": [30.4560, 79.5000], "m": 360, "f": 0, "o": "07:00-15:00", "mo": [5, 6, 9, 10], "s": 8, "p": 2, "d": "A remote forest trail to a small lake below the snowline.", "a": "ke" }
+    ]
+  },
+  {
+    "id": "kedarnath", "n": "Kedarnath", "st": "Uttarakhand", "r": "North",
+    "ty": ["spiritual", "mountains", "adventure"], "ll": [30.6530, 79.0250], "bm": [5, 6, 9, 10], "days": [2, 3],
+    "terr": "mountains", "food": 800, "stay": 2200, "pop": 9, "alt": 1980,
+    "tag": "A Jyotirlinga at the foot of the snow, reached on foot",
+    "ab": "Kedarnath temple stands at 3,583 m beneath the Kedardome peak, a 16 km climb from Gaurikund. It opens from late April or May to just after Diwali.",
+    "ppl": "Pilgrims of every age make the climb, many carried by Garhwali porters in baskets or on mules. Priests from the Rawal tradition of Karnataka serve the temple, and villages along the way open their homes as rest stops with tea and khichdi.",
+    "eat": ["Khichdi at bhandaras", "Chai", "Garhwali thali"], "fest": [["Temple doors open", 5], ["Doors close after Diwali", 11]],
+    "lang": "Garhwali, Hindi", "go": "Road to Sonprayag/Gaurikund from Rishikesh (215 km); helicopters from Phata", "w": "Kedarnath_Temple",
+    "hub": ["Gaurikund", 30.6530, 79.0250],
+    "places": [
+      { "n": "Kedarnath Temple trek", "c": "spiritual", "ll": [30.7346, 79.0669], "m": 600, "f": 0, "o": "04:00-21:00", "mo": [5, 6, 7, 8, 9, 10, 11], "s": 10, "p": 10, "d": "The 16 km climb to one of the twelve Jyotirlingas; most pilgrims stay a night at the top.", "t": "Register with the Uttarakhand yatra portal; start before dawn.", "w": "Kedarnath_Temple", "a": "e" },
+      { "n": "Bhairavnath Temple", "c": "temple", "ll": [30.7320, 79.0730], "m": 60, "f": 0, "o": "06:00-18:00", "mo": [5, 6, 7, 8, 9, 10], "s": 8, "p": 6, "d": "A short climb above Kedarnath to the guardian deity, with a view down the valley.", "a": "e" },
+      { "n": "Triyuginarayan Temple", "c": "temple", "ll": [30.6420, 78.9750], "m": 75, "f": 0, "o": "06:00-19:00", "s": 9, "p": 6, "d": "Where Shiva and Parvati are said to have married; an eternal fire has burned here for ages and couples now marry here too.", "w": "Triyuginarayan_Temple" },
+      { "n": "Gaurikund hot spring", "c": "spiritual", "ll": [30.6530, 79.0250], "m": 30, "f": 0, "o": "05:00-20:00", "s": 7, "p": 7, "d": "A warm spring and Gauri temple where pilgrims bathe before the climb." },
+      { "n": "Chorabari Tal (Gandhi Sarovar)", "c": "trek", "ll": [30.7500, 79.0600], "m": 180, "f": 0, "o": "06:00-15:00", "mo": [6, 7, 8, 9, 10], "s": 8, "p": 3, "d": "A glacial lake above the temple, a steep 3 km hike.", "a": "ke" }
+    ]
+  },
+  {
+    "id": "badrinath", "n": "Badrinath & Mana", "st": "Uttarakhand", "r": "North",
+    "ty": ["spiritual", "mountains"], "ll": [30.7433, 79.4938], "bm": [5, 6, 9, 10], "days": [1, 2],
+    "terr": "mountains", "food": 800, "stay": 2200, "pop": 8, "alt": 3300,
+    "tag": "Vishnu's shrine by the Alaknanda and India's first village",
+    "ab": "Badrinath is one of the Char Dham, a colourful temple by the Alaknanda between Nar and Narayan peaks. Mana, 3 km away, is the first Indian village on the road to Tibet.",
+    "ppl": "Mana is a Bhotiya village of stone houses where women knit woollens and sell them from their doorsteps, then move down to lower villages for the winter. The temple's chief priest, the Rawal, is always a Namboodiri Brahmin from Kerala, a tradition from Adi Shankaracharya.",
+    "eat": ["Mana's buckwheat pakoras", "Kadhi-chawal", "Herbal tea"], "fest": [["Temple doors open", 5], ["Mata Murti Mela", 9]],
+    "lang": "Garhwali, Bhotiya, Hindi", "go": "Road from Rishikesh (300 km) via Joshimath", "w": "Badrinath_Temple",
+    "hub": ["Badrinath town", 30.7433, 79.4938],
+    "places": [
+      { "n": "Badrinath Temple", "c": "temple", "ll": [30.7445, 79.4936], "m": 90, "f": 0, "o": "04:30-21:00", "mo": [5, 6, 7, 8, 9, 10, 11], "s": 10, "p": 10, "d": "A bright painted temple of Lord Badrinarayan, with Tapt Kund hot springs below.", "w": "Badrinath_Temple" },
+      { "n": "Mana village", "c": "village", "ll": [30.7700, 79.4950], "m": 90, "f": 0, "o": "07:00-18:00", "mo": [5, 6, 7, 8, 9, 10], "s": 9, "p": 8, "d": "The first village of India: stone lanes, wool shops and the 'last tea shop'.", "w": "Mana,_India" },
+      { "n": "Bhim Pul & Vyas Gufa", "c": "spiritual", "ll": [30.7760, 79.4960], "m": 45, "f": 0, "o": "07:00-18:00", "mo": [5, 6, 7, 8, 9, 10], "s": 8, "p": 7, "d": "A natural rock bridge over the roaring Saraswati and the cave where Vyasa dictated the Mahabharata." },
+      { "n": "Vasudhara Falls", "c": "waterfall", "ll": [30.7840, 79.4630], "m": 240, "f": 0, "o": "07:00-15:00", "mo": [5, 6, 9, 10], "s": 9, "p": 4, "d": "A 6 km trail from Mana to a 120 m waterfall dropping from a cliff.", "a": "ke" },
+      { "n": "Tapt Kund", "c": "spiritual", "ll": [30.7440, 79.4940], "m": 30, "f": 0, "o": "04:30-21:00", "mo": [5, 6, 7, 8, 9, 10, 11], "s": 7, "p": 8, "d": "Hot springs below the temple where pilgrims bathe before darshan." }
+    ]
+  },
+  {
+    "id": "chopta", "n": "Chopta & Tungnath", "st": "Uttarakhand", "r": "North",
+    "ty": ["mountains", "adventure", "offbeat"], "ll": [30.4900, 79.2100], "bm": [4, 5, 6, 9, 10, 11, 12], "days": [2, 3],
+    "terr": "mountains", "food": 700, "stay": 1500, "pop": 6, "alt": 2680,
+    "tag": "Mini Switzerland: meadows, rhododendron forest and the highest Shiva temple",
+    "ab": "Chopta is a meadow camp below Tungnath, the world's highest Shiva temple, and Chandrashila peak with a 360° view of Chaukhamba, Nanda Devi and Trishul.",
+    "ppl": "Villagers from Sari and Makkumath run small dhabas and camps through the season and move down in winter. Shepherds graze sheep on the bugyals, and the Panch Kedar pilgrims have walked these trails for centuries.",
+    "eat": ["Maggi at the dhabas", "Rajma-chawal", "Buransh juice"], "fest": [],
+    "lang": "Garhwali, Hindi", "go": "From Rishikesh via Ukhimath (210 km)", "w": "Chopta",
+    "hub": ["Chopta meadow", 30.4900, 79.2100],
+    "places": [
+      { "n": "Tungnath Temple", "c": "temple", "ll": [30.4893, 79.2153], "m": 210, "f": 0, "o": "06:00-18:00", "mo": [5, 6, 7, 8, 9, 10, 11], "s": 10, "p": 7, "d": "A 3.5 km paved climb to a 1,000-year-old stone temple at 3,680 m.", "w": "Tungnath", "a": "e" },
+      { "n": "Chandrashila summit", "c": "trek", "ll": [30.4950, 79.2190], "m": 120, "f": 0, "o": "05:00-15:00", "mo": [4, 5, 6, 9, 10, 11, 12], "s": 10, "p": 6, "d": "A further 1.5 km above Tungnath to a summit with the Garhwal Himalaya in a full circle.", "a": "ke", "w": "Chandrashila" },
+      { "n": "Deoria Tal", "c": "lake", "ll": [30.5230, 79.1290], "m": 180, "f": 150, "o": "06:00-17:00", "s": 9, "p": 5, "d": "A 2.5 km hike from Sari village to a lake that mirrors the Chaukhamba peaks.", "w": "Deoria_Tal" },
+      { "n": "Sari village", "c": "village", "ll": [30.5150, 79.1330], "m": 60, "f": 0, "o": "08:00-18:00", "s": 7, "p": 3, "d": "A Garhwali farming village of slate-roof homes and homestays." },
+      { "n": "Kanchula Korak musk deer sanctuary", "c": "wildlife", "ll": [30.4650, 79.2350], "m": 60, "f": 0, "o": "09:00-16:00", "s": 7, "p": 2, "d": "A small breeding centre for the shy Himalayan musk deer." }
+    ]
+  },
+  {
+    "id": "lansdowne", "n": "Lansdowne", "st": "Uttarakhand", "r": "North",
+    "ty": ["hills", "offbeat"], "ll": [29.8377, 78.6871], "bm": [3, 4, 5, 6, 9, 10, 11, 12], "days": [1, 2],
+    "terr": "hills", "food": 700, "stay": 2200, "pop": 6, "alt": 1700,
+    "tag": "A quiet cantonment of pine, oak and old churches",
+    "ab": "Lansdowne is the home of the Garhwal Rifles, a small cantonment that stayed calm and green while other hill stations grew crowded.",
+    "ppl": "Almost every Garhwali family has a soldier, and the regiment is a matter of pride here. Village women carry fodder and firewood up steep paths, and the market closes early, so life follows the bugle and the sun.",
+    "eat": ["Garhwali thali", "Bal mithai", "Arsa sweets"], "fest": [],
+    "lang": "Garhwali, Hindi", "go": "Kotdwar railway station 40 km", "w": "Lansdowne,_India",
+    "hub": ["Lansdowne market", 29.8377, 78.6871],
+    "places": [
+      { "n": "Tip-in-Top", "c": "viewpoint", "ll": [29.8350, 78.6900], "m": 40, "f": 0, "o": "07:00-18:00", "s": 8, "p": 6, "d": "A cliff-edge point with the snow peaks of the Garhwal range on clear days." },
+      { "n": "Bhulla Tal", "c": "lake", "ll": [29.8400, 78.6830], "m": 45, "f": 30, "o": "09:00-18:00", "s": 6, "p": 6, "d": "A small lake built by the Army, with paddle boats and ducks." },
+      { "n": "Garhwal Rifles museum (Darwan Singh)", "c": "museum", "ll": [29.8390, 78.6880], "m": 60, "f": 50, "o": "09:00-17:00", "x": [1], "s": 8, "p": 4, "d": "Medals, uniforms and stories of the regiment's two Victoria Cross winners." },
+      { "n": "St Mary's Church", "c": "church", "ll": [29.8360, 78.6860], "m": 25, "f": 0, "o": "10:00-17:00", "s": 7, "p": 5, "d": "A 1895 stone church, now a small museum of old photographs." },
+      { "n": "Tarkeshwar Mahadev", "c": "temple", "ll": [29.7790, 78.6510], "m": 90, "f": 0, "o": "07:00-18:00", "s": 8, "p": 3, "d": "A Shiva temple in a dense deodar forest 35 km away, cool and silent." }
+    ]
+  },
+  {
+    "id": "delhi", "n": "Delhi", "st": "Delhi", "r": "North",
+    "ty": ["city", "heritage", "spiritual"], "ll": [28.6139, 77.2090], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 4],
+    "terr": "city", "food": 1000, "stay": 3500, "pop": 10, "alt": 216,
+    "tag": "Seven cities of history, one great street-food capital",
+    "ab": "Delhi has been the capital of empires for a thousand years: Mughal forts and tombs, a Sultanate minaret, Lutyens' boulevards and the lanes of Old Delhi, all in one sprawling city.",
+    "ppl": "Delhi is a city of migrants: Punjabi families who came after Partition, Bihari workers, Bengalis in Chittaranjan Park, Tibetans in Majnu ka Tilla. Old Delhi still lives in havelis where families have run the same sweet or spice shop for five generations, and every Delhiite has an opinion on the best chhole bhature.",
+    "eat": ["Chhole bhature", "Paranthe Wali Gali", "Nihari", "Daulat ki chaat (winter)", "Butter chicken"], "fest": [["Diwali", 10], ["Republic Day parade", 1], ["Qutub Festival", 11]],
+    "lang": "Hindi, Punjabi, Urdu, English", "go": "Indira Gandhi International Airport; New Delhi railway station", "w": "Delhi",
+    "hub": ["Connaught Place", 28.6315, 77.2167],
+    "places": [
+      { "n": "Red Fort", "c": "fort", "ll": [28.6562, 77.2410], "m": 120, "f": 50, "o": "09:30-16:30", "x": [1], "s": 9, "p": 10, "d": "Shah Jahan's red sandstone palace-fort, from where the Prime Minister speaks on Independence Day.", "w": "Red_Fort" },
+      { "n": "Jama Masjid", "c": "mosque", "ll": [28.6507, 77.2334], "m": 45, "f": 0, "o": "07:00-12:00", "s": 9, "p": 9, "d": "India's largest mosque, with a minaret climb over the rooftops of Old Delhi.", "t": "Closed to visitors during prayer times.", "w": "Jama_Masjid,_Delhi" },
+      { "n": "Chandni Chowk food walk", "c": "food", "ll": [28.6506, 77.2303], "m": 120, "f": 0, "o": "10:00-21:00", "s": 10, "p": 9, "d": "Paranthe Wali Gali, Jalebi Wala, kachoris and lassi in kulhads in Mughal-era lanes.", "w": "Chandni_Chowk" },
+      { "n": "Humayun's Tomb", "c": "heritage", "ll": [28.5933, 77.2507], "m": 90, "f": 40, "o": "06:00-18:00", "s": 10, "p": 8, "d": "The garden tomb that inspired the Taj Mahal, beautifully restored.", "w": "Humayun's_tomb" },
+      { "n": "Qutub Minar", "c": "heritage", "ll": [28.5245, 77.1855], "m": 90, "f": 40, "o": "07:00-17:00", "s": 9, "p": 9, "d": "A 73 m fluted tower from 1193 with an iron pillar that has not rusted in 1,600 years.", "w": "Qutb_Minar" },
+      { "n": "Mehrauli Archaeological Park", "c": "heritage", "ll": [28.5200, 77.1850], "m": 90, "f": 0, "o": "06:00-18:00", "s": 9, "p": 3, "d": "Over 100 monuments, stepwells and tombs scattered through a wild park beside the Qutub.", "w": "Mehrauli_Archaeological_Park" },
+      { "n": "India Gate & Kartavya Path", "c": "heritage", "ll": [28.6129, 77.2295], "m": 60, "f": 0, "o": "24h", "s": 8, "p": 10, "d": "The war memorial arch and boulevard, best in the evening when families come out for ice cream.", "w": "India_Gate", "a": "n" },
+      { "n": "Gurudwara Bangla Sahib", "c": "spiritual", "ll": [28.6264, 77.2091], "m": 60, "f": 0, "o": "24h", "s": 9, "p": 8, "d": "A gold-domed Sikh shrine with a holy pool and a langar that feeds thousands every day.", "w": "Gurudwara_Bangla_Sahib" },
+      { "n": "Akshardham", "c": "temple", "ll": [28.6127, 77.2773], "m": 180, "f": 0, "o": "10:00-18:30", "x": [1], "s": 9, "p": 9, "d": "A vast carved pink-sandstone temple with an evening water show.", "t": "No phones or bags inside.", "w": "Akshardham_(Delhi)" },
+      { "n": "Lotus Temple", "c": "spiritual", "ll": [28.5535, 77.2588], "m": 45, "f": 0, "o": "09:00-17:30", "x": [1], "s": 8, "p": 8, "d": "A Bahá'í house of worship shaped like a marble lotus, open to all faiths for silent prayer.", "w": "Lotus_Temple" },
+      { "n": "Lodhi Garden", "c": "garden", "ll": [28.5931, 77.2197], "m": 60, "f": 0, "o": "06:00-20:00", "s": 8, "p": 7, "d": "15th-century tombs among lawns where Delhi jogs, picnics and does yoga.", "w": "Lodhi_Gardens" },
+      { "n": "Sunder Nursery", "c": "garden", "ll": [28.5935, 77.2440], "m": 75, "f": 35, "o": "07:00-19:00", "s": 9, "p": 5, "d": "A restored Mughal garden of tombs, lotus ponds and birds next to Humayun's Tomb.", "w": "Sunder_Nursery" },
+      { "n": "Agrasen ki Baoli", "c": "heritage", "ll": [28.6262, 77.2250], "m": 30, "f": 0, "o": "07:00-18:00", "s": 8, "p": 7, "d": "A 108-step stepwell hidden between office towers near Connaught Place.", "w": "Agrasen_ki_Baoli" },
+      { "n": "Hauz Khas village & lake", "c": "nightlife", "ll": [28.5535, 77.1950], "m": 120, "f": 0, "o": "11:00-23:30", "s": 8, "p": 7, "d": "Medieval madrasa ruins over a lake, surrounded by cafés, bars and boutiques.", "a": "nk" },
+      { "n": "National Museum", "c": "museum", "ll": [28.6119, 77.2195], "m": 120, "f": 20, "o": "10:00-18:00", "x": [1], "s": 8, "p": 5, "d": "Harappan seals, Chola bronzes and Buddhist relics: 5,000 years of India in one building.", "w": "National_Museum,_New_Delhi" }
+    ]
+  },
+  {
+    "id": "agra", "n": "Agra", "st": "Uttar Pradesh", "r": "North",
+    "ty": ["heritage", "city"], "ll": [27.1767, 78.0081], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "city", "food": 800, "stay": 2800, "pop": 10, "alt": 171,
+    "tag": "The Taj Mahal and the Mughal capital around it",
+    "ab": "Agra was the Mughal capital before Delhi. Beyond the Taj Mahal, it holds the red fort-palace of Akbar, the jewel-box Baby Taj and the abandoned city of Fatehpur Sikri.",
+    "ppl": "Many Agra families are descendants of the artisans who built the Taj: marble inlayers in the Tajganj lanes still set carnelian and lapis into white stone by hand, using techniques passed from father to son. Petha sweet-makers, rickshaw-wallahs and carpet weavers fill the old city around them.",
+    "eat": ["Petha", "Bedai-jalebi breakfast", "Mughlai biryani", "Dalmoth"], "fest": [["Taj Mahotsav", 2]],
+    "lang": "Hindi, Braj, Urdu", "go": "Agra Cantt railway station (Gatimaan from Delhi in 1 hr 40 min); Agra airport", "w": "Agra",
+    "hub": ["Taj Ganj", 27.1700, 78.0450],
+    "places": [
+      { "n": "Taj Mahal", "c": "heritage", "ll": [27.1751, 78.0421], "m": 150, "f": 250, "o": "06:00-18:30", "x": [5], "s": 10, "p": 10, "d": "Shah Jahan's white marble tomb for Mumtaz Mahal, rose-pink at sunrise and gold at sunset.", "t": "Go at sunrise; fee includes the main mausoleum. Closed Fridays.", "w": "Taj_Mahal" },
+      { "n": "Agra Fort", "c": "fort", "ll": [27.1795, 78.0211], "m": 120, "f": 50, "o": "06:00-18:00", "s": 9, "p": 9, "d": "Akbar's red sandstone fort where Shah Jahan spent his last years looking at the Taj.", "w": "Agra_Fort" },
+      { "n": "Mehtab Bagh sunset", "c": "garden", "ll": [27.1800, 78.0430], "m": 60, "f": 25, "o": "06:00-18:30", "s": 9, "p": 6, "d": "The moonlight garden across the Yamuna, with the Taj reflected at sunset and no crowds.", "w": "Mehtab_Bagh", "a": "n" },
+      { "n": "Itimad-ud-Daulah (Baby Taj)", "c": "heritage", "ll": [27.1928, 78.0311], "m": 60, "f": 30, "o": "06:00-18:00", "s": 9, "p": 6, "d": "A small tomb covered in delicate pietra dura that came before the Taj.", "w": "Tomb_of_I'timād-ud-Daulah" },
+      { "n": "Fatehpur Sikri", "c": "heritage", "ll": [27.0945, 77.6679], "m": 150, "f": 50, "o": "06:00-18:00", "s": 10, "p": 8, "d": "Akbar's red sandstone city, abandoned after 14 years, with the great Buland Darwaza.", "w": "Fatehpur_Sikri" },
+      { "n": "Akbar's Tomb, Sikandra", "c": "heritage", "ll": [27.2200, 77.9500], "m": 60, "f": 30, "o": "06:00-18:00", "s": 8, "p": 4, "d": "Akbar's tomb in a deer-filled garden, mixing Hindu, Islamic and Jain design.", "w": "Akbar's_tomb" },
+      { "n": "Kinari Bazaar & petha lanes", "c": "market", "ll": [27.1900, 78.0170], "m": 75, "f": 0, "o": "10:00-21:00", "s": 7, "p": 6, "d": "Old Agra's market for wedding finery, spices and the famous petha sweet." },
+      { "n": "Marble inlay workshop", "c": "culture", "ll": [27.1680, 78.0460], "m": 45, "f": 0, "o": "10:00-19:00", "s": 8, "p": 5, "d": "Watch artisans descended from the Taj's builders cut and set stones into marble by hand." }
+    ]
+  },
+  {
+    "id": "varanasi", "n": "Varanasi", "st": "Uttar Pradesh", "r": "North",
+    "ty": ["spiritual", "heritage", "city"], "ll": [25.3176, 82.9739], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 3],
+    "terr": "city", "food": 700, "stay": 2200, "pop": 10, "alt": 80,
+    "tag": "The oldest living city, on the steps of the Ganga",
+    "ab": "Varanasi has been continuously inhabited for 3,000 years. Its 84 ghats run along the Ganga, where life and death, worship and washing all happen in plain sight.",
+    "ppl": "Banarasis start the day with a dip, a paan and a cup of tea on the ghats. Wrestlers train in akharas, Mallah boatmen have rowed these waters for generations, and in Madanpura the clack of handlooms weaving Banarasi silk saris never stops. Families bring their elders here, believing that dying in Kashi brings liberation.",
+    "eat": ["Kachori sabzi", "Malaiyyo (winter)", "Banarasi paan", "Tamatar chaat", "Lassi at Blue Lassi"], "fest": [["Dev Deepawali", 11], ["Mahashivratri", 2], ["Ganga Mahotsav", 11]],
+    "lang": "Bhojpuri, Hindi", "go": "Lal Bahadur Shastri airport 25 km; Varanasi Junction", "w": "Varanasi",
+    "hub": ["Dashashwamedh Ghat", 25.3065, 83.0104],
+    "places": [
+      { "n": "Dashashwamedh Ganga Aarti", "c": "spiritual", "ll": [25.3065, 83.0104], "m": 75, "f": 0, "o": "18:00-20:00", "s": 10, "p": 10, "d": "Seven priests swing great brass lamps in unison as conch shells sound over the river.", "t": "Watch from a boat for the best view.", "w": "Dashashwamedh_Ghat", "a": "n" },
+      { "n": "Sunrise boat ride along the ghats", "c": "spiritual", "ll": [25.3050, 83.0110], "m": 90, "f": 300, "o": "05:30-08:00", "s": 10, "p": 9, "d": "Drift past bathers, yogis and smoking pyres as the sun comes up over the far bank." },
+      { "n": "Kashi Vishwanath Temple", "c": "temple", "ll": [25.3109, 83.0107], "m": 90, "f": 0, "o": "04:00-23:00", "s": 10, "p": 10, "d": "The golden Jyotirlinga temple, now reached by the wide Kashi Vishwanath corridor from the river.", "t": "Phones and bags must be deposited.", "w": "Kashi_Vishwanath_Temple" },
+      { "n": "Sarnath", "c": "heritage", "ll": [25.3811, 83.0218], "m": 150, "f": 25, "o": "07:00-18:00", "s": 9, "p": 8, "d": "Where the Buddha gave his first sermon, with the Dhamek Stupa and the Ashokan lion capital museum.", "w": "Sarnath" },
+      { "n": "Assi Ghat & Subah-e-Banaras", "c": "spiritual", "ll": [25.2878, 83.0068], "m": 60, "f": 0, "o": "05:00-21:00", "s": 8, "p": 8, "d": "The southern ghat with a dawn aarti, music and yoga, and cafés above the steps.", "w": "Assi_Ghat" },
+      { "n": "Manikarnika Ghat", "c": "spiritual", "ll": [25.3110, 83.0140], "m": 30, "f": 0, "o": "24h", "s": 9, "p": 8, "d": "The main cremation ghat, where fires have burned without stopping for centuries; observe quietly and do not photograph.", "w": "Manikarnika_Ghat" },
+      { "n": "Old city food walk (Kachori Gali)", "c": "food", "ll": [25.3090, 83.0100], "m": 90, "f": 0, "o": "07:00-21:00", "s": 9, "p": 7, "d": "Kachoris, jalebis and lassi in lanes too narrow for cars, between temples and cows." },
+      { "n": "Banarasi silk weavers of Madanpura", "c": "culture", "ll": [25.3040, 83.0050], "m": 60, "f": 0, "o": "10:00-18:00", "s": 9, "p": 3, "d": "Visit a family handloom where one sari can take weeks of weaving gold-thread brocade." },
+      { "n": "Ramnagar Fort", "c": "fort", "ll": [25.2690, 83.0280], "m": 75, "f": 75, "o": "10:00-17:00", "s": 7, "p": 5, "d": "The 18th-century riverside fort of the Maharaja of Benares, with vintage cars and old clocks.", "w": "Ramnagar_Fort" },
+      { "n": "BHU & New Vishwanath Temple", "c": "temple", "ll": [25.2677, 82.9913], "m": 60, "f": 0, "o": "04:00-21:00", "s": 7, "p": 6, "d": "A tall marble temple on the leafy campus of Banaras Hindu University." }
+    ]
+  },
+  {
+    "id": "ayodhya", "n": "Ayodhya", "st": "Uttar Pradesh", "r": "North",
+    "ty": ["spiritual", "heritage"], "ll": [26.7922, 82.1998], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "city", "food": 600, "stay": 2200, "pop": 9, "alt": 93,
+    "tag": "Lord Ram's city on the Saryu",
+    "ab": "Ayodhya is revered as Lord Ram's birthplace. The new Ram Mandir opened in 2024, and the city's ghats, temples and lanes now draw pilgrims from all over the world.",
+    "ppl": "Ayodhya's sadhus and akharas follow ancient Vaishnav traditions, and Ramayana recitals echo from small temples every evening. At Deepotsav on Diwali eve, lakhs of diyas are lit on the Saryu ghats by volunteers, a festival the whole town prepares for.",
+    "eat": ["Kachori-sabzi", "Peda", "Malai rabri"], "fest": [["Deepotsav (Diwali)", 10], ["Ram Navami", 4]],
+    "lang": "Awadhi, Hindi", "go": "Ayodhya Dham Junction; Maharishi Valmiki airport", "w": "Ayodhya",
+    "hub": ["Ram Path, near Hanuman Garhi", 26.7959, 82.2019],
+    "places": [
+      { "n": "Shri Ram Janmabhoomi Mandir", "c": "temple", "ll": [26.7956, 82.1943], "m": 120, "f": 0, "o": "06:30-21:30", "s": 10, "p": 10, "d": "The new Nagara-style temple of pink sandstone with an idol of Ram Lalla.", "t": "Phones and bags are not allowed; use the free lockers.", "w": "Ram_Mandir" },
+      { "n": "Hanuman Garhi", "c": "temple", "ll": [26.7959, 82.2019], "m": 45, "f": 0, "o": "05:00-22:00", "s": 9, "p": 9, "d": "A fortress-like Hanuman temple up 76 steps; tradition says visit here first.", "w": "Hanuman_Garhi" },
+      { "n": "Ram ki Paidi & Saryu aarti", "c": "spiritual", "ll": [26.8040, 82.2050], "m": 75, "f": 0, "o": "17:30-20:00", "s": 9, "p": 8, "d": "A chain of riverside ghats lit with lamps for the evening aarti.", "a": "n" },
+      { "n": "Kanak Bhawan", "c": "temple", "ll": [26.7970, 82.1980], "m": 40, "f": 0, "o": "08:00-21:00", "s": 8, "p": 7, "d": "A palace-temple said to be Kaikeyi's gift to Sita, with gold-crowned idols." },
+      { "n": "Guptar Ghat", "c": "spiritual", "ll": [26.8060, 82.1610], "m": 45, "f": 0, "o": "06:00-19:00", "s": 7, "p": 4, "d": "A quiet riverside ghat where Ram is said to have taken jal samadhi." }
+    ]
+  },
+  {
+    "id": "vrindavan", "n": "Mathura & Vrindavan", "st": "Uttar Pradesh", "r": "North",
+    "ty": ["spiritual", "heritage"], "ll": [27.5650, 77.6593], "bm": [2, 3, 8, 10, 11, 12, 1], "days": [1, 2],
+    "terr": "city", "food": 600, "stay": 2000, "pop": 8, "alt": 170,
+    "tag": "Krishna's childhood land of temples and Holi colours",
+    "ab": "Mathura is Krishna's birthplace and Vrindavan the forest of his youth: thousands of temples, ghats on the Yamuna, and the most joyful Holi in India at Barsana and Nandgaon.",
+    "ppl": "Braj is a land of song. Widows in white find shelter in ashrams and sing bhajans all day, families greet each other with 'Radhe Radhe' instead of hello, and at Holi the women of Barsana chase the men of Nandgaon with sticks in the famous Lathmar Holi.",
+    "eat": ["Mathura peda", "Kachori-jalebi", "Lassi in kulhad", "Makhan mishri"], "fest": [["Lathmar Holi", 3], ["Janmashtami", 8]],
+    "lang": "Braj, Hindi", "go": "Mathura Junction; 3 hours from Delhi on the Yamuna Expressway", "w": "Vrindavan",
+    "hub": ["Vrindavan Parikrama Marg", 27.5806, 77.7006],
+    "places": [
+      { "n": "Banke Bihari Temple", "c": "temple", "ll": [27.5803, 77.7003], "m": 60, "f": 0, "o": "07:45-12:00", "s": 10, "p": 10, "d": "Vrindavan's most loved temple, where curtains are drawn every few minutes so devotees can't stare too long at Krishna.", "w": "Banke_Bihari_Temple" },
+      { "n": "Prem Mandir", "c": "temple", "ll": [27.5713, 77.6714], "m": 75, "f": 0, "o": "16:30-20:30", "s": 9, "p": 9, "d": "A white marble temple whose carvings light up in changing colours each evening.", "w": "Prem_Mandir", "a": "n" },
+      { "n": "ISKCON Vrindavan", "c": "temple", "ll": [27.5720, 77.6800], "m": 60, "f": 0, "o": "16:30-20:45", "s": 8, "p": 8, "d": "The Krishna-Balaram temple, full of kirtan and dancing devotees.", "w": "Krishna_Balaram_Mandir" },
+      { "n": "Krishna Janmabhoomi, Mathura", "c": "temple", "ll": [27.5045, 77.6703], "m": 75, "f": 0, "o": "05:00-21:00", "s": 9, "p": 9, "d": "The temple complex built over the prison cell where Krishna was born.", "w": "Krishna_Janmabhoomi" },
+      { "n": "Vishram Ghat aarti", "c": "spiritual", "ll": [27.5010, 77.6850], "m": 60, "f": 0, "o": "18:00-20:00", "s": 8, "p": 7, "d": "Mathura's main ghat, where Krishna rested after defeating Kansa; lamps float down the Yamuna at dusk.", "a": "n" },
+      { "n": "Govardhan Hill", "c": "spiritual", "ll": [27.5000, 77.4630], "m": 150, "f": 0, "o": "05:00-21:00", "s": 8, "p": 7, "d": "Pilgrims walk the 21 km parikrama of the hill Krishna lifted on his finger.", "w": "Govardhan_Hill" },
+      { "n": "Barsana", "c": "temple", "ll": [27.6480, 77.3790], "m": 90, "f": 0, "o": "06:00-20:00", "s": 8, "p": 6, "d": "Radha's village with the hilltop Shriji temple, heart of Lathmar Holi.", "w": "Barsana" },
+      { "n": "Nidhivan", "c": "spiritual", "ll": [27.5830, 77.6990], "m": 30, "f": 0, "o": "06:00-19:00", "s": 7, "p": 6, "d": "A grove of twisted tulsi trees where Krishna is believed to dance the raas each night." }
+    ]
+  },
+  {
+    "id": "lucknow", "n": "Lucknow", "st": "Uttar Pradesh", "r": "North",
+    "ty": ["city", "heritage"], "ll": [26.8467, 80.9462], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 2],
+    "terr": "city", "food": 800, "stay": 2600, "pop": 7, "alt": 123,
+    "tag": "The city of Nawabs, kababs and chikankari",
+    "ab": "Lucknow was the capital of the Nawabs of Awadh, whose taste for poetry, architecture and food still shapes the city: grand imambaras, a famous labyrinth, and kababs so soft they melt.",
+    "ppl": "Lucknowis are famous for tehzeeb, a courtly politeness: 'pehle aap' (after you). Women embroider delicate chikankari by hand in old-city homes, and the evening walk through Aminabad or Chowk ends with kababs, kulfi and paan.",
+    "eat": ["Galouti kabab", "Awadhi biryani", "Nihari-kulcha", "Makhan malai (winter)", "Basket chaat"], "fest": [["Lucknow Mahotsav", 11], ["Muharram processions", 7]],
+    "lang": "Hindi, Urdu, Awadhi", "go": "Chaudhary Charan Singh airport; Lucknow Charbagh station", "w": "Lucknow",
+    "hub": ["Hazratganj", 26.8500, 80.9450],
+    "places": [
+      { "n": "Bara Imambara & Bhool Bhulaiya", "c": "heritage", "ll": [26.8692, 80.9128], "m": 120, "f": 50, "o": "06:00-17:00", "s": 9, "p": 9, "d": "A vast vaulted hall without a single beam, and a maze of 1,000 passages on the roof.", "w": "Bara_Imambara" },
+      { "n": "Chota Imambara", "c": "heritage", "ll": [26.8730, 80.9050], "m": 45, "f": 0, "o": "06:00-17:00", "s": 8, "p": 7, "d": "The 'palace of lights', filled with Belgian chandeliers.", "w": "Chota_Imambara" },
+      { "n": "Rumi Darwaza", "c": "heritage", "ll": [26.8697, 80.9100], "m": 20, "f": 0, "o": "24h", "s": 8, "p": 8, "d": "A 60 m Awadhi gateway, the symbol of the city.", "w": "Rumi_Darwaza" },
+      { "n": "British Residency", "c": "heritage", "ll": [26.8600, 80.9260], "m": 75, "f": 25, "o": "07:00-17:00", "s": 8, "p": 5, "d": "Cannon-scarred ruins from the 1857 siege, now a quiet park.", "w": "The_Residency,_Lucknow" },
+      { "n": "Chowk & Aminabad food walk", "c": "food", "ll": [26.8650, 80.9180], "m": 120, "f": 0, "o": "16:00-23:00", "s": 10, "p": 8, "d": "Tunday Kababi, Idris biryani, Prakash kulfi and chikankari shops in the old city.", "a": "n" },
+      { "n": "Chikankari workshops", "c": "culture", "ll": [26.8660, 80.9160], "m": 60, "f": 0, "o": "10:00-19:00", "s": 8, "p": 3, "d": "Watch women stitch the shadow-work embroidery Lucknow is famous for." },
+      { "n": "Ambedkar Memorial Park", "c": "garden", "ll": [26.8510, 80.9930], "m": 60, "f": 20, "o": "11:00-21:00", "s": 6, "p": 5, "d": "A massive park of pink stone and elephant statues, lit up at night." }
+    ]
+  },
+  {
+    "id": "prayagraj", "n": "Prayagraj", "st": "Uttar Pradesh", "r": "North",
+    "ty": ["spiritual", "heritage"], "ll": [25.4358, 81.8463], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "city", "food": 600, "stay": 2000, "pop": 7, "alt": 98,
+    "tag": "Where three rivers meet and the Kumbh gathers the world",
+    "ab": "Prayagraj stands at the Triveni Sangam, the meeting of the Ganga, Yamuna and the mythical Saraswati, host of the Kumbh Mela. It was also a centre of India's freedom movement.",
+    "ppl": "Every January, the Magh Mela turns the sandbanks into a tent city of kalpvasis who live by the river for a month of prayer. Boatmen ferry pilgrims to the exact meeting point of the rivers, and the city's old families have strong ties to Nehru-era politics and Hindi literature.",
+    "eat": ["Kachori-jalebi", "Samosa at Netram", "Lassi"], "fest": [["Magh Mela", 1], ["Kumbh Mela (every 12 years)", 1]],
+    "lang": "Hindi, Awadhi", "go": "Prayagraj Junction; Bamrauli airport", "w": "Prayagraj",
+    "hub": ["Civil Lines", 25.4520, 81.8340],
+    "places": [
+      { "n": "Triveni Sangam boat ride", "c": "spiritual", "ll": [25.4240, 81.8850], "m": 90, "f": 200, "o": "06:00-18:00", "s": 10, "p": 9, "d": "Row out to where the muddy Ganga meets the green Yamuna for a holy dip.", "w": "Triveni_Sangam" },
+      { "n": "Anand Bhawan", "c": "museum", "ll": [25.4560, 81.8530], "m": 60, "f": 70, "o": "09:30-17:00", "x": [1], "s": 8, "p": 6, "d": "The Nehru family home, a centre of the freedom struggle.", "w": "Anand_Bhavan" },
+      { "n": "Bade Hanuman Temple", "c": "temple", "ll": [25.4300, 81.8730], "m": 30, "f": 0, "o": "05:00-21:00", "s": 7, "p": 7, "d": "A reclining Hanuman idol near the Sangam, said to be bathed by the Ganga each monsoon." },
+      { "n": "Khusro Bagh", "c": "heritage", "ll": [25.4430, 81.8270], "m": 45, "f": 0, "o": "07:00-19:00", "s": 8, "p": 3, "d": "Three Mughal tombs in a walled garden, including Jahangir's rebel son Khusrau.", "w": "Khusro_Bagh" },
+      { "n": "All Saints Cathedral", "c": "church", "ll": [25.4550, 81.8360], "m": 30, "f": 0, "o": "09:00-17:00", "s": 7, "p": 4, "d": "A grand 1887 Gothic cathedral known as the 'Patthar Girja'." }
+    ]
+  },
+  {
+    "id": "amritsar", "n": "Amritsar", "st": "Punjab", "r": "North",
+    "ty": ["spiritual", "heritage", "city"], "ll": [31.6340, 74.8723], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "city", "food": 700, "stay": 2400, "pop": 9, "alt": 234,
+    "tag": "The Golden Temple, the border ceremony and Punjab's best food",
+    "ab": "Amritsar is the spiritual home of the Sikhs, built around the Golden Temple. Jallianwala Bagh and the Wagah border ceremony tell the story of Partition and freedom.",
+    "ppl": "Seva, selfless service, is everywhere: volunteers of every background cook and serve free langar to around 100,000 people a day at the Golden Temple and wash every plate by hand. Punjabi warmth means you'll be offered lassi in steel glasses big enough to be a meal.",
+    "eat": ["Amritsari kulcha with chhole", "Lassi", "Amritsari fish", "Phirni", "Langar dal"], "fest": [["Baisakhi", 4], ["Guru Nanak Jayanti", 11], ["Bandi Chhor Divas (Diwali)", 10]],
+    "lang": "Punjabi, Hindi", "go": "Sri Guru Ram Dass Jee International Airport; Amritsar Junction", "w": "Amritsar",
+    "hub": ["Heritage Street", 31.6230, 74.8780],
+    "places": [
+      { "n": "Golden Temple (Harmandir Sahib)", "c": "spiritual", "ll": [31.6200, 74.8765], "m": 150, "f": 0, "o": "24h", "s": 10, "p": 10, "d": "The gold-covered shrine in a holy pool, with hymns sung from 3 AM until late at night.", "t": "Cover your head, remove shoes, and eat at the langar.", "w": "Golden_Temple" },
+      { "n": "Jallianwala Bagh", "c": "heritage", "ll": [31.6207, 74.8800], "m": 45, "f": 0, "o": "06:30-19:30", "s": 9, "p": 9, "d": "The garden where British troops fired on a peaceful crowd in 1919; bullet marks remain.", "w": "Jallianwala_Bagh" },
+      { "n": "Wagah–Attari border ceremony", "c": "culture", "ll": [31.6045, 74.5730], "m": 150, "f": 0, "o": "15:30-18:00", "s": 9, "p": 10, "d": "The daily flag-lowering ceremony of high kicks and patriotic roars at the India–Pakistan border.", "t": "Reach by 3:30 PM for a seat.", "w": "Wagah_border_ceremony", "a": "n" },
+      { "n": "Partition Museum", "c": "museum", "ll": [31.6260, 74.8770], "m": 90, "f": 10, "o": "10:00-18:00", "x": [1], "s": 9, "p": 6, "d": "Letters, objects and voices of the families torn apart in 1947, in the old Town Hall.", "w": "Partition_Museum" },
+      { "n": "Gobindgarh Fort", "c": "fort", "ll": [31.6300, 74.8630], "m": 90, "f": 200, "o": "10:00-22:00", "s": 7, "p": 5, "d": "A restored 18th-century fort with a light show and Punjabi food stalls.", "a": "n" },
+      { "n": "Durgiana Temple", "c": "temple", "ll": [31.6330, 74.8650], "m": 40, "f": 0, "o": "06:00-22:00", "s": 7, "p": 6, "d": "A Hindu temple in a sacred tank, built in the style of the Golden Temple." },
+      { "n": "Kulcha and lassi trail", "c": "food", "ll": [31.6270, 74.8790], "m": 75, "f": 0, "o": "08:00-22:00", "s": 9, "p": 7, "d": "Crispy Amritsari kulchas at Kulcha Land, lassi at Gian di Lassi, phirni in clay pots." }
+    ]
+  },
+  {
+    "id": "chandigarh", "n": "Chandigarh", "st": "Chandigarh", "r": "North",
+    "ty": ["city"], "ll": [30.7333, 76.7794], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 1],
+    "terr": "city", "food": 800, "stay": 2800, "pop": 5, "alt": 321,
+    "tag": "Le Corbusier's planned city and a garden made of junk",
+    "ab": "India's first planned city, designed by Le Corbusier, with tree-lined sectors, a lake under the Shivaliks and a UNESCO-listed Capitol Complex.",
+    "ppl": "Chandigarh was built for families displaced by Partition, and it still feels orderly and green. Evenings mean a walk by Sukhna Lake, and Nek Chand, a road inspector, secretly built a fantasy garden from broken tiles and bangles that became the Rock Garden.",
+    "eat": ["Chole bhature at Sector 17", "Butter chicken", "Lassi"], "fest": [["Rose Festival", 2]],
+    "lang": "Punjabi, Hindi, English", "go": "Chandigarh airport; Chandigarh Junction", "w": "Chandigarh",
+    "hub": ["Sector 17 Plaza", 30.7398, 76.7827],
+    "places": [
+      { "n": "Rock Garden", "c": "garden", "ll": [30.7525, 76.8101], "m": 90, "f": 30, "o": "09:00-18:00", "s": 9, "p": 9, "d": "Nek Chand's secret kingdom of figures made from waste, waterfalls and twisting paths.", "w": "Rock_Garden_of_Chandigarh" },
+      { "n": "Sukhna Lake", "c": "lake", "ll": [30.7421, 76.8188], "m": 60, "f": 0, "o": "05:00-21:00", "s": 8, "p": 8, "d": "A lake at the foot of the Shivaliks for boating and evening walks.", "w": "Sukhna_Lake", "a": "n" },
+      { "n": "Capitol Complex", "c": "heritage", "ll": [30.7590, 76.8030], "m": 90, "f": 0, "o": "10:00-16:00", "x": [0, 6], "s": 9, "p": 4, "d": "Le Corbusier's concrete assembly, high court and Open Hand monument; free guided tours.", "w": "Capitol_Complex,_Chandigarh" },
+      { "n": "Zakir Hussain Rose Garden", "c": "garden", "ll": [30.7470, 76.7820], "m": 45, "f": 0, "o": "06:00-20:00", "s": 7, "p": 6, "d": "Asia's largest rose garden, with 1,600 varieties." }
+    ]
+  }
+]

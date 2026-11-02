@@ -1,0 +1,20 @@
+{
+  "name": "raahi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Raahi — trip planner for India that fits your budget, time and company",
+  "workspaces": ["packages/*", "server", "web"],
+  "scripts": {
+    "setup": "npm run db:setup -w server",
+    "dev": "concurrently -n api,web -c blue,green \"npm run dev -w server\" \"npm run dev -w web\"",
+    "test": "npm test -w @raahi/planner",
+    "validate-data": "npm run validate -w server",
+    "photos": "npm run photos -w server",
+    "build": "npm run build -w web",
+    "start": "npm run build && npm run start -w server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  },
+  "engines": { "node": ">=20.19" }
+}

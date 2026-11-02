@@ -1,0 +1,16 @@
+node_modules
+dist
+.DS_Store
+server/.data
+server/prisma/*.db
+server/prisma/*.db-journal
+server/prisma/*.db-wal
+server/prisma/*.db-shm
+server/.env
+*.log
+server/src/generated
+node_modules/
+.env
+.env.*
+!.env.example
+dist/

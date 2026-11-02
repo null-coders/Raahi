@@ -1,0 +1,140 @@
+{
+"rishikesh": [
+["Aloo puri at Chotiwala","Breakfast","Chotiwala near Ram Jhula",150,"A famous Rishikesh institution: crisp puris with spicy aloo sabzi, served on leaf plates.","Aloo puri"],
+["Kachori-jalebi","Street food","Lanes near Laxman Jhula",60,"Hot, flaky kachori and a sweet jalebi, the best breakfast after morning yoga.","Kachori"],
+["Sattvic thali","Dish","Ashram cafés and yoga-school kitchens",250,"A gentle, no-onion-no-garlic meal of dal, seasonal vegetables and rice. Rishikesh is strictly vegetarian.","Thali"],
+["Ganga aarti at Parmarth Niketan","Experience","Parmarth Niketan ghat",0,"Hundreds sing as lamps swing over the river at dusk. Arrive early to find a seat on the steps.","Parmarth Niketan"],
+["White-water rafting from Shivpuri","Experience","Shivpuri, upstream of town",1000,"A 16-km run through grade III rapids with names like Golf Course and Roller Coaster. Best from September to June.","River rafting Rishikesh"]
+],
+"haridwar": [
+["Kachori-aloo","Street food","Hoshiyar Puri and Mohan Puri, near Har Ki Pauri",60,"Crisp kachori with potato curry and chutney, the breakfast of pilgrims since forever.","Kachori"],
+["Lassi","Drink","Shops around Har Ki Pauri",60,"Thick, creamy lassi in a clay cup, topped with malai.","Lassi"],
+["Malpua","Sweet","Sweet shops in the market",60,"Soft, fried pancake dunked in sugar syrup and served with rabri.","Malpua"],
+["Ganga aarti at Har Ki Pauri","Experience","Har Ki Pauri ghat",0,"At dusk priests swing fire lamps while thousands float leaf diyas down the river.","Har Ki Pauri aarti"],
+["Dawn dip at Brahma Kund","Experience","Har Ki Pauri",0,"The holiest bathing spot in Haridwar, quiet and cold at first light.","Har Ki Pauri"]
+],
+"mussoorie": [
+["Pancakes at Char Dukan","Street food","Landour, Char Dukan",200,"Fluffy hot pancakes with honey or jam, eaten at one of the four little shops that have been there for decades.","Pancake"],
+["Bun omelette","Street food","Mall Road stalls",80,"A soft bun with a hot omelette, a simple roadside breakfast.","Omelette"],
+["Garhwali kafuli","Dish","Garhwali restaurants",250,"A thick green curry of spinach and fenugreek cooked slowly with spices.","Kafuli"],
+["Momos on Mall Road","Street food","Mall Road",90,"Steamed dumplings from the Tibetan stalls near Library Chowk.","Momo"],
+["Cable car to Gun Hill","Experience","Gun Hill Ropeway",150,"A short ropeway ride with views of the Himalayan snow peaks and the Doon valley.","Gun Hill Mussoorie"]
+],
+"nainital": [
+["Bal mithai","Sweet","Mithai shops on Mall Road",60,"Brown chocolate-like fudge coated with sugar balls, a Kumaoni sweet from Almora.","Bal mithai"],
+["Bhatt ki churkani","Dish","Kumaoni restaurants",200,"A thick curry of black soybeans, cooked slowly and eaten with rice.","Bhatt ki churkani"],
+["Aloo ke gutke","Dish","Dhabas and homestays",80,"Kumaoni boiled potatoes tempered with jakhya seeds and red chillies, usually a side.","Aloo ke gutke"],
+["Singori","Sweet","Mithai shops",60,"Khoya sweet wrapped in a maalu leaf, a Kumaoni speciality.","Singori"],
+["Boating on Naini Lake","Experience","Naini Lake, Mallital",300,"Row across the crescent-shaped lake with the Naina Devi temple on its edge.","Naini Lake"]
+],
+"corbett": [
+["Kumaoni thali","Dish","Resorts and dhabas around Ramnagar",250,"Bhatt dal, rice, raita and greens, cooked slowly the Kumaoni way.","Thali"],
+["Bhatt dal","Dish","Homestays",150,"Hearty black-soybean dal, a staple of the Kumaon hills.","Bhatt dal"],
+["Mandua roti","Dish","Village homestays",80,"Finger-millet flatbread served with ghee. Dark, earthy and filling.","Finger millet roti"],
+["Jeep safari in Bijrani or Dhikala","Experience","Bijrani, Dhikala and Jhirna zones",3500,"India's first national park has tigers, elephants and over 600 species of birds.","Jim Corbett National Park tiger"],
+["Birdwatching by the Kosi river","Experience","Kosi river banks",0,"Look for ibisbill, fish eagles, kingfishers and wallcreepers in winter.","Corbett birds"]
+],
+"auli": [
+["Kafuli","Dish","Joshimath restaurants",200,"A green curry of spinach and fenugreek, thickened with rice flour.","Kafuli"],
+["Phaanu","Dish","Local homes and dhabas",150,"A thick lentil stew made from soaked and ground pulses, slow-cooked for hours.","Faanu"],
+["Jhangora kheer","Sweet","Local homes and restaurants",100,"Kheer from barnyard millet cooked in milk with jaggery, a Garhwali dessert.","Jhangora"],
+["Auli ropeway to Gorson Top","Experience","Joshimath–Auli ropeway",1000,"One of Asia's longest ropeways climbs over deodar forests to the snow slopes of Auli.","Auli ropeway"],
+["Skiing on Auli's slopes","Experience","Auli ski slopes",1500,"Learn to ski from January to March on a 3-km slope under Nanda Devi.","Auli skiing"]
+],
+"kedarnath": [
+["Khichdi at bhandaras","Dish","Free kitchens along the trek",0,"Hot khichdi served free to pilgrims along the route, with warm tea.","Khichdi"],
+["Chai on the trail","Drink","Tea stalls between Gaurikund and Kedarnath",20,"Hot sweet chai in a steel glass, at 3,000 m with snow-peaks behind you.","Chai"],
+["Garhwali thali","Dish","Dhabas at Sonprayag and Kedarnath",150,"Rice, dal, a vegetable and chapati after a long walk.","Thali"],
+["Evening aarti at Kedarnath Temple","Experience","Kedarnath Temple",0,"The stone temple, snow peaks all round, and bells ringing in the mountain dusk.","Kedarnath Temple"],
+["The trek from Gaurikund","Experience","Gaurikund to Kedarnath",0,"A 16-km walk up the Mandakini valley, past waterfalls and prayer flags.","Kedarnath trek"]
+],
+"badrinath": [
+["Buckwheat pakoras","Street food","Mana village stalls",60,"Crisp pakoras of local buckwheat flour, served with chutney in the last village before Tibet.","Pakora"],
+["Kadhi-chawal","Dish","Dhabas in Badrinath",100,"A thin, sour yoghurt curry with rice, comforting after a long drive.","Kadhi chawal"],
+["Herbal tea","Drink","Mana village",40,"Tea made with Himalayan herbs that grow around Mana.","Herbal tea"],
+["Aarti at Badrinath Temple","Experience","Badrinath Temple",0,"A colourful temple in the snow, with hot springs at its feet. The evening aarti draws pilgrims from across India.","Badrinath Temple"],
+["Mana, India's last village","Experience","Mana",0,"Walk to Vyas Gufa and Bhim Pul in a village at 3,200 m, close to the Tibet border.","Mana village"]
+],
+"chopta": [
+["Maggi at the dhabas","Street food","Meadow dhabas",60,"Hot Maggi with a view of the Chaukhamba peaks, the trekker's fuel.","Maggi"],
+["Rajma-chawal","Dish","Chopta dhabas",100,"Red kidney beans and rice, hot and filling after a trek.","Rajma chawal"],
+["Buransh juice","Drink","Local shops",80,"Juice made from rhododendron flowers, sweet-sour and good for the heart, they say.","Rhododendron juice"],
+["Tungnath to Chandrashila sunrise","Experience","Tungnath trail",0,"A 5-km climb to the world's highest Shiva temple, then 1.5 km more to Chandrashila's summit.","Chandrashila"],
+["Camping under the stars","Experience","Chopta meadows",800,"A tent in the meadow, a bonfire and a sky packed with stars.","Chopta camping"]
+],
+"lansdowne": [
+["Garhwali thali","Dish","Local restaurants",200,"Dal, rice, greens and a kafuli, cooked Garhwali style.","Thali"],
+["Bal mithai","Sweet","Cantonment area shops",60,"A fudgy brown sweet coated in sugar balls from the Kumaon hills.","Bal mithai"],
+["Arsa","Sweet","Local sweet makers",50,"Deep-fried rice-and-jaggery sweet, made for festivals.","Arsa"],
+["Tip-n-Top viewpoint","Experience","Tip-n-Top",0,"A short walk through the oaks to a viewpoint over the Himalayan snow line.","Lansdowne"],
+["Bhulla Tal","Experience","Bhulla Tal lake",50,"A small lake maintained by the Garhwal Rifles, with paddle boats and ducks.","Bhulla Tal"]
+],
+"delhi": [
+["Chhole bhature","Street food","Sitaram Diwan Chand, Paharganj",120,"Fluffy fried bread with spicy chickpeas, pickle and onions. Delhi's iconic breakfast.","Chole bhature"],
+["Paranthe Wali Gali","Street food","Paranthe Wali Gali, Chandni Chowk",150,"A lane that has fried stuffed parathas for over a century. Try the paneer, aloo and rabri versions.","Paranthe Wali Gali"],
+["Nihari","Dish","Old Delhi, near Jama Masjid",250,"Slow-cooked meat in a rich, hot gravy, eaten with kulcha at dawn.","Nihari"],
+["Daulat ki chaat","Sweet","Lanes of Old Delhi (winter)",60,"A cloud of whipped milk foam with khoya and pistachio, made only on cold mornings.","Daulat ki chaat"],
+["Butter chicken","Dish","Moti Mahal, Daryaganj",450,"Born in Delhi: tandoori chicken in a velvety tomato and butter gravy.","Butter chicken"],
+["Rickshaw ride through Chandni Chowk","Experience","Chandni Chowk",100,"Squeeze through spice markets and silver shops on a cycle rickshaw.","Chandni Chowk"]
+],
+"agra": [
+["Petha","Sweet","Panchhi Petha, Nehru Bazaar",120,"Translucent ash-gourd sweet in dozens of flavours, Agra's signature gift.","Petha"],
+["Bedai-jalebi breakfast","Street food","Sadar Bazaar and Belanganj",60,"Crisp, spicy bedai with aloo sabzi, then hot jalebi. Agra's classic morning.","Bedai"],
+["Mughlai biryani","Dish","Old city restaurants",300,"A fragrant biryani in the Mughal tradition, cooked in sealed pots.","Biryani"],
+["Dalmoth","Street food","Namkeen shops",50,"A crunchy fried lentil snack with spices. Sold by weight.","Dalmoth"],
+["Taj Mahal at sunrise","Experience","Taj Mahal, East Gate",250,"The marble turns from grey to pink to gold in the first hour of light. Closed on Fridays.","Taj Mahal"]
+],
+"varanasi": [
+["Kachori sabzi","Street food","Kachori Gali, near Kashi Vishwanath",50,"Hot kachori with spicy aloo sabzi and jalebi, eaten standing in a narrow lane.","Kachori"],
+["Malaiyyo","Sweet","Thatheri Bazaar and Chowk (winter)",40,"A frothy, saffron-scented milk foam sold only on winter mornings.","Malaiyo"],
+["Banarasi paan","Street food","Paan shops around Godowlia",30,"A betel leaf stuffed with sweet, spicy and cooling fillings. Say 'meetha paan' for the sweet one.","Paan"],
+["Tamatar chaat","Street food","Kashi Chat Bhandar, Godowlia",80,"Spiced mashed tomato with potato and chutney, a Varanasi invention.","Tamatar chaat"],
+["Lassi at Blue Lassi","Drink","Blue Lassi, Kachori Gali",100,"Thick lassi in a clay cup with fruit, dry fruits and malai.","Lassi"],
+["Dawn boat ride on the Ganga","Experience","Dashashwamedh Ghat",400,"Drift past the ghats at sunrise while the city wakes with bells and chanting. Nothing else in India is like it.","Varanasi ghats boat"],
+["Ganga aarti at Dashashwamedh Ghat","Experience","Dashashwamedh Ghat",0,"Seven priests swing great brass lamps in unison as conch shells sound over the river.","Ganga aarti Varanasi"]
+],
+"ayodhya": [
+["Kachori-sabzi","Street food","Hanuman Garhi lanes",50,"Crisp kachori with spicy aloo sabzi to start the day.","Kachori"],
+["Ayodhya peda","Sweet","Sweet shops near Hanuman Garhi",100,"Soft milk peda offered as prasad at temples across the city.","Peda"],
+["Malai rabri","Sweet","Local sweet shops",80,"Thick, sweet rabri with a layer of cream, served in clay cups.","Rabri"],
+["Evening aarti on the Saryu","Experience","Ram Ki Paidi ghats",0,"Lamps float down the river at dusk in front of the ghats, with temples glowing above.","Ram Ki Paidi"],
+["Darshan at Ram Mandir","Experience","Ram Janmabhoomi Mandir",0,"The new temple has drawn pilgrims from across India. Book your darshan slot online and arrive early.","Ram Mandir Ayodhya"]
+],
+"vrindavan": [
+["Mathura peda","Sweet","Brijwasi Mithai, Holi Gate",100,"Dark, caramelised khoya peda that has been the pride of Mathura for generations.","Mathura peda"],
+["Kachori-jalebi","Street food","Vrindavan lanes",50,"A hot breakfast of kachori with aloo sabzi and sweet jalebi.","Kachori"],
+["Lassi in a kulhad","Drink","Shops near Banke Bihari Temple",60,"Thick, creamy lassi in a clay cup with a layer of malai.","Lassi"],
+["Makhan mishri","Sweet","Temple stalls",50,"Fresh white butter and sugar crystals, Krishna's favourite offering.","Makhan mishri"],
+["Evening aarti at Banke Bihari","Experience","Banke Bihari Temple",0,"The crowds, bells and flower garlands at one of the most-loved Krishna temples.","Banke Bihari Temple"]
+],
+"lucknow": [
+["Galouti kabab","Street food","Tunday Kababi, Aminabad",150,"Melt-in-the-mouth minced meat kebabs on tiny parathas. Invented for a toothless nawab.","Galouti kebab"],
+["Awadhi biryani","Dish","Idrees Biryani, Chowk",250,"Delicate, aromatic dum-cooked rice and meat, milder than Hyderabad's version.","Biryani"],
+["Nihari-kulcha","Dish","Rahim's, Chowk",200,"Slow-cooked meat in a rich gravy eaten with a flaky kulcha for breakfast.","Nihari"],
+["Makhan malai","Sweet","Chowk (winter)",40,"A saffron-scented foam of milk and cream, made only on winter mornings.","Makhan malai"],
+["Basket chaat","Street food","Royal Café, Hazratganj",120,"A crisp potato basket filled with chaat toppings. A Lucknow classic.","Chaat"],
+["Evening at the Bara Imambara","Experience","Bara Imambara and Rumi Darwaza",50,"A vast hall built without beams and the labyrinth known as Bhul Bhulaiya.","Bara Imambara"]
+],
+"prayagraj": [
+["Kachori-jalebi","Street food","Civil Lines and Chowk",50,"A hot breakfast of kachori with aloo sabzi and jalebi.","Kachori"],
+["Samosa at Netram","Street food","Netram Samosa, Civil Lines",30,"A big, crisp samosa with aloo-chana and chutney, sold hot by the plate.","Samosa"],
+["Lassi","Drink","Katra market",60,"Thick lassi in a clay cup with a layer of malai.","Lassi"],
+["Allahabadi guava","Local special","Markets and orchards (winter)",60,"Pink-fleshed, super-sweet guavas, a winter favourite.","Guava"],
+["Boat ride to the Sangam","Experience","Triveni Sangam",150,"Row out to where the Ganga, Yamuna and the unseen Saraswati meet, with flocks of Siberian birds in winter.","Triveni Sangam"]
+],
+"amritsar": [
+["Amritsari kulcha with chhole","Dish","Kulcha Land and Beera Chicken House",150,"A stuffed kulcha, hot from the tandoor, with chole, pickled onions and a dollop of butter.","Amritsari kulcha"],
+["Lassi","Drink","Ahuja Milk Bhandar",100,"A glass of thick lassi with a mound of malai. A meal in itself.","Lassi"],
+["Amritsari fish","Street food","Makhan Fish, Lawrence Road",250,"Fish coated in spiced gram flour and fried crisp. A Punjabi classic.","Amritsari fish"],
+["Phirni","Sweet","Sweet shops near Golden Temple",60,"Creamy ground-rice pudding, set in a clay bowl and chilled.","Phirni"],
+["Langar at the Golden Temple","Experience","Golden Temple langar hall",0,"One of the world's biggest free kitchens feeds tens of thousands daily. Sit on the floor and eat dal, roti and kheer.","Golden Temple langar"],
+["Beating Retreat at Wagah","Experience","Attari-Wagah border",0,"A theatrical flag-lowering ceremony with stamping soldiers, loud cheers and flag-waving crowds.","Wagah border"]
+],
+"chandigarh": [
+["Chole bhature","Street food","Sector 17 and Sector 8 eateries",120,"Fluffy bhature, fiery chole and tangy pickle.","Chole bhature"],
+["Butter chicken","Dish","Restaurants in Sector 8 and 17",400,"Rich tomato-and-butter gravy with tandoori chicken. A Punjabi favourite.","Butter chicken"],
+["Lassi","Drink","Sector 17 and Sector 22",70,"Thick, sweet or salted, in a tall steel glass.","Lassi"],
+["Stuffed parathas","Breakfast","Dhabas in Sector 17",100,"Aloo, gobi and paneer parathas dripping with butter and served with curd.","Paratha"],
+["Sunrise at Sukhna Lake","Experience","Sukhna Lake promenade",0,"A morning walk or cycle ride beside a lake with the Shivalik hills as the backdrop.","Sukhna Lake"]
+]
+}

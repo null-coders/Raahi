@@ -1,0 +1,257 @@
+[
+  {
+    "id": "munnar", "n": "Munnar", "st": "Kerala", "r": "South",
+    "ty": ["hills", "wildlife"], "ll": [10.0889, 77.0595], "bm": [9, 10, 11, 12, 1, 2, 3, 4, 5], "days": [2, 3],
+    "terr": "hills", "food": 800, "stay": 3000, "pop": 9, "alt": 1600,
+    "tag": "Rolling tea hills and mist in the Western Ghats",
+    "ab": "Munnar sits where three rivers meet in Kerala's high ranges, surrounded by velvet-green tea estates, waterfalls and the Eravikulam park, home of the rare Nilgiri tahr.",
+    "ppl": "Most tea workers here are Tamil families whose grandparents came to the estates generations ago; they live in long rows of 'lines' houses and pluck tea in colourful saris and plastic aprons. Muthuvan tribal villages in the forest guard the hills, and every twelve years the neelakurinji flower turns the slopes blue.",
+    "eat": ["Kerala parotta & beef fry", "Appam & stew", "Puttu kadala", "Cardamom tea"], "fest": [["Munnar flower show", 5]],
+    "lang": "Malayalam, Tamil", "go": "Kochi airport 110 km; Aluva station 110 km", "w": "Munnar",
+    "hub": ["Munnar town", 10.0889, 77.0595],
+    "places": [
+      { "n": "Eravikulam National Park", "c": "wildlife", "ll": [10.1520, 77.0640], "m": 150, "f": 200, "o": "07:30-16:00", "mo": [4, 5, 6, 7, 8, 9, 10, 11, 12, 1], "s": 10, "p": 9, "d": "A bus up to grassy slopes where tame Nilgiri tahr graze beside the path.", "t": "Closed in Feb–Mar for tahr calving.", "w": "Eravikulam_National_Park" },
+      { "n": "Tea Museum (KDHP)", "c": "museum", "ll": [10.0950, 77.0630], "m": 60, "f": 125, "o": "09:00-17:00", "x": [1], "s": 8, "p": 7, "d": "See tea rolled and fermented, and taste fresh Munnar tea." },
+      { "n": "Kolukkumalai sunrise", "c": "viewpoint", "ll": [10.0700, 77.2300], "m": 180, "f": 2000, "o": "05:00-11:00", "s": 10, "p": 5, "d": "A jeep ride to the world's highest tea estate at dawn, above a sea of clouds.", "t": "Book the 4:30 AM jeep the day before." },
+      { "n": "Top Station", "c": "viewpoint", "ll": [10.1270, 77.2440], "m": 75, "f": 0, "o": "07:00-18:00", "s": 8, "p": 7, "d": "The highest point on the Munnar–Kodaikanal road, looking down into Tamil Nadu." },
+      { "n": "Mattupetty Dam & lake", "c": "lake", "ll": [10.1060, 77.1240], "m": 60, "f": 30, "o": "09:00-17:00", "s": 7, "p": 8, "d": "A reservoir in the tea hills with boating and wild elephants on the shore at dusk." },
+      { "n": "Attukad Waterfalls", "c": "waterfall", "ll": [10.0560, 77.0450], "m": 45, "f": 0, "o": "08:00-17:00", "s": 7, "p": 5, "d": "A tiered waterfall through tea and forest, fullest after the monsoon." },
+      { "n": "Pothamedu viewpoint", "c": "viewpoint", "ll": [10.0750, 77.0630], "m": 40, "f": 0, "o": "07:00-18:00", "s": 8, "p": 4, "d": "Tea, coffee and cardamom slopes spread out below, gold at sunset.", "a": "n" }
+    ]
+  },
+  {
+    "id": "alleppey", "n": "Alleppey (Alappuzha)", "st": "Kerala", "r": "South",
+    "ty": ["backwaters", "beach"], "ll": [9.4981, 76.3388], "bm": [9, 10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "coast", "food": 800, "stay": 3000, "pop": 9, "alt": 1,
+    "tag": "Houseboats on palm-fringed backwaters",
+    "ab": "Alleppey is the gateway to Kerala's backwaters: a maze of canals, rivers and lakes where rice is grown below sea level and houseboats drift past village life.",
+    "ppl": "In Kuttanad, families farm rice fields below the water level, protected by mud dykes. Life is on the water: children row to school, fishmongers sell from canoes, and in August whole villages row 100-foot snake boats in the Nehru Trophy race, singing vanchipattu boat songs.",
+    "eat": ["Karimeen pollichathu (pearl spot fish)", "Kerala fish curry", "Kallappam", "Toddy-shop food"], "fest": [["Nehru Trophy Boat Race", 8], ["Onam", 9]],
+    "lang": "Malayalam", "go": "Alappuzha station; Kochi airport 85 km", "w": "Alappuzha",
+    "hub": ["Alleppey boat jetty", 9.4981, 76.3388],
+    "places": [
+      { "n": "Houseboat day cruise", "c": "lake", "ll": [9.5000, 76.3700], "m": 360, "f": 3500, "o": "11:00-17:30", "s": 10, "p": 10, "d": "Float through Vembanad lake and canals on a kettuvallam with a Kerala lunch cooked on board.", "t": "Choose licensed boats; overnight cruises must dock by 5:30 PM.", "w": "Vembanad" },
+      { "n": "Canoe through Kuttanad villages", "c": "village", "ll": [9.4500, 76.4000], "m": 150, "f": 800, "o": "07:00-17:00", "s": 10, "p": 4, "d": "A small canoe slips into narrow canals that houseboats can't reach, past homes and paddy fields." },
+      { "n": "Alleppey Beach & lighthouse", "c": "beach", "ll": [9.4930, 76.3170], "m": 60, "f": 20, "o": "06:00-20:00", "s": 7, "p": 7, "d": "A long beach with an old pier and a lighthouse open in the afternoon.", "a": "n" },
+      { "n": "Marari Beach", "c": "beach", "ll": [9.6010, 76.2970], "m": 120, "f": 0, "o": "24h", "s": 9, "p": 5, "d": "A quiet fishing-village beach of golden sand and palms.", "w": "Marari_beach" },
+      { "n": "Kumarakom Bird Sanctuary", "c": "wildlife", "ll": [9.6280, 76.4280], "m": 120, "f": 50, "o": "06:00-17:00", "s": 8, "p": 6, "d": "Herons, cormorants and Siberian storks on the shores of Vembanad.", "w": "Kumarakom_Bird_Sanctuary" },
+      { "n": "Champakulam Church & snake boats", "c": "church", "ll": [9.4100, 76.4100], "m": 45, "f": 0, "o": "07:00-18:00", "s": 7, "p": 3, "d": "One of Kerala's oldest churches, near the sheds where snake boats are kept." }
+    ]
+  },
+  {
+    "id": "kochi", "n": "Kochi", "st": "Kerala", "r": "South",
+    "ty": ["city", "heritage", "beach"], "ll": [9.9312, 76.2673], "bm": [9, 10, 11, 12, 1, 2, 3], "days": [2, 2],
+    "terr": "city", "food": 900, "stay": 3000, "pop": 8, "alt": 0,
+    "tag": "Spice port of Chinese nets, Dutch palaces and a Jewish quarter",
+    "ab": "Fort Kochi has traded spices with the world for 600 years: Chinese fishing nets, Portuguese churches, a Dutch palace and a 450-year-old synagogue sit in lanes now full of cafés and art.",
+    "ppl": "Kochi is Kerala's most mixed city: Syrian Christians, Konkani traders, Gujarati merchants, Muslims and a tiny Jewish community share Mattancherry's spice lanes. Fishermen still work the giant cantilevered nets by hand, and evenings mean Kathakali, where performers spend two hours painting their faces.",
+    "eat": ["Karimeen fry", "Appam & stew", "Malabar biryani", "Fish moilee", "Pazham pori"], "fest": [["Kochi-Muziris Biennale", 12], ["Cochin Carnival", 12]],
+    "lang": "Malayalam, English", "go": "Cochin International Airport; Ernakulam Junction", "w": "Kochi",
+    "hub": ["Fort Kochi", 9.9658, 76.2421],
+    "places": [
+      { "n": "Chinese fishing nets", "c": "culture", "ll": [9.9680, 76.2420], "m": 45, "f": 0, "o": "06:00-19:00", "s": 9, "p": 9, "d": "Giant cantilevered nets lowered by teams of fishermen, beautiful at sunset.", "w": "Chinese_fishing_nets", "a": "n" },
+      { "n": "Mattancherry Dutch Palace", "c": "palace", "ll": [9.9580, 76.2590], "m": 60, "f": 10, "o": "10:00-17:00", "x": [5], "s": 8, "p": 7, "d": "A Portuguese-built palace with Ramayana murals on every wall.", "w": "Mattancherry_Palace" },
+      { "n": "Jew Town & Paradesi Synagogue", "c": "heritage", "ll": [9.9570, 76.2600], "m": 75, "f": 10, "o": "10:00-17:00", "x": [5, 6], "s": 9, "p": 7, "d": "A 1568 synagogue floored with Chinese tiles, in a street of antique and spice shops.", "w": "Paradesi_Synagogue" },
+      { "n": "Kathakali performance", "c": "culture", "ll": [9.9650, 76.2450], "m": 120, "f": 400, "o": "16:00-19:00", "s": 10, "p": 7, "d": "Arrive early to watch the make-up, then the dance-drama with drums and eye movements.", "a": "n" },
+      { "n": "St Francis Church", "c": "church", "ll": [9.9650, 76.2420], "m": 30, "f": 0, "o": "09:00-17:00", "s": 7, "p": 7, "d": "India's oldest European church, where Vasco da Gama was first buried.", "w": "St._Francis_Church,_Kochi" },
+      { "n": "Mattancherry spice market", "c": "market", "ll": [9.9560, 76.2610], "m": 60, "f": 0, "o": "09:00-18:00", "s": 8, "p": 5, "d": "Warehouses of pepper, ginger and cardamom traded the old way." },
+      { "n": "Kochi-Muziris Biennale venues", "c": "museum", "ll": [9.9670, 76.2430], "m": 180, "f": 150, "o": "10:00-18:00", "mo": [12, 1, 2, 3], "s": 9, "p": 6, "d": "India's biggest contemporary art festival in old warehouses (biennial).", "w": "Kochi-Muziris_Biennale" },
+      { "n": "Hill Palace Museum", "c": "museum", "ll": [9.9520, 76.3640], "m": 75, "f": 30, "o": "09:00-16:30", "x": [1], "s": 7, "p": 3, "d": "The Cochin royal family's palace with crowns, palanquins and a deer park." }
+    ]
+  },
+  {
+    "id": "varkala", "n": "Varkala & Kovalam", "st": "Kerala", "r": "South",
+    "ty": ["beach", "spiritual"], "ll": [8.7379, 76.7163], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 3],
+    "terr": "coast", "food": 800, "stay": 2600, "pop": 7, "alt": 10,
+    "tag": "Red cliffs above the Arabian Sea",
+    "ab": "Varkala's beach lies below dramatic red laterite cliffs lined with cafés and yoga shalas; Kovalam's crescent beaches and Kerala's temple culture are an hour south.",
+    "ppl": "Papanasam beach is holy: families come to perform rites for ancestors at dawn. Fishermen haul in nets together singing, and Ayurveda is a family trade, with treatments passed from grandparents. Kalaripayattu, Kerala's martial art, is still taught in clay-floored kalaris.",
+    "eat": ["Fresh seafood on the cliff", "Kerala sadya", "Banana chips", "Tender coconut"], "fest": [["Onam", 9]],
+    "lang": "Malayalam", "go": "Varkala Sivagiri station; Thiruvananthapuram airport 45 km", "w": "Varkala",
+    "hub": ["North Cliff, Varkala", 8.7380, 76.7030],
+    "places": [
+      { "n": "Varkala Cliff & beach", "c": "beach", "ll": [8.7330, 76.7040], "m": 150, "f": 0, "o": "24h", "s": 9, "p": 8, "d": "Walk the cliff path of cafés at sunset, then take the steps to the beach.", "w": "Varkala_Beach", "a": "n" },
+      { "n": "Janardana Swamy Temple", "c": "temple", "ll": [8.7320, 76.7120], "m": 40, "f": 0, "o": "05:00-20:00", "s": 7, "p": 6, "d": "A 2,000-year-old Vishnu temple above the beach." },
+      { "n": "Kappil beach & backwaters", "c": "beach", "ll": [8.7800, 76.6800], "m": 75, "f": 0, "o": "06:00-19:00", "s": 8, "p": 4, "d": "Where a backwater lake meets the sea, empty and wild." },
+      { "n": "Jatayu Earth's Center", "c": "adventure", "ll": [8.8650, 76.8650], "m": 150, "f": 400, "o": "10:00-17:00", "s": 8, "p": 6, "d": "A cable car to the world's largest bird sculpture on a rocky hilltop.", "w": "Jatayu_Earth's_Center" },
+      { "n": "Sivagiri Mutt", "c": "spiritual", "ll": [8.7450, 76.7260], "m": 40, "f": 0, "o": "06:00-19:00", "s": 7, "p": 5, "d": "The ashram and samadhi of Sree Narayana Guru, the social reformer." },
+      { "n": "Kovalam Lighthouse Beach", "c": "beach", "ll": [8.3830, 76.9780], "m": 150, "f": 25, "o": "24h", "s": 8, "p": 8, "d": "Kerala's classic beach of three crescents, with a lighthouse to climb.", "w": "Kovalam" }
+    ]
+  },
+  {
+    "id": "wayanad", "n": "Wayanad", "st": "Kerala", "r": "South",
+    "ty": ["hills", "wildlife", "offbeat"], "ll": [11.6085, 76.0830], "bm": [9, 10, 11, 12, 1, 2, 3, 4, 5], "days": [2, 3],
+    "terr": "hills", "food": 800, "stay": 2800, "pop": 7, "alt": 700,
+    "tag": "Misty forests, ancient carvings and spice estates",
+    "ab": "Wayanad is a green plateau of coffee and pepper estates, wildlife forests and caves carved with Stone Age art, on the border of Karnataka and Tamil Nadu.",
+    "ppl": "Wayanad has Kerala's largest tribal population: Paniya, Kurichiya and Kattunayakan communities with their own gods, songs and bamboo crafts. The Kurichiyas were famous archers who fought the British. Today, families grow coffee, pepper and cardamom side by side on small farms.",
+    "eat": ["Bamboo rice payasam", "Wayanad coffee", "Kappa & meen curry", "Honey"], "fest": [["Valliyoorkavu festival", 3]],
+    "lang": "Malayalam", "go": "Kozhikode airport and station 85 km", "w": "Wayanad_district",
+    "hub": ["Kalpetta", 11.6085, 76.0830],
+    "places": [
+      { "n": "Edakkal Caves", "c": "cave", "ll": [11.6270, 76.2360], "m": 120, "f": 50, "o": "09:00-16:00", "x": [1], "s": 9, "p": 7, "d": "A climb to a rock cleft carved with Neolithic pictures and early writing.", "w": "Edakkal_Caves", "a": "e" },
+      { "n": "Banasura Sagar Dam", "c": "lake", "ll": [11.6700, 75.9560], "m": 90, "f": 50, "o": "09:00-17:00", "s": 8, "p": 7, "d": "India's largest earthen dam, with speedboats among small islands.", "w": "Banasura_Sagar_Dam" },
+      { "n": "Pookode Lake", "c": "lake", "ll": [11.5400, 76.0270], "m": 60, "f": 40, "o": "09:00-17:00", "s": 7, "p": 7, "d": "A natural freshwater lake shaped like India's map, ringed by forest." },
+      { "n": "Kuruva Island", "c": "nature", "ll": [11.8130, 76.1040], "m": 120, "f": 150, "o": "09:00-15:30", "mo": [11, 12, 1, 2, 3, 4, 5], "s": 8, "p": 5, "d": "A cluster of river islands reached by bamboo raft, with rare birds and orchids." },
+      { "n": "Thirunelli Temple", "c": "temple", "ll": [11.9110, 75.9960], "m": 60, "f": 0, "o": "05:30-20:00", "s": 8, "p": 4, "d": "An ancient Vishnu temple surrounded by forest at the foot of Brahmagiri." },
+      { "n": "Muthanga Wildlife Sanctuary", "c": "wildlife", "ll": [11.6620, 76.3700], "m": 120, "f": 500, "o": "07:00-17:00", "s": 8, "p": 5, "d": "Jeep safaris through bamboo forest with elephants and gaur.", "w": "Wayanad_Wildlife_Sanctuary" },
+      { "n": "Coffee & spice estate walk", "c": "nature", "ll": [11.6300, 76.1200], "m": 90, "f": 300, "o": "08:00-17:00", "s": 8, "p": 3, "d": "Walk a family farm of coffee, pepper vines and cardamom with the farmer." }
+    ]
+  },
+  {
+    "id": "thekkady", "n": "Thekkady (Periyar)", "st": "Kerala", "r": "South",
+    "ty": ["wildlife", "hills"], "ll": [9.6031, 77.1615], "bm": [9, 10, 11, 12, 1, 2, 3, 4, 5], "days": [1, 2],
+    "terr": "hills", "food": 800, "stay": 2800, "pop": 7, "alt": 900,
+    "tag": "Elephants by the lake and the scent of cardamom",
+    "ab": "Thekkady is the town beside Periyar Tiger Reserve, where elephants come down to a lake formed by a century-old dam. Spice plantations cover the hills around it.",
+    "ppl": "Many of Periyar's forest guides are former poachers and sandalwood smugglers, now its best protectors, an eco-development project copied across India. Mannan and Paliyan tribal families live in the forest, and the town smells of cardamom, pepper and cinnamon from the estates.",
+    "eat": ["Kerala thali", "Cardamom tea", "Appam & egg curry"], "fest": [],
+    "lang": "Malayalam, Tamil", "go": "Kochi airport 145 km; Madurai airport 140 km", "w": "Thekkady",
+    "hub": ["Kumily", 9.6031, 77.1615],
+    "places": [
+      { "n": "Periyar lake boat ride", "c": "wildlife", "ll": [9.5650, 77.1650], "m": 90, "f": 300, "o": "07:30-15:30", "s": 9, "p": 9, "d": "Cruise past drowned tree stumps as elephants, gaur and sambar come to drink.", "w": "Periyar_National_Park" },
+      { "n": "Periyar bamboo rafting & trek", "c": "wildlife", "ll": [9.5800, 77.1700], "m": 480, "f": 2500, "o": "08:00-17:00", "s": 10, "p": 4, "d": "A full day of forest trekking and rafting with ex-poacher guides.", "a": "ke" },
+      { "n": "Spice plantation tour", "c": "nature", "ll": [9.6100, 77.1500], "m": 90, "f": 300, "o": "08:00-17:00", "s": 8, "p": 7, "d": "See cardamom, pepper, vanilla and nutmeg growing under forest shade." },
+      { "n": "Kalaripayattu show", "c": "culture", "ll": [9.6000, 77.1650], "m": 60, "f": 300, "o": "17:00-19:00", "s": 8, "p": 6, "d": "Kerala's ancient martial art of leaps, swords and flaming rings.", "a": "n" },
+      { "n": "Ramakkalmedu", "c": "viewpoint", "ll": [9.8120, 77.2400], "m": 90, "f": 25, "o": "08:00-17:00", "s": 8, "p": 4, "d": "A windy hill with a view over Tamil Nadu's plains and a giant Kuravan-Kurathi statue." }
+    ]
+  },
+  {
+    "id": "ooty", "n": "Ooty & Coonoor", "st": "Tamil Nadu", "r": "South",
+    "ty": ["hills", "lakes"], "ll": [11.4064, 76.6932], "bm": [3, 4, 5, 6, 9, 10, 11], "days": [2, 3],
+    "terr": "hills", "food": 800, "stay": 2800, "pop": 9, "alt": 2240,
+    "tag": "The Queen of the Nilgiris and its blue mountain railway",
+    "ab": "Ooty is the classic hill station of the Nilgiris: a lake, colonial gardens, tea estates and a UNESCO rack railway down to Coonoor and Mettupalayam.",
+    "ppl": "The Toda people, the Nilgiris' first inhabitants, live in barrel-roofed huts and herd sacred buffalo; Toda women embroider red-and-black shawls. Badaga farmers grow the vegetables and tea, and every summer the Flower Show draws the whole of Tamil Nadu.",
+    "eat": ["Ooty varkey", "Homemade chocolates", "Nilgiri tea", "Badaga avarekai"], "fest": [["Ooty Flower Show", 5]],
+    "lang": "Tamil, Badaga", "go": "Mettupalayam station, then the toy train; Coimbatore airport 90 km", "w": "Ooty",
+    "hub": ["Charing Cross", 11.4100, 76.7000],
+    "places": [
+      { "n": "Nilgiri Mountain Railway", "c": "heritage", "ll": [11.4020, 76.6950], "m": 150, "f": 500, "o": "07:00-17:00", "s": 10, "p": 9, "d": "A UNESCO toy train through 16 tunnels and tea gardens between Ooty and Coonoor.", "t": "Book on IRCTC; first-class seats sell out early.", "w": "Nilgiri_Mountain_Railway" },
+      { "n": "Government Botanical Garden", "c": "garden", "ll": [11.4180, 76.7110], "m": 75, "f": 30, "o": "07:00-18:30", "s": 8, "p": 9, "d": "Terraced gardens from 1848 with a 20-million-year-old fossil tree.", "w": "Government_Botanical_Gardens,_Ooty" },
+      { "n": "Doddabetta Peak", "c": "viewpoint", "ll": [11.4020, 76.7380], "m": 60, "f": 10, "o": "07:00-18:00", "s": 7, "p": 8, "d": "The highest point of the Nilgiris (2,637 m)." },
+      { "n": "Ooty Lake", "c": "lake", "ll": [11.4050, 76.6880], "m": 60, "f": 100, "o": "09:00-18:00", "s": 6, "p": 9, "d": "Boating on the lake created in 1824 by the town's founder." },
+      { "n": "Toda village (Muthanadu Mund)", "c": "village", "ll": [11.4250, 76.6480], "m": 60, "f": 0, "o": "09:00-17:00", "s": 9, "p": 2, "d": "Barrel-shaped Toda huts and a sacred temple-hut with a tiny doorway." },
+      { "n": "Pykara Falls & Lake", "c": "waterfall", "ll": [11.4670, 76.6000], "m": 90, "f": 100, "o": "09:00-17:00", "s": 8, "p": 7, "d": "Pine forest, a waterfall and boating on a quiet lake." },
+      { "n": "Avalanche Lake", "c": "lake", "ll": [11.2980, 76.5690], "m": 150, "f": 300, "o": "09:00-15:00", "s": 9, "p": 4, "d": "A forest-department eco-tour to a pristine lake in shola forest." },
+      { "n": "Coonoor: Sim's Park & Dolphin's Nose", "c": "viewpoint", "ll": [11.3440, 76.8100], "m": 150, "f": 30, "o": "08:00-18:00", "s": 8, "p": 6, "d": "A quieter hill town with a garden, tea factories and a cliff view to Catherine Falls." }
+    ]
+  },
+  {
+    "id": "kodaikanal", "n": "Kodaikanal", "st": "Tamil Nadu", "r": "South",
+    "ty": ["hills", "lakes"], "ll": [10.2381, 77.4892], "bm": [3, 4, 5, 6, 9, 10], "days": [2, 2],
+    "terr": "hills", "food": 800, "stay": 2600, "pop": 8, "alt": 2133,
+    "tag": "The Princess of Hill Stations, of lakes, cliffs and pine",
+    "ab": "Kodaikanal was founded by American missionaries as a summer retreat. Its star-shaped lake, cliff walks and shola forests sit high in the Palani hills.",
+    "ppl": "Paliyan tribal families gather honey from cliffs, and Kodai's farmers grow plums and pears on terraces. The town's homemade chocolate and eucalyptus oil were started by missionary families and are now made in small family workshops.",
+    "eat": ["Homemade chocolate", "Plum cake", "Mushroom dishes", "Hill banana"], "fest": [["Summer Festival", 5]],
+    "lang": "Tamil", "go": "Kodai Road station 80 km; Madurai airport 120 km", "w": "Kodaikanal",
+    "hub": ["Kodai Lake", 10.2340, 77.4870],
+    "places": [
+      { "n": "Kodaikanal Lake", "c": "lake", "ll": [10.2340, 77.4870], "m": 75, "f": 100, "o": "07:00-18:00", "s": 8, "p": 9, "d": "Boating or cycling round a star-shaped lake in the town's centre.", "w": "Kodaikanal_Lake" },
+      { "n": "Coaker's Walk", "c": "viewpoint", "ll": [10.2300, 77.4950], "m": 45, "f": 20, "o": "07:00-19:00", "s": 8, "p": 8, "d": "A cliff path where clouds roll up from the plains below.", "a": "n" },
+      { "n": "Pillar Rocks", "c": "viewpoint", "ll": [10.2110, 77.4710], "m": 40, "f": 10, "o": "09:00-17:00", "s": 8, "p": 8, "d": "Three granite pillars 120 m tall rising out of the mist." },
+      { "n": "Guna Caves (Devil's Kitchen)", "c": "cave", "ll": [10.2140, 77.4760], "m": 40, "f": 10, "o": "09:00-17:00", "s": 7, "p": 8, "d": "Deep chasms among pine roots, made famous by the films Guna and Manjummel Boys." },
+      { "n": "Poombarai village", "c": "village", "ll": [10.2280, 77.3640], "m": 90, "f": 0, "o": "08:00-17:00", "s": 9, "p": 3, "d": "A terraced farming village around an ancient Murugan temple." },
+      { "n": "Bryant Park", "c": "garden", "ll": [10.2320, 77.4940], "m": 45, "f": 30, "o": "09:00-18:00", "s": 7, "p": 7, "d": "Botanical gardens with roses, glasshouses and a 150-year-old eucalyptus." },
+      { "n": "Berijam Lake", "c": "lake", "ll": [10.1850, 77.4000], "m": 180, "f": 150, "o": "09:00-15:00", "x": [2], "s": 9, "p": 4, "d": "A forest-reserve lake reached on a permit drive through shola forest; bison are common." }
+    ]
+  },
+  {
+    "id": "pondicherry", "n": "Pondicherry", "st": "Puducherry", "r": "South",
+    "ty": ["beach", "heritage", "spiritual"], "ll": [11.9416, 79.8083], "bm": [10, 11, 12, 1, 2, 3], "days": [2, 3],
+    "terr": "coast", "food": 900, "stay": 3000, "pop": 9, "alt": 3,
+    "tag": "French boulevards, ashrams and the Bay of Bengal",
+    "ab": "Puducherry's French Quarter of mustard-yellow villas and bougainvillea faces a seafront promenade. The Aurobindo Ashram and the experimental township of Auroville are its spiritual side.",
+    "ppl": "Tamil families on one side of the canal, French-speaking Pondicherrians on the other: street signs are in both languages, and some locals still hold French citizenship. Tamil women draw kolam patterns at dawn on every doorstep, and Auroville's residents from 60 countries live a different experiment entirely.",
+    "eat": ["Croissants & crêpes", "Creole fish curry", "Tamil meals on banana leaf", "Filter coffee"], "fest": [["Bastille Day", 7], ["Masi Magam", 2]],
+    "lang": "Tamil, French, English", "go": "Puducherry station; Chennai airport 150 km", "w": "Pondicherry",
+    "hub": ["White Town", 11.9340, 79.8330],
+    "places": [
+      { "n": "Promenade (Rock Beach)", "c": "beach", "ll": [11.9330, 79.8360], "m": 60, "f": 0, "o": "24h", "s": 8, "p": 9, "d": "A seafront walk that closes to traffic each evening; best at sunrise.", "w": "Promenade_Beach", "a": "n" },
+      { "n": "French Quarter walk", "c": "heritage", "ll": [11.9330, 79.8330], "m": 90, "f": 0, "o": "07:00-20:00", "s": 9, "p": 8, "d": "Mustard and white villas, cafés and bougainvillea on rue Romain Rolland and rue Dumas." },
+      { "n": "Auroville & Matrimandir", "c": "spiritual", "ll": [12.0070, 79.8100], "m": 150, "f": 0, "o": "09:00-17:00", "s": 9, "p": 8, "d": "A golden globe meditation hall at the heart of a township for people of all nations.", "w": "Matrimandir" },
+      { "n": "Sri Aurobindo Ashram", "c": "spiritual", "ll": [11.9370, 79.8350], "m": 40, "f": 0, "o": "08:00-17:00", "s": 8, "p": 7, "d": "The flower-covered samadhi of Sri Aurobindo and the Mother, kept in silence.", "w": "Sri_Aurobindo_Ashram" },
+      { "n": "Paradise Beach", "c": "beach", "ll": [11.8800, 79.8200], "m": 150, "f": 300, "o": "09:00-17:00", "s": 8, "p": 7, "d": "A sandbar beach reached by boat through backwaters." },
+      { "n": "Basilica of the Sacred Heart", "c": "church", "ll": [11.9300, 79.8250], "m": 30, "f": 0, "o": "06:00-20:00", "s": 7, "p": 6, "d": "A Gothic church with stained-glass panels of the life of Christ." },
+      { "n": "Serenity Beach", "c": "beach", "ll": [11.9700, 79.8440], "m": 90, "f": 0, "o": "24h", "s": 7, "p": 5, "d": "Pondicherry's surf beach with a weekend flea market." }
+    ]
+  },
+  {
+    "id": "mahabalipuram", "n": "Mahabalipuram", "st": "Tamil Nadu", "r": "South",
+    "ty": ["heritage", "beach"], "ll": [12.6208, 80.1945], "bm": [11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "coast", "food": 700, "stay": 2600, "pop": 7, "alt": 12,
+    "tag": "Seaside temples carved from granite 1,300 years ago",
+    "ab": "The Pallava port of Mamallapuram is a UNESCO site of rock-cut temples, a giant bas-relief and the Shore Temple, all within walking distance on the coast south of Chennai.",
+    "ppl": "Stone carving never stopped here: hundreds of sculptors' workshops line the streets, chiselling gods from granite with the same tools as their ancestors. Fishermen of the Pattinavar community beach their boats beside the Shore Temple.",
+    "eat": ["Fresh seafood", "South Indian meals", "Filter coffee"], "fest": [["Mamallapuram Dance Festival", 1]],
+    "lang": "Tamil", "go": "Chennai airport 55 km", "w": "Mahabalipuram",
+    "hub": ["Mahabalipuram town", 12.6208, 80.1945],
+    "places": [
+      { "n": "Shore Temple", "c": "temple", "ll": [12.6165, 80.1990], "m": 60, "f": 40, "o": "06:00-18:00", "s": 10, "p": 9, "d": "A 8th-century granite temple standing on the edge of the sea.", "w": "Shore_Temple" },
+      { "n": "Pancha Rathas", "c": "heritage", "ll": [12.6080, 80.1910], "m": 60, "f": 0, "o": "06:00-18:00", "s": 9, "p": 8, "d": "Five chariot-temples each carved from a single rock, with stone elephants.", "w": "Pancha_Rathas" },
+      { "n": "Arjuna's Penance", "c": "heritage", "ll": [12.6170, 80.1920], "m": 45, "f": 0, "o": "06:00-18:00", "s": 9, "p": 8, "d": "One of the world's largest bas-reliefs, with life-size elephants and the descent of the Ganga.", "w": "Descent_of_the_Ganges_(Mahabalipuram)" },
+      { "n": "Krishna's Butter Ball", "c": "heritage", "ll": [12.6180, 80.1910], "m": 20, "f": 0, "o": "06:00-18:00", "s": 7, "p": 8, "d": "A giant boulder balanced impossibly on a slope." },
+      { "n": "Stone carvers' street", "c": "culture", "ll": [12.6190, 80.1940], "m": 45, "f": 0, "o": "09:00-19:00", "s": 8, "p": 4, "d": "Workshops where sculptors carve temple gods by hand." },
+      { "n": "DakshinaChitra", "c": "museum", "ll": [12.8250, 80.2420], "m": 120, "f": 175, "o": "10:00-18:00", "x": [2], "s": 9, "p": 4, "d": "Real South Indian homes moved and rebuilt, with potters, puppeteers and weavers at work.", "w": "DakshinaChitra" },
+      { "n": "Madras Crocodile Bank", "c": "wildlife", "ll": [12.7440, 80.2490], "m": 90, "f": 100, "o": "09:00-17:30", "x": [1], "s": 8, "p": 5, "d": "Thousands of crocodiles, gharials and turtles in a conservation centre.", "w": "Madras_Crocodile_Bank_Trust" }
+    ]
+  },
+  {
+    "id": "madurai", "n": "Madurai", "st": "Tamil Nadu", "r": "South",
+    "ty": ["spiritual", "heritage", "city"], "ll": [9.9252, 78.1198], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "city", "food": 600, "stay": 2200, "pop": 8, "alt": 101,
+    "tag": "The temple city that never sleeps",
+    "ab": "Madurai has been a city for 2,500 years, built around the Meenakshi Amman temple with its 14 towering gopurams covered in thousands of painted figures.",
+    "ppl": "Madurai's day is set by temple time: the goddess Meenakshi's wedding is re-enacted every April at Chithirai, with millions on the streets. Jasmine from Madurai is famous across India and women wear it in their hair every day. The night ends late with jigarthanda and parottas.",
+    "eat": ["Jigarthanda", "Kari dosa", "Parotta & salna", "Idli at Murugan Idli Shop", "Madurai mutton chukka"], "fest": [["Chithirai Festival", 4], ["Float Festival (Teppam)", 1]],
+    "lang": "Tamil", "go": "Madurai airport; Madurai Junction", "w": "Madurai",
+    "hub": ["Meenakshi Temple area", 9.9195, 78.1193],
+    "places": [
+      { "n": "Meenakshi Amman Temple", "c": "temple", "ll": [9.9195, 78.1193], "m": 150, "f": 0, "o": "05:00-12:30", "s": 10, "p": 10, "d": "A city within a city: 14 gopurams, a hall of 1,000 carved pillars and the golden lotus tank.", "t": "Reopens 16:00–21:30; phones are not allowed inside.", "w": "Meenakshi_Temple" },
+      { "n": "Night ceremony at Meenakshi", "c": "spiritual", "ll": [9.9196, 78.1195], "m": 60, "f": 0, "o": "21:00-22:00", "s": 9, "p": 4, "d": "Shiva is carried in a palanquin to the goddess's chamber with drums and nadaswaram.", "a": "n" },
+      { "n": "Thirumalai Nayakkar Palace", "c": "palace", "ll": [9.9150, 78.1240], "m": 60, "f": 50, "o": "09:00-17:00", "s": 8, "p": 7, "d": "A 1636 palace of giant columns and painted domes.", "w": "Thirumalai_Nayakkar_Mahal" },
+      { "n": "Gandhi Memorial Museum", "c": "museum", "ll": [9.9300, 78.1380], "m": 60, "f": 0, "o": "10:00-17:45", "s": 8, "p": 5, "d": "Holds the blood-stained dhoti Gandhi wore when he was shot.", "w": "Gandhi_Memorial_Museum,_Madurai" },
+      { "n": "Vandiyur Mariamman Teppakulam", "c": "temple", "ll": [9.9100, 78.1450], "m": 30, "f": 0, "o": "06:00-20:00", "s": 7, "p": 5, "d": "A huge temple tank where the deities float on rafts during the January festival." },
+      { "n": "Madurai food walk", "c": "food", "ll": [9.9220, 78.1210], "m": 90, "f": 0, "o": "18:00-23:30", "s": 9, "p": 6, "d": "Jigarthanda, kari dosa and bun parotta in the streets around the temple.", "a": "n" },
+      { "n": "Alagar Kovil", "c": "temple", "ll": [10.0730, 78.2150], "m": 75, "f": 0, "o": "06:00-20:00", "s": 7, "p": 4, "d": "A Vishnu temple in wooded hills where Meenakshi's brother is worshipped." }
+    ]
+  },
+  {
+    "id": "rameswaram", "n": "Rameswaram & Dhanushkodi", "st": "Tamil Nadu", "r": "South",
+    "ty": ["spiritual", "beach"], "ll": [9.2876, 79.3129], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "coast", "food": 600, "stay": 2000, "pop": 8, "alt": 10,
+    "tag": "A Jyotirlinga island at land's end",
+    "ab": "Rameswaram is an island linked to the mainland by the Pamban bridge, home to one of India's longest temple corridors. The ghost town of Dhanushkodi lies at the island's tip, facing Sri Lanka.",
+    "ppl": "Pilgrims bathe in 22 sacred wells inside the temple, drenched by priests with buckets, before darshan. Fishing families mend nets on the beach, and Rameswaram is proud to be the hometown of Dr APJ Abdul Kalam, the 'Missile Man' president, whose family home is now a museum.",
+    "eat": ["Fish curry", "Tamil meals", "Kalkandu sweets"], "fest": [["Mahashivratri", 2], ["Thai Amavasai", 1]],
+    "lang": "Tamil", "go": "Rameswaram station; Madurai airport 175 km", "w": "Rameswaram",
+    "hub": ["Rameswaram temple town", 9.2881, 79.3174],
+    "places": [
+      { "n": "Ramanathaswamy Temple", "c": "temple", "ll": [9.2881, 79.3174], "m": 150, "f": 0, "o": "05:00-21:00", "s": 10, "p": 10, "d": "A Jyotirlinga with the world's longest temple corridor, 1,200 carved pillars, and 22 sacred wells.", "w": "Ramanathaswamy_Temple" },
+      { "n": "Dhanushkodi", "c": "beach", "ll": [9.1780, 79.4190], "m": 120, "f": 0, "o": "06:00-17:00", "s": 9, "p": 8, "d": "A town ruined by the 1964 cyclone, at the tip where two seas meet facing Sri Lanka.", "w": "Dhanushkodi" },
+      { "n": "Pamban Bridge", "c": "viewpoint", "ll": [9.2830, 79.2010], "m": 30, "f": 0, "o": "24h", "s": 8, "p": 8, "d": "India's first sea bridge, now joined by a new vertical-lift rail bridge.", "w": "Pamban_Bridge" },
+      { "n": "Dr APJ Abdul Kalam Memorial", "c": "museum", "ll": [9.2730, 79.2540], "m": 60, "f": 0, "o": "09:00-17:30", "s": 9, "p": 8, "d": "A memorial to the scientist-president with his rockets, letters and life story." },
+      { "n": "Agnitheertham", "c": "spiritual", "ll": [9.2880, 79.3200], "m": 30, "f": 0, "o": "05:00-20:00", "s": 7, "p": 7, "d": "The calm sea in front of the temple where pilgrims take their first dip." }
+    ]
+  },
+  {
+    "id": "kanyakumari", "n": "Kanyakumari", "st": "Tamil Nadu", "r": "South",
+    "ty": ["spiritual", "beach"], "ll": [8.0883, 77.5385], "bm": [10, 11, 12, 1, 2, 3], "days": [1, 2],
+    "terr": "coast", "food": 600, "stay": 2200, "pop": 8, "alt": 0,
+    "tag": "The tip of India, where three seas meet",
+    "ab": "Kanyakumari is the southern tip of mainland India, where the Arabian Sea, Indian Ocean and Bay of Bengal meet. On full-moon days you can watch the sun set and the moon rise at once.",
+    "ppl": "Every evening, crowds of families from all over India gather on the rocks to watch the sunset, then shop for shell crafts and coloured sand. Mukkuvar fishing communities, mostly Catholic, live along the coast in villages with tall, painted churches.",
+    "eat": ["Fresh fish fry", "Banana chips", "Nendran pazham"], "fest": [["Chaitra Purnima (sunset & moonrise)", 4]],
+    "lang": "Tamil, Malayalam", "go": "Kanyakumari station; Thiruvananthapuram airport 90 km", "w": "Kanyakumari",
+    "hub": ["Kanyakumari beach road", 8.0790, 77.5500],
+    "places": [
+      { "n": "Vivekananda Rock Memorial", "c": "spiritual", "ll": [8.0780, 77.5550], "m": 90, "f": 100, "o": "08:00-16:00", "s": 10, "p": 9, "d": "A ferry to the rock where Swami Vivekananda meditated in 1892.", "w": "Vivekananda_Rock_Memorial" },
+      { "n": "Thiruvalluvar Statue & glass bridge", "c": "heritage", "ll": [8.0770, 77.5530], "m": 45, "f": 0, "o": "08:00-16:00", "s": 9, "p": 8, "d": "A 133 ft statue of the Tamil poet, now linked to the memorial by a glass bridge.", "w": "Thiruvalluvar_Statue" },
+      { "n": "Sunset point", "c": "viewpoint", "ll": [8.0790, 77.5410], "m": 45, "f": 0, "o": "17:00-19:00", "s": 9, "p": 9, "d": "Watch the sun drop into the Arabian Sea from the very tip of India.", "a": "n" },
+      { "n": "Kumari Amman Temple", "c": "temple", "ll": [8.0790, 77.5500], "m": 45, "f": 0, "o": "04:30-20:00", "s": 8, "p": 8, "d": "The temple of the virgin goddess whose diamond nose ring is said to guide ships." },
+      { "n": "Padmanabhapuram Palace", "c": "palace", "ll": [8.2500, 77.3260], "m": 90, "f": 50, "o": "09:00-16:30", "x": [1], "s": 9, "p": 6, "d": "Asia's largest wooden palace, with carved ceilings and polished black floors.", "w": "Padmanabhapuram_Palace" },
+      { "n": "Vattakottai Fort", "c": "fort", "ll": [8.1230, 77.5640], "m": 45, "f": 25, "o": "08:00-17:00", "s": 7, "p": 4, "d": "A small granite sea fort with views of the Western Ghats meeting the ocean." }
+    ]
+  }
+]

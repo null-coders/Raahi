@@ -1,0 +1,1815 @@
+[
+ {
+  "id": "coorg",
+  "n": "Coorg (Kodagu)",
+  "st": "Karnataka",
+  "r": "South",
+  "ty": [
+   "hills",
+   "offbeat"
+  ],
+  "ll": [
+   12.4244,
+   75.7382
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "hills",
+  "food": 900,
+  "stay": 3200,
+  "pop": 8,
+  "alt": 1150,
+  "tag": "Coffee estates, waterfalls and the Kodava way of life",
+  "ab": "Coorg is a misty district of coffee and pepper estates in the Western Ghats, with waterfalls, the source of the Kaveri and a large Tibetan settlement at Bylakuppe.",
+  "ppl": "The Kodavas are a proud warrior community who are allowed to carry guns without a licence. Weddings feature men in black kupya robes with silver daggers, and families live on ancestral ainmane estates. Pandi curry (pork) with kadambuttu rice balls is the taste of every celebration.",
+  "eat": [
+   "Pandi curry & kadambuttu",
+   "Akki roti",
+   "Coorg coffee",
+   "Bembale (bamboo shoot) curry"
+  ],
+  "fest": [
+   [
+    "Kailpodh",
+    9
+   ],
+   [
+    "Puthari harvest",
+    11
+   ],
+   [
+    "Kaveri Sankramana",
+    10
+   ]
+  ],
+  "lang": "Kodava, Kannada",
+  "go": "Mysuru 120 km; Mangaluru airport 135 km",
+  "w": "Kodagu_district",
+  "hub": [
+   "Madikeri town",
+   12.4244,
+   75.7382
+  ],
+  "places": [
+   {
+    "n": "Abbey Falls",
+    "c": "waterfall",
+    "ll": [
+     12.457,
+     75.719
+    ],
+    "m": 60,
+    "f": 30,
+    "o": "09:00-17:00",
+    "s": 8,
+    "p": 8,
+    "d": "A waterfall tumbling through coffee and spice plantations, fullest after the monsoon."
+   },
+   {
+    "n": "Raja's Seat sunset",
+    "c": "viewpoint",
+    "ll": [
+     12.42,
+     75.738
+    ],
+    "m": 45,
+    "f": 10,
+    "o": "06:00-19:30",
+    "s": 8,
+    "p": 8,
+    "d": "The garden where Kodagu's kings watched the sun set over misty hills.",
+    "a": "n"
+   },
+   {
+    "n": "Namdroling Golden Temple, Bylakuppe",
+    "c": "monastery",
+    "ll": [
+     12.429,
+     75.967
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "07:00-20:00",
+    "s": 9,
+    "p": 8,
+    "d": "A dazzling monastery with three 18 m golden Buddhas in India's second-largest Tibetan settlement.",
+    "w": "Namdroling_Monastery"
+   },
+   {
+    "n": "Mandalpatti jeep ride",
+    "c": "viewpoint",
+    "ll": [
+     12.5,
+     75.68
+    ],
+    "m": 150,
+    "f": 2000,
+    "o": "06:00-17:00",
+    "s": 9,
+    "p": 6,
+    "d": "A bumpy jeep ride to grassy peaks above the clouds."
+   },
+   {
+    "n": "Talakaveri",
+    "c": "temple",
+    "ll": [
+     12.386,
+     75.49
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "06:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "The source of the Kaveri river, a spring temple high on Brahmagiri hill.",
+    "w": "Talakaveri"
+   },
+   {
+    "n": "Coffee estate walk",
+    "c": "nature",
+    "ll": [
+     12.44,
+     75.78
+    ],
+    "m": 90,
+    "f": 400,
+    "o": "08:00-17:00",
+    "s": 9,
+    "p": 4,
+    "d": "Learn bean to cup on a Kodava family estate, with pepper vines and orange trees."
+   },
+   {
+    "n": "Dubare camp & Kaveri riverbank",
+    "c": "wildlife",
+    "ll": [
+     12.368,
+     75.902
+    ],
+    "m": 120,
+    "f": 100,
+    "o": "08:30-11:00",
+    "s": 7,
+    "p": 7,
+    "d": "A forest-department elephant camp on the river; watch the mahouts at work from the bank."
+   },
+   {
+    "n": "Madikeri Fort",
+    "c": "fort",
+    "ll": [
+     12.421,
+     75.74
+    ],
+    "m": 40,
+    "f": 0,
+    "o": "10:00-17:30",
+    "s": 6,
+    "p": 5,
+    "d": "A 17th-century fort with a small museum and old church."
+   }
+  ]
+ },
+ {
+  "id": "mysore",
+  "n": "Mysuru (Mysore)",
+  "st": "Karnataka",
+  "r": "South",
+  "ty": [
+   "heritage",
+   "city"
+  ],
+  "ll": [
+   12.2958,
+   76.6394
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   2
+  ],
+  "terr": "city",
+  "food": 700,
+  "stay": 2600,
+  "pop": 9,
+  "alt": 763,
+  "tag": "A royal city of palaces, silk and sandalwood",
+  "ab": "Mysuru was the capital of the Wodeyar kings. Its palace lights up with 97,000 bulbs, its Dasara is India's grandest royal festival, and its silk, sandalwood and yoga are famous worldwide.",
+  "ppl": "During Dasara, the city relives its royal past with a procession of decorated elephants carrying the goddess in a golden howdah. Families make Mysore pak at home, the silk weavers' factory still makes sarees for the whole state, and Ashtanga yoga students from around the world live here for months.",
+  "eat": [
+   "Mysore masala dosa",
+   "Mysore pak",
+   "Bisi bele bath",
+   "Filter coffee"
+  ],
+  "fest": [
+   [
+    "Mysuru Dasara",
+    10
+   ]
+  ],
+  "lang": "Kannada",
+  "go": "Mysuru station; Bengaluru airport 170 km",
+  "w": "Mysore",
+  "hub": [
+   "Mysore Palace area",
+   12.3051,
+   76.6551
+  ],
+  "places": [
+   {
+    "n": "Mysore Palace",
+    "c": "palace",
+    "ll": [
+     12.3051,
+     76.6551
+    ],
+    "m": 120,
+    "f": 100,
+    "o": "10:00-17:30",
+    "s": 10,
+    "p": 10,
+    "d": "An Indo-Saracenic palace of stained glass, carved doors and a golden throne.",
+    "w": "Mysore_Palace"
+   },
+   {
+    "n": "Palace illumination",
+    "c": "palace",
+    "ll": [
+     12.3051,
+     76.6551
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "19:00-19:45",
+    "x": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "s": 10,
+    "p": 8,
+    "d": "On Sundays and holidays the whole palace lights up with nearly 100,000 bulbs.",
+    "a": "n",
+    "id": "palace-lights"
+   },
+   {
+    "n": "Chamundi Hill",
+    "c": "temple",
+    "ll": [
+     12.2729,
+     76.6703
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "07:30-21:00",
+    "s": 8,
+    "p": 9,
+    "d": "The hilltop temple of the city's guardian goddess and a giant stone Nandi on the way up.",
+    "w": "Chamundi_Hills"
+   },
+   {
+    "n": "Devaraja Market",
+    "c": "market",
+    "ll": [
+     12.311,
+     76.651
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "07:00-20:00",
+    "s": 9,
+    "p": 6,
+    "d": "Pyramids of coloured kumkum, jasmine garlands and bananas in a 19th-century market.",
+    "w": "Devaraja_Market"
+   },
+   {
+    "n": "Brindavan Gardens fountain show",
+    "c": "garden",
+    "ll": [
+     12.425,
+     76.576
+    ],
+    "m": 120,
+    "f": 100,
+    "o": "16:00-20:00",
+    "s": 7,
+    "p": 8,
+    "d": "Terraced gardens below the KRS dam with an evening musical fountain.",
+    "w": "Brindavan_Gardens",
+    "a": "n"
+   },
+   {
+    "n": "Srirangapatna",
+    "c": "heritage",
+    "ll": [
+     12.422,
+     76.693
+    ],
+    "m": 120,
+    "f": 25,
+    "o": "09:00-17:00",
+    "s": 8,
+    "p": 6,
+    "d": "Tipu Sultan's island capital: his summer palace, fort walls and the Ranganatha temple.",
+    "w": "Srirangapatna"
+   },
+   {
+    "n": "Ranganathittu Bird Sanctuary",
+    "c": "wildlife",
+    "ll": [
+     12.424,
+     76.656
+    ],
+    "m": 90,
+    "f": 100,
+    "o": "08:30-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "Boat rides past nesting painted storks, pelicans and basking crocodiles.",
+    "w": "Ranganathittu_Bird_Sanctuary"
+   },
+   {
+    "n": "Somnathpur Keshava Temple",
+    "c": "temple",
+    "ll": [
+     12.276,
+     76.881
+    ],
+    "m": 60,
+    "f": 25,
+    "o": "08:30-17:30",
+    "s": 9,
+    "p": 4,
+    "d": "A perfect star-shaped Hoysala temple of finely carved soapstone.",
+    "w": "Chennakesava_Temple,_Somanathapura"
+   }
+  ]
+ },
+ {
+  "id": "hampi",
+  "n": "Hampi",
+  "st": "Karnataka",
+  "r": "South",
+  "ty": [
+   "heritage",
+   "offbeat"
+  ],
+  "ll": [
+   15.335,
+   76.46
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "plains",
+  "food": 600,
+  "stay": 2000,
+  "pop": 8,
+  "alt": 467,
+  "tag": "The ruined capital of an empire among giant boulders",
+  "ab": "Hampi was Vijayanagara, one of the world's richest cities in 1500. Its temples, bazaars and palaces lie scattered across a surreal landscape of boulders and banana fields along the Tungabhadra.",
+  "ppl": "Villagers live inside the ruins: Hampi Bazaar's families run guesthouses in the old pavilions, and coracle men paddle round baskets across the river as they have for centuries. Lakshmi, the temple elephant, once blessed visitors at Virupaksha. Sunrise and sunset from the hills are a daily gathering.",
+  "eat": [
+   "Banana pancakes (traveller cafés)",
+   "Jolada rotti",
+   "Ennegayi",
+   "South Indian thali on leaf"
+  ],
+  "fest": [
+   [
+    "Hampi Utsav",
+    1
+   ],
+   [
+    "Virupaksha car festival",
+    3
+   ]
+  ],
+  "lang": "Kannada",
+  "go": "Hosapete station 13 km; Hubballi airport 150 km",
+  "w": "Hampi",
+  "hub": [
+   "Hampi Bazaar",
+   15.335,
+   76.46
+  ],
+  "places": [
+   {
+    "n": "Virupaksha Temple",
+    "c": "temple",
+    "ll": [
+     15.335,
+     76.46
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-21:00",
+    "s": 9,
+    "p": 9,
+    "d": "A living temple since the 7th century, with a pinhole camera image of the gopuram inside.",
+    "w": "Virupaksha_Temple,_Hampi"
+   },
+   {
+    "n": "Vittala Temple & Stone Chariot",
+    "c": "heritage",
+    "ll": [
+     15.342,
+     76.474
+    ],
+    "m": 90,
+    "f": 40,
+    "o": "08:30-17:30",
+    "s": 10,
+    "p": 10,
+    "d": "The stone chariot on the ₹50 note and pillars that ring like music when tapped.",
+    "w": "Vittala_Temple"
+   },
+   {
+    "n": "Hemakuta Hill sunset",
+    "c": "viewpoint",
+    "ll": [
+     15.334,
+     76.459
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-19:00",
+    "s": 9,
+    "p": 8,
+    "d": "Small temples on a rocky hill where everyone gathers for sunset.",
+    "a": "n"
+   },
+   {
+    "n": "Royal Enclosure & Stepped Tank",
+    "c": "heritage",
+    "ll": [
+     15.315,
+     76.466
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "08:30-17:30",
+    "s": 9,
+    "p": 7,
+    "d": "The Mahanavami platform where kings watched festivals, and a perfect geometric tank."
+   },
+   {
+    "n": "Lotus Mahal & Elephant Stables",
+    "c": "palace",
+    "ll": [
+     15.319,
+     76.471
+    ],
+    "m": 60,
+    "f": 40,
+    "o": "08:30-17:30",
+    "s": 9,
+    "p": 8,
+    "d": "An airy pavilion for the queens and domed stables for eleven royal elephants."
+   },
+   {
+    "n": "Coracle ride on the Tungabhadra",
+    "c": "adventure",
+    "ll": [
+     15.342,
+     76.48
+    ],
+    "m": 45,
+    "f": 300,
+    "o": "08:00-17:30",
+    "s": 8,
+    "p": 7,
+    "d": "Spin downriver in a round basket boat past ruined shrines in the rocks."
+   },
+   {
+    "n": "Anegundi village",
+    "c": "village",
+    "ll": [
+     15.354,
+     76.489
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 9,
+    "p": 3,
+    "d": "An older capital across the river with village life, banana-fibre crafts and Hanuman's hill."
+   },
+   {
+    "n": "Matanga Hill sunrise",
+    "c": "viewpoint",
+    "ll": [
+     15.338,
+     76.467
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "05:30-10:00",
+    "s": 10,
+    "p": 6,
+    "d": "The highest point in Hampi, where sunrise lights the boulder fields gold.",
+    "a": "e"
+   }
+  ]
+ },
+ {
+  "id": "gokarna",
+  "n": "Gokarna",
+  "st": "Karnataka",
+  "r": "South",
+  "ty": [
+   "beach",
+   "spiritual",
+   "offbeat"
+  ],
+  "ll": [
+   14.5479,
+   74.3188
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "coast",
+  "food": 700,
+  "stay": 2000,
+  "pop": 7,
+  "alt": 10,
+  "tag": "A temple town with secret beaches over the cliffs",
+  "ab": "Gokarna is an ancient Shiva pilgrimage town with a string of beautiful beaches linked by cliff trails: Kudle, Om, Half Moon and Paradise.",
+  "ppl": "Gokarna's Havyaka Brahmin families have served the Mahabaleshwar temple for generations; their homes have red-tiled roofs and inner courtyards. On the beaches, fishing families run shacks and boat rides, and the town still closes early.",
+  "eat": [
+   "Fish thali",
+   "Neer dosa",
+   "Banana buns"
+  ],
+  "fest": [
+   [
+    "Mahashivratri",
+    2
+   ]
+  ],
+  "lang": "Kannada, Konkani",
+  "go": "Gokarna Road station; Goa airport 140 km",
+  "w": "Gokarna",
+  "hub": [
+   "Gokarna town",
+   14.5479,
+   74.3188
+  ],
+  "places": [
+   {
+    "n": "Om Beach",
+    "c": "beach",
+    "ll": [
+     14.52,
+     74.319
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "24h",
+    "s": 9,
+    "p": 8,
+    "d": "Two curved bays forming the Om symbol, with water sports and cafés."
+   },
+   {
+    "n": "Kudle Beach",
+    "c": "beach",
+    "ll": [
+     14.53,
+     74.315
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "24h",
+    "s": 8,
+    "p": 7,
+    "d": "A relaxed beach below the cliffs, with shacks and sunset yoga.",
+    "a": "n"
+   },
+   {
+    "n": "Half Moon & Paradise beach trek",
+    "c": "trek",
+    "ll": [
+     14.51,
+     74.317
+    ],
+    "m": 240,
+    "f": 0,
+    "o": "07:00-17:00",
+    "s": 9,
+    "p": 5,
+    "d": "A cliff trail to hidden beaches reachable only on foot or by boat.",
+    "a": "ke"
+   },
+   {
+    "n": "Mahabaleshwar Temple",
+    "c": "temple",
+    "ll": [
+     14.543,
+     74.317
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 8,
+    "p": 8,
+    "d": "The Atmalinga temple, one of India's holiest Shiva shrines; men enter bare-chested.",
+    "w": "Mahabaleshwar_Temple,_Gokarna"
+   },
+   {
+    "n": "Mirjan Fort",
+    "c": "fort",
+    "ll": [
+     14.49,
+     74.42
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "08:00-17:30",
+    "s": 8,
+    "p": 4,
+    "d": "A moss-covered laterite fort with moats and wells, wonderful after the rains.",
+    "w": "Mirjan_Fort"
+   },
+   {
+    "n": "Yana Rocks",
+    "c": "nature",
+    "ll": [
+     14.59,
+     74.56
+    ],
+    "m": 150,
+    "f": 0,
+    "o": "08:00-17:00",
+    "s": 9,
+    "p": 4,
+    "d": "Two giant black limestone pinnacles in the forest, with caves and a temple.",
+    "w": "Yana,_Karnataka"
+   }
+  ]
+ },
+ {
+  "id": "chikmagalur",
+  "n": "Chikkamagaluru",
+  "st": "Karnataka",
+  "r": "South",
+  "ty": [
+   "hills",
+   "heritage"
+  ],
+  "ll": [
+   13.3161,
+   75.772
+  ],
+  "bm": [
+   9,
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "hills",
+  "food": 800,
+  "stay": 3000,
+  "pop": 7,
+  "alt": 1090,
+  "tag": "Where coffee came to India, and Hoysala temples nearby",
+  "ab": "Chikkamagaluru is where Baba Budan planted India's first coffee beans in the 1600s. Karnataka's highest peaks, waterfalls and the Hoysala temples of Belur and Halebidu are around it.",
+  "ppl": "Coffee estates here are family affairs, where three generations live in bungalows among the bushes and workers pick ripe red cherries in winter. The Baba Budangiri shrine is honoured by both Hindus and Muslims, a shared tradition centuries old.",
+  "eat": [
+   "Filter coffee",
+   "Akki roti",
+   "Kadubu",
+   "Malnad pork curry"
+  ],
+  "fest": [
+   [
+    "Chikkamagaluru Habba",
+    1
+   ]
+  ],
+  "lang": "Kannada",
+  "go": "Kadur station 40 km; Mangaluru airport 150 km",
+  "w": "Chikmagalur",
+  "hub": [
+   "Chikkamagaluru town",
+   13.3161,
+   75.772
+  ],
+  "places": [
+   {
+    "n": "Mullayanagiri Peak",
+    "c": "viewpoint",
+    "ll": [
+     13.392,
+     75.721
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "06:00-18:00",
+    "s": 9,
+    "p": 8,
+    "d": "Karnataka's highest peak (1,930 m), a short climb from the road to a small temple.",
+    "w": "Mullayanagiri",
+    "a": "e"
+   },
+   {
+    "n": "Baba Budangiri",
+    "c": "spiritual",
+    "ll": [
+     13.43,
+     75.75
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "A hill shrine revered by Hindus and Muslims, where coffee first came to India."
+   },
+   {
+    "n": "Belur Chennakeshava Temple",
+    "c": "temple",
+    "ll": [
+     13.162,
+     75.865
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "07:30-19:30",
+    "s": 10,
+    "p": 7,
+    "d": "A 12th-century Hoysala temple with bracket figures of dancers carved like jewellery.",
+    "w": "Chennakeshava_Temple,_Belur"
+   },
+   {
+    "n": "Halebidu Hoysaleswara Temple",
+    "c": "temple",
+    "ll": [
+     13.213,
+     75.995
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "06:30-21:00",
+    "s": 10,
+    "p": 6,
+    "d": "Twin temples whose outer walls carry thousands of friezes of elephants, lions and epics.",
+    "w": "Hoysaleswara_Temple"
+   },
+   {
+    "n": "Hebbe Falls",
+    "c": "waterfall",
+    "ll": [
+     13.528,
+     75.72
+    ],
+    "m": 150,
+    "f": 500,
+    "o": "08:00-16:00",
+    "s": 8,
+    "p": 5,
+    "d": "A jeep ride through coffee estates to a 168 m waterfall."
+   },
+   {
+    "n": "Coffee estate stay walk",
+    "c": "nature",
+    "ll": [
+     13.35,
+     75.76
+    ],
+    "m": 90,
+    "f": 300,
+    "o": "08:00-17:00",
+    "s": 8,
+    "p": 4,
+    "d": "Walk the estate with a planter and taste fresh-roasted coffee."
+   }
+  ]
+ },
+ {
+  "id": "bengaluru",
+  "n": "Bengaluru",
+  "st": "Karnataka",
+  "r": "South",
+  "ty": [
+   "city"
+  ],
+  "ll": [
+   12.9716,
+   77.5946
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3,
+   6,
+   7,
+   8,
+   9
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "city",
+  "food": 1000,
+  "stay": 3200,
+  "pop": 7,
+  "alt": 920,
+  "tag": "The garden city of tech, breweries and old palaces",
+  "ab": "Bengaluru is India's tech capital with a mild climate, great gardens, a Tudor-style palace, Tipu Sultan's summer palace and the country's craft-beer scene.",
+  "ppl": "Old Bengaluru families still start the day at darshinis, standing cafés for idli and filter coffee, and in Basavanagudi the Kadalekai Parishe peanut fair has run for centuries. Young people from every state work here, and the city is famous for its pubs, gigs and weekend escapes to the hills.",
+  "eat": [
+   "Masala dosa at Vidyarthi Bhavan",
+   "Idli & filter coffee",
+   "Donne biryani",
+   "Ragi mudde"
+  ],
+  "fest": [
+   [
+    "Karaga",
+    4
+   ],
+   [
+    "Kadalekai Parishe",
+    11
+   ],
+   [
+    "Lalbagh Flower Show",
+    1
+   ]
+  ],
+  "lang": "Kannada, English, Hindi",
+  "go": "Kempegowda International Airport; KSR Bengaluru station",
+  "w": "Bangalore",
+  "hub": [
+   "MG Road",
+   12.975,
+   77.606
+  ],
+  "places": [
+   {
+    "n": "Lalbagh Botanical Garden",
+    "c": "garden",
+    "ll": [
+     12.9507,
+     77.5848
+    ],
+    "m": 90,
+    "f": 30,
+    "o": "06:00-19:00",
+    "s": 8,
+    "p": 8,
+    "d": "A 240-acre garden with a Victorian glasshouse and a 3,000-million-year-old rock outcrop.",
+    "w": "Lal_Bagh"
+   },
+   {
+    "n": "Cubbon Park",
+    "c": "garden",
+    "ll": [
+     12.9763,
+     77.5929
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "06:00-18:00",
+    "s": 7,
+    "p": 8,
+    "d": "A green heart of rain trees around the red Attara Kacheri and State Library.",
+    "w": "Cubbon_Park"
+   },
+   {
+    "n": "Bangalore Palace",
+    "c": "palace",
+    "ll": [
+     12.998,
+     77.592
+    ],
+    "m": 75,
+    "f": 230,
+    "o": "10:00-17:30",
+    "s": 7,
+    "p": 7,
+    "d": "A Tudor-style palace modelled on Windsor Castle.",
+    "w": "Bangalore_Palace"
+   },
+   {
+    "n": "Tipu Sultan's Summer Palace",
+    "c": "palace",
+    "ll": [
+     12.9593,
+     77.5737
+    ],
+    "m": 45,
+    "f": 25,
+    "o": "08:30-17:30",
+    "s": 7,
+    "p": 5,
+    "d": "A teak palace with painted arches, near the old Kote Venkataramana temple.",
+    "w": "Tipu_Sultan's_Summer_Palace"
+   },
+   {
+    "n": "VV Puram Food Street",
+    "c": "food",
+    "ll": [
+     12.948,
+     77.573
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "17:00-23:00",
+    "s": 9,
+    "p": 6,
+    "d": "A lane of vegetarian street food: holige, dosa, gulkand and more.",
+    "a": "n"
+   },
+   {
+    "n": "Nandi Hills sunrise",
+    "c": "viewpoint",
+    "ll": [
+     13.37,
+     77.683
+    ],
+    "m": 150,
+    "f": 20,
+    "o": "06:00-18:00",
+    "s": 8,
+    "p": 8,
+    "d": "A hill fort above the clouds an hour from the city.",
+    "w": "Nandi_Hills,_India"
+   },
+   {
+    "n": "Bannerghatta Biological Park",
+    "c": "wildlife",
+    "ll": [
+     12.8,
+     77.577
+    ],
+    "m": 180,
+    "f": 400,
+    "o": "09:30-17:00",
+    "x": [
+     2
+    ],
+    "s": 7,
+    "p": 7,
+    "d": "Lion and tiger safaris and a butterfly park on the city's edge.",
+    "w": "Bannerghatta_National_Park"
+   },
+   {
+    "n": "Craft brewery evening",
+    "c": "nightlife",
+    "ll": [
+     12.972,
+     77.64
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "18:00-23:30",
+    "s": 7,
+    "p": 7,
+    "d": "Indiranagar's microbreweries, India's craft-beer capital.",
+    "a": "nk"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad",
+  "n": "Hyderabad",
+  "st": "Telangana",
+  "r": "South",
+  "ty": [
+   "city",
+   "heritage"
+  ],
+  "ll": [
+   17.385,
+   78.4867
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   3
+  ],
+  "terr": "city",
+  "food": 900,
+  "stay": 3000,
+  "pop": 9,
+  "alt": 542,
+  "tag": "City of Nizams, pearls and the best biryani in India",
+  "ab": "Hyderabad was the capital of the Qutb Shahi kings and the Nizams, once the world's richest men. Charminar, Golconda fort and the old city's bazaars sit beside a modern tech city.",
+  "ppl": "Hyderabadis mix Telugu and Urdu into their own Dakhni speech ('hau', 'nakko'). The old city's chai is Irani, served with Osmania biscuits, and Ramzan nights bring haleem cooked for hours in giant pots. Laad Bazaar's bangle makers have worked lac and stones for 400 years.",
+  "eat": [
+   "Hyderabadi dum biryani",
+   "Haleem (Ramzan)",
+   "Irani chai & Osmania biscuit",
+   "Double ka meetha",
+   "Pathar ka gosht"
+  ],
+  "fest": [
+   [
+    "Bonalu",
+    7
+   ],
+   [
+    "Ramzan nights in the old city",
+    3
+   ],
+   [
+    "Bathukamma",
+    10
+   ]
+  ],
+  "lang": "Telugu, Urdu, Hindi",
+  "go": "Rajiv Gandhi International Airport; Secunderabad and Hyderabad stations",
+  "w": "Hyderabad",
+  "hub": [
+   "Charminar",
+   17.3616,
+   78.4747
+  ],
+  "places": [
+   {
+    "n": "Charminar & Laad Bazaar",
+    "c": "heritage",
+    "ll": [
+     17.3616,
+     78.4747
+    ],
+    "m": 90,
+    "f": 25,
+    "o": "09:30-17:30",
+    "s": 9,
+    "p": 10,
+    "d": "The four-minaret arch of 1591, surrounded by a bazaar of glittering lac bangles.",
+    "w": "Charminar"
+   },
+   {
+    "n": "Chowmahalla Palace",
+    "c": "palace",
+    "ll": [
+     17.358,
+     78.472
+    ],
+    "m": 90,
+    "f": 80,
+    "o": "10:00-17:00",
+    "x": [
+     5
+    ],
+    "s": 9,
+    "p": 7,
+    "d": "The Nizams' palace of chandeliers, vintage cars and a durbar hall.",
+    "w": "Chowmahalla_Palace"
+   },
+   {
+    "n": "Golconda Fort",
+    "c": "fort",
+    "ll": [
+     17.3833,
+     78.4011
+    ],
+    "m": 150,
+    "f": 25,
+    "o": "08:00-17:30",
+    "s": 9,
+    "p": 9,
+    "d": "The diamond-trading fortress where a handclap at the gate can be heard at the top.",
+    "w": "Golconda_Fort"
+   },
+   {
+    "n": "Qutb Shahi Tombs",
+    "c": "heritage",
+    "ll": [
+     17.395,
+     78.396
+    ],
+    "m": 75,
+    "f": 20,
+    "o": "09:30-17:30",
+    "x": [
+     5
+    ],
+    "s": 9,
+    "p": 5,
+    "d": "Domed tombs of the Golconda kings in a beautifully restored park.",
+    "w": "Qutb_Shahi_tombs"
+   },
+   {
+    "n": "Salar Jung Museum",
+    "c": "museum",
+    "ll": [
+     17.3713,
+     78.4803
+    ],
+    "m": 150,
+    "f": 50,
+    "o": "10:00-17:00",
+    "x": [
+     5
+    ],
+    "s": 9,
+    "p": 7,
+    "d": "One man's collection of 40,000 objects, including the veiled Rebecca and a musical clock.",
+    "w": "Salar_Jung_Museum"
+   },
+   {
+    "n": "Hussain Sagar & Buddha statue",
+    "c": "lake",
+    "ll": [
+     17.4239,
+     78.4738
+    ],
+    "m": 75,
+    "f": 70,
+    "o": "09:00-21:00",
+    "s": 7,
+    "p": 8,
+    "d": "A boat ride to a monolithic Buddha in the middle of the lake at sunset.",
+    "w": "Hussain_Sagar",
+    "a": "n"
+   },
+   {
+    "n": "Old city biryani & chai trail",
+    "c": "food",
+    "ll": [
+     17.364,
+     78.476
+    ],
+    "m": 120,
+    "f": 0,
+    "o": "17:00-23:59",
+    "s": 10,
+    "p": 7,
+    "d": "Irani chai at Nimrah, biryani and kebabs as the old city comes alive at night.",
+    "a": "n"
+   },
+   {
+    "n": "Ramoji Film City",
+    "c": "adventure",
+    "ll": [
+     17.2543,
+     78.6808
+    ],
+    "m": 420,
+    "f": 1350,
+    "o": "09:00-17:30",
+    "s": 7,
+    "p": 8,
+    "d": "The world's largest film studio complex with sets, shows and rides.",
+    "w": "Ramoji_Film_City"
+   }
+  ]
+ },
+ {
+  "id": "tirupati",
+  "n": "Tirupati & Tirumala",
+  "st": "Andhra Pradesh",
+  "r": "South",
+  "ty": [
+   "spiritual",
+   "hills"
+  ],
+  "ll": [
+   13.6288,
+   79.4192
+  ],
+  "bm": [
+   9,
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   1,
+   2
+  ],
+  "terr": "hills",
+  "food": 600,
+  "stay": 2000,
+  "pop": 9,
+  "alt": 162,
+  "tag": "The world's most visited temple on seven hills",
+  "ab": "Tirumala's Sri Venkateswara temple, on the seven hills above Tirupati, is one of the world's richest and busiest pilgrimage sites. Pilgrims walk up the 3,550 steps or take the ghat road.",
+  "ppl": "Many pilgrims offer their hair to the god as a sign of surrender, so you'll see families with freshly shaved heads everywhere. The famous Tirupati laddu is made in a temple kitchen that turns out lakhs a day, and devotees walk the Alipiri steps chanting 'Govinda'.",
+  "eat": [
+   "Tirupati laddu",
+   "Pongal",
+   "Andhra meals"
+  ],
+  "fest": [
+   [
+    "Brahmotsavam",
+    10
+   ],
+   [
+    "Vaikunta Ekadasi",
+    12
+   ]
+  ],
+  "lang": "Telugu, Tamil",
+  "go": "Tirupati airport; Tirupati station",
+  "w": "Tirumala_Venkateswara_Temple",
+  "hub": [
+   "Tirupati bus stand",
+   13.6288,
+   79.4192
+  ],
+  "places": [
+   {
+    "n": "Tirumala Venkateswara Temple",
+    "c": "temple",
+    "ll": [
+     13.6833,
+     79.3474
+    ],
+    "m": 300,
+    "f": 300,
+    "o": "24h",
+    "s": 10,
+    "p": 10,
+    "d": "Darshan of Lord Venkateswara; the special-entry ticket shortens the wait.",
+    "t": "Book darshan slots on the TTD website weeks ahead.",
+    "w": "Tirumala_Venkateswara_Temple"
+   },
+   {
+    "n": "Alipiri footpath",
+    "c": "trek",
+    "ll": [
+     13.651,
+     79.406
+    ],
+    "m": 240,
+    "f": 0,
+    "o": "04:00-22:00",
+    "s": 8,
+    "p": 7,
+    "d": "3,550 steps up the hill through forest, the traditional pilgrim route.",
+    "a": "ke"
+   },
+   {
+    "n": "Sri Padmavathi Temple",
+    "c": "temple",
+    "ll": [
+     13.607,
+     79.45
+    ],
+    "m": 60,
+    "f": 0,
+    "o": "05:00-21:00",
+    "s": 8,
+    "p": 8,
+    "d": "The temple of the god's consort; tradition says visit before Tirumala."
+   },
+   {
+    "n": "Silathoranam",
+    "c": "nature",
+    "ll": [
+     13.687,
+     79.343
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "08:00-18:00",
+    "s": 7,
+    "p": 5,
+    "d": "A rare natural rock arch 1.5 billion years old near the temple.",
+    "w": "Silathoranam"
+   },
+   {
+    "n": "Kapila Theertham",
+    "c": "waterfall",
+    "ll": [
+     13.65,
+     79.418
+    ],
+    "m": 45,
+    "f": 0,
+    "o": "06:00-20:00",
+    "s": 7,
+    "p": 6,
+    "d": "A waterfall into a temple tank at the foot of the hills."
+   },
+   {
+    "n": "Chandragiri Fort",
+    "c": "fort",
+    "ll": [
+     13.587,
+     79.317
+    ],
+    "m": 75,
+    "f": 25,
+    "o": "09:00-17:00",
+    "x": [
+     5
+    ],
+    "s": 7,
+    "p": 3,
+    "d": "A Vijayanagara fort and palace with an evening sound and light show."
+   }
+  ]
+ },
+ {
+  "id": "araku",
+  "n": "Araku Valley",
+  "st": "Andhra Pradesh",
+  "r": "South",
+  "ty": [
+   "hills",
+   "offbeat"
+  ],
+  "ll": [
+   18.3273,
+   82.8775
+  ],
+  "bm": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "days": [
+   2,
+   2
+  ],
+  "terr": "hills",
+  "food": 700,
+  "stay": 2400,
+  "pop": 6,
+  "alt": 911,
+  "tag": "Tribal coffee country in the Eastern Ghats",
+  "ab": "Araku is a high valley of coffee farms, Borra's huge limestone caves and tribal villages, reached by one of India's most scenic railway lines from Visakhapatnam.",
+  "ppl": "Over a dozen Adivasi communities live here, and the Dhimsa dance, women in a circle moving to drums, welcomes visitors. Araku coffee, now sold in Paris, is grown organically by tribal farmers' cooperatives on small plots.",
+  "eat": [
+   "Bamboo chicken",
+   "Araku coffee",
+   "Millet rotis"
+  ],
+  "fest": [
+   [
+    "Araku Utsav",
+    12
+   ]
+  ],
+  "lang": "Telugu, Kui, Adivasi languages",
+  "go": "Araku station on the Kirandul line; Visakhapatnam airport 115 km",
+  "w": "Araku_Valley",
+  "hub": [
+   "Araku town",
+   18.3273,
+   82.8775
+  ],
+  "places": [
+   {
+    "n": "Borra Caves",
+    "c": "cave",
+    "ll": [
+     18.28,
+     83.04
+    ],
+    "m": 90,
+    "f": 60,
+    "o": "10:00-17:30",
+    "s": 9,
+    "p": 8,
+    "d": "Million-year-old limestone caves with stalactites in shapes of gods and animals.",
+    "w": "Borra_Caves"
+   },
+   {
+    "n": "Araku Coffee Museum",
+    "c": "museum",
+    "ll": [
+     18.33,
+     82.87
+    ],
+    "m": 45,
+    "f": 100,
+    "o": "09:00-20:00",
+    "s": 7,
+    "p": 6,
+    "d": "The story of coffee from bean to cup, with handmade chocolates to taste."
+   },
+   {
+    "n": "Tribal Museum",
+    "c": "museum",
+    "ll": [
+     18.327,
+     82.876
+    ],
+    "m": 60,
+    "f": 40,
+    "o": "10:00-18:00",
+    "s": 8,
+    "p": 6,
+    "d": "Life-size models of tribal homes, hunting and rituals, with Dhimsa dance shows."
+   },
+   {
+    "n": "Galikonda viewpoint",
+    "c": "viewpoint",
+    "ll": [
+     18.285,
+     82.945
+    ],
+    "m": 30,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 8,
+    "p": 5,
+    "d": "One of the highest points in the Eastern Ghats, over coffee and silver-oak forest."
+   },
+   {
+    "n": "Chaparai waterfalls",
+    "c": "waterfall",
+    "ll": [
+     18.36,
+     82.81
+    ],
+    "m": 60,
+    "f": 20,
+    "o": "08:00-17:00",
+    "s": 7,
+    "p": 5,
+    "d": "Water tumbling over flat rocks, a favourite local picnic spot."
+   },
+   {
+    "n": "Tribal coffee farm visit",
+    "c": "village",
+    "ll": [
+     18.34,
+     82.9
+    ],
+    "m": 90,
+    "f": 200,
+    "o": "08:00-17:00",
+    "s": 9,
+    "p": 2,
+    "d": "Walk a smallholder's organic coffee plot and share a cup with the family."
+   }
+  ]
+ },
+ {
+  "id": "port-blair",
+  "n": "Port Blair",
+  "st": "Andaman & Nicobar Islands",
+  "r": "Islands",
+  "ty": [
+   "islands",
+   "beach",
+   "heritage"
+  ],
+  "ll": [
+   11.6234,
+   92.7265
+  ],
+  "bm": [
+   11,
+   12,
+   1,
+   2,
+   3,
+   4
+  ],
+  "days": [
+   2,
+   2
+  ],
+  "terr": "islands",
+  "food": 1000,
+  "stay": 3500,
+  "pop": 8,
+  "alt": 16,
+  "tag": "History, coral and the start of island-hopping",
+  "ab": "Sri Vijaya Puram (Port Blair) is the capital of the Andamans: the Cellular Jail where freedom fighters were imprisoned, colonial ruins on Ross Island and coral reefs at North Bay.",
+  "ppl": "The Andamans are a mini-India: families from Bengal, Tamil Nadu, Kerala and Ranchi settled here, and people greet each other with 'Jai Hind'. The islands' first peoples, like the Jarawa and Onge, live in protected reserves that visitors must respect and never photograph.",
+  "eat": [
+   "Grilled lobster & crab",
+   "Fish curry rice",
+   "Coconut-based curries"
+  ],
+  "fest": [
+   [
+    "Island Tourism Festival",
+    1
+   ]
+  ],
+  "lang": "Hindi, Bengali, Tamil",
+  "go": "Veer Savarkar International Airport; ships from Chennai and Kolkata",
+  "w": "Port_Blair",
+  "hub": [
+   "Aberdeen Bazaar",
+   11.67,
+   92.74
+  ],
+  "places": [
+   {
+    "n": "Cellular Jail",
+    "c": "heritage",
+    "ll": [
+     11.675,
+     92.748
+    ],
+    "m": 90,
+    "f": 30,
+    "o": "09:00-17:00",
+    "x": [
+     1
+    ],
+    "s": 10,
+    "p": 10,
+    "d": "The 'Kala Pani' prison where freedom fighters were held in solitary cells.",
+    "w": "Cellular_Jail"
+   },
+   {
+    "n": "Cellular Jail light & sound show",
+    "c": "culture",
+    "ll": [
+     11.6752,
+     92.7478
+    ],
+    "m": 60,
+    "f": 300,
+    "o": "17:30-19:00",
+    "s": 9,
+    "p": 8,
+    "d": "An emotional evening show in the jail courtyard.",
+    "a": "n"
+   },
+   {
+    "n": "Ross Island (Netaji Subhas Chandra Bose Dweep)",
+    "c": "heritage",
+    "ll": [
+     11.676,
+     92.763
+    ],
+    "m": 120,
+    "f": 50,
+    "o": "08:30-16:00",
+    "x": [
+     3
+    ],
+    "s": 9,
+    "p": 8,
+    "d": "The British headquarters, now ruins swallowed by banyan roots, with tame deer and peacocks.",
+    "w": "Ross_Island,_Andaman_and_Nicobar_Islands"
+   },
+   {
+    "n": "North Bay coral & glass-bottom boat",
+    "c": "beach",
+    "ll": [
+     11.7,
+     92.76
+    ],
+    "m": 150,
+    "f": 1000,
+    "o": "08:30-15:30",
+    "s": 8,
+    "p": 7,
+    "d": "Snorkel or look through a glass floor at coral and fish."
+   },
+   {
+    "n": "Chidiya Tapu sunset",
+    "c": "viewpoint",
+    "ll": [
+     11.491,
+     92.709
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "06:00-18:30",
+    "s": 9,
+    "p": 6,
+    "d": "A bird-filled forest point at the south tip with the islands' best sunset.",
+    "a": "n"
+   },
+   {
+    "n": "Corbyn's Cove beach",
+    "c": "beach",
+    "ll": [
+     11.646,
+     92.745
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "07:00-18:00",
+    "s": 7,
+    "p": 7,
+    "d": "A palm-lined beach near town with water sports."
+   },
+   {
+    "n": "Samudrika Naval Marine Museum",
+    "c": "museum",
+    "ll": [
+     11.664,
+     92.745
+    ],
+    "m": 60,
+    "f": 50,
+    "o": "09:00-17:00",
+    "x": [
+     1
+    ],
+    "s": 7,
+    "p": 5,
+    "d": "Corals, shells and the islands' tribes and history, run by the Navy."
+   }
+  ]
+ },
+ {
+  "id": "havelock",
+  "n": "Havelock & Neil (Swaraj & Shaheed Dweep)",
+  "st": "Andaman & Nicobar Islands",
+  "r": "Islands",
+  "ty": [
+   "islands",
+   "beach",
+   "adventure"
+  ],
+  "ll": [
+   12.01,
+   92.98
+  ],
+  "bm": [
+   11,
+   12,
+   1,
+   2,
+   3,
+   4
+  ],
+  "days": [
+   2,
+   4
+  ],
+  "terr": "islands",
+  "food": 1100,
+  "stay": 4000,
+  "pop": 9,
+  "alt": 5,
+  "tag": "Turquoise water, white sand and the best diving in India",
+  "ab": "Havelock (Swaraj Dweep) has Radhanagar, one of Asia's finest beaches, and coral reefs for diving. Smaller Neil (Shaheed Dweep) is a quiet island of natural rock bridges and village roads. Ferries link them to Port Blair.",
+  "ppl": "Bengali settler families, brought here in the 1960s, farm betel nut and paddy and run small guesthouses; the island's villages are simply named by numbers. Life moves at ferry speed, and the whole island goes quiet after 9 PM.",
+  "eat": [
+   "Fresh catch of the day",
+   "Bengali fish thali",
+   "Tender coconut"
+  ],
+  "fest": [],
+  "lang": "Bengali, Hindi",
+  "go": "Ferries from Port Blair (1.5–2.5 hours)",
+  "w": "Swaraj_Island",
+  "hub": [
+   "Havelock jetty",
+   12.036,
+   92.986
+  ],
+  "places": [
+   {
+    "n": "Radhanagar Beach",
+    "c": "beach",
+    "ll": [
+     11.984,
+     92.952
+    ],
+    "m": 180,
+    "f": 0,
+    "o": "06:00-18:00",
+    "s": 10,
+    "p": 9,
+    "d": "A long arc of white sand and turquoise water with forest behind, famous for its sunsets.",
+    "w": "Radhanagar_Beach",
+    "a": "n"
+   },
+   {
+    "n": "Elephant Beach snorkelling",
+    "c": "beach",
+    "ll": [
+     12.078,
+     92.955
+    ],
+    "m": 180,
+    "f": 1500,
+    "o": "08:00-15:00",
+    "s": 9,
+    "p": 8,
+    "d": "A boat ride to shallow coral reefs full of parrotfish and clownfish."
+   },
+   {
+    "n": "Scuba diving (try dive)",
+    "c": "adventure",
+    "ll": [
+     12.01,
+     92.98
+    ],
+    "m": 180,
+    "f": 4500,
+    "o": "07:00-15:00",
+    "s": 10,
+    "p": 7,
+    "d": "A guided first dive among corals with a certified instructor.",
+    "a": "k"
+   },
+   {
+    "n": "Kalapathar Beach",
+    "c": "beach",
+    "ll": [
+     12.03,
+     93.016
+    ],
+    "m": 90,
+    "f": 0,
+    "o": "06:00-18:00",
+    "s": 8,
+    "p": 5,
+    "d": "A quiet beach edged by black rocks, best at sunrise."
+   },
+   {
+    "n": "Natural Bridge, Neil Island",
+    "c": "nature",
+    "ll": [
+     11.835,
+     93.05
+    ],
+    "m": 90,
+    "f": 50,
+    "o": "07:00-16:00",
+    "s": 9,
+    "p": 6,
+    "d": "A coral rock arch exposed at low tide, with tide pools of sea life."
+   },
+   {
+    "n": "Laxmanpur Beach, Neil",
+    "c": "beach",
+    "ll": [
+     11.84,
+     93.01
+    ],
+    "m": 75,
+    "f": 0,
+    "o": "06:00-18:00",
+    "s": 8,
+    "p": 5,
+    "d": "A wide, shell-strewn beach for the sunset on Neil."
+   }
+  ]
+ }
+]

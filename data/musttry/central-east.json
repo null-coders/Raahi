@@ -1,0 +1,100 @@
+{
+"khajuraho": [
+["Bundeli thali","Dish","Dhabas around the Western Group",180,"A ghee-rich platter of dal, kadhi, seasonal sabzi and hot rotis, the everyday food of Bundelkhand.","Thali"],
+["Dal bafla","Dish","Restaurants in Khajuraho town",160,"Wheat balls baked on coals, broken into hot dal and drowned in ghee, with garlic chutney on the side.","Dal baati"],
+["Poha-jalebi breakfast","Street food","Sweet shops near the bus stand",50,"Fluffy poha with sev and onion, followed by a hot crisp jalebi. Central India's favourite morning pairing.","Poha"],
+["Mahua laddoo","Sweet","Tribal cooperative stalls",60,"Earthy laddoos made from the flower of the mahua tree, a Bundelkhand and Gond speciality.","Mahua"],
+["Light and sound show at the Western Group","Experience","Western Group of temples",700,"After dark the temples glow and the story of the Chandela kings is told over their carvings.","Khajuraho Western Group temples"]
+],
+"pachmarhi": [
+["Poha-jalebi","Street food","Jaistambh Chowk stalls",50,"The Madhya Pradesh breakfast: soft poha topped with sev, then a syrupy jalebi straight from the pan.","Poha"],
+["Bhutte ka kees","Dish","Local eateries on the main road",70,"Grated corn slow-cooked in milk and spices, a Malwa classic that tastes best on a cool evening.","Bhutte ka kees"],
+["Dal bafla","Dish","Restaurants near Jaistambh Chowk",150,"Baked wheat balls dunked in ghee and eaten with spicy dal and chutney.","Dal baati"],
+["Sunset from Dhoopgarh","Experience","Dhoopgarh, the highest point of the Satpuras",0,"At 1,350 m this is the top of central India. Arrive early and watch the plains turn gold.","Dhoopgarh Pachmarhi"],
+["Swim at Bee Falls","Experience","Bee Falls, a short drive from town",0,"A plunge pool under a clear waterfall, best from July to October when the forest is loud and green.","Bee Falls Pachmarhi"]
+],
+"ujjain": [
+["Poha-jalebi","Street food","Chhatri Chowk and Freeganj",50,"Ujjain starts its day with steaming poha and jalebi, often straight after darshan.","Poha"],
+["Kachori","Street food","Sweet shops near Mahakal",30,"Hot, flaky, dal-stuffed kachori with sweet-and-sour chutney, sold from early morning.","Kachori"],
+["Dal bafla","Dish","Restaurants around Mahakal temple",160,"Malwa's baked wheat balls with ghee, dal and a garlic chutney that bites back.","Dal baati"],
+["Bhasma aarti at Mahakaleshwar","Experience","Mahakaleshwar Jyotirlinga",200,"The pre-dawn ash aarti is one of the most intense rituals in India. Book your slot online well ahead.","Mahakaleshwar Ujjain"],
+["Dawn boat ride at Omkareshwar","Experience","Narmada ghats, Omkareshwar",150,"Glide beneath the island temple shaped like the sacred syllable Om as the river wakes up.","Omkareshwar"]
+],
+"kanha": [
+["Kodo-kutki millet meal","Dish","Baiga and Gond homestays near Mukki",120,"Millet porridge and rotis cooked on a wood fire. Nutty, filling and nothing like city food.","Kodo millet"],
+["Mahua laddoo","Sweet","Village stalls near the park gates",60,"Sweet, earthy laddoos from the mahua flower that the Baiga and Gond have made for generations.","Mahua"],
+["Chana bhaji and puri","Street food","Dhabas near the park gates",50,"A hot, no-frills breakfast to eat before the early morning safari.","Chole"],
+["Dawn jeep safari for the tiger","Experience","Kanha core zone",3500,"Kanha's sal forests and open meadows are where The Jungle Book was imagined. Book the zone and jeep early.","Kanha tiger"],
+["Barasingha in Kisli meadows","Experience","Kisli and Mukki zones",0,"Kanha is the only place that saved the hard-ground barasingha. Look for the stags in the morning mist.","Barasingha"]
+],
+"orchha": [
+["Bundeli thali","Dish","Dhabas near Ram Raja Temple",170,"Dal, kadhi, sabzi, hot rotis and a sweet, served the way Bundelkhand eats at home.","Thali"],
+["Bafauri","Street food","Market lanes near the temple",30,"Steamed gram-flour dumplings in a tangy dal, a rustic Bundeli snack you rarely find outside the region.","Bafauri"],
+["Kachori","Street food","Sweet shops on the main road",30,"Hot kachori with aloo sabzi, a quick breakfast before the palaces open.","Kachori"],
+["Evening aarti at Ram Raja Temple","Experience","Ram Raja Temple",0,"Ram is worshipped as a king here, with a daily guard of honour by armed police. Nowhere else does this.","Ram Raja Temple Orchha"],
+["Sunset among the royal chhatris","Experience","Kanchan Ghat on the Betwa",0,"Fourteen cenotaphs of Orchha's kings glow gold above the river while vultures circle overhead.","Orchha chhatris Betwa"]
+],
+"bhopal": [
+["Bhopali gosht korma","Dish","Old city restaurants near Jama Masjid",320,"Rich, slow-cooked mutton in a thick gravy, with a Bhopali twist of local spices. Eat it with sheermal.","Korma"],
+["Seekh kebabs at Chatori Gali","Street food","Chatori Gali, Old Bhopal",150,"Smoky kebabs and tikkas grilled over charcoal in the narrow lane beside the mosque, busiest after dark.","Seekh kebab"],
+["Poha-jalebi","Street food","New Market and Hamidia Road",50,"Bhopal's morning ritual: soft poha with a crunchy topping and a jalebi on the side.","Poha"],
+["Sulemani chai","Drink","Old city tea stalls",20,"A clear, lightly spiced black tea, sipped slowly at a street corner.","Chai"],
+["Boating on the Upper Lake","Experience","Boat Club, Upper Lake",100,"Bhopal is the City of Lakes. Take a boat out at sunset and watch the old city lights come on.","Upper Lake Bhopal"]
+],
+"darjeeling": [
+["Momos","Street food","Chowrasta and Mall Road",80,"Steamed or fried dumplings with a fiery tomato chutney, the signature snack of the hills.","Momo"],
+["Thukpa","Dish","Hill cafés near the Mall",120,"A hot noodle soup that keeps the mountain chill away. Ask for it with chicken or vegetables.","Thukpa"],
+["First-flush Darjeeling tea","Drink","Happy Valley Tea Estate and tea lounges",150,"Delicate, floral and light, picked in spring. Taste it at a tea estate where the leaves grow.","Darjeeling tea"],
+["Sel roti","Sweet","Local sweet stalls and homes",40,"A crisp, ring-shaped rice bread eaten at festivals and with morning tea.","Sel roti"],
+["Toy train joyride","Experience","Darjeeling station to Ghum",1500,"A steam engine puffs through the town streets on a heritage narrow-gauge line. Book ahead in season.","Darjeeling Himalayan Railway"]
+],
+"kolkata": [
+["Kathi roll","Street food","Park Street and New Market",100,"A paratha rolled around kebab, egg and onion. Kolkata invented the roll, and the original is still the best.","Kati roll"],
+["Phuchka","Street food","Vivekananda Park and Maidan stalls",40,"Crisp shells filled with tamarind water and spiced potato, Kolkata's answer to pani puri.","Pani puri"],
+["Rosogolla and mishti doi","Sweet","Old mithai shops in north Kolkata",70,"Spongy cheese balls in syrup, followed by sweet set yoghurt in a clay pot. Both are Bengal's pride.","Rasgulla"],
+["Kosha mangsho","Dish","Bengali restaurants and old eateries",350,"Mutton slow-cooked in its own dark gravy, best with luchi or rice.","Kosha mangsho"],
+["Tram ride through north Kolkata","Experience","Tram depots near College Street",10,"Asia's oldest working electric tram still rattles through the old city. Cheap, slow and full of character.","Kolkata tram"]
+],
+"puri": [
+["Mahaprasad","Dish","Ananda Bazaar, Jagannath Temple",60,"Rice and dal cooked in earthen pots over wood and offered to the deity, then shared. Sit on the floor and eat it from banana leaf.","Mahaprasad"],
+["Dalma","Dish","Odia restaurants in Puri",120,"Lentils cooked with raw banana, pumpkin and papaya, lightly tempered. It is Odisha's comfort food.","Dalma"],
+["Chhena poda","Sweet","Sweet shops on Grand Road",60,"Cottage cheese baked slowly until caramelised and smoky. Lord Jagannath's favourite, they say.","Chhena poda"],
+["Khaja","Sweet","Sweet stalls near the temple",40,"Layered, crisp, syrup-soaked pastry, the best-known temple sweet in Puri.","Khaja"],
+["Sunrise at Puri beach","Experience","Puri beach near Swargadwar",0,"Fishermen drag in their boats at dawn while the sun comes out of the Bay of Bengal.","Puri beach"]
+],
+"sundarbans": [
+["Fresh mud crab curry","Dish","Lodges near Gosaba",450,"Crab straight from the creeks, cooked in a hot Bengali mustard-and-chilli gravy.","Crab curry"],
+["Bhetki fish","Dish","Village homestays",350,"The Bengali favourite, fried or in a light curry, with plain rice.","Barramundi"],
+["Sundarbans honey","Local special","Cooperative shops at Sajnekhali",300,"Wild honey collected by honey gatherers (mouals) who risk the forest. Dark, fragrant and unlike any jar at home.","Sundarbans honey"],
+["Boat safari through mangrove creeks","Experience","Sajnekhali and Sudhanyakhali",1500,"Drift along narrow creeks where the Royal Bengal tiger swims, with crocodiles basking on the mud banks.","Sundarbans mangrove"],
+["Village evening at Gosaba","Experience","Gosaba island",0,"Walk through paddy fields and fishing villages at dusk, with a cup of tea in a clay cup.","Sundarbans village"]
+],
+"bodhgaya": [
+["Litti chokha","Street food","Stalls near Mahabodhi Temple",80,"Wheat balls stuffed with sattu and roasted on coals, served with smoky mashed brinjal and potato.","Litti chokha"],
+["Silao khaja","Sweet","Silao, on the Rajgir road",60,"Paper-thin, crisp layers of pastry soaked in sugar, a Nalanda-district specialty.","Khaja"],
+["Tilkut","Sweet","Ramna Road, Gaya (winter)",50,"Crushed sesame and jaggery pressed into crisp little discs. Gaya's winter treat.","Tilkut"],
+["Tibetan thukpa","Dish","Monastery cafés near the Mahabodhi",120,"A hot bowl of noodles in a light broth, a fixture of the Tibetan quarter.","Thukpa"],
+["Dawn meditation at the Mahabodhi Temple","Experience","Mahabodhi Temple complex",0,"Sit under the descendant of the Bodhi tree while chanting rises from the monks around you.","Mahabodhi Temple"]
+],
+"gangtok": [
+["Momos","Street food","MG Marg and Lal Bazaar",80,"Steamed pork, chicken or vegetable dumplings with a hot chilli chutney, available on every street.","Momo"],
+["Phagshapa","Dish","Local restaurants",150,"Strips of pork fat stewed with radish and dried chillies, a Sikkimese Bhutia classic.","Phagshapa"],
+["Gundruk soup","Dish","Local eateries",90,"A tangy soup from fermented leafy greens, drunk piping hot on cold evenings.","Gundruk"],
+["Sel roti","Sweet","Local sweet stalls",40,"A ring of crisp, slightly sweet rice-flour bread, a festival regular.","Sel roti"],
+["Evening walk on MG Marg","Experience","MG Marg, the pedestrian boulevard",0,"A car-free promenade lined with cafés, shops and live music, where the whole town gathers at dusk.","MG Marg Gangtok"]
+],
+"north-sikkim": [
+["Yak cheese (churpi)","Local special","Local shops in Lachung",150,"Chewy, smoky yak cheese eaten as a snack or cooked in soups. Hard as a rock, delicious, and lasts for hours.","Churpi"],
+["Thukpa","Dish","Homestay kitchens in Lachung",120,"A hot bowl of noodles and vegetables, the best thing at 2,700 m.","Thukpa"],
+["Tongba","Drink","Homestays and local bars",100,"Fermented millet in a bamboo mug, topped up with hot water and sipped through a bamboo straw.","Tongba"],
+["Momos","Street food","Lachung market",70,"Steamed dumplings with chilli chutney, the warming snack of the high valleys.","Momo"],
+["Rhododendrons at Yumthang Valley","Experience","Yumthang Valley",0,"In April and May the Valley of Flowers blazes red and pink under snow peaks, with hot springs nearby.","Yumthang Valley"]
+],
+"pelling": [
+["Buckwheat pancakes","Breakfast","Local cafés",40,"Thin, earthy pancakes of buckwheat flour eaten with ghee or a spicy chutney.","Buckwheat pancake"],
+["Churpi soup","Dish","Pelling homestays",100,"A tangy soup made from hard yak or cow cheese, thickened with local vegetables.","Churpi"],
+["Kinema","Dish","Local eateries",90,"Fermented soybeans cooked into a pungent curry. Strong, but an authentic taste of Sikkim.","Kinema"],
+["Sunrise over Kanchenjunga","Experience","Pelling Skywalk or Sunrise Point",100,"The world's third-highest peak glows pink from the ridge above town, if the clouds allow.","Kanchenjunga Pelling"],
+["Chhurpi chai","Drink","Pelling market",30,"Milk tea with a chewy chunk of yak cheese to nibble in between sips.","Tea"]
+]
+}

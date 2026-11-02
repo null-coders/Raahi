@@ -1,0 +1,67 @@
+// Raahi database (Prisma 7). SQLite by default; the connection URL lives in prisma.config.ts,
+// and the app talks to SQLite through the better-sqlite3 driver adapter (src/db.ts).
+// Tables are created by the migration in prisma/migrations (npm run setup → prisma migrate deploy).
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Destination {
+  id        String   @id
+  name      String
+  state     String
+  region    String
+  data      String // full destination as JSON (about, people, festivals, roads…)
+  source    String   @default("curated")
+  updatedAt DateTime @updatedAt
+  places    Place[]
+}
+
+model Place {
+  id            String      @id
+  destinationId String
+  destination   Destination @relation(fields: [destinationId], references: [id], onDelete: Cascade)
+  name          String
+  category      String
+  lat           Float
+  lng           Float
+  data          String // full place as JSON
+  source        String      @default("curated") // curated | community
+  status        String      @default("live") // live | hidden
+  verifiedAt    DateTime    @default(now())
+  createdAt     DateTime    @default(now())
+
+  @@index([destinationId])
+}
+
+/// One row per destination in every generated plan (no personal data) — powers "Trending now".
+model PlanLog {
+  id            Int      @id @default(autoincrement())
+  destinationId String
+  days          Int
+  companions    String
+  createdAt     DateTime @default(now())
+
+  @@index([destinationId, createdAt])
+}
+
+/// "Something's wrong?" reports from travellers.
+model Report {
+  id        Int      @id @default(autoincrement())
+  placeId   String
+  kind      String
+  note      String   @default("")
+  status    String   @default("open")
+  createdAt DateTime @default(now())
+}
+
+/// Cached photo lookups so we don't hit photo APIs on every page view.
+model MediaCache {
+  key       String   @id
+  json      String
+  updatedAt DateTime @updatedAt
+}
